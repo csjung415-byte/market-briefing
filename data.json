@@ -1,15 +1,23 @@
 {
-  "updated": "2026-07-30T19:04:43Z",
+  "updated": "2026-07-30T23:09:06Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“무서워 주식 앱 못 켜“…개인 투자자들 ’비명’",
-          "src": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uODVYVFBlMU9nb2RTUkdreFUxaEFuWWFPUk9nLUhtWHZfOWVNU0ZqbEhvLUI1aXJQcVlDblFOTzNjT1BNNEVuN2ZOSzhTa1JGTDNUNE5mOUNnV3kya1oza2FBYWxuYU0?oc=5",
+          "t": "\"무서워 주식 앱 못 켜\"…개인 투자자들 '비명'",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zX1lKVlpGc2lkOHE1WmNFbGhfbWpFS0ZfU21PWUd0Z2N4bmdQVzNBdzZ1N3FSb0pnaDFyMl92T0pqbGVlQ2JmLWNHRVZpV0hkeGdfdWZrSkVyRV81LWZhTdIBYEFVX3lxTE0zX1lKVlpGc2lkOHE1WmNFbGhfbWpFS0ZfU21PWUd0Z2N4bmdQVzNBdzZ1N3FSb0pnaDFyMl92T0pqbGVlQ2JmLWNHRVZpV0hkeGdfdWZrSkVyRV81LWZhTQ?oc=5",
           "time": "07/30 21:01"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "6월 외국인 주식 순매도 50조 육박, 또 최대…지분율 36.4% 최고치",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zUEZjQl8zUEdRSThWcjBGZGNNejZYTmZvRXV1QVo1TzlQTnhqbTFyRjQtOV9NamdZZ0pDNHUtZlN6ZVJ2elcxSm1KSENfZzg?oc=5",
+          "time": "07/31 06:01"
         },
         {
           "cat": "macro",
@@ -20,12 +28,20 @@
           "time": "07/30 19:21"
         },
         {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외국인, 6월 한 달간 코스피서 '51조' 팔았다…채권은 '4조' 사들여",
+          "src": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yMU5KZUtkU0hfaUp3QUZEUDB1bFlQT25CeTFtYks2YVRPbmpibGw3UjhMN3RiSFZTRXd6WnZhZ08zUnNwSnZXcDlmN0NEcEZnYXN0cXRSdnA1cnNab1lBRm5JNm01Z2JsZU5vQmRRNNIBc0FVX3lxTE9menN4Q0VUenFGUlY3QkRjSTcwWHEtMVdjWVd4NTdFZHEyWGZHNEd3cTl1anVuamJwdkNiV0d4RmhBSTU3V2pGRXBldlZXeGJKX3VveW05SkdvcDlvZFd1SXdYbGtvS3pJX2g2NzY3TVhUZWM?oc=5",
+          "time": "07/31 06:00"
+        },
+        {
           "cat": "macro",
           "catn": "시황",
-          "t": "“대체불가 韓증시” 코스피 -31%, 美 -6%, 日 -13%",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Oel9yLUJOSGlXRjZzUmFtVjE3eWt6Q2ViQlRBeUtaeGdTbDlWYVp1em1KWEwwVFJJWnE4WGp3QlhkNXd4WkZmV1JTMGpqZFFp?oc=5",
-          "time": "07/30 10:13"
+          "t": "주식 안 했더니 수익률 1위?…폭락장에 뜬 ‘무손실 투자’",
+          "src": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcDB1U2V5NVc2bUJmRmpydmFzdkF5QVIwMmY1bnRmZVFsVFRJNjJYX0x4enJBWkFHcWtkYXhrM1g5OU1RcGRuTGV0dkxKMU9UUmg5XzNSOUVVQXFHeXpieENDOUtCRXdmbTR3U3RhTGZNX0hBQzFsOXo3dlVFX0t2RjVhcTF3cUxCZjN4b2JfTE9ieU1FR2Z4b2RpTjRIYmVSSTl0XzROYmpWQlktX1NaTjBsSTl6R0cyZFljbUcwNWJxZGF0blBQRkduSjBITVp5VU1kUTIxZDVMREh4RVJyUHFpTGxjZlF1YnAzWnBoMHpnb09melo5QmlMYkxFUktJd2dKOWRpV0o5VF9BUlE?oc=5",
+          "time": "07/31 07:05"
         },
         {
           "cat": "macro",
@@ -34,22 +50,6 @@
           "src": "중앙일보",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb1BCOWpqSFJUVmduYXZRUVJxSDgyemlIZFdFQ1BsWmZ0RFFHYXp5TXR6aHZXN2JaMnBDc0pOQk9tUnoxdDhZLUVZOWNMcFM5aFpiZDNR?oc=5",
           "time": "07/30 14:42"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[증시-마감] 코스피, 혼조세 후 하락 마감…개인 1.4조 순매도",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zVnB1U3ZtV1I4LWlIZWt4QUxfTy1GakNVdVVEX3l0VlRoSndiZ1JnMFBhdjU3NEc2cXpUODZxM1J6akRUZWVsbnFEODVtVFk5dkJlRHlJZm9BV2haZXRHSjhkZXBvQXRaTV9ZaXlnRUk?oc=5",
-          "time": "07/30 15:49"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "알테오젠(196170)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTNwUk9GTkd2Tko4UW91ZmdGU2hSLURFU2dITXlBc0ZrZ3EzZGpxbTFvMHNRTi1jQ3lsblAxVF9sTTVOcnNDWkRwMmRzYkk4eHJkbnpsSF9jQUE5RVhENThyOEg3NkxzNzVWM3V4dUoyYkZoX2FsY3N5WnRRd2pvcXVvWDRBZmlhejlzUlQxQ3c5SzMzMGtR?oc=5",
-          "time": "07/31 00:27"
         }
       ]
     },
@@ -58,26 +58,42 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street jumps as Microsoft sees biggest leap since 2008",
+          "t": "Wall Street ends sharply higher, lifted by soaring Microsoft",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkwycXd5d3BqNDVILVR4WkY3UERXYktQdm13QlEwNkd3MXF6Nm9EcTdWNEQ0dmIyV2lPOTFqaU9icm1kYTVoaFIyS3ZUSTRqLWI5THZ0TjM3WEp3aE5XV28zUTBzWkJzcURDNC1Jb21GeXE4eGJjU2tvbkNCR1Qxc2VTeFJPNlFLS0tydFBYdS1ZUnJoWUJqajF4akF0S2NE?oc=5",
-          "time": "07/31 03:26"
+          "time": "07/31 07:49"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street just suffered a historic crash in highflying stocks. Why a quick tech rebound could be a trap.",
+          "t": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
           "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVXpXejdpa2JLbFZ0YWlzVVppY1ViSTYyWFg2b1VBcEktSnB0a2lpaVQxRV9Iai1uX1V6MjA0YjNYdjVFLU56c1U5ZDd0QnZndE13akc5eEFSZk1QYURDOGdBR3A1QTFIajcxdDlkUGI1TDMyMDktUFRGOWZxNGktLXhkUmpBMlE3Qk9nVFBVdjlNNmNSbmZ5clhyakNzdjZyYlRxTDhldi12N0ZFLVJLcHliU3J4c1ZtMW1lTXdmSXczaFRCRHBvMVBPNzc0ZElDWFJ3T2VLWW1hZjZnSk5rRWFQczB6Qm5ZUFdNSQ?oc=5",
-          "time": "07/30 22:33"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdFR6bExsX0lBZEo0eXYtX0pGVFJBOXVQaG9RdmlIQnNJckdrZUtmS1ZnZTVUTmtKUXJfREFlMTFXdFNSZkJ2RmUya3o3Mk9pejR2Z0lubUN6cUNaMEdfbjVSdFY2dThBMFhVY25BOUEtMTRBWU5EczFQNnctZTVTb0pCM1JHRkJrMURFNTd6N25GWElaU0UxMUdNTkpOVERLd1ZEMnpNVTFrYWQ0LUljM3FDaWlMeEsxSkNvQlRnN3RpZTRYbUVHZXV3LWJrQWQw?oc=5",
+          "time": "07/31 07:09"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Microsoft's best day since 2008 leads US stocks, while inflation worries remain in the bond market",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzg3S3dnZExJa0JrQ0tWRDJfOUxDS25LaHU5djJUVTlqTXhRMU9QRjNsZGlVNU5wclotbThRcW92Mnd0ZzdSaktaSktmMUpaVmUyaWs0aFF4SGhtc2E2TS1lcXNXSlphajlFQWFiaWo2aDdrLWlXTXQyTmZIeElQX3Mtelh6Mi1RMHI2UFFVdVdFTl92ay1N?oc=5",
+          "time": "07/31 06:13"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street jumps as Microsoft sees biggest leap since 2008",
+          "src": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGNSLWttVDFGeTIwQlptdnhKc2pZUWZYTkJKcm1DMmtsemhCdk5HLWwxWXl3S0ZPcmlLX0hNVDg0TEVjcW55Q3FmbzBFSy0ycjkxN0ZxZXYycHItMFI2MDFlRkcxYktocGo0RkRMZzVxbVhQdFhYRUVfTTdwcXY1RTV5aGc1R05JNVpxQ1dWMUJzTzA3U3dXcUdxT291N1k?oc=5",
+          "time": "07/31 03:26"
         },
         {
           "cat": "macro",
           "catn": "연준",
           "t": "Microsoft leads a rally on Wall Street, while worries about inflation remain in the bond market",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzg3S3dnZExJa0JrQ0tWRDJfOUxDS25LaHU5djJUVTlqTXhRMU9QRjNsZGlVNU5wclotbThRcW92Mnd0ZzdSaktaSktmMUpaVmUyaWs0aFF4SGhtc2E2TS1lcXNXSlphajlFQWFiaWo2aDdrLWlXTXQyTmZIeElQX3Mtelh6Mi1RMHI2UFFVdVdFTl92ay1N?oc=5",
-          "time": "07/31 02:59"
+          "src": "The Morning Call",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeGl4TTlkRVRTanZ5R055R00zc2UtenpBN2hpQy0wTjZ4RFdMeW4yRDRJeG5JU2QxRFNaUDY3a3RVSU9QSmpIZFRTSVhBYWdJS19uaFZXUE1EY21vLVpOMmZWY2VEeS1oTGpxTzN3U3hJaENkNmhIazI3MU0zREpJWU13?oc=5",
+          "time": "07/31 03:33"
         },
         {
           "cat": "macro",
@@ -86,22 +102,6 @@
           "src": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHVablJkdVZvVElQdkN3dGRkY3hESml2dmZOVndMSjlCckMzeG4yS2ROM0x4VkhINVFDX2N0ZnV0cmF6YUlLNGJ6SEozaEh2dDZxTFVvb3VoSW1GeFdUR1pYMzlOVWFFand6M0tSTWZ0RGVwdUh1NW9HaGJfVUpuZmNCWTJIay1fRDd2V1pMOGZVa1U1dXhkeGpGRGdKMUZGVUE?oc=5",
           "time": "07/30 20:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street closes down sharply after Fed keeps rates unchanged",
-          "src": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcG0yVHItTFdqWnRGczVQT1k0R1Z6UFBBckxuZFYtbTctV2JEYlpaX1MyY21IN1J2TDB1NTgyUVpwTlJSRHVRVEhDQ0M1a3pGMHNSR25qYWRLc3RGajU4RF9Pbm5iN2FXM0FnNTJIcjNvVWczT1ItM09nXzFialdHNDlZbEtlQ0lKX3ozT1hDUlk1a0FDUXBKOEJZSlQ?oc=5",
-          "time": "07/30 07:16"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "US stock market today: Wall Street flat; Nasdaq climbs over 1.5% as tech stocks rally",
-          "src": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQX2VNeGY2UlpnRlBCSVY3cWdjdnYwR2ZTekVmRHgxcUhOMjRpRUhjNnZqVDJYdUZwSXpMX2lCT2U5M0Zac250S18ybjZxeUNaZ1dDRWtHZ1cwOXN5S0NmdWFGZWdGeUpXS2JYYWN4RkFLcUtLc29IcEVpNE0tNmxWYWdiR2dMR3VmaFJVeDNsRmZFM3RrbWswMnRaZHV4U2hCUlZUVkVXakRkbUVNTkJvYVpGcWJ2UXMxTlFnUWtjTjFBWEJoUE9Sc3lTdWU4ZG5qdFhoX1FkenB1TUZLSWY1S1dXdWhhck5qN2lMT2s4aE80OHJ6SVYySnI1QXZZcU5qZkpSSVdKakJncmE0UTJBWGZXVWVrUWdZWDJRZ2MyY9IBpAJBVV95cUxNb0hTdUZXR2VCRHpsWUsxZndyNHF3anVXMm1lNHJiZjFtSHBPVUprUUtTVVR2R2xiajdfVGFEU2diZVJrblRsVE1OdmR5NmVNd2lWX1NjczJ5RGRqTzB4SEZNN0h6cG4ycDBwR19ZR091TmtPZW9VQjZZS1E1Q19Ba2FnaGxEcjZHTVBuMjJObDdlVE9CMGR3dDN6LTh3RUcwSTlDQ3RNdmJNSVg3eU5qVXdsb18wY296ajdmcXZCLWxYcFNWLXZfSDFNM09tV2lJc2oxSXRIYjZIVkF2TDRlWGhPZG0tRjRsbG9CdV83Q2lVTGhzVGlqT29CbmJwRG5KWVgzc1FIa0ZVemx2emF6Yy1JWHVBa2VZR0xPOVRyRF9DajRr?oc=5",
-          "time": "07/30 23:46"
         }
       ]
     }
