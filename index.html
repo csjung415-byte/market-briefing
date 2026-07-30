@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>개장 전 브리핑 · Before the Bell</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+<style>
+  :root{
+    --ink:#0d0f14;
+    --ink-2:#141821;
+    --surface:#171c26;
+    --surface-2:#1e2430;
+    --line:#2a313e;
+    --line-soft:#222834;
+    --paper:#ece7dc;
+    --paper-dim:#a7a99f;
+    --muted:#7c8494;
+    --dawn-1:#ff9d4d;
+    --dawn-2:#ffc255;
+    --dawn-3:#f0663f;
+    --up:#3ddc97;
+    --up-dim:#1c3b34;
+    --down:#ff6a6a;
+    --down-dim:#3b2026;
+    --serif:"Noto Serif KR",serif;
+    --sans:"Pretendard",system-ui,sans-serif;
+    --mono:"JetBrains Mono",ui-monospace,monospace;
+    --wrap:1180px;
+    --r:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--ink);
+    color:var(--paper);
+    font-family:var(--sans);
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+    overflow-x:hidden;
+  }
+  a{color:inherit}
+  ::selection{background:var(--dawn-1);color:#1a1205}
+
+  .wrap{width:100%;max-width:var(--wrap);margin:0 auto;padding:0 22px}
+
+  /* ---------- Ambient dawn glow ---------- */
+  .glow{
+    position:fixed;inset:0;z-index:0;pointer-events:none;
+    background:
+      radial-gradient(60% 40% at 82% -6%, rgba(255,157,77,.16), transparent 60%),
+      radial-gradient(50% 34% at 8% 2%, rgba(240,102,63,.10), transparent 62%);
+  }
+  .content{position:relative;z-index:1}
+
+  /* ---------- Top bar ---------- */
+  .topbar{
+    border-bottom:1px solid var(--line-soft);
+    background:rgba(13,15,20,.72);
+    backdrop-filter:blur(10px);
+    position:sticky;top:0;z-index:40;
+  }
+  .topbar .row{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 0}
+  .brand{display:flex;align-items:center;gap:11px;font-weight:800;letter-spacing:.02em}
+  .bell{
+    width:30px;height:30px;flex:none;border-radius:9px;
+    background:linear-gradient(150deg,var(--dawn-2),var(--dawn-3));
+    display:grid;place-items:center;color:#1a1205;box-shadow:0 4px 16px rgba(240,102,63,.35);
+  }
+  .bell svg{width:17px;height:17px}
+  .brand .kr{font-size:16px}
+  .brand .en{font-family:var(--mono);font-size:10.5px;letter-spacing:.22em;color:var(--dawn-2);text-transform:uppercase;display:block;line-height:1}
+  .clock{font-family:var(--mono);font-size:13px;color:var(--paper-dim);text-align:right}
+  .clock b{color:var(--paper);font-weight:500}
+  .clock small{display:block;font-size:10px;letter-spacing:.18em;color:var(--muted);text-transform:uppercase}
+
+  /* ---------- Hero ---------- */
+  .hero{padding:52px 0 30px}
+  .eyebrow{
+    font-family:var(--mono);font-size:11.5px;letter-spacing:.28em;text-transform:uppercase;
+    color:var(--dawn-2);display:flex;align-items:center;gap:10px;margin-bottom:20px;
+  }
+  .eyebrow::before{content:"";width:26px;height:1px;background:var(--dawn-2);display:inline-block}
+  .hero h1{
+    font-family:var(--serif);font-weight:900;line-height:1.06;letter-spacing:-.01em;
+    font-size:clamp(34px,6vw,62px);
+  }
+  .hero h1 em{font-style:italic;color:transparent;background:linear-gradient(120deg,var(--dawn-2),var(--dawn-3));-webkit-background-clip:text;background-clip:text}
+  .hero p.lede{max-width:640px;margin-top:20px;color:var(--paper-dim);font-size:clamp(15px,2.1vw,17px)}
+
+  /* ---------- Bell / countdown strip (signature) ---------- */
+  .bells{
+    display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:34px;
+  }
+  .bellcard{
+    position:relative;overflow:hidden;border:1px solid var(--line);border-radius:var(--r);
+    background:linear-gradient(180deg,var(--surface),var(--ink-2));padding:20px 22px;
+  }
+  .bellcard::before{
+    content:"";position:absolute;left:0;top:0;height:3px;width:100%;
+    background:linear-gradient(90deg,var(--dawn-3),var(--dawn-2),transparent);
+  }
+  .bellcard .flagline{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:14px}
+  .mkt{display:flex;align-items:center;gap:10px;font-weight:700}
+  .mkt .flag{font-size:20px;line-height:1}
+  .mkt small{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.16em;color:var(--muted);text-transform:uppercase;font-weight:500}
+  .status{
+    font-family:var(--mono);font-size:10.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+    padding:5px 10px;border-radius:100px;white-space:nowrap;
+  }
+  .status.pre{background:var(--up-dim);color:var(--up);border:1px solid rgba(61,220,151,.28)}
+  .status.open{background:rgba(255,157,77,.14);color:var(--dawn-2);border:1px solid rgba(255,157,77,.32)}
+  .status.closed{background:#20242e;color:var(--muted);border:1px solid var(--line)}
+  .countdown{font-family:var(--mono);font-size:clamp(26px,4.4vw,34px);font-weight:700;letter-spacing:.02em;color:var(--paper)}
+  .countdown .u{color:var(--muted);font-size:.5em;margin:0 .18em 0 .05em}
+  .bellcard .sub{font-size:12.5px;color:var(--paper-dim);margin-top:5px}
+
+  /* ---------- Section frame ---------- */
+  section.block{padding:40px 0;border-top:1px solid var(--line-soft)}
+  .sechead{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;flex-wrap:wrap;margin-bottom:26px}
+  .sechead h2{font-family:var(--serif);font-weight:700;font-size:clamp(22px,3.4vw,30px);letter-spacing:-.01em}
+  .sechead .idx{font-family:var(--mono);font-size:11px;letter-spacing:.2em;color:var(--muted);text-transform:uppercase}
+  .sechead p{color:var(--paper-dim);font-size:14px;max-width:520px;margin-top:6px}
+
+  /* ---------- Market tabs ---------- */
+  .tabs{display:inline-flex;background:var(--ink-2);border:1px solid var(--line);border-radius:100px;padding:5px;gap:4px}
+  .tab{
+    font-family:var(--sans);font-weight:700;font-size:14px;color:var(--paper-dim);
+    background:none;border:0;cursor:pointer;padding:9px 20px;border-radius:100px;transition:.22s;display:flex;align-items:center;gap:8px;
+  }
+  .tab .flag{font-size:16px}
+  .tab[aria-selected="true"]{background:linear-gradient(150deg,var(--dawn-2),var(--dawn-3));color:#1a1205}
+  .tab:not([aria-selected="true"]):hover{color:var(--paper)}
+
+  .panel{display:none;animation:fade .4s ease}
+  .panel.active{display:block}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+  /* ---------- Index cards ---------- */
+  .indices{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:30px}
+  .icard{background:var(--surface);border:1px solid var(--line-soft);border-radius:var(--r);padding:16px 17px}
+  .icard .nm{font-size:12.5px;color:var(--paper-dim);display:flex;align-items:center;justify-content:space-between}
+  .icard .nm span{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;color:var(--muted)}
+  .icard .val{font-family:var(--mono);font-size:23px;font-weight:700;margin-top:9px;letter-spacing:-.01em}
+  .icard .chg{font-family:var(--mono);font-size:13px;font-weight:500;margin-top:3px;display:inline-flex;align-items:center;gap:5px}
+  .up{color:var(--up)}.down{color:var(--down)}.flat{color:var(--paper-dim)}
+  .chg.up::before{content:"▲";font-size:9px}
+  .chg.down::before{content:"▼";font-size:9px}
+
+  /* ---------- 3-line summary ---------- */
+  .brief{background:linear-gradient(180deg,var(--surface),var(--ink-2));border:1px solid var(--line);border-radius:var(--r);padding:24px 24px 8px;margin-bottom:34px}
+  .brief h3{font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--dawn-2);margin-bottom:16px}
+  .brief ol{list-style:none;counter-reset:b}
+  .brief li{counter-increment:b;display:flex;gap:15px;padding:12px 0;border-bottom:1px solid var(--line-soft);font-size:15px}
+  .brief li:last-child{border-bottom:0}
+  .brief li::before{
+    content:counter(b,decimal-leading-zero);font-family:var(--mono);font-weight:700;font-size:12px;
+    color:var(--dawn-2);flex:none;width:24px;padding-top:2px;
+  }
+  .brief li b{color:var(--paper);font-weight:700}
+
+  /* ---------- News grid ---------- */
+  .news{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  .ncard{
+    background:var(--surface);border:1px solid var(--line-soft);border-radius:var(--r);padding:19px 20px;
+    display:flex;flex-direction:column;transition:.2s;
+  }
+  .ncard:hover{border-color:var(--line);transform:translateY(-2px)}
+  .ntop{display:flex;align-items:center;gap:9px;margin-bottom:11px}
+  .chip{font-family:var(--mono);font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:4px 9px;border-radius:6px}
+  .chip.earn{background:rgba(61,220,151,.12);color:var(--up)}
+  .chip.macro{background:rgba(255,194,85,.14);color:var(--dawn-2)}
+  .chip.flow{background:rgba(120,160,255,.14);color:#8fb0ff}
+  .chip.fx{background:rgba(200,150,255,.14);color:#c69bff}
+  .chip.sector{background:rgba(255,140,120,.14);color:#ff9a86}
+  .ncard h4{font-size:16px;font-weight:700;line-height:1.35;margin-bottom:9px}
+  .ncard .sum{font-size:13.5px;color:var(--paper-dim);flex:1}
+  .ncard .sum b{color:var(--paper);font-weight:600}
+  .ncard .src{margin-top:14px;display:flex;align-items:center;gap:7px;font-family:var(--mono);font-size:11px;color:var(--muted)}
+  .ncard .src a{color:var(--dawn-2);text-decoration:none;border-bottom:1px solid transparent;transition:.2s}
+  .ncard .src a:hover{border-color:var(--dawn-2)}
+
+  /* ---------- Picks ---------- */
+  .picks{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .pcard{position:relative;overflow:hidden;background:var(--surface);border:1px solid var(--line-soft);border-radius:var(--r);padding:20px;display:flex;flex-direction:column}
+  .pcard::after{content:"";position:absolute;right:-30px;top:-30px;width:110px;height:110px;border-radius:50%;background:radial-gradient(circle,rgba(255,157,77,.10),transparent 70%)}
+  .prow{display:flex;align-items:baseline;justify-content:space-between;gap:10px;position:relative}
+  .pcard .tk{font-family:var(--mono);font-size:11px;color:var(--dawn-2);letter-spacing:.06em}
+  .pcard .nm{font-size:19px;font-weight:800;margin-top:2px}
+  .pcard .tag{font-family:var(--mono);font-size:9.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--paper-dim);border:1px solid var(--line);padding:4px 8px;border-radius:100px;white-space:nowrap}
+  .pcard .why{font-size:13.5px;color:var(--paper-dim);margin-top:14px;flex:1}
+  .pcard .why b{color:var(--paper);font-weight:600}
+  .risk{margin-top:14px;padding-top:13px;border-top:1px solid var(--line-soft);display:flex;gap:9px;font-size:12px;color:var(--muted)}
+  .risk svg{width:14px;height:14px;flex:none;color:var(--down);margin-top:2px}
+  .risk b{color:var(--down);font-weight:600}
+
+  /* ---------- Disclaimer ---------- */
+  .disc{margin-top:26px;background:var(--down-dim);border:1px solid rgba(255,106,106,.22);border-radius:var(--r);padding:16px 18px;font-size:12.5px;color:#f0c4c4;display:flex;gap:12px}
+  .disc svg{width:20px;height:20px;flex:none;color:var(--down);margin-top:1px}
+
+  /* ---------- Footer ---------- */
+  footer{border-top:1px solid var(--line-soft);padding:34px 0 60px;margin-top:20px;color:var(--muted);font-size:12.5px}
+  footer .frow{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+  footer .srcs{max-width:640px}
+  footer .srcs h5{font-family:var(--mono);font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--paper-dim);margin-bottom:10px}
+  footer .srcs a{color:var(--muted);text-decoration:none;margin-right:14px;line-height:2;border-bottom:1px solid transparent}
+  footer .srcs a:hover{color:var(--dawn-2)}
+  footer .stamp{font-family:var(--mono);text-align:right}
+
+  /* ---------- Responsive ---------- */
+  @media(max-width:860px){
+    .indices{grid-template-columns:repeat(2,1fr)}
+    .news{grid-template-columns:1fr}
+    .picks{grid-template-columns:1fr}
+    .bells{grid-template-columns:1fr}
+    .hero{padding:38px 0 22px}
+    section.block{padding:32px 0}
+  }
+  @media(max-width:460px){
+    .indices{grid-template-columns:1fr 1fr}
+    .clock small{display:none}
+    .brand .en{display:none}
+    .tab{padding:8px 14px;font-size:13px}
+  }
+  @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="glow"></div>
+<div class="content">
+
+  <!-- Top bar -->
+  <header class="topbar">
+    <div class="wrap row">
+      <div class="brand">
+        <span class="bell" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>
+        </span>
+        <span>
+          <span class="en">Before the Bell</span>
+          <span class="kr">개장 전 브리핑</span>
+        </span>
+      </div>
+      <div class="clock">
+        <small>KST · 서울</small>
+        <b id="liveclock">--:--:--</b>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <div class="wrap">
+    <div class="hero">
+      <div class="eyebrow" id="todayline">2026년 7월 31일 · 금요일</div>
+      <h1>장이 열리기 전,<br />오늘의 시장을 <em>먼저 읽다</em></h1>
+      <p class="lede">한국과 미국 증시의 핵심 뉴스를 수집·요약하고, 뉴스 흐름에 근거한 관심 종목을 정리했습니다. 커피 한 잔 사이에 오늘의 판을 파악하세요.</p>
+
+      <!-- Signature: countdown bells -->
+      <div class="bells">
+        <div class="bellcard">
+          <div class="flagline">
+            <div class="mkt"><span class="flag">🇰🇷</span><span>KRX 한국거래소<small>KOSPI · KOSDAQ</small></span></div>
+            <span class="status" id="kr-status">—</span>
+          </div>
+          <div class="countdown" id="kr-count">--<span class="u">:</span>--<span class="u">:</span>--</div>
+          <div class="sub" id="kr-sub">정규장 09:00 – 15:30 KST</div>
+        </div>
+        <div class="bellcard">
+          <div class="flagline">
+            <div class="mkt"><span class="flag">🇺🇸</span><span>US 뉴욕증시<small>NYSE · NASDAQ</small></span></div>
+            <span class="status" id="us-status">—</span>
+          </div>
+          <div class="countdown" id="us-count">--<span class="u">:</span>--<span class="u">:</span>--</div>
+          <div class="sub" id="us-sub">정규장 09:30 – 16:00 ET (22:30 – 05:00 KST)</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Market switch + panels -->
+  <div class="wrap">
+    <section class="block" style="border-top:0">
+      <div class="sechead">
+        <div>
+          <div class="idx">Market Briefing</div>
+          <h2>오늘의 시장 브리핑</h2>
+          <p>탭을 눌러 한국·미국 시장을 전환하세요. 지수는 직전 거래일 종가 기준입니다.</p>
+        </div>
+        <div class="tabs" role="tablist" aria-label="시장 선택">
+          <button class="tab" role="tab" aria-selected="true" data-market="kr"><span class="flag">🇰🇷</span>한국</button>
+          <button class="tab" role="tab" aria-selected="false" data-market="us"><span class="flag">🇺🇸</span>미국</button>
+        </div>
+      </div>
+
+      <!-- ============ KOREA ============ -->
+      <div class="panel active" data-panel="kr">
+        <div class="indices">
+          <div class="icard"><div class="nm">코스피 <span>KOSPI</span></div><div class="val">5,593.56</div><div class="chg down">69.68 (1.23%)</div></div>
+          <div class="icard"><div class="nm">원/달러 <span>USD/KRW</span></div><div class="val">1,437.10</div><div class="chg up">원화 강세</div></div>
+          <div class="icard"><div class="nm">외국인 순매수 <span>FOREIGN</span></div><div class="val up">+1.33조</div><div class="chg flat">5거래일 만에 복귀</div></div>
+          <div class="icard"><div class="nm">주도 업종 <span>LEADER</span></div><div class="val" style="font-size:19px">제약 +3.51%</div><div class="chg flat">화학·금속 강세</div></div>
+        </div>
+
+        <div class="brief">
+          <h3>3줄 요약 · Korea</h3>
+          <ol>
+            <li><span><b>변동성 장세.</b> 전일 코스피는 장중 5,976까지 급등했다가 상승분을 반납, <b>5,593.56(-1.23%)</b>로 마감했습니다.</span></li>
+            <li><span><b>외국인 복귀.</b> 외국인이 5거래일 만에 유가증권시장에서 <b>1.33조 원</b> 순매수. 제약·화학·금속 업종이 강세를 주도했습니다.</span></li>
+            <li><span><b>삼성 어닝 서프라이즈.</b> 삼성전자 2분기 영업이익 <b>89.5조 원(+1,813.8% YoY)</b>, HBM4 양산 본격화가 반도체 투심을 지지합니다.</span></li>
+          </ol>
+        </div>
+
+        <div class="news" data-news="kr"></div>
+
+        <div class="sechead" style="margin-top:44px">
+          <div><div class="idx">Watchlist</div><h2>뉴스 기반 관심 종목</h2>
+          <p>아래는 오늘의 뉴스 흐름에서 주목받는 종목 정리이며, 매수·매도 추천이 아닙니다.</p></div>
+        </div>
+        <div class="picks" data-picks="kr"></div>
+      </div>
+
+      <!-- ============ US ============ -->
+      <div class="panel" data-panel="us">
+        <div class="indices">
+          <div class="icard"><div class="nm">S&amp;P 500 <span>US500</span></div><div class="val">7,416</div><div class="chg up">1.36%</div></div>
+          <div class="icard"><div class="nm">나스닥 <span>NASDAQ</span></div><div class="val up">+2.6%</div><div class="chg flat">6월 이후 최고</div></div>
+          <div class="icard"><div class="nm">다우 <span>DOW</span></div><div class="val up">+0.8%</div><div class="chg flat">3대 지수 상승</div></div>
+          <div class="icard"><div class="nm">기준금리 <span>FED</span></div><div class="val" style="font-size:19px">3.50~3.75%</div><div class="chg flat">7/29 동결</div></div>
+        </div>
+
+        <div class="brief">
+          <h3>3줄 요약 · United States</h3>
+          <ol>
+            <li><span><b>연준 동결.</b> 7/29 FOMC 금리 <b>3.50~3.75% 동결(9-3)</b>. 인상 소수의견이 나왔고, BofA는 연내 3회 인상 가능성을 제기했습니다.</span></li>
+            <li><span><b>MS 랠리.</b> 마이크로소프트 Azure <b>+43%</b>·분기매출 900억 달러 서프라이즈로 주가 <b>+15~16%</b>, 나스닥이 6월 이후 최고 상승했습니다.</span></li>
+            <li><span><b>시총 1위 교체.</b> 애플이 <b>4.9조 달러</b>로 엔비디아를 제치고 1위 재탈환. 애플 실적은 목요일 발표됩니다.</span></li>
+          </ol>
+        </div>
+
+        <div class="news" data-news="us"></div>
+
+        <div class="sechead" style="margin-top:44px">
+          <div><div class="idx">Watchlist</div><h2>뉴스 기반 관심 종목</h2>
+          <p>아래는 오늘의 뉴스 흐름에서 주목받는 종목 정리이며, 매수·매도 추천이 아닙니다.</p></div>
+        </div>
+        <div class="picks" data-picks="us"></div>
+      </div>
+
+      <!-- Disclaimer -->
+      <div class="disc">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        <span><b>투자 유의.</b> 본 페이지는 공개된 뉴스를 요약·정리한 정보 제공용 자료로, 특정 종목의 매수·매도를 권유하거나 개인 맞춤 투자자문을 제공하지 않습니다. 모든 투자 판단과 그 결과에 대한 책임은 투자자 본인에게 있습니다. 지수·수치는 직전 거래일 기준이며 실시간 시세와 다를 수 있으니 매매 전 반드시 원문과 실시간 시세를 확인하세요.</span>
+      </div>
+    </section>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="wrap frow">
+      <div class="srcs">
+        <h5>출처 · Sources</h5>
+        <a href="https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html" target="_blank" rel="noopener">CNBC — Fed 금리 결정</a>
+        <a href="https://247wallst.com/investing/2026/07/30/microsoft-surges-9-as-azure-tops-100b-and-q4-beat-lifts-most-price-targets/" target="_blank" rel="noopener">24/7 Wall St — MSFT 실적</a>
+        <a href="https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html" target="_blank" rel="noopener">CNBC — 애플 시총 1위</a>
+        <a href="https://www.tradingkey.com/kr/analysis/stocks/more/262062869-samsung-q2-skhynix-deam-mu-tsla-tsml-tradingkey" target="_blank" rel="noopener">TradingKey — 삼성전자 2Q</a>
+        <a href="https://www.fnnews.com/news/202607301638179200" target="_blank" rel="noopener">파이낸셜뉴스 — 코스피 마감</a>
+        <a href="https://www.businesskorea.co.kr/news/articleView.html?idxno=273889" target="_blank" rel="noopener">Businesskorea — 환율</a>
+        <a href="https://www.tipranks.com/news/nvidia-or-apple-da-davidson-picks-the-better-tech-stock" target="_blank" rel="noopener">TipRanks — DA Davidson</a>
+      </div>
+      <div class="stamp">
+        Before the Bell<br />
+        <span id="genstamp">generated 2026-07-31</span><br />
+        데이터: 직전 거래일 종가 기준
+      </div>
+    </div>
+  </footer>
+
+</div>
+
+<script>
+/* ---------------- Data ---------------- */
+const NEWS = {
+  kr:[
+    {cat:"earn",catn:"실적",t:"삼성전자 2분기 영업이익 89.5조원 … 전년비 18배 급증",
+     s:"삼성전자가 7/30 2Q 실적을 발표, 영업이익 <b>89.49조 원(+1,813.8% YoY)</b> 어닝 서프라이즈. 주가는 장중 <b>+7%</b>, 216,500원(+3.72%)까지 상승. HBM4는 2월 양산에 돌입했고 3Q HBM4 매출은 전분기 대비 <b>3배 이상</b> 늘어 하반기 HBM 매출의 60%를 차지할 전망.",
+     src:"TradingKey · 네이트뉴스", url:"https://www.tradingkey.com/kr/analysis/stocks/more/262062869-samsung-q2-skhynix-deam-mu-tsla-tsml-tradingkey"},
+    {cat:"flow",catn:"수급",t:"외국인, 5거래일 만에 순매수 복귀 … 1.33조원",
+     s:"유가증권시장에서 외국인이 <b>1조 3,252억 원</b>, 기관이 744억 원을 순매수하며 매수 우위. 다만 지수는 장중 급등분을 반납해 <b>-1.23%</b>로 마감, 변동성 확대에 유의가 필요합니다.",
+     src:"파이낸셜뉴스", url:"https://www.fnnews.com/news/202607301638179200"},
+    {cat:"fx",catn:"환율",t:"원/달러 1,437.10원 마감 … 원화 강세",
+     s:"원/달러 환율(주간거래)이 전일 대비 하락한 <b>1,437.10원</b>에 마감. 환율 안정·원화 강세는 외국인 자금 유입에 우호적 환경으로 해석됩니다.",
+     src:"Businesskorea", url:"https://www.businesskorea.co.kr/news/articleView.html?idxno=273889"},
+    {cat:"sector",catn:"업종",t:"제약·화학·금속 강세 … 순환매 흐름",
+     s:"업종별로 <b>제약(+3.51%)</b>, 화학(+2.56%), 금속(+2.49%), 운송장비·부품(+2.19%), 보험(+1.96%), 부동산(+1.86%)이 상승 마감하며 순환매 성격의 강세를 보였습니다.",
+     src:"파이낸셜뉴스", url:"https://www.fnnews.com/news/202607301638179200"},
+  ],
+  us:[
+    {cat:"earn",catn:"빅테크",t:"마이크로소프트, Azure +43% … 주가 15% 급등",
+     s:"MS 4분기 <b>EPS $4.74</b>(예상 $4.25), 매출 <b>$90B</b>(예상 $87.7B)로 서프라이즈. Azure가 처음으로 <b>$100B</b>를 돌파(+43%)하며 주가 15~16% 급등, AI 자본지출 부담 우려를 완화시켰습니다.",
+     src:"24/7 Wall St · Yahoo", url:"https://247wallst.com/investing/2026/07/30/microsoft-surges-9-as-azure-tops-100b-and-q4-beat-lifts-most-price-targets/"},
+    {cat:"macro",catn:"연준",t:"FOMC, 금리 3.50~3.75% 동결 (9-3)",
+     s:"연준이 7/29 금리를 <b>동결(9-3)</b>. 클리블랜드·미니애폴리스·댈러스 연은 총재가 인상을 주장한 소수의견. <b>BofA는 9·10·12월 3회 인상</b>, 도이체방크는 2회 인상을 전망하며 연내 긴축 재개 가능성이 남아 있습니다.",
+     src:"CNBC", url:"https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html"},
+    {cat:"flow",catn:"시총",t:"애플, 엔비디아 제치고 시총 1위 재탈환",
+     s:"애플 시총이 <b>$4.9T</b>로 엔비디아($4.8T)를 넘어 1위 복귀. 애플은 올해 <b>+22~23%</b>로 M7 중 1위, 엔비디아는 +7%. 필라델피아 반도체지수는 고점 대비 <b>-19%</b> 조정 상태입니다.",
+     src:"CNBC · Quartz", url:"https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html"},
+    {cat:"macro",catn:"일정",t:"7/31 실적·지표 … 엑슨·셰브런·미시간대 심리",
+     s:"오늘 <b>엑슨모빌·애브비·셰브런·이튼·엔브리지</b> 실적과 <b>미시간대 7월 소비자심리 최종치</b>가 예정. 목요일에는 애플이 회계연도 3분기 실적을 발표하며 메모리 쇼티지 영향이 관전 포인트입니다.",
+     src:"CNBC · Schwab", url:"https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html"},
+  ]
+};
+const PICKS = {
+  kr:[
+    {tk:"005930 · KRX",nm:"삼성전자",tag:"실적 모멘텀",
+     why:"2Q 영업이익 <b>89.5조 원</b> 서프라이즈와 <b>HBM4 양산</b> 본격화. 3Q HBM4 매출 3배 전망이 실적 반등 기대를 뒷받침.",
+     risk:"메모리 가격 변동성과 단기 급등 후 밸류 부담."},
+    {tk:"000660 · KRX",nm:"SK하이닉스",tag:"AI 메모리",
+     why:"HBM 대장주로 AI 메모리 수요의 직접 수혜. 반도체 사이클 회복 시 이익 레버리지가 큰 종목.",
+     risk:"최근 조정(약 256만원)과 반도체 가격 하락 논쟁."},
+    {tk:"SECTOR · KRX",nm:"제약·바이오",tag:"수급 주도",
+     why:"전일 외국인 순매수 <b>1위 업종(+3.51%)</b>. 순환매 국면에서 자금이 집중된 섹터로 대형 제약주에 관심.",
+     risk:"테마성 순환매로 변동성이 크고 되돌림 가능성."},
+  ],
+  us:[
+    {tk:"MSFT · NASDAQ",nm:"Microsoft",tag:"클라우드 서프라이즈",
+     why:"Azure <b>+43%·$100B 돌파</b>로 AI 수익화를 입증. 다수 증권사가 목표주가를 상향하며 어닝 모멘텀 지속.",
+     risk:"하루 +15% 급등 후 단기 과열과 높은 밸류에이션."},
+    {tk:"NVDA · NASDAQ",nm:"Nvidia",tag:"투자의견 상향",
+     why:"DA Davidson이 <b>Buy로 상향(목표 $210)</b>. AI 인프라 투자 사이클은 여전히 견조하다는 시각.",
+     risk:"필라델피아 반도체지수 -19% 조정, 성장 기대 되돌림 위험."},
+    {tk:"AAPL · NASDAQ",nm:"Apple",tag:"실적 이벤트",
+     why:"시총 <b>1위($4.9T)</b> 재탈환, 목요일 회계연도 3Q 실적 발표가 대형 이벤트.",
+     risk:"DA Davidson Neutral 하향, 메모리 쇼티지에 따른 마진 압박."},
+  ]
+};
+
+/* ---------------- Render ---------------- */
+function renderNews(m){
+  document.querySelector(`[data-news="${m}"]`).innerHTML = NEWS[m].map(n=>`
+    <article class="ncard">
+      <div class="ntop"><span class="chip ${n.cat}">${n.catn}</span></div>
+      <h4>${n.t}</h4>
+      <div class="sum">${n.s}</div>
+      <div class="src"><span>▪</span><a href="${n.url}" target="_blank" rel="noopener">${n.src}</a></div>
+    </article>`).join("");
+}
+function renderPicks(m){
+  document.querySelector(`[data-picks="${m}"]`).innerHTML = PICKS[m].map(p=>`
+    <article class="pcard">
+      <div class="prow"><div><div class="tk">${p.tk}</div><div class="nm">${p.nm}</div></div><span class="tag">${p.tag}</span></div>
+      <div class="why">${p.why}</div>
+      <div class="risk">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        <span><b>리스크</b> · ${p.risk}</span>
+      </div>
+    </article>`).join("");
+}
+["kr","us"].forEach(m=>{renderNews(m);renderPicks(m);});
+
+/* ---------------- Tabs ---------------- */
+document.querySelectorAll(".tab").forEach(tab=>{
+  tab.addEventListener("click",()=>{
+    document.querySelectorAll(".tab").forEach(t=>t.setAttribute("aria-selected","false"));
+    tab.setAttribute("aria-selected","true");
+    const m=tab.dataset.market;
+    document.querySelectorAll(".panel").forEach(p=>p.classList.toggle("active",p.dataset.panel===m));
+  });
+});
+
+/* ---------------- Clock + countdowns (KST based) ---------------- */
+function kstNow(){
+  const n=new Date();
+  return new Date(n.getTime()+(n.getTimezoneOffset()*60000)+(9*3600000)); // to KST
+}
+function pad(x){return String(x).padStart(2,"0");}
+function fmtDur(ms){
+  if(ms<0) ms=0;
+  const s=Math.floor(ms/1000);
+  const h=Math.floor(s/3600), m=Math.floor((s%3600)/60), ss=s%60;
+  return `${pad(h)}<span class="u">:</span>${pad(m)}<span class="u">:</span>${pad(ss)}`;
+}
+// next occurrence of hh:mm KST from a KST 'now'
+function nextAt(now,h,m){
+  const t=new Date(now); t.setHours(h,m,0,0);
+  if(t<=now) t.setDate(t.getDate()+1);
+  return t;
+}
+function marketState(now,openH,openM,closeH,closeM,wrapClose){
+  // returns {state, target} ; wrapClose true when close passes midnight (US in KST)
+  const open=new Date(now); open.setHours(openH,openM,0,0);
+  let close=new Date(now); close.setHours(closeH,closeM,0,0);
+  if(wrapClose && close<=open) close.setDate(close.getDate()+1);
+  const day=now.getDay(); // 0 Sun 6 Sat
+  const weekday=day>=1&&day<=5;
+  if(weekday && now>=open && now<close) return {state:"open", target:close};
+  return {state:"pre", target:nextAt(now,openH,openM)};
+}
+function setBell(prefix,st,label){
+  const badge=document.getElementById(prefix+"-status");
+  if(st.state==="open"){badge.className="status open";badge.textContent="개장 중";}
+  else{badge.className="status pre";badge.textContent="개장 전";}
+  document.getElementById(prefix+"-count").innerHTML=fmtDur(st.target-kstNow());
+  document.getElementById(prefix+"-sub").dataset._=label;
+}
+function tick(){
+  const now=kstNow();
+  document.getElementById("liveclock").textContent=`${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+  // KR 09:00-15:30 KST
+  const kr=marketState(now,9,0,15,30,false);
+  document.getElementById("kr-status").className="status "+(kr.state==="open"?"open":"pre");
+  document.getElementById("kr-status").textContent=kr.state==="open"?"개장 중":"개장 전";
+  document.getElementById("kr-count").innerHTML=fmtDur(kr.target-now);
+  document.getElementById("kr-sub").textContent=kr.state==="open"?"15:30 KST 마감까지":"09:00 KST 개장까지 · 정규장 09:00–15:30";
+  // US 22:30-05:00 KST (09:30-16:00 ET, EDT)
+  const us=marketState(now,22,30,5,0,true);
+  document.getElementById("us-status").className="status "+(us.state==="open"?"open":"pre");
+  document.getElementById("us-status").textContent=us.state==="open"?"개장 중":"개장 전";
+  document.getElementById("us-count").innerHTML=fmtDur(us.target-now);
+  document.getElementById("us-sub").textContent=us.state==="open"?"05:00 KST 마감까지":"22:30 KST 개장까지 · 09:30–16:00 ET";
+}
+tick(); setInterval(tick,1000);
+
+/* today line */
+const wd=["일","월","화","수","목","금","토"];
+const kn=kstNow();
+document.getElementById("todayline").textContent=`${kn.getFullYear()}년 ${kn.getMonth()+1}월 ${kn.getDate()}일 · ${wd[kn.getDay()]}요일`;
+</script>
+</body>
+</html>
