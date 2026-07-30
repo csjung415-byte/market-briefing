@@ -1,0 +1,109 @@
+{
+  "updated": "2026-07-30T19:00:09Z",
+  "markets": {
+    "kr": {
+      "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“무서워 주식 앱 못 켜“…개인 투자자들 ’비명’",
+          "src": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uODVYVFBlMU9nb2RTUkdreFUxaEFuWWFPUk9nLUhtWHZfOWVNU0ZqbEhvLUI1aXJQcVlDblFOTzNjT1BNNEVuN2ZOSzhTa1JGTDNUNE5mOUNnV3kya1oza2FBYWxuYU0?oc=5",
+          "time": "07/30 21:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "'공포의 7월' 코스피 사흘 연속 하락...이유는? [이슈플러스]",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uOVkyMFZUdW1BOXdQR3dYeHhONi1ZU3VUSmNYcWlzQlI4NnJQam9UZ2h0UHV3MHo1R2ZTbHNvckhFeVJlOG1FTEpHOFRKWnBVQnotRTZ4aUlMVWJqNEE?oc=5",
+          "time": "07/30 19:21"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“대체불가 韓증시” 코스피 -31%, 美 -6%, 日 -13%",
+          "src": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Oel9yLUJOSGlXRjZzUmFtVjE3eWt6Q2ViQlRBeUtaeGdTbDlWYVp1em1KWEwwVFJJWnE4WGp3QlhkNXd4WkZmV1JTMGpqZFFp?oc=5",
+          "time": "07/30 10:13"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“취업 못해 월세라도 벌려다…” 주식 물린 2030 개미들 비명",
+          "src": "joongang.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb1BCOWpqSFJUVmduYXZRUVJxSDgyemlIZFdFQ1BsWmZ0RFFHYXp5TXR6aHZXN2JaMnBDc0pOQk9tUnoxdDhZLUVZOWNMcFM5aFpiZDNR?oc=5",
+          "time": "07/30 14:42"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[증시-마감] 코스피, 혼조세 후 하락 마감…개인 1.4조 순매도",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zVnB1U3ZtV1I4LWlIZWt4QUxfTy1GakNVdVVEX3l0VlRoSndiZ1JnMFBhdjU3NEc2cXpUODZxM1J6akRUZWVsbnFEODVtVFk5dkJlRHlJZm9BV2haZXRHSjhkZXBvQXRaTV9ZaXlnRUk?oc=5",
+          "time": "07/30 15:49"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "알테오젠(196170)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTNwUk9GTkd2Tko4UW91ZmdGU2hSLURFU2dITXlBc0ZrZ3EzZGpxbTFvMHNRTi1jQ3lsblAxVF9sTTVOcnNDWkRwMmRzYkk4eHJkbnpsSF9jQUE5RVhENThyOEg3NkxzNzVWM3V4dUoyYkZoX2FsY3N5WnRRd2pvcXVvWDRBZmlhejlzUlQxQ3c5SzMzMGtR?oc=5",
+          "time": "07/31 00:27"
+        }
+      ]
+    },
+    "us": {
+      "news": [
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street jumps as Microsoft sees biggest leap since 2008",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkwycXd5d3BqNDVILVR4WkY3UERXYktQdm13QlEwNkd3MXF6Nm9EcTdWNEQ0dmIyV2lPOTFqaU9icm1kYTVoaFIyS3ZUSTRqLWI5THZ0TjM3WEp3aE5XV28zUTBzWkJzcURDNC1Jb21GeXE4eGJjU2tvbkNCR1Qxc2VTeFJPNlFLS0tydFBYdS1ZUnJoWUJqajF4akF0S2NE?oc=5",
+          "time": "07/31 03:26"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street just suffered a historic crash in highflying stocks. Why a quick tech rebound could be a trap.",
+          "src": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVXpXejdpa2JLbFZ0YWlzVVppY1ViSTYyWFg2b1VBcEktSnB0a2lpaVQxRV9Iai1uX1V6MjA0YjNYdjVFLU56c1U5ZDd0QnZndE13akc5eEFSZk1QYURDOGdBR3A1QTFIajcxdDlkUGI1TDMyMDktUFRGOWZxNGktLXhkUmpBMlE3Qk9nVFBVdjlNNmNSbmZ5clhyakNzdjZyYlRxTDhldi12N0ZFLVJLcHliU3J4c1ZtMW1lTXdmSXczaFRCRHBvMVBPNzc0ZElDWFJ3T2VLWW1hZjZnSk5rRWFQczB6Qm5ZUFdNSQ?oc=5",
+          "time": "07/30 22:33"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Microsoft leads a rally on Wall Street, while worries about inflation remain in the bond market",
+          "src": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzg3S3dnZExJa0JrQ0tWRDJfOUxDS25LaHU5djJUVTlqTXhRMU9QRjNsZGlVNU5wclotbThRcW92Mnd0ZzdSaktaSktmMUpaVmUyaWs0aFF4SGhtc2E2TS1lcXNXSlphajlFQWFiaWo2aDdrLWlXTXQyTmZIeElQX3Mtelh6Mi1RMHI2UFFVdVdFTl92ay1N?oc=5",
+          "time": "07/31 02:59"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Rates, AI & War: The Three Drivers Moving Markets Right Now",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHVablJkdVZvVElQdkN3dGRkY3hESml2dmZOVndMSjlCckMzeG4yS2ROM0x4VkhINVFDX2N0ZnV0cmF6YUlLNGJ6SEozaEh2dDZxTFVvb3VoSW1GeFdUR1pYMzlOVWFFand6M0tSTWZ0RGVwdUh1NW9HaGJfVUpuZmNCWTJIay1fRDd2V1pMOGZVa1U1dXhkeGpGRGdKMUZGVUE?oc=5",
+          "time": "07/30 20:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street closes down sharply after Fed keeps rates unchanged",
+          "src": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcG0yVHItTFdqWnRGczVQT1k0R1Z6UFBBckxuZFYtbTctV2JEYlpaX1MyY21IN1J2TDB1NTgyUVpwTlJSRHVRVEhDQ0M1a3pGMHNSR25qYWRLc3RGajU4RF9Pbm5iN2FXM0FnNTJIcjNvVWczT1ItM09nXzFialdHNDlZbEtlQ0lKX3ozT1hDUlk1a0FDUXBKOEJZSlQ?oc=5",
+          "time": "07/30 07:16"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "US stock market today: Wall Street flat; Nasdaq climbs over 1.5% as tech stocks rally",
+          "src": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQX2VNeGY2UlpnRlBCSVY3cWdjdnYwR2ZTekVmRHgxcUhOMjRpRUhjNnZqVDJYdUZwSXpMX2lCT2U5M0Zac250S18ybjZxeUNaZ1dDRWtHZ1cwOXN5S0NmdWFGZWdGeUpXS2JYYWN4RkFLcUtLc29IcEVpNE0tNmxWYWdiR2dMR3VmaFJVeDNsRmZFM3RrbWswMnRaZHV4U2hCUlZUVkVXakRkbUVNTkJvYVpGcWJ2UXMxTlFnUWtjTjFBWEJoUE9Sc3lTdWU4ZG5qdFhoX1FkenB1TUZLSWY1S1dXdWhhck5qN2lMT2s4aE80OHJ6SVYySnI1QXZZcU5qZkpSSVdKakJncmE0UTJBWGZXVWVrUWdZWDJRZ2MyY9IBpAJBVV95cUxNb0hTdUZXR2VCRHpsWUsxZndyNHF3anVXMm1lNHJiZjFtSHBPVUprUUtTVVR2R2xiajdfVGFEU2diZVJrblRsVE1OdmR5NmVNd2lWX1NjczJ5RGRqTzB4SEZNN0h6cG4ycDBwR19ZR091TmtPZW9VQjZZS1E1Q19Ba2FnaGxEcjZHTVBuMjJObDdlVE9CMGR3dDN6LTh3RUcwSTlDQ3RNdmJNSVg3eU5qVXdsb18wY296ajdmcXZCLWxYcFNWLXZfSDFNM09tV2lJc2oxSXRIYjZIVkF2TDRlWGhPZG0tRjRsbG9CdV83Q2lVTGhzVGlqT29CbmJwRG5KWVgzc1FIa0ZVemx2emF6Yy1JWHVBa2VZR0xPOVRyRF9DajRr?oc=5",
+          "time": "07/30 23:46"
+        }
+      ]
+    }
+  }
+}

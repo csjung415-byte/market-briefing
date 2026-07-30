@@ -1,0 +1,43 @@
+name: 뉴스 자동 갱신
+
+on:
+  schedule:
+    # UTC 기준. 22:00 UTC = 07:00 KST (한국장 개장 전), 12:30 UTC = 08:30 ET (미국장 개장 전)
+    - cron: "0 22 * * *"
+    - cron: "30 12 * * *"
+  workflow_dispatch: {}   # 수동 실행 버튼
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect news → data.json
+        run: python3 build.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "before-the-bell-bot"
+          git config user.email "actions@github.com"
+          if git diff --quiet -- data.json; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git add data.json
+            git commit -m "chore: 뉴스 자동 갱신 ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+            echo "data.json 갱신 완료"
+          fi

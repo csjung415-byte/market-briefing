@@ -182,6 +182,11 @@
   .ncard .src{margin-top:14px;display:flex;align-items:center;gap:7px;font-family:var(--mono);font-size:11px;color:var(--muted)}
   .ncard .src a{color:var(--dawn-2);text-decoration:none;border-bottom:1px solid transparent;transition:.2s}
   .ncard .src a:hover{border-color:var(--dawn-2)}
+  .ntop{justify-content:space-between}
+  .ntime{font-family:var(--mono);font-size:10.5px;color:var(--muted)}
+  .updated{display:inline-flex;align-items:center;gap:7px;margin-top:10px;font-family:var(--mono);font-size:11px;color:var(--up)}
+  .updated .dot{width:7px;height:7px;border-radius:50%;background:var(--up);box-shadow:0 0 0 0 rgba(61,220,151,.5);animation:pulse 2s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(61,220,151,.5)}70%{box-shadow:0 0 0 7px rgba(61,220,151,0)}100%{box-shadow:0 0 0 0 rgba(61,220,151,0)}}
 
   /* ---------- Picks ---------- */
   .picks{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
@@ -288,6 +293,7 @@
           <div class="idx">Market Briefing</div>
           <h2>오늘의 시장 브리핑</h2>
           <p>탭을 눌러 한국·미국 시장을 전환하세요. 지수는 직전 거래일 종가 기준입니다.</p>
+          <div class="updated" id="updated"><span class="dot"></span>뉴스 자동 갱신 대기 중…</div>
         </div>
         <div class="tabs" role="tablist" aria-label="시장 선택">
           <button class="tab" role="tab" aria-selected="true" data-market="kr"><span class="flag">🇰🇷</span>한국</button>
@@ -438,13 +444,19 @@ const PICKS = {
 };
 
 /* ---------------- Render ---------------- */
+let DATA=null;
+function newsItems(m){
+  if(DATA&&DATA.markets&&DATA.markets[m]&&Array.isArray(DATA.markets[m].news)&&DATA.markets[m].news.length)
+    return DATA.markets[m].news;
+  return NEWS[m]; // 폴백: 로컬/오프라인 또는 수집 실패 시 기본 큐레이션 사용
+}
 function renderNews(m){
-  document.querySelector(`[data-news="${m}"]`).innerHTML = NEWS[m].map(n=>`
+  document.querySelector(`[data-news="${m}"]`).innerHTML = newsItems(m).map(n=>`
     <article class="ncard">
-      <div class="ntop"><span class="chip ${n.cat}">${n.catn}</span></div>
+      <div class="ntop"><span class="chip ${n.cat||'macro'}">${n.catn||'시황'}</span>${n.time?`<span class="ntime">${n.time}</span>`:''}</div>
       <h4>${n.t}</h4>
-      <div class="sum">${n.s}</div>
-      <div class="src"><span>▪</span><a href="${n.url}" target="_blank" rel="noopener">${n.src}</a></div>
+      ${n.s?`<div class="sum">${n.s}</div>`:'<div class="sum"></div>'}
+      <div class="src"><span>▪</span><a href="${n.url}" target="_blank" rel="noopener">${n.src||'출처'}</a></div>
     </article>`).join("");
 }
 function renderPicks(m){
@@ -458,7 +470,25 @@ function renderPicks(m){
       </div>
     </article>`).join("");
 }
-["kr","us"].forEach(m=>{renderNews(m);renderPicks(m);});
+function paintUpdated(){
+  const el=document.getElementById("updated");
+  if(!el) return;
+  if(DATA&&DATA.updated){
+    const d=new Date(DATA.updated);
+    const k=new Date(d.getTime()+(d.getTimezoneOffset()*60000)+(9*3600000));
+    const f=`${k.getFullYear()}.${pad(k.getMonth()+1)}.${pad(k.getDate())} ${pad(k.getHours())}:${pad(k.getMinutes())}`;
+    el.innerHTML=`<span class="dot"></span>뉴스 자동 갱신 · 마지막 업데이트 ${f} KST`;
+  }else{
+    el.innerHTML=`<span class="dot"></span>기본 큐레이션 표시 중 (실시간 갱신본은 배포 사이트에서 확인)`;
+  }
+}
+// 관심 종목은 즉시 렌더(정적), 뉴스는 우선 폴백 렌더 후 data.json 도착 시 교체
+["kr","us"].forEach(renderPicks);
+["kr","us"].forEach(renderNews);
+fetch("data.json",{cache:"no-store"})
+  .then(r=>r.ok?r.json():null)
+  .then(d=>{ if(d){DATA=d; ["kr","us"].forEach(renderNews);} paintUpdated(); })
+  .catch(()=>paintUpdated());
 
 /* ---------------- Tabs ---------------- */
 document.querySelectorAll(".tab").forEach(tab=>{
