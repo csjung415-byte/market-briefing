@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T23:30:34Z",
+  "updated": "2026-07-30T23:31:11Z",
   "markets": {
     "kr": {
       "news": [
@@ -7,7 +7,7 @@
           "cat": "macro",
           "catn": "시황",
           "t": "\"무서워 주식 앱 못 켜\"…개인 투자자들 '비명'",
-          "src": "연합뉴스",
+          "src": "yna.co.kr",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zX1lKVlpGc2lkOHE1WmNFbGhfbWpFS0ZfU21PWUd0Z2N4bmdQVzNBdzZ1N3FSb0pnaDFyMl92T0pqbGVlQ2JmLWNHRVZpV0hkeGdfdWZrSkVyRV81LWZhTdIBYEFVX3lxTE0zX1lKVlpGc2lkOHE1WmNFbGhfbWpFS0ZfU21PWUd0Z2N4bmdQVzNBdzZ1N3FSb0pnaDFyMl92T0pqbGVlQ2JmLWNHRVZpV0hkeGdfdWZrSkVyRV81LWZhTQ?oc=5",
           "time": "07/30 21:01"
         },
@@ -103,7 +103,7 @@
           "cat": "earn",
           "catn": "빅테크",
           "t": "Wall Street jumps as Microsoft sees biggest leap since 2008",
-          "src": "Yahoo Finance",
+          "src": "finance.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGNSLWttVDFGeTIwQlptdnhKc2pZUWZYTkJKcm1DMmtsemhCdk5HLWwxWXl3S0ZPcmlLX0hNVDg0TEVjcW55Q3FmbzBFSy0ycjkxN0ZxZXYycHItMFI2MDFlRkcxYktocGo0RkRMZzVxbVhQdFhYRUVfTTdwcXY1RTV5aGc1R05JNVpxQ1dWMUJzTzA3U3dXcUdxT291N1k?oc=5",
           "time": "07/31 03:26"
         },
