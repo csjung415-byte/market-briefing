@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T19:00:09Z",
+  "updated": "2026-07-30T19:04:43Z",
   "markets": {
     "kr": {
       "news": [
@@ -31,7 +31,7 @@
           "cat": "macro",
           "catn": "시황",
           "t": "“취업 못해 월세라도 벌려다…” 주식 물린 2030 개미들 비명",
-          "src": "joongang.co.kr",
+          "src": "중앙일보",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb1BCOWpqSFJUVmduYXZRUVJxSDgyemlIZFdFQ1BsWmZ0RFFHYXp5TXR6aHZXN2JaMnBDc0pOQk9tUnoxdDhZLUVZOWNMcFM5aFpiZDNR?oc=5",
           "time": "07/30 14:42"
         },
@@ -75,7 +75,7 @@
           "cat": "macro",
           "catn": "연준",
           "t": "Microsoft leads a rally on Wall Street, while worries about inflation remain in the bond market",
-          "src": "apnews.com",
+          "src": "AP News",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzg3S3dnZExJa0JrQ0tWRDJfOUxDS25LaHU5djJUVTlqTXhRMU9QRjNsZGlVNU5wclotbThRcW92Mnd0ZzdSaktaSktmMUpaVmUyaWs0aFF4SGhtc2E2TS1lcXNXSlphajlFQWFiaWo2aDdrLWlXTXQyTmZIeElQX3Mtelh6Mi1RMHI2UFFVdVdFTl92ay1N?oc=5",
           "time": "07/31 02:59"
         },
