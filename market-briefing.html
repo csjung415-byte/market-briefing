@@ -140,7 +140,7 @@
   @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 
   /* ---------- Index cards ---------- */
-  .indices{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:30px}
+  .indices{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:30px}
   .icard{background:var(--surface);border:1px solid var(--line-soft);border-radius:var(--r);padding:16px 17px}
   .icard .nm{font-size:12.5px;color:var(--paper-dim);display:flex;align-items:center;justify-content:space-between}
   .icard .nm span{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;color:var(--muted)}
@@ -217,7 +217,6 @@
 
   /* ---------- Responsive ---------- */
   @media(max-width:860px){
-    .indices{grid-template-columns:repeat(2,1fr)}
     .news{grid-template-columns:1fr}
     .picks{grid-template-columns:1fr}
     .bells{grid-template-columns:1fr}
@@ -225,7 +224,6 @@
     section.block{padding:32px 0}
   }
   @media(max-width:460px){
-    .indices{grid-template-columns:1fr 1fr}
     .clock small{display:none}
     .brand .en{display:none}
     .tab{padding:8px 14px;font-size:13px}
@@ -292,7 +290,7 @@
         <div>
           <div class="idx">Market Briefing</div>
           <h2>오늘의 시장 브리핑</h2>
-          <p>탭을 눌러 한국·미국 시장을 전환하세요. 지수는 직전 거래일 종가 기준입니다.</p>
+          <p>탭을 눌러 한국·미국 시장을 전환하세요. 지수·뉴스는 매일 개장 전 자동 갱신되며, 지수는 최근 거래일 종가 기준입니다.</p>
           <div class="updated" id="updated"><span class="dot"></span>뉴스 자동 갱신 대기 중…</div>
         </div>
         <div class="tabs" role="tablist" aria-label="시장 선택">
@@ -303,7 +301,7 @@
 
       <!-- ============ KOREA ============ -->
       <div class="panel active" data-panel="kr">
-        <div class="indices">
+        <div class="indices" data-indices="kr">
           <div class="icard"><div class="nm">코스피 <span>KOSPI</span></div><div class="val">5,593.56</div><div class="chg down">69.68 (1.23%)</div></div>
           <div class="icard"><div class="nm">원/달러 <span>USD/KRW</span></div><div class="val">1,437.10</div><div class="chg up">원화 강세</div></div>
           <div class="icard"><div class="nm">외국인 순매수 <span>FOREIGN</span></div><div class="val up">+1.33조</div><div class="chg flat">5거래일 만에 복귀</div></div>
@@ -330,7 +328,7 @@
 
       <!-- ============ US ============ -->
       <div class="panel" data-panel="us">
-        <div class="indices">
+        <div class="indices" data-indices="us">
           <div class="icard"><div class="nm">S&amp;P 500 <span>US500</span></div><div class="val">7,416</div><div class="chg up">1.36%</div></div>
           <div class="icard"><div class="nm">나스닥 <span>NASDAQ</span></div><div class="val up">+2.6%</div><div class="chg flat">6월 이후 최고</div></div>
           <div class="icard"><div class="nm">다우 <span>DOW</span></div><div class="val up">+0.8%</div><div class="chg flat">3대 지수 상승</div></div>
@@ -459,6 +457,19 @@ function renderNews(m){
       <div class="src"><span>▪</span><a href="${n.url}" target="_blank" rel="noopener">${n.src||'출처'}</a></div>
     </article>`).join("");
 }
+function renderIndices(m){
+  const host=document.querySelector(`[data-indices="${m}"]`);
+  const arr=(DATA&&DATA.markets&&DATA.markets[m]&&Array.isArray(DATA.markets[m].indices)&&DATA.markets[m].indices.length)
+    ? DATA.markets[m].indices : null;
+  if(!host||!arr) return; // 데이터 없으면 정적 카드(폴백) 유지
+  host.innerHTML=arr.map(ix=>{
+    const up=ix.pct>=0;
+    const val=Number(ix.value).toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2});
+    return `<div class="icard"><div class="nm">${ix.name} <span>${ix.code}</span></div>
+      <div class="val">${val}</div>
+      <div class="chg ${up?'up':'down'}">${up?'+':''}${Number(ix.pct).toFixed(2)}%</div></div>`;
+  }).join("");
+}
 function renderPicks(m){
   document.querySelector(`[data-picks="${m}"]`).innerHTML = PICKS[m].map(p=>`
     <article class="pcard">
@@ -487,7 +498,7 @@ function paintUpdated(){
 ["kr","us"].forEach(renderNews);
 fetch("data.json",{cache:"no-store"})
   .then(r=>r.ok?r.json():null)
-  .then(d=>{ if(d){DATA=d; ["kr","us"].forEach(renderNews);} paintUpdated(); })
+  .then(d=>{ if(d){DATA=d; ["kr","us"].forEach(renderNews); ["kr","us"].forEach(renderIndices);} paintUpdated(); })
   .catch(()=>paintUpdated());
 
 /* ---------------- Tabs ---------------- */

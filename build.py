@@ -42,6 +42,12 @@ KEYWORDS = {
 DEFAULT_CHIP = ("macro", "시황")
 PER_MARKET = 6
 
+# 지수(무료·키 불필요, Yahoo Finance 차트 API). (표시명, 코드, 야후심볼)
+INDEX_SYMBOLS = {
+    "kr": [("코스피", "KOSPI", "^KS11"), ("코스닥", "KOSDAQ", "^KQ11"), ("원/달러", "USD/KRW", "KRW=X")],
+    "us": [("S&P 500", "US500", "^GSPC"), ("나스닥", "NASDAQ", "^IXIC"), ("다우", "DOW", "^DJI")],
+}
+
 
 def classify(title, market):
     low = title.lower()
@@ -98,6 +104,36 @@ def fetch_market(market):
     return items
 
 
+def fetch_index(symbol):
+    url = (
+        "https://query1.finance.yahoo.com/v8/finance/chart/"
+        + urllib.parse.quote(symbol)
+        + "?interval=1d&range=7d"
+    )
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (BeforeTheBell bot)"})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        payload = json.load(resp)
+    res = payload["chart"]["result"][0]
+    closes = [c for c in res["indicators"]["quote"][0]["close"] if c is not None]
+    if len(closes) < 2:
+        raise ValueError("insufficient close data")
+    cur, prev = closes[-1], closes[-2]
+    pct = (cur - prev) / prev * 100.0
+    return {"value": round(cur, 2), "pct": round(pct, 2)}
+
+
+def fetch_indices(market):
+    out = []
+    for name, code, sym in INDEX_SYMBOLS[market]:
+        try:
+            q = fetch_index(sym)
+            out.append({"name": name, "code": code, **q})
+            print(f"[ok] index {code}: {q['value']} ({q['pct']:+.2f}%)")
+        except Exception as e:
+            print(f"[warn] index {code} failed: {e}")
+    return out
+
+
 def main():
     data = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -109,8 +145,9 @@ def main():
         except Exception as e:  # 실패해도 빌드는 계속 (다른 시장/폴백 유지)
             print(f"[warn] {m} fetch failed: {e}")
             news = []
-        data["markets"][m] = {"news": news}
-        print(f"[ok] {m}: {len(news)} items")
+        indices = fetch_indices(m)
+        data["markets"][m] = {"news": news, "indices": indices}
+        print(f"[ok] {m}: {len(news)} news, {len(indices)} indices")
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
