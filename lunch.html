@@ -113,11 +113,54 @@
   .result-name{font-size:clamp(24px,6vw,34px);font-weight:900;letter-spacing:-.02em;margin:2px 0 8px}
   .result-meta{display:flex;flex-wrap:wrap;gap:8px}
   .result-desc{margin-top:12px;color:var(--ink-2);font-size:14.5px}
+  .result-actions{margin-top:16px;display:flex;flex-wrap:wrap;gap:10px}
+  .result-cta{
+    font-size:13.5px;font-weight:800;color:#fff;
+    background:linear-gradient(135deg,var(--accent),#22a99c);
+    padding:10px 16px;border-radius:11px;box-shadow:0 5px 14px rgba(46,196,182,.30);
+    transition:transform .12s ease,box-shadow .12s ease;
+  }
+  .result-cta:hover{transform:translateY(-1px);box-shadow:0 8px 18px rgba(46,196,182,.4)}
+  .result-cta:disabled{opacity:.6;cursor:progress;transform:none}
   .result-again{
-    margin-top:16px;font-size:13.5px;font-weight:700;color:var(--brand-ink);
-    border:1px solid var(--line-2);background:var(--card);padding:9px 16px;border-radius:11px;
+    font-size:13.5px;font-weight:700;color:var(--brand-ink);
+    border:1px solid var(--line-2);background:var(--card);padding:10px 16px;border-radius:11px;
   }
   .result-again:hover{background:var(--bg)}
+
+  /* ---------- Nearby ---------- */
+  .nearby{padding:0 22px 4px;display:none}
+  .nearby.show{display:block;animation:pop .3s ease}
+  .nearby-links{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:14px}
+  .map-link{
+    display:inline-flex;align-items:center;gap:7px;font-size:13px;font-weight:700;
+    padding:9px 14px;border-radius:11px;border:1px solid var(--line-2);
+    background:var(--card);color:var(--ink);transition:border-color .12s,transform .12s;
+  }
+  .map-link:hover{transform:translateY(-1px)}
+  .map-link.kakao{border-color:#f9e000;background:#fee500;color:#3a2d00}
+  .map-link.naver{border-color:#03c75a;background:#03c75a;color:#fff}
+  .map-link.google{border-color:#dadce0}
+  @media (prefers-color-scheme: dark){ .map-link.google{border-color:var(--line-2)} }
+  .nearby-status{font-size:13.5px;color:var(--ink-2);margin:4px 0 12px;display:flex;align-items:center;gap:8px}
+  .spin{width:15px;height:15px;border:2px solid var(--line-2);border-top-color:var(--brand);border-radius:50%;animation:sp .7s linear infinite;flex:none}
+  @keyframes sp{to{transform:rotate(360deg)}}
+  .nearby-list{list-style:none;display:grid;gap:10px}
+  .near-item{
+    display:flex;align-items:center;gap:12px;padding:13px 15px;
+    background:var(--card);border:1px solid var(--line);border-radius:13px;
+    text-decoration:none;color:inherit;transition:transform .12s,box-shadow .12s,border-color .12s;
+  }
+  .near-item:hover{transform:translateY(-2px);box-shadow:var(--shadow-sm);border-color:var(--line-2)}
+  .near-rank{
+    width:30px;height:30px;flex:none;border-radius:9px;font-size:13px;font-weight:800;
+    display:grid;place-items:center;background:var(--bg-2);color:var(--brand-ink);border:1px solid var(--line);
+  }
+  .near-info{flex:1;min-width:0}
+  .near-name{font-size:15px;font-weight:800;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .near-sub{font-size:12.5px;color:var(--muted);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .near-dist{font-size:12.5px;font-weight:800;color:var(--accent);flex:none;white-space:nowrap}
+  .near-go{font-size:16px;color:var(--muted);flex:none}
 
   /* ---------- Filters ---------- */
   .filters{margin-top:30px}
@@ -218,8 +261,18 @@
           <div class="result-name" id="rName">—</div>
           <div class="result-meta" id="rMeta"></div>
           <div class="result-desc" id="rDesc"></div>
-          <button class="result-again" id="againBtn">🔄 다시 뽑기</button>
+          <div class="result-actions">
+            <button class="result-cta" id="nearBtn">📍 내 주변에서 이런 곳 찾기</button>
+            <button class="result-again" id="againBtn">🔄 다시 뽑기</button>
+          </div>
         </div>
+      </div>
+
+      <!-- Nearby restaurants -->
+      <div class="nearby" id="nearby">
+        <div class="nearby-links" id="nearLinks"></div>
+        <div class="nearby-status" id="nearStatus"></div>
+        <ul class="nearby-list" id="nearList"></ul>
       </div>
     </div>
   </section>
@@ -276,6 +329,17 @@
   const DISTS  = [{v:1,l:"🚶 도보 5분"},{v:2,l:"🚶 도보 10분"},{v:3,l:"🚗 조금 멀리"}];
   const PRICE_LABEL = {1:"저렴",2:"보통",3:"여유"};
   const DIST_LABEL  = {1:"도보 5분",2:"도보 10분",3:"조금 멀리"};
+
+  // 카테고리 → 지도 검색어 & OSM cuisine 태그 매핑
+  const CUISINE = {
+    "한식":       {kw:"한식",         osm:["korean","barbecue"]},
+    "중식":       {kw:"중식당",       osm:["chinese"]},
+    "일식":       {kw:"일식",         osm:["japanese","sushi","ramen"]},
+    "양식":       {kw:"양식 레스토랑", osm:["italian","pizza","burger","american","western","steak_house"]},
+    "분식":       {kw:"분식",         osm:["korean"]},
+    "아시안":     {kw:"아시안 음식",   osm:["vietnamese","thai","asian","indian","chinese"]},
+    "카페·디저트":{kw:"카페",          osm:["coffee_shop","cafe","dessert"]},
+  };
 
   // ---------- State ----------
   const state = { cats:new Set(), prices:new Set(), dists:new Set(), favs:new Set() };
@@ -376,6 +440,7 @@
     box.scrollIntoView({behavior:"smooth", block:"nearest"});
     if(rolling) return;
     rolling = true;
+    resetNearby();
 
     let ticks = 0;
     const total = 14;
@@ -393,6 +458,8 @@
         $("#rName").textContent  = f.name + " (" + f.cat + ")";
         $("#rMeta").innerHTML    = metaBadges(f);
         $("#rDesc").textContent  = f.desc;
+        lastPick = f;
+        $("#nearBtn").style.display = "";
         rolling = false;
       }
     };
@@ -401,6 +468,149 @@
 
   $("#pickBtn").onclick = pick;
   $("#againBtn").onclick = pick;
+
+  // ---------- Nearby restaurants (내 위치 기반 추천) ----------
+  let lastPick = null;
+
+  function resetNearby(){
+    $("#nearby").classList.remove("show");
+    $("#nearLinks").innerHTML = "";
+    $("#nearStatus").innerHTML = "";
+    $("#nearList").innerHTML = "";
+    $("#nearBtn").disabled = false;
+    $("#nearBtn").textContent = "📍 내 주변에서 이런 곳 찾기";
+  }
+
+  // 하버사인 거리(m)
+  function distanceM(a,b,c,d){
+    const R=6371000, toR=x=>x*Math.PI/180;
+    const dLat=toR(c-a), dLng=toR(d-b);
+    const s=Math.sin(dLat/2)**2 + Math.cos(toR(a))*Math.cos(toR(c))*Math.sin(dLng/2)**2;
+    return Math.round(2*R*Math.asin(Math.sqrt(s)));
+  }
+  const fmtDist = m => m>=1000 ? (m/1000).toFixed(1)+"km" : m+"m";
+
+  // 지도 앱 검색 링크 (좌표 기반 "내 주변")
+  function renderMapLinks(kw, lat, lng){
+    const q = encodeURIComponent(kw);
+    const links = [
+      {cls:"kakao",  label:"카카오맵",   url:`https://map.kakao.com/link/search/${q}`},
+      {cls:"naver",  label:"네이버지도", url:`https://map.naver.com/p/search/${q}`},
+      {cls:"google", label:"구글맵",     url:lat!=null
+          ? `https://www.google.com/maps/search/${q}/@${lat},${lng},16z`
+          : `https://www.google.com/maps/search/${q}`},
+    ];
+    $("#nearLinks").innerHTML = links.map(l=>
+      `<a class="map-link ${l.cls}" href="${l.url}" target="_blank" rel="noopener">🔎 ${l.label}에서 열기</a>`
+    ).join("");
+  }
+
+  // OSM Overpass로 실제 근처 식당 리스트업
+  async function fetchNearby(cat, lat, lng){
+    const info = CUISINE[cat] || {osm:[]};
+    const wanted = new Set(info.osm);
+    const radius = 1200; // m
+    const q = `[out:json][timeout:20];(`
+      + `node["amenity"~"restaurant|fast_food|cafe"](around:${radius},${lat},${lng});`
+      + `way["amenity"~"restaurant|fast_food|cafe"](around:${radius},${lat},${lng});`
+      + `);out center tags 80;`;
+    const endpoints = [
+      "https://overpass-api.de/api/interpreter",
+      "https://overpass.kumi.systems/api/interpreter",
+    ];
+    let data=null, err=null;
+    for(const ep of endpoints){
+      try{
+        const res = await fetch(ep, {method:"POST", body:"data="+encodeURIComponent(q)});
+        if(!res.ok) throw new Error("HTTP "+res.status);
+        data = await res.json();
+        break;
+      }catch(e){ err=e; }
+    }
+    if(!data) throw err || new Error("no data");
+
+    const items = (data.elements||[]).map(el=>{
+      const t = el.tags||{};
+      const plat = el.lat ?? el.center?.lat;
+      const plng = el.lon ?? el.center?.lon;
+      if(plat==null || plng==null || !t.name) return null;
+      const cuisines = (t.cuisine||"").toLowerCase().split(/[;,]/).map(s=>s.trim());
+      const match = cuisines.some(c=>wanted.has(c));
+      return {
+        name: t.name,
+        cuisine: t.cuisine ? t.cuisine.replace(/[_;]/g," ") : (t.amenity||""),
+        dist: distanceM(lat,lng,plat,plng),
+        match, plat, plng,
+      };
+    }).filter(Boolean);
+
+    // cuisine 일치 우선 → 없으면 전체를 거리순
+    let list = items.filter(i=>i.match);
+    if(list.length < 4) list = items;              // 매칭이 적으면 근처 식당 전부
+    list.sort((a,b)=> (b.match-a.match) || (a.dist-b.dist));
+    return list.slice(0,10);
+  }
+
+  function renderNearList(list, cat){
+    if(!list.length){
+      $("#nearStatus").innerHTML = "😅 근처에서 등록된 식당 정보를 못 찾았어요. 위 지도 버튼으로 검색해 보세요!";
+      return;
+    }
+    $("#nearStatus").innerHTML = `✅ 내 주변 <b>${cat}</b> 관련 식당 ${list.length}곳 (가까운 순)`;
+    $("#nearList").innerHTML = list.map((p,i)=>{
+      const url = `https://www.google.com/maps/search/${encodeURIComponent(p.name)}/@${p.plat},${p.plng},18z`;
+      return `<a class="near-item" href="${url}" target="_blank" rel="noopener">
+        <span class="near-rank">${i+1}</span>
+        <span class="near-info">
+          <div class="near-name">${p.name}${p.match?" ⭐":""}</div>
+          <div class="near-sub">${p.cuisine||"식당"}</div>
+        </span>
+        <span class="near-dist">${fmtDist(p.dist)}</span>
+        <span class="near-go">›</span>
+      </a>`;
+    }).join("");
+  }
+
+  function findNearby(){
+    if(!lastPick) return;
+    const cat = lastPick.cat;
+    const kw  = (CUISINE[cat]||{}).kw || cat;
+    const box = $("#nearby");
+    box.classList.add("show");
+    const btn = $("#nearBtn");
+    btn.disabled = true; btn.textContent = "📍 위치 확인 중…";
+    $("#nearStatus").innerHTML = `<span class="spin"></span> 현재 위치를 가져오는 중…`;
+    $("#nearList").innerHTML = "";
+
+    if(!navigator.geolocation){
+      renderMapLinks(kw, null, null);
+      $("#nearStatus").innerHTML = "이 브라우저는 위치 기능을 지원하지 않아요. 지도 버튼으로 검색해 주세요.";
+      btn.disabled=false; btn.textContent="📍 내 주변에서 이런 곳 찾기";
+      return;
+    }
+
+    navigator.geolocation.getCurrentPosition(async pos=>{
+      const {latitude:lat, longitude:lng} = pos.coords;
+      renderMapLinks(kw, lat, lng);
+      $("#nearStatus").innerHTML = `<span class="spin"></span> 내 주변 <b>${cat}</b> 식당을 찾는 중…`;
+      try{
+        const list = await fetchNearby(cat, lat, lng);
+        renderNearList(list, cat);
+      }catch(e){
+        $("#nearStatus").innerHTML = "😥 근처 식당 목록을 불러오지 못했어요. 위 지도 버튼으로 검색해 보세요!";
+      }
+      btn.disabled=false; btn.textContent="🔄 위치 다시 찾기";
+    }, err=>{
+      renderMapLinks(kw, null, null);
+      const msg = err.code===1
+        ? "위치 권한이 거부됐어요. 아래 지도 버튼으로 '내 주변'을 검색해 보세요."
+        : "위치를 가져오지 못했어요. 아래 지도 버튼으로 검색해 보세요.";
+      $("#nearStatus").innerHTML = msg;
+      btn.disabled=false; btn.textContent="📍 내 주변에서 이런 곳 찾기";
+    }, {enableHighAccuracy:false, timeout:10000, maximumAge:300000});
+  }
+
+  $("#nearBtn").onclick = findNearby;
 
   // ---------- Init ----------
   render();
