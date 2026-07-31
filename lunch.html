@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="오늘 점심 뭐 먹지? 기분과 조건에 맞춰 점심 먹을 장소를 추천해 드려요." />
+<meta name="theme-color" content="#ff6b35" />
+<title>점심 뭐 먹지? · 점심 장소 추천</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" />
+<style>
+  :root{
+    --bg:#fff7f0;
+    --bg-2:#ffefe2;
+    --card:#ffffff;
+    --ink:#231913;
+    --ink-2:#6b5d54;
+    --muted:#9a8b80;
+    --line:#f0e2d6;
+    --line-2:#e7d6c7;
+    --brand:#ff6b35;
+    --brand-2:#ff9d4d;
+    --brand-ink:#c9410f;
+    --accent:#2ec4b6;
+    --gold:#ffb703;
+    --shadow:0 8px 30px rgba(190,110,60,.14);
+    --shadow-sm:0 3px 12px rgba(190,110,60,.10);
+    --sans:"Pretendard",system-ui,-apple-system,sans-serif;
+    --wrap:1120px;
+    --r:18px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#171210;
+      --bg-2:#1f1815;
+      --card:#241c18;
+      --ink:#f6ece3;
+      --ink-2:#c3b3a7;
+      --muted:#94847a;
+      --line:#332721;
+      --line-2:#3d2f28;
+      --shadow:0 10px 34px rgba(0,0,0,.45);
+      --shadow-sm:0 3px 14px rgba(0,0,0,.35);
+    }
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:
+      radial-gradient(58% 42% at 88% -8%, rgba(255,157,77,.20), transparent 60%),
+      radial-gradient(46% 38% at 4% 4%, rgba(46,196,182,.12), transparent 62%),
+      var(--bg);
+    color:var(--ink);
+    font-family:var(--sans);
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+  }
+  .wrap{width:100%;max-width:var(--wrap);margin:0 auto;padding:0 20px}
+  button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
+  ::selection{background:var(--brand);color:#fff}
+
+  /* ---------- Header ---------- */
+  header{padding:34px 0 8px}
+  .brand{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+  .logo{
+    width:46px;height:46px;border-radius:14px;flex:none;
+    display:grid;place-items:center;font-size:26px;
+    background:linear-gradient(135deg,var(--brand),var(--brand-2));
+    box-shadow:var(--shadow-sm);
+  }
+  .brand h1{font-size:clamp(22px,4.5vw,30px);font-weight:800;letter-spacing:-.02em}
+  .brand .tag{
+    margin-left:auto;font-size:12.5px;font-weight:600;color:var(--brand-ink);
+    background:var(--bg-2);border:1px solid var(--line-2);
+    padding:6px 12px;border-radius:999px;
+  }
+  .sub{margin-top:12px;color:var(--ink-2);font-size:clamp(14px,2.6vw,16px);max-width:52ch}
+
+  /* ---------- Hero / random pick ---------- */
+  .hero{
+    margin-top:22px;background:var(--card);border:1px solid var(--line);
+    border-radius:var(--r);box-shadow:var(--shadow);overflow:hidden;
+  }
+  .hero-top{
+    padding:22px;display:flex;gap:16px;align-items:center;justify-content:space-between;
+    flex-wrap:wrap;border-bottom:1px solid var(--line);
+    background:linear-gradient(180deg,rgba(255,107,53,.06),transparent);
+  }
+  .hero-top h2{font-size:18px;font-weight:800;letter-spacing:-.01em}
+  .hero-top p{color:var(--ink-2);font-size:13.5px;margin-top:3px}
+  .pick-btn{
+    display:inline-flex;align-items:center;gap:9px;
+    background:linear-gradient(135deg,var(--brand),var(--brand-2));color:#fff;
+    font-weight:800;font-size:15.5px;padding:13px 22px;border-radius:14px;
+    box-shadow:0 8px 20px rgba(255,107,53,.34);transition:transform .12s ease,box-shadow .12s ease;
+  }
+  .pick-btn:hover{transform:translateY(-2px);box-shadow:0 12px 26px rgba(255,107,53,.42)}
+  .pick-btn:active{transform:translateY(0) scale(.98)}
+  .pick-btn .dice{font-size:19px}
+
+  .result{padding:22px;display:none}
+  .result.show{display:block;animation:pop .35s ease}
+  @keyframes pop{from{opacity:0;transform:translateY(8px) scale(.98)}to{opacity:1;transform:none}}
+  .result-inner{
+    display:flex;gap:20px;align-items:center;flex-wrap:wrap;
+    background:var(--bg-2);border:1px dashed var(--line-2);border-radius:16px;padding:20px;
+  }
+  .result-emoji{font-size:clamp(48px,12vw,68px);line-height:1;flex:none}
+  .result-body{flex:1;min-width:200px}
+  .result-eyebrow{font-size:12.5px;font-weight:700;color:var(--brand-ink);letter-spacing:.04em}
+  .result-name{font-size:clamp(24px,6vw,34px);font-weight:900;letter-spacing:-.02em;margin:2px 0 8px}
+  .result-meta{display:flex;flex-wrap:wrap;gap:8px}
+  .result-desc{margin-top:12px;color:var(--ink-2);font-size:14.5px}
+  .result-again{
+    margin-top:16px;font-size:13.5px;font-weight:700;color:var(--brand-ink);
+    border:1px solid var(--line-2);background:var(--card);padding:9px 16px;border-radius:11px;
+  }
+  .result-again:hover{background:var(--bg)}
+
+  /* ---------- Filters ---------- */
+  .filters{margin-top:30px}
+  .filters h3{font-size:14px;font-weight:800;color:var(--ink);margin-bottom:12px;display:flex;align-items:center;gap:8px}
+  .filters h3 .count{font-size:12.5px;font-weight:700;color:var(--muted)}
+  .chipset{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:16px}
+  .chip{
+    font-size:13.5px;font-weight:600;color:var(--ink-2);
+    background:var(--card);border:1px solid var(--line-2);
+    padding:9px 15px;border-radius:999px;transition:all .12s ease;
+    display:inline-flex;align-items:center;gap:6px;
+  }
+  .chip:hover{border-color:var(--brand-2);color:var(--ink)}
+  .chip.on{
+    background:linear-gradient(135deg,var(--brand),var(--brand-2));color:#fff;
+    border-color:transparent;box-shadow:0 4px 12px rgba(255,107,53,.28);
+  }
+
+  /* ---------- Cards ---------- */
+  .grid{
+    margin-top:8px;display:grid;gap:16px;
+    grid-template-columns:repeat(auto-fill,minmax(255px,1fr));
+  }
+  .card{
+    background:var(--card);border:1px solid var(--line);border-radius:var(--r);
+    padding:18px;box-shadow:var(--shadow-sm);transition:transform .14s ease,box-shadow .14s ease,border-color .14s;
+    display:flex;flex-direction:column;gap:11px;
+  }
+  .card:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:var(--line-2)}
+  .card-head{display:flex;align-items:flex-start;gap:12px}
+  .card-emoji{
+    width:52px;height:52px;flex:none;border-radius:14px;background:var(--bg-2);
+    display:grid;place-items:center;font-size:29px;border:1px solid var(--line);
+  }
+  .card-title{font-size:17px;font-weight:800;letter-spacing:-.01em}
+  .card-cat{font-size:12.5px;color:var(--muted);font-weight:600;margin-top:2px}
+  .card-fav{margin-left:auto;font-size:20px;line-height:1;color:var(--line-2);transition:transform .12s,color .12s;flex:none}
+  .card-fav:hover{transform:scale(1.18)}
+  .card-fav.on{color:var(--brand)}
+  .card-desc{font-size:13.5px;color:var(--ink-2);flex:1}
+  .card-meta{display:flex;flex-wrap:wrap;gap:7px;margin-top:auto}
+
+  .badge{
+    font-size:11.5px;font-weight:700;padding:5px 10px;border-radius:8px;
+    background:var(--bg-2);color:var(--ink-2);border:1px solid var(--line);
+    display:inline-flex;align-items:center;gap:4px;
+  }
+  .badge.price{color:#0b8f6a;background:rgba(46,196,182,.12);border-color:rgba(46,196,182,.25)}
+  .badge.dist{color:var(--brand-ink);background:rgba(255,107,53,.10);border-color:rgba(255,107,53,.22)}
+  .badge.rate{color:#b57b00;background:rgba(255,183,3,.14);border-color:rgba(255,183,3,.3)}
+  @media (prefers-color-scheme: dark){
+    .badge.price{color:#5fe3d1}
+    .badge.rate{color:var(--gold)}
+  }
+
+  .empty{
+    grid-column:1/-1;text-align:center;padding:48px 20px;color:var(--muted);
+    background:var(--card);border:1px dashed var(--line-2);border-radius:var(--r);
+  }
+  .empty .big{font-size:40px;margin-bottom:10px}
+
+  footer{margin:44px 0 34px;text-align:center;color:var(--muted);font-size:13px}
+  footer b{color:var(--ink-2);font-weight:700}
+
+  @media (max-width:560px){
+    .hero-top{flex-direction:column;align-items:stretch}
+    .pick-btn{justify-content:center}
+    .grid{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="brand">
+      <div class="logo">🍚</div>
+      <h1>점심 뭐 먹지?</h1>
+      <span class="tag">오늘의 점심 추천</span>
+    </div>
+    <p class="sub">고민은 그만! 기분과 조건을 고르면 지금 딱 맞는 점심 장소를 골라 드려요.</p>
+  </header>
+
+  <!-- Random pick -->
+  <section class="hero">
+    <div class="hero-top">
+      <div>
+        <h2>🎲 오늘의 랜덤 추천</h2>
+        <p>선택한 조건 안에서 무작위로 한 곳을 뽑아 드려요.</p>
+      </div>
+      <button class="pick-btn" id="pickBtn"><span class="dice">🎯</span> 점심 뽑기</button>
+    </div>
+    <div class="result" id="result">
+      <div class="result-inner">
+        <div class="result-emoji" id="rEmoji">🍜</div>
+        <div class="result-body">
+          <div class="result-eyebrow">오늘의 추천 &middot; 결정 완료!</div>
+          <div class="result-name" id="rName">—</div>
+          <div class="result-meta" id="rMeta"></div>
+          <div class="result-desc" id="rDesc"></div>
+          <button class="result-again" id="againBtn">🔄 다시 뽑기</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filters -->
+  <section class="filters">
+    <h3>🍽️ 음식 종류</h3>
+    <div class="chipset" id="catChips"></div>
+
+    <h3>💸 가격대</h3>
+    <div class="chipset" id="priceChips"></div>
+
+    <h3>📍 거리</h3>
+    <div class="chipset" id="distChips"></div>
+  </section>
+
+  <!-- Results -->
+  <section class="filters">
+    <h3>추천 목록 <span class="count" id="resultCount"></span></h3>
+    <div class="grid" id="grid"></div>
+  </section>
+
+  <footer>
+    맛있는 점심 되세요! 🥢 &nbsp;·&nbsp; <b>점심 뭐 먹지?</b> — 반응형 웹으로 만든 점심 추천기
+  </footer>
+
+</div>
+
+<script>
+  // ---------- Sample data ----------
+  const PLACES = [
+    {name:"할머니 국밥집", cat:"한식", emoji:"🍲", price:1, dist:1, rate:4.6, desc:"뜨끈한 돼지국밥과 순대국. 해장에도 든든한 점심에도 딱."},
+    {name:"청춘 김밥천국", cat:"분식", emoji:"🍙", price:1, dist:1, rate:4.2, desc:"김밥·라면·떡볶이까지. 빠르고 저렴하게 한 끼 해결."},
+    {name:"홍콩반점", cat:"중식", emoji:"🍜", price:2, dist:2, rate:4.3, desc:"불맛 가득 짜장면과 짬뽕. 탕수육은 바삭함이 생명."},
+    {name:"스시 오마카세 하루", cat:"일식", emoji:"🍣", price:3, dist:2, rate:4.8, desc:"신선한 제철 초밥. 조금 특별한 날의 점심으로 추천."},
+    {name:"파스타 부오노", cat:"양식", emoji:"🍝", price:2, dist:2, rate:4.5, desc:"크림·토마토 파스타와 화덕 피자. 분위기 좋은 런치세트."},
+    {name:"교토 라멘", cat:"일식", emoji:"🍥", price:2, dist:1, rate:4.4, desc:"진한 돈코츠 국물과 쫄깃한 면. 비 오는 날 생각나는 곳."},
+    {name:"신전 떡볶이", cat:"분식", emoji:"🌶️", price:1, dist:1, rate:4.1, desc:"매콤달콤 떡볶이와 튀김. 스트레스엔 역시 매운맛."},
+    {name:"버거 조인트", cat:"양식", emoji:"🍔", price:2, dist:2, rate:4.4, desc:"두툼한 수제패티 버거와 감자튀김. 든든한 한 끼."},
+    {name:"본가 설렁탕", cat:"한식", emoji:"🥣", price:2, dist:2, rate:4.5, desc:"뽀얀 사골 국물의 설렁탕. 속이 편안해지는 정성 한 그릇."},
+    {name:"쌀국수 사이공", cat:"아시안", emoji:"🍲", price:2, dist:2, rate:4.3, desc:"향긋한 소고기 쌀국수와 반쎄오. 가볍고 건강한 점심."},
+    {name:"마라탕 챔피언", cat:"중식", emoji:"🥘", price:2, dist:2, rate:4.2, desc:"원하는 재료 골라 담는 마라탕. 얼얼한 중독성 주의."},
+    {name:"연남동 브런치", cat:"양식", emoji:"🥗", price:3, dist:3, rate:4.6, desc:"샐러드·에그베네딕트. 가볍고 산뜻하게 먹고 싶을 때."},
+    {name:"고반식당", cat:"한식", emoji:"🍖", price:3, dist:2, rate:4.7, desc:"직화 제육과 계란찜. 점심에도 즐기는 든든한 고기 한 상."},
+    {name:"타코 아미고", cat:"아시안", emoji:"🌮", price:2, dist:3, rate:4.3, desc:"부리또와 타코. 이국적인 맛이 당기는 날 강력 추천."},
+    {name:"교대 냉면", cat:"한식", emoji:"🥶", price:2, dist:1, rate:4.4, desc:"시원한 물냉면과 매콤한 비빔냉면. 더운 날의 정답."},
+    {name:"카페 브레드", cat:"카페·디저트", emoji:"🥪", price:2, dist:1, rate:4.2, desc:"샌드위치와 커피 세트. 바쁠 때 자리에서 간단히."},
+    {name:"양자강 짬뽕", cat:"중식", emoji:"🍤", price:2, dist:3, rate:4.5, desc:"해물 가득 얼큰한 짬뽕. 국물 한 방울까지 아쉬운 맛."},
+    {name:"돈카츠 마을", cat:"일식", emoji:"🍱", price:2, dist:2, rate:4.4, desc:"바삭한 등심·안심 돈카츠. 도시락 세트도 인기."},
+  ];
+
+  const CATS   = ["한식","중식","일식","양식","분식","아시안","카페·디저트"];
+  const PRICES = [{v:1,l:"💵 저렴 (~8천)"},{v:2,l:"💳 보통 (8천~1.5만)"},{v:3,l:"💎 여유 (1.5만~)"}];
+  const DISTS  = [{v:1,l:"🚶 도보 5분"},{v:2,l:"🚶 도보 10분"},{v:3,l:"🚗 조금 멀리"}];
+  const PRICE_LABEL = {1:"저렴",2:"보통",3:"여유"};
+  const DIST_LABEL  = {1:"도보 5분",2:"도보 10분",3:"조금 멀리"};
+
+  // ---------- State ----------
+  const state = { cats:new Set(), prices:new Set(), dists:new Set(), favs:new Set() };
+  try{ (JSON.parse(localStorage.getItem("lunch_favs")||"[]")).forEach(n=>state.favs.add(n)); }catch(e){}
+
+  const $ = s => document.querySelector(s);
+
+  // ---------- Build filter chips ----------
+  function chip(label, on, onClick){
+    const b = document.createElement("button");
+    b.className = "chip" + (on ? " on" : "");
+    b.textContent = label;
+    b.onclick = onClick;
+    return b;
+  }
+  function renderChips(){
+    const c = $("#catChips"); c.innerHTML="";
+    CATS.forEach(cat=>{
+      c.appendChild(chip(cat, state.cats.has(cat), ()=>{ toggle(state.cats,cat); render(); }));
+    });
+    const p = $("#priceChips"); p.innerHTML="";
+    PRICES.forEach(o=>{
+      p.appendChild(chip(o.l, state.prices.has(o.v), ()=>{ toggle(state.prices,o.v); render(); }));
+    });
+    const d = $("#distChips"); d.innerHTML="";
+    DISTS.forEach(o=>{
+      d.appendChild(chip(o.l, state.dists.has(o.v), ()=>{ toggle(state.dists,o.v); render(); }));
+    });
+  }
+  function toggle(set,v){ set.has(v) ? set.delete(v) : set.add(v); }
+
+  // ---------- Filtering ----------
+  function filtered(){
+    return PLACES.filter(p=>{
+      if(state.cats.size   && !state.cats.has(p.cat))   return false;
+      if(state.prices.size && !state.prices.has(p.price)) return false;
+      if(state.dists.size  && !state.dists.has(p.dist))  return false;
+      return true;
+    });
+  }
+
+  // ---------- Cards ----------
+  function metaBadges(p){
+    return `
+      <span class="badge rate">⭐ ${p.rate.toFixed(1)}</span>
+      <span class="badge price">💸 ${PRICE_LABEL[p.price]}</span>
+      <span class="badge dist">📍 ${DIST_LABEL[p.dist]}</span>`;
+  }
+  function render(){
+    renderChips();
+    const list = filtered();
+    const grid = $("#grid");
+    $("#resultCount").textContent = `(${list.length}곳)`;
+    if(!list.length){
+      grid.innerHTML = `<div class="empty"><div class="big">🤔</div>조건에 맞는 곳이 없어요.<br>필터를 조금 풀어 보세요!</div>`;
+      return;
+    }
+    grid.innerHTML = list.map(p=>`
+      <article class="card">
+        <div class="card-head">
+          <div class="card-emoji">${p.emoji}</div>
+          <div>
+            <div class="card-title">${p.name}</div>
+            <div class="card-cat">${p.cat}</div>
+          </div>
+          <button class="card-fav ${state.favs.has(p.name)?'on':''}" data-fav="${p.name}" title="즐겨찾기">
+            ${state.favs.has(p.name)?'♥':'♡'}
+          </button>
+        </div>
+        <p class="card-desc">${p.desc}</p>
+        <div class="card-meta">${metaBadges(p)}</div>
+      </article>`).join("");
+
+    grid.querySelectorAll("[data-fav]").forEach(btn=>{
+      btn.onclick = ()=>{
+        const n = btn.getAttribute("data-fav");
+        toggle(state.favs, n);
+        localStorage.setItem("lunch_favs", JSON.stringify([...state.favs]));
+        render();
+      };
+    });
+  }
+
+  // ---------- Random pick ----------
+  let rolling = false;
+  function pick(){
+    const list = filtered();
+    const box = $("#result");
+    if(!list.length){
+      box.classList.add("show");
+      $("#rEmoji").textContent = "🤷";
+      $("#rName").textContent = "조건에 맞는 곳이 없어요";
+      $("#rMeta").innerHTML = "";
+      $("#rDesc").textContent = "필터를 조금 풀고 다시 뽑아 보세요!";
+      return;
+    }
+    box.classList.add("show");
+    box.scrollIntoView({behavior:"smooth", block:"nearest"});
+    if(rolling) return;
+    rolling = true;
+
+    let ticks = 0;
+    const total = 14;
+    const spin = ()=>{
+      const p = list[Math.floor(Math.random()*list.length)];
+      $("#rEmoji").textContent = p.emoji;
+      $("#rName").textContent  = p.name;
+      ticks++;
+      if(ticks < total){
+        setTimeout(spin, 60 + ticks*11);
+      }else{
+        // final landing
+        const f = list[Math.floor(Math.random()*list.length)];
+        $("#rEmoji").textContent = f.emoji;
+        $("#rName").textContent  = f.name + " (" + f.cat + ")";
+        $("#rMeta").innerHTML    = metaBadges(f);
+        $("#rDesc").textContent  = f.desc;
+        rolling = false;
+      }
+    };
+    spin();
+  }
+
+  $("#pickBtn").onclick = pick;
+  $("#againBtn").onclick = pick;
+
+  // ---------- Init ----------
+  render();
+</script>
+</body>
+</html>
