@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - claude/lunch-recommendation-website-vnjeop
+      - main
   workflow_dispatch:
 
 permissions:
