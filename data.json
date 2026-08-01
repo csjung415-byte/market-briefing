@@ -1,31 +1,47 @@
 {
-  "updated": "2026-07-31T23:02:43Z",
+  "updated": "2026-08-01T14:04:22Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 18% 역대급 폭등한 날, 개미는 역대 최대 10조 던졌다",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUJOeXp3N0xTcHBCYjNCa2FSRjNLNmlHdHVTWElLRE9QRS0yVzlZdnpjd1d4TnA4YThLVzlodEEyaXRwWVRySDROMDAtRkllZ1VhRUlyQkdqZHk0RzJSVGdBUFdmOVBXRGcwWTdDUTY5MVZuTnRVTkxEQmVwek5vZVlYd2VfbHBYYURVNVZ3?oc=5",
-          "time": "07/31 18:54"
+          "t": "7월 증시 : 극단적 변동성 속에 모두에게 상처를 남긴 한 달. (그리고 레오폴드 사태)",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BUjgyQ3hValZCLXhnOFBEWW45MHQ3SC1lLTdBdEtpQURGRDB5UUMxXzdRcnJ6UjlseTVBTjRRaUJ1Uzc2NS04T3RSVFZpWEhxUmd1d0pZWGxnT1RnTkk0Tg?oc=5",
+          "time": "08/01 10:40"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄",
+          "src": "기호일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lRTV5cEZPNVFTU2tYUFk1T1R1WTB0RDgxQ2RvNGRLdjZvdjJDekZTSDZTWG9VSzloNk9TRDk0bzl2MU5tNHlUWFYwOGxMd0tENVlRWWh2c1RBSTl4ejE5TlJIS21jSzEtLURiVWxiOA?oc=5",
+          "time": "08/01 12:53"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 10% 넘는 '불기둥'...양 시장 매수 사이드카",
-          "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pVUEydGkzeTM4OEhMZGx6YnVBY0k3SV9hdktfSzZsQ0NqWkE1RlN5c1BFeUV4bnpNaFB2U1cwc3djaW1ZLS0yLXZqR3hoLU56N1UxY0dMS3RSQS11SWc?oc=5",
-          "time": "07/31 11:44"
+          "t": "“열대야도 아닌데 잠이 안온다”…7월 최악의 변동성, 8월은 괜찮을까?",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vM3hpUDNpVGFUV3k4NWt6NFNtY2hKODFLeHZsRFJwSDk4bkd4NklVR0FKNE1PVTNFeE5qMzZCUzBuUEZvMWsyRUtGc2x6MVdWZlE?oc=5",
+          "time": "08/01 13:13"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "국내증시 하락에…코스피 고점 이후 목표주가 하향 잇달아",
+          "t": "\"韓 변동성 오히려 좋아\"…코스피200 커버드콜 홍콩 첫 출시",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQmptbEFCWTJTS29SbjVBVDE1Y2ZpZmdyZFFxZHNHdVNEYndkNTJZRkQtQjNMMFBHTmFQVTZQaGNoTTJWSDBlRy1FbW9qaW1YWmZGYlBnN0hYZw?oc=5",
+          "time": "08/01 20:22"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘",
           "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95NW9MbndwZjB0akZLekRCemdiX0hRZmNPUGplalVYYXMwMFdxRFM3WUp4YzV2YXY1OEVKbDFTNzlVcXJhdFdFSks3VHBHREc3?oc=5",
-          "time": "08/01 00:12"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5",
+          "time": "08/01 15:14"
         },
         {
           "cat": "macro",
@@ -34,62 +50,62 @@
           "src": "데일리안",
           "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZC1WM2UxMVNqc2VsdHJuZ1BodFZRUDIyTk1neDFvekw0V3ZaM29ydUhQVFpWUzFsTnlOdWc3b1RBeVp5a09hVzlIQ29MUi1FMWpTWU9jNGdQSmw0UW5kSEVCOTMza0NHM2xrRVBrcVZ3ZC02X24xakNJR2U2MU1RcmloWG11cmtuNjBYUUJOdGUtVUs3a3F0S0kwQjFCSWlFUkRpVGI0YmdtclJQVWxWbDhwMFZvdmVFaWhjVmFIc1FzdG51TmRvV1dwWHBNVXJhcW42MDZ2MVYzSmpUa2YtR0NxTTl6SzFpYllJRWFaRWx1ZzlQZXpkQ3VWeUhleXNmU1piaEVLdjVEazJaOC1BZWczekMtQ0E?oc=5",
           "time": "08/01 07:02"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "1만피 간다더니 5천피 추락…코스피 반등 언제?",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vWXBnWlRIZGpQMXJyN2VJMk1nVEVYbmNncW5hc1hXZXRkVDlpUkVDbE03QjE5OUtYM0NodTV4TEc1VGxPbWRxS2ZBUG10blU?oc=5",
-          "time": "08/01 04:52"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 상승폭 1001 상승률 17.9% 사상 최대…널뛰는 증시에 ‘어질’",
-          "src": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VLTVDM1VleEZXVjRjTFBGM3d6ZUwxQVIzODA5SEZKMndkWFpuRzVNeDluUC0yOEJKeWRfUFRDeXZSdTFkT2VLc29nZ3lqaXlURGR0RENKVUZpRjVlLURmbkZ5dFlKUi1yeDc3SVVRQXE1dw?oc=5",
-          "time": "07/31 18:15"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5593.56,
-          "pct": -1.23
+          "value": 6595.45,
+          "pct": 17.91
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 644.78,
-          "pct": -2.7
+          "value": 719.76,
+          "pct": 11.63
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1442.07,
-          "pct": 1.51
+          "value": 1436.6,
+          "pct": 1.13
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall St Week Ahead Teetering US stock market faces jobs report, big earnings week",
-          "src": "reuters.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXJVQnRLbDN6Q1ZZdnVtaFMzYXIxM2RlT214dFlNMkdlWDYwSWt2cjBoQzBlME9CbFVPcVhDRzk3YnNMak5xeVVYX0NwR2NFazJQR3pKaTl5NlBfTTVDWHAwNGg1QWxIYzJ2UGJ5cUxBUm5yOThySUZmcS1xRXF5MkxNMVRVVUtQX19sZXY5bmVjam5sbFVYYnpxOTJ5WjJZckxXdnd0R2Y5UFIydzFWWGZaczdwVVZVN1AyU2pQLV9jcFU?oc=5",
-          "time": "08/01 06:43"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?",
+          "src": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX2s2RG1ZTU9xVHpVYl9ORlJGazc2cEh0Z0FHSXY5Y1RBMGtkZzBtQ1MzTk90MklOMTVra2xwSnpvdUdCNVFRcGhjRlBtTmNTZTNaM1ZEN2dWUVBIZy1ZLV9jN0FyWi0xcjctQUs5M0xOdHozNlJpVnJyTEFJaWRYb1hlYW1qYXRVa0d2czVGQXU2aHNWTmsyeV8xYjZ1Nk5sYnRWWjU1SlZCdWQ4S0VlTGY3TXVyYVY4eWlHOEJtOExHMlcyRjVETlpQNEJ4UFRLTHlFS0hVSUY2UjEwUlNtdU1R?oc=5",
+          "time": "08/01 21:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Braces for Big Stock Moves That Could Roil Sleepy August Markets",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSEtBdkk4R0VyM3VCcXV3aHJOZ3Q3OU42eFlGLXFaRmUyVHRfLTFMc2FYRkk5b2IteGcybXRqU2tGZnl4YW1XWnRJa0R1YTQ3aU80VDVRbnlSUThDZXVVWHAyNDBERUxqSjFOVWowTUFwUGI0T2tUb2dzNVo3SnVvWHg1TQ?oc=5",
-          "time": "08/01 02:16"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Microsoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company",
+          "src": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnVMRnpOTU9YRU9RX2FwSDQ5dlptV1hxSzJPd1NMSlpEdTJtMXFvZTBYblJWcWFkams4TUczd0dCNm05bS1VSGJ1ZDBlYS0zYlNSbkpzRTlWc2tFTzZjYmJUang3NDcyWVNtQzNsVGFUSWxzc2w5QWJpaHZueTUydEhhQ1dNN3lvMFBrY3VTUFd1NkFJYk9BNWZlcmNhVWJmXy10Nmg2aDRsN2I5ZUJxdQ?oc=5",
+          "time": "08/01 22:24"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall Street week ahead: monthly jobs report, McDonald's and SpaceX earnings",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdHVQVE9ZQkNtZXdlcVZYSWhCMWFNQWRtLTRlOVZ1blY2WGhIeVMydS0yX2wxVjFhWnkyaVp4TVR6TzQzQzg2UFBvTVlmMTNGNmxhb3c5STRodGs4UnhGTVRzeHAxd1JydnFYenQ5WFc5ejZyZ2FYWElaNXN3UUxVMW15bVZ5M1hPSVI4WUNKOWVndlF0R2ZjSU1xZzVQRnkyRXdDaWxTNGxEWXpxTm5sX29abEwxQV9OY0NHcVNYOUQyb1M4YnVhWHJsaC1QN0Q1Q29vNjZ4X25kYUl2WGlvc3YyaFFmbnlVWGpVZHpldDE0Zm5hR0gzLUoxRmpIeHdVT2c?oc=5",
+          "time": "08/01 17:00"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street ends higher as Amazon soothes AI jitters",
+          "src": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
+          "time": "08/01 08:29"
         },
         {
           "cat": "earn",
@@ -101,27 +117,11 @@
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "Y'all Street launches: Texas Stock Exchange goes live in Dallas",
-          "src": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG4yeFdXdl9WOGdVdFlBTTlyOE1PUHVwdmpWd1VPTEZWbGlTeEJGVHFjSnZBSlhnZGxFMlhBQVJwSjREYWtTVWdmYlpkb0lWN09fcC0xNVBXaGxkU2l3RjMzV0l4emVlS3JlZF9scTNYem96Y203dHJfMTlJdmpWaS1hdHM2UmFuMF9fbmFIVGpFaVkyS0JpRE1B0gGfAUFVX3lxTE9ZdWFNazY2eWJvcW5od05UTFUwT3AzQ3lOVkdmTFl3R01IWG5uM29QYUp1MEhpOUlLMXNSYkcxbHA0cHhhenlDNW5GYjBXMzhWd2JTSWN0cEdONFhjOW83a1p4SWhtd0p0OHZCMUg5enhsVnJoOFNkNW9tcUxmWTg5WE5kWFJZNV9SS2ZTTGFQbS1TQW5oZG80MmNjZ3hqaw?oc=5",
-          "time": "08/01 03:14"
-        },
-        {
-          "cat": "macro",
           "catn": "연준",
-          "t": "Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble",
-          "src": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON1paeF9HVDlHR19Wb1czMG9uT1RhcVVGMjh5NEVZc1JQX0VJbUdzYkN4UXprYnBLNi1RN2xVYXIwcXVfaGY0T3E0NDdhZl92ZjVlRTZuam1GaEFMdWh4eFZ3TnVwbFU4OW5GeTAyZG5Dck93VzhTY3pZdW1aMVpQNGk0QzZUWHdwN0E?oc=5",
-          "time": "08/01 02:02"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US stocks swing as Wall Street's wild July keeps swerving and inflation worries keep squeezing",
-          "src": "Boston 25 News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRGlQWDAtVlNiUjUwa3JkRXFfZmYxQlFqUGlzSGQyWGdpZEh4VE5DS0wzSlVFazNQS1VSUDc1MXJsRDZuYXgxTmxrRzlHUl9KaFlDRGQ0azZvYWNDOC11aEo0MWdHQ0MtRmpsc0N0LVRZeGlzUW85QUVCMnV0ZVk3M1BTYUZMaHpYWFU3VzlGZDFXUzREWk9tLUtwaW1iWTRjOE13clFNQdIBpwFBVV95cUxNRGlQWDAtVlNiUjUwa3JkRXFfZmYxQlFqUGlzSGQyWGdpZEh4VE5DS0wzSlVFazNQS1VSUDc1MXJsRDZuYXgxTmxrRzlHUl9KaFlDRGQ0azZvYWNDOC11aEo0MWdHQ0MtRmpsc0N0LVRZeGlzUW85QUVCMnV0ZVk3M1BTYUZMaHpYWFU3VzlGZDFXUzREWk9tLUtwaW1iWTRjOE13clFNQQ?oc=5",
-          "time": "07/31 23:34"
+          "t": "US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
+          "time": "08/01 06:13"
         }
       ],
       "indices": [
