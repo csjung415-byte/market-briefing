@@ -1,8 +1,48 @@
 {
-  "updated": "2026-08-01T14:04:22Z",
+  "updated": "2026-08-01T22:56:58Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓인사이트] 역대급 '폭락→폭등' 韓증시, 상승흐름 이어갈까",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yUm5iN0dYckdsdjZPU1RCMFlqQ2tkUnNMT2RPSGpQSUNRQmNWTWx3VWJyblZQVk5Ia2dQN0dBNWJfX0NYM2xWd2VRRWlTRE5NdHdzS3AzZFlhQ2ZkM0o5RtIBYEFVX3lxTE4yUm5iN0dYckdsdjZPU1RCMFlqQ2tkUnNMT2RPSGpQSUNRQmNWTWx3VWJyblZQVk5Ia2dQN0dBNWJfX0NYM2xWd2VRRWlTRE5NdHdzS3AzZFlhQ2ZkM0o5Rg?oc=5",
+          "time": "08/02 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[주식 소화불량④] 삼전 대신 S&P500…롤러코스피에 지친 개미, 미국으로",
+          "src": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbDAyOTYyYmFhaHRDczJIUlhhclVVSUs5QTFWdEFaTVBPX3MwZVgzSEdvM2J5WnhrSE5LNUwwTHNfTmU4Y1J4LXlXQjNwN19YZzJ5VEpfQmFINEQtTDhPUHAwMjZxWU13Y0Vsc3dIdFVpTlVCNHBIV1d6NEw5WkNZSGtzUjJqT3lmby1QcnR0ZEVJekxzbUo3VnNadTFubWJCaTFaSTVuUTE0ZloxMDFjV3dQV212bDdoN1RNSFlubFMweHZ1U0RRZUpJVXBXN3REYlNJRDh2ME1KRmh3YkJXZjVDclE4ZWdMandTZU5R?oc=5",
+          "time": "08/02 07:04"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"다 내려놓고 갑니다\" 절망한 가장…이틀 후 급반전 증시에 안타까움만",
+          "src": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FcjB4LXdWTWZMdWt1SEdlVUFSejQ4ekNPRlY4MVpGMVhZZy15amZvRHhxb0tVbGlPeV91WjQyeVBCdmxZdm9kZDVYTXExVEpFT0hGSmMwZE9YY0hzNVA1bWRn?oc=5",
+          "time": "08/02 05:50"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"미련하게 누가 '4% 적금' 드냐\"더니…코스피 폭락하자 \"차라리 적금 들 걸\" [개미의 세계]",
+          "src": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aZnVLWnpVSkFQa2h0bExCQWtqZnV4RENSUU5SQy03Zmw4czFnYncyeHZsYXRycUFvNVRjc3BNejRibmJESS05T25XWFNVTFc1NEVrczlXRktMZw?oc=5",
+          "time": "08/02 06:00"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "전 부문 고른 성장 키움증권, 2분기 어닝 서프라이즈",
+          "src": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmc193WVg4OGVzTGFub1JYUWIwNDBkT0ZzekVIMDlhc1JBSzVhcEZNdl9ZQ3l3SnBORk1UcEwwLUtaS25MSzE2Wm1pZzljNkNlSmpiN1duRFI2ZlN6WVBlbTBObnQ?oc=5",
+          "time": "08/02 06:00"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -10,46 +50,6 @@
           "src": "Investing.com 한국어",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BUjgyQ3hValZCLXhnOFBEWW45MHQ3SC1lLTdBdEtpQURGRDB5UUMxXzdRcnJ6UjlseTVBTjRRaUJ1Uzc2NS04T3RSVFZpWEhxUmd1d0pZWGxnT1RnTkk0Tg?oc=5",
           "time": "08/01 10:40"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄",
-          "src": "기호일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lRTV5cEZPNVFTU2tYUFk1T1R1WTB0RDgxQ2RvNGRLdjZvdjJDekZTSDZTWG9VSzloNk9TRDk0bzl2MU5tNHlUWFYwOGxMd0tENVlRWWh2c1RBSTl4ejE5TlJIS21jSzEtLURiVWxiOA?oc=5",
-          "time": "08/01 12:53"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“열대야도 아닌데 잠이 안온다”…7월 최악의 변동성, 8월은 괜찮을까?",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vM3hpUDNpVGFUV3k4NWt6NFNtY2hKODFLeHZsRFJwSDk4bkd4NklVR0FKNE1PVTNFeE5qMzZCUzBuUEZvMWsyRUtGc2x6MVdWZlE?oc=5",
-          "time": "08/01 13:13"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"韓 변동성 오히려 좋아\"…코스피200 커버드콜 홍콩 첫 출시",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQmptbEFCWTJTS29SbjVBVDE1Y2ZpZmdyZFFxZHNHdVNEYndkNTJZRkQtQjNMMFBHTmFQVTZQaGNoTTJWSDBlRy1FbW9qaW1YWmZGYlBnN0hYZw?oc=5",
-          "time": "08/01 20:22"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[속보]“‘레버리지 ETF’ 국정조사… 김용범 경질”… ‘롤러코스피’ 공세 수위 높이는 국민의힘",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94LV9rbjBIdU53X2NHaWp0VG1Sb0pxLXRSeE16ZzFway1jTkc3VFZBNC11TU9nYVpLUElGYmk5RVJKNlJRdC1SQ1lKNjNrMlZP?oc=5",
-          "time": "08/01 15:14"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[주식 소화불량①] ‘예측 불가’ 증시에 지친 개미, 3%대 예금 찾는다",
-          "src": "데일리안",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZC1WM2UxMVNqc2VsdHJuZ1BodFZRUDIyTk1neDFvekw0V3ZaM29ydUhQVFpWUzFsTnlOdWc3b1RBeVp5a09hVzlIQ29MUi1FMWpTWU9jNGdQSmw0UW5kSEVCOTMza0NHM2xrRVBrcVZ3ZC02X24xakNJR2U2MU1RcmloWG11cmtuNjBYUUJOdGUtVUs3a3F0S0kwQjFCSWlFUkRpVGI0YmdtclJQVWxWbDhwMFZvdmVFaWhjVmFIc1FzdG51TmRvV1dwWHBNVXJhcW42MDZ2MVYzSmpUa2YtR0NxTTl6SzFpYllJRWFaRWx1ZzlQZXpkQ3VWeUhleXNmU1piaEVLdjVEazJaOC1BZWczekMtQ0E?oc=5",
-          "time": "08/01 07:02"
         }
       ],
       "indices": [
@@ -76,6 +76,14 @@
     "us": {
       "news": [
         {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AI Stocks Stage a Rebound",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIenFhdUd6T0VBVHA0YVNHU3A0WnJxXzdWSXEyVC05MjlicVB4NkI3SllvSjg5V3dtcDZtN2N2SUNhNEFONzd6QWhjVkg4YWlSR0d4ZzF2dzZGRXZER19HX284MFBBMENfdUJ4bUJMd3hfbDdOOFA3ag?oc=5",
+          "time": "08/02 06:23"
+        },
+        {
           "cat": "macro",
           "catn": "연준",
           "t": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?",
@@ -84,44 +92,36 @@
           "time": "08/01 21:00"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Microsoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company",
-          "src": "wsj.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnVMRnpOTU9YRU9RX2FwSDQ5dlptV1hxSzJPd1NMSlpEdTJtMXFvZTBYblJWcWFkams4TUczd0dCNm05bS1VSGJ1ZDBlYS0zYlNSbkpzRTlWc2tFTzZjYmJUang3NDcyWVNtQzNsVGFUSWxzc2w5QWJpaHZueTUydEhhQ1dNN3lvMFBrY3VTUFd1NkFJYk9BNWZlcmNhVWJmXy10Nmg2aDRsN2I5ZUJxdQ?oc=5",
-          "time": "08/01 22:24"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "What Moved Markets This Week",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rc2xMSUl0SjlzcUZmR1ZnN05yX0RYSkFxbG1aLVIyQkxBRER2UFNsMVdNRGQ3X2hxY2ZlT3Fza3ZsdXBMTVRUcUhmNjFxWHgxbk5UaFp1ZjVNMFA4cUdKV3FfWUw2VGNfRVZXeTI2SFJmSXZyM1ZMZg?oc=5",
+          "time": "08/01 19:34"
         },
         {
           "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street week ahead: monthly jobs report, McDonald's and SpaceX earnings",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdHVQVE9ZQkNtZXdlcVZYSWhCMWFNQWRtLTRlOVZ1blY2WGhIeVMydS0yX2wxVjFhWnkyaVp4TVR6TzQzQzg2UFBvTVlmMTNGNmxhb3c5STRodGs4UnhGTVRzeHAxd1JydnFYenQ5WFc5ejZyZ2FYWElaNXN3UUxVMW15bVZ5M1hPSVI4WUNKOWVndlF0R2ZjSU1xZzVQRnkyRXdDaWxTNGxEWXpxTm5sX29abEwxQV9OY0NHcVNYOUQyb1M4YnVhWHJsaC1QN0Q1Q29vNjZ4X25kYUl2WGlvc3YyaFFmbnlVWGpVZHpldDE0Zm5hR0gzLUoxRmpIeHdVT2c?oc=5",
-          "time": "08/01 17:00"
+          "catn": "빅테크",
+          "t": "Stocks finish wild month with Amazon rising, Apple sinking and Seoul's best day ever resulting in a 22% loss",
+          "src": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ULVJ3b3pjUTFZdzdWbEpzRzRRODBnRGNtcDJsSkxNaVJKTFFRRzBsSmJoaGRGUzU3SXJqV2RhN2tCNnJwNFRncVRpclRMd2RZYTBGRl9zWS1CNG1XUk96UVVTZU9vMWNJanJnRExHQkpfeUExRFo5YnRfSQ?oc=5",
+          "time": "08/01 21:42"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Coinbase stock drops as Wall Street debates crypto exchange’s future",
+          "src": "Northeast Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0NWaWVJM2Y4REp4ZFBsRk9mNDdFaDh0RXFoUy1nOEMwSlpaMGNsdDNFeWxoNVBiajBBM2h3WXVUUEFhbkxVVDg5a1FzVUZwOGZtUjlrTHlqd0Vod1BLV2JPMHNCQ0U1VDFrYUpnZU9GVVQ0clF3VUt2T1VlQmhNZFFBYWVFVF9SdTBmLVYtZUxlUmRJTWZVYkRKeXZFdFVnOGo5bHg3UkxNaDQ?oc=5",
+          "time": "08/02 03:00"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
           "t": "Wall Street ends higher as Amazon soothes AI jitters",
-          "src": "reuters.com",
+          "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
           "time": "08/01 08:29"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Update: Wall Street Gains Amid Amazon Rally as July Ends Mostly Lower",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakZHNWRqazFKbXJELWpTbmZLaVpsTXljVDFqZWNGREZHUGgycWtCeThnRGtqSDhoTU9LR0J5Q0ZRNVB4a1hXYmUwVlM1dDZ4NmlvVVhrb0FiVmJKczJCVjF6YkFEWXNHWWZRR1g1MXRfcFJDTUJkeW11Y082TW82YlNrSXFfSUR3TG1hZDBHX2NScVBIdm96UDVn?oc=5",
-          "time": "08/01 06:14"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
-          "time": "08/01 06:13"
         }
       ],
       "indices": [
