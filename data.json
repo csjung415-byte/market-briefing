@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-01T22:56:58Z",
+  "updated": "2026-08-02T14:06:13Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[마켓인사이트] 역대급 '폭락→폭등' 韓증시, 상승흐름 이어갈까",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yUm5iN0dYckdsdjZPU1RCMFlqQ2tkUnNMT2RPSGpQSUNRQmNWTWx3VWJyblZQVk5Ia2dQN0dBNWJfX0NYM2xWd2VRRWlTRE5NdHdzS3AzZFlhQ2ZkM0o5RtIBYEFVX3lxTE4yUm5iN0dYckdsdjZPU1RCMFlqQ2tkUnNMT2RPSGpQSUNRQmNWTWx3VWJyblZQVk5Ia2dQN0dBNWJfX0NYM2xWd2VRRWlTRE5NdHdzS3AzZFlhQ2ZkM0o5Rg?oc=5",
-          "time": "08/02 06:00"
+          "t": "정점식 \"코스피·코스닥 대란 국정조사하자\"…與에 공식 제안",
+          "src": "인디포커스",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNWtJV0FfMFN3OXFyYUZzWE9VR3hLT1ByYl9LZW1aT1dacHRnTDFvLXdtYm1WWjFJazMxME1EbGtuMm16bEZOLVg4aDB2NW1ld0JzSlRlWThUTlM3TDNsM2pTbWx4V3hDaFB4WXBYZlRLWGJNOVNCM2lTc0wydGZEWjdjdHlTMWZwRGlYTWN6aFM?oc=5",
+          "time": "08/02 21:12"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[주식 소화불량④] 삼전 대신 S&P500…롤러코스피에 지친 개미, 미국으로",
-          "src": "데일리안",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbDAyOTYyYmFhaHRDczJIUlhhclVVSUs5QTFWdEFaTVBPX3MwZVgzSEdvM2J5WnhrSE5LNUwwTHNfTmU4Y1J4LXlXQjNwN19YZzJ5VEpfQmFINEQtTDhPUHAwMjZxWU13Y0Vsc3dIdFVpTlVCNHBIV1d6NEw5WkNZSGtzUjJqT3lmby1QcnR0ZEVJekxzbUo3VnNadTFubWJCaTFaSTVuUTE0ZloxMDFjV3dQV212bDdoN1RNSFlubFMweHZ1U0RRZUpJVXBXN3REYlNJRDh2ME1KRmh3YkJXZjVDclE4ZWdMandTZU5R?oc=5",
-          "time": "08/02 07:04"
+          "t": "국민연금도 국장에 털렸다…한달새 118조 증발·삼전닉스만 88조",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyb1ltWm5fcF8xSUw4RGlsVDRrU3Rzc082SEIteExrbDM3eU1pUmJJekdjanBiNHhZZ004NWxUR1JkOWJyV05WSGk0eVoyWF9ianc?oc=5",
+          "time": "08/02 18:05"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"다 내려놓고 갑니다\" 절망한 가장…이틀 후 급반전 증시에 안타까움만",
-          "src": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FcjB4LXdWTWZMdWt1SEdlVUFSejQ4ekNPRlY4MVpGMVhZZy15amZvRHhxb0tVbGlPeV91WjQyeVBCdmxZdm9kZDVYTXExVEpFT0hGSmMwZE9YY0hzNVA1bWRn?oc=5",
-          "time": "08/02 05:50"
+          "t": "코스피 급락에 ‘마통’ 1.8조 급증…‘빚투’로 “분할매수 노려”",
+          "src": "hani.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzMzlZcUZJUEtRMDdVM2xnWkdaa2FScTlqV0tzemxSZ3lWYl9RS0s2TEF0NGIyMWg4ejBuVGxmZkJOak82V05SUnlmelV1bnNiV1IyM0xKRlhuRTJJMEEtZTdFX1MtZzQ?oc=5",
+          "time": "08/02 22:11"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"미련하게 누가 '4% 적금' 드냐\"더니…코스피 폭락하자 \"차라리 적금 들 걸\" [개미의 세계]",
-          "src": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aZnVLWnpVSkFQa2h0bExCQWtqZnV4RENSUU5SQy03Zmw4czFnYncyeHZsYXRycUFvNVRjc3BNejRibmJESS05T25XWFNVTFc1NEVrczlXRktMZw?oc=5",
-          "time": "08/02 06:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "전 부문 고른 성장 키움증권, 2분기 어닝 서프라이즈",
-          "src": "MTN 머니투데이방송",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmc193WVg4OGVzTGFub1JYUWIwNDBkT0ZzekVIMDlhc1JBSzVhcEZNdl9ZQ3l3SnBORk1UcEwwLUtaS25MSzE2Wm1pZzljNkNlSmpiN1duRFI2ZlN6WVBlbTBObnQ?oc=5",
-          "time": "08/02 06:00"
+          "t": "7월 급락장 속 국내주식 10개 중 7개 녹았다…8월 전망은?",
+          "src": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZVUJsVmZLdGNWd2NrcFA5RF9aUU9RbGVKbFdtYmNoc3ZyU2FhN3dMVkxJSlFEcW53OEVQX0FXbld1ZnFfTnVxb2RzOExtcmNsNXc3VXk1aUbSAVhBVV95cUxPWVVCbFZmS3RjVndja3BQOURfWlFPUWxlSmxXbWJjaHN2clNhYTd3TFZMSUpRRHFudzhFUF9BV25XdWZxX051cW9kczhMbXJjbDV3N1V5NWlG?oc=5",
+          "time": "08/02 17:17"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "7월 증시 : 극단적 변동성 속에 모두에게 상처를 남긴 한 달. (그리고 레오폴드 사태)",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BUjgyQ3hValZCLXhnOFBEWW45MHQ3SC1lLTdBdEtpQURGRDB5UUMxXzdRcnJ6UjlseTVBTjRRaUJ1Uzc2NS04T3RSVFZpWEhxUmd1d0pZWGxnT1RnTkk0Tg?oc=5",
-          "time": "08/01 10:40"
+          "t": "7월 급락장에 속수무책⋯주식 10개 중 7개 녹아내렸다",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lMmltS1dnS2pyYVpZanB3bUtjV3BqR3ZVR1h1N0xhRmpWSVFaYmswRFBnNWt6V2ZINTdXQUNDalJDcGU3QVcyTDg3R0RRYjA?oc=5",
+          "time": "08/02 19:24"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"李 비난하며 '다시는 국장 안한다'\"…외신, 개미들 분노 집중 조명 |",
+          "src": "주간조선",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3b1dYcXRIQXU4ODZPYTdHN2tEZzY2MVU3RUY3cm1IOGRxaC1YeF9MUnI1QW9KTEpKMm9kd2FuczFkZncwSDJaYy1nZmgtby02SE1OUXNwS1hoSzN2YXVJbUlTSW5kelpKRnhyZE9B?oc=5",
+          "time": "08/02 17:00"
         }
       ],
       "indices": [
@@ -76,52 +76,52 @@
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "AI Stocks Stage a Rebound",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "America Is Great at Creating Stock Market Bubbles—and Shrugging Them Off",
           "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIenFhdUd6T0VBVHA0YVNHU3A0WnJxXzdWSXEyVC05MjlicVB4NkI3SllvSjg5V3dtcDZtN2N2SUNhNEFONzd6QWhjVkg4YWlSR0d4ZzF2dzZGRXZER19HX284MFBBMENfdUJ4bUJMd3hfbDdOOFA3ag?oc=5",
-          "time": "08/02 06:23"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "3 Wall Street strategists on the question every investor is asking: Is the worst over for the stock market?",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX2s2RG1ZTU9xVHpVYl9ORlJGazc2cEh0Z0FHSXY5Y1RBMGtkZzBtQ1MzTk90MklOMTVra2xwSnpvdUdCNVFRcGhjRlBtTmNTZTNaM1ZEN2dWUVBIZy1ZLV9jN0FyWi0xcjctQUs5M0xOdHozNlJpVnJyTEFJaWRYb1hlYW1qYXRVa0d2czVGQXU2aHNWTmsyeV8xYjZ1Nk5sYnRWWjU1SlZCdWQ4S0VlTGY3TXVyYVY4eWlHOEJtOExHMlcyRjVETlpQNEJ4UFRLTHlFS0hVSUY2UjEwUlNtdU1R?oc=5",
-          "time": "08/01 21:00"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNWc5elJ0b1BxTkJvZUNQUHA3dE44QTRLYTFxb1lkTHgxT3FpbDdJTTcwNzk4QVcwdE9KcW5wOV9BU0xIdThaMS02d3VTWndKOWFRWXlmNmFleTJlTG5rbm1nTG85OUM4STIyUUt0akp5R3dvU2NLTGJ0LU5lZw?oc=5",
+          "time": "08/02 11:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "What Moved Markets This Week",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rc2xMSUl0SjlzcUZmR1ZnN05yX0RYSkFxbG1aLVIyQkxBRER2UFNsMVdNRGQ3X2hxY2ZlT3Fza3ZsdXBMTVRUcUhmNjFxWHgxbk5UaFp1ZjVNMFA4cUdKV3FfWUw2VGNfRVZXeTI2SFJmSXZyM1ZMZg?oc=5",
-          "time": "08/01 19:34"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stocks finish wild month with Amazon rising, Apple sinking and Seoul's best day ever resulting in a 22% loss",
-          "src": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ULVJ3b3pjUTFZdzdWbEpzRzRRODBnRGNtcDJsSkxNaVJKTFFRRzBsSmJoaGRGUzU3SXJqV2RhN2tCNnJwNFRncVRpclRMd2RZYTBGRl9zWS1CNG1XUk96UVVTZU9vMWNJanJnRExHQkpfeUExRFo5YnRfSQ?oc=5",
-          "time": "08/01 21:42"
+          "t": "The Stock Market Is Doing Something Observed Only 6 Times Since 1871 -- and the Previous 5 Occurrences Ended in Disaster for Wall Street",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXdGbDRKZTA5cjJTUmk1bFJXd1BiM2NtRk9CbFFQOHRqVE8ydnE1UkZxMDVmUEdVSVo2VS1nSExBSUthSzdHa3hqUjlQZGtGblhfQkR4cnNHTFYydGhqQ0dBbVFObnRIck9yX1B2NlhCSlZZMXctM2VaT1RNU3JmMGZYZlNTeVU2dUg2R0todVVDTVR5WUpQYlNpMHRiLTFabjJhQw?oc=5",
+          "time": "08/02 19:56"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Coinbase stock drops as Wall Street debates crypto exchange’s future",
-          "src": "Northeast Times",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0NWaWVJM2Y4REp4ZFBsRk9mNDdFaDh0RXFoUy1nOEMwSlpaMGNsdDNFeWxoNVBiajBBM2h3WXVUUEFhbkxVVDg5a1FzVUZwOGZtUjlrTHlqd0Vod1BLV2JPMHNCQ0U1VDFrYUpnZU9GVVQ0clF3VUt2T1VlQmhNZFFBYWVFVF9SdTBmLVYtZUxlUmRJTWZVYkRKeXZFdFVnOGo5bHg3UkxNaDQ?oc=5",
-          "time": "08/02 03:00"
+          "t": "The reverse bridge: Crypto meets Wall Street using perps",
+          "src": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDBSTmNQS2Z6bnBpczNocEx5R2wtMFNPZGxEbXJfT1ducHB6WndsSEdlZzNHdElYM29jMURKalNwR2FERDVGdFdLMmItWXRQcEljQlpCc0tIVmZRVGdlTENlXzBSeno4VlA2V0djeWxabWhGQWJOcU93bk9ockstbHlLekYzTUltSndvZjNzMW40VFlBRHVPLThnVUpfYTMyemc?oc=5",
+          "time": "08/02 21:20"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street ends higher as Amazon soothes AI jitters",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
-          "time": "08/01 08:29"
+          "t": "Stock market ends wild July with gains as Amazon soars",
+          "src": "eciks.org",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqODJacnMzY0RVREx2YnczZXU2YmdWMUtRd3hfeHcyckVRdDlUTnpOeGJ5eDJBSTNFTGliWlliZEdraXNmcFVuYXFLdVItdlJJMGEzT1hOZVJFWkxiTmZWX1dVOV8?oc=5",
+          "time": "08/02 20:15"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Markets vet Jim Paulsen reveals why he sees the AI-capex boom under threat from 2 directions",
+          "src": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2xFUHl1czhzeHNKS1k4LXRDLTRzQ3h5WlRCMGpWbHRucEV4OWFlVU84ZENxdnhob0ZrRmRsb1Q3RXdOUk1XbmxSRjktWjB6TXI3dVh4TWVhczJ5UEFBU0xvcVVwazBkN0p3MEt6NUlJX2dLZ2dfZV83TU1tampOaW1sUEZrQnhBWnNMSjJ0MXhGdlFTaF91SGNuY2RkcHFtTGc?oc=5",
+          "time": "08/02 18:55"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street’s Favorite Bet Comes Undone as Chips Whipsaw Market",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUdnV0FHaHpfRmFXNjNDSUtfQ2xCVUpNb3NIa3ZnT1dZdUQ3QlZKLU9BYlgwR1pYVlg3RW5qVEd1UjRfeHlmR1AycllBSU9uS1paeFNhRTg4NGRZamxBekZuTi1tblRvM1lsb3g3RHRwbWlDcTZPTWxINlJ2cGtLSXQ3czRXN0JYbk9VTGk1aVY2RG9SVU95Vzh5Y0JkcjlTc0MzQ25EOUtzVDV4bU1hQW1hUTE?oc=5",
+          "time": "08/02 22:00"
         }
       ],
       "indices": [
