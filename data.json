@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-02T22:57:33Z",
+  "updated": "2026-08-03T15:23:38Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "블룸버그 “개미들 LEE 비난하며 코스피 떠난다…산전수전 다 겪어도 동요”",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YaTllOFBoSjBLUTI2VnZvc0JIUUtRdkhOWmlFekJsSVdKQzRXWkgxSEFsdlRWbkNzZHY4V3JwU3I3WnZhUWRPTWVQTm9McnBG?oc=5",
-          "time": "08/03 07:52"
+          "t": "모건스탠리, 韓 주식 비중 확대로 상향…\"코스피 9,000 다시 간다\"",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjY2pMNXR5UGpmMVFaazkxbjREOFBQSFlqSTRtdVBGTmstUXJlZm1GZXZRNU0tSHdMMTAtSElha2x0ZmoyelU0aHVPQ2ZlTkFvaGtPd2pEcVJwQm1Pa1pWRmhLUlRhMFdyTnhubnRTaXg?oc=5",
+          "time": "08/03 13:12"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 폭락에도 \"역대급 저평가\"…'8월' 파격 전망의 근거",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uZkpPZndBeXJrRGJOcGstZXdKQkhsLVFTMHp2bl94NFRpa3d2YnFUQVZvZUhwZXVjTjdVSHl6eTNtcFR4SWhMbDhOYjRhOUJzLVRkNmVuOWRQZw?oc=5",
-          "time": "08/02 17:46"
+          "t": "“무섭다, 다시는 韓 주식 투자 안해”…블룸버그, 레버리지 역풍 맞은 코스피 조명",
+          "src": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yUnlTN1JpbW9FNDRtVTFMb0RVRV9tNGhqdTB4TldIa0x0bkJFcjN6MzBRRUV5YWhOTGR0MzBqM29IaEw3T3Nwa1dIMHJNdw?oc=5",
+          "time": "08/03 17:59"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "투자자 예탁금 한 달 만에 20조원 줄어… 말라가는 증시 대기 자금 - 조선비즈",
-          "src": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUF6NkxzOGs5X2hkUmhncTBXWXZBRGVSTExLQWlDZVUyWEJtTVh4dTgzNnJfY2xKQkhtcFg5MjY0SEJjV2p4UnlXblZnekdMeUFQcGR6Q2NzdW5WSUgtbUg1VlM0R0NLZUlteGxsYmNuZHNyc2IwekJfS282UnpwemhvTEtXdkdj0gGcAUFVX3lxTE5VYm1Vc09GVmRBM2VKb2xQS01nSTRybm1sVW5aWVNpYm1SOERnYzR4NEY3Nkh1Tmk3eDdtdG5lYTZFVjQxRWM5b1EyeWpid3JqekpmWnpCdHJKY0dfYjE4LVcwVUFhc3Q1YmFCX1U5d21zOXJ6bXpkRVhzVHJGV1JBazY1Snc1MnVBcWJpMlVGQW9QTnFtUUNaM21wWQ?oc=5",
-          "time": "08/03 06:00"
+          "t": "\"한국 증시는 카지노\" 코스피 급락에 성난 개미들…외신도 주목",
+          "src": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50cWFrUWpPb3lZd3Y5ZXc0dkJfZkV0MGQzdzVjMlRVOXJ2WmlqRmFSNWQzWkJqd3JXbEc0Y1Z2OTZpOXg3Z1BRbGYtcw?oc=5",
+          "time": "08/03 16:16"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“주식시장이 강원랜드냐”…증시 과열에 국정조사 꺼낸 정점식",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qMUpZVl9zUmszNzQzdDV5X0NLNFFGNE5pVDZzVlpRZHNMZkF6b2VacThYSTdnTDdMN2RweUZ3ZV9iWjRQUXZmRngwdGduQ2s?oc=5",
-          "time": "08/02 13:25"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "한주간 1160P 출렁 롤러코스피, 큰 고비 넘었나 - 머니투데이",
+          "t": "\"코스피 바닥 다졌다\" 어떤 지표에 집중해야 할까 - 머니투데이",
           "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibkd1SHZSRmsyUnNiV280STVndkVFeXNjR2UtQkxkNFc3YnctS3FpSmk3YjZROWhJWUZfQW56U3pJekcwd1N4cl9rRTh1MHpqLTl4Um1uclhsZ0dnejM2dTNXRGpRTWxn0gFuQVVfeXFMUGRoRTBlaVoxRHZpcVZ6WFJUOUlVVG9FZ0dkQ3d3MzNpX3ZnRHZrNTlwZk9HRGM3MWVhaFR1ZFNGQmVkQ0lXbnNNeDNBWndsWmhNYm1TVmEweDl4d1ZhYUl5ZDA5NTAtd3FlbE9nNXc?oc=5",
-          "time": "08/03 04:24"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUQW5YVkxoRENPYXFtQlNIWTd4VFM3NlZPbG12NXdDOEs5QWllRVRwb3VSQ2pyZW1QTFBNUkJfMG9KRUhQNG1BX0drQkhRd3A0OTVoVGxXRG5GZlNCLXRNeUN1SHhlRWlCMnMtWXhB0gFuQVVfeXFMUFRBblhWTGhEQ09hcW1CU0hZN3hUUzc2Vk9sbXY1d0M4SzlBaWVFVHBvdVJDanJlbVBMUE1SQl8wb0pFSFA0bUFfR2tCSFF3cDQ5NWhUbFdEbkZmU0ItdE15Q3VIeGVFaUIycy1ZeEE?oc=5",
+          "time": "08/03 17:52"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBac0p2Uno5cG5rUHF3OTBSRnZUVTdiOGlJQ0k1S1o5bFF4bzRyancwN0F1QWNza3dLZUdjTE1ybDBIdGgzTGYxbUVEeDRmR1FFRlE?oc=5",
-          "time": "08/03 05:00"
+          "t": "'롤러코스피'에 흔들린 개인투자자 투심…다시 '미장'으로 눈 돌리나",
+          "src": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZkZHSlpjdlZiTVRlcFhqalRNbzF2Ylp4dXpFZVB1emJLMkxLRlV0WlhRNVJ5YzRqcXhxVlMzbzNwR3R1Zk13VnoyRVZRc0xYSHgyVG5PeV84Vl85YkVCMA?oc=5",
+          "time": "08/03 15:38"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "이 대통령, 귀국 직후 부동산·증시 점검...코스피 다시 하락세? [뉴스나우]",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LWDNXU3d3NnRmUlVPZzhUY19Ednc1ZW5CdWR6aDhaSEhmN2R4bFEtTEc4TU1BSHk2UDdpNVNvSzY4MEt1NFc4ZEFYVzY3OWJjV2xqYndVOExpY3doYmc?oc=5",
+          "time": "08/03 13:00"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1437.26,
-          "pct": 1.17
+          "value": 1431.45,
+          "pct": 0.76
         }
       ]
     },
@@ -77,71 +77,71 @@
       "news": [
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "Korean Stocks Tumble on Doubts Over AI, Leading Asian Equities Lower",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFM0bFk1NjM3X1QwZzlvTkxFa3lQRFZHQWt2VWpKR2pndV9HdHQyQnUxY0RsbVJmUERwVFAzNngyWVlUUTY4X1M4R0VraklGZ2prR2F1aGt0bTNVbjJKcW1tR081dWFLaGRMSTlQbURoc1ByNmV5Nkt0UTVEN1ZUQ2tNQkJ3dW00?oc=5",
-          "time": "08/03 04:48"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The Stock Market Is Doing Something Observed Only 6 Times Since 1871 -- and the Previous 5 Occurrences Ended in Disaster for Wall Street",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXdGbDRKZTA5cjJTUmk1bFJXd1BiM2NtRk9CbFFQOHRqVE8ydnE1UkZxMDVmUEdVSVo2VS1nSExBSUthSzdHa3hqUjlQZGtGblhfQkR4cnNHTFYydGhqQ0dBbVFObnRIck9yX1B2NlhCSlZZMXctM2VaT1RNU3JmMGZYZlNTeVU2dUg2R0todVVDTVR5WUpQYlNpMHRiLTFabjJhQw?oc=5",
-          "time": "08/02 19:56"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street’s Favorite Bet Comes Undone as Chips Whipsaw Market",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUdnV0FHaHpfRmFXNjNDSUtfQ2xCVUpNb3NIa3ZnT1dZdUQ3QlZKLU9BYlgwR1pYVlg3RW5qVEd1UjRfeHlmR1AycllBSU9uS1paeFNhRTg4NGRZamxBekZuTi1tblRvM1lsb3g3RHRwbWlDcTZPTWxINlJ2cGtLSXQ3czRXN0JYbk9VTGk1aVY2RG9SVU95Vzh5Y0JkcjlTc0MzQ25EOUtzVDV4bU1hQW1hUTE?oc=5",
-          "time": "08/02 22:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Top Wall Street analysts are bullish on these 3 dividend stocks for passive income",
-          "src": "cnbc.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTNjWVRHbl8tcGFtMDRGWjRrbUgtQU80QUtnMlRldmhMd25JUDJ0TENwRXQ4MC1ONGdVdURSUVdPdzhDeDhGVXNFcGwzc0ZjVWRMSVZDdkttbmdGcVFoUXRLRVBfNmxGeXh1NkIxdWE3Y1VxRDJCbGY2d2RrZ2N5SHFuemlZVkExOXFZVGFXWk1sUElmQUJtUUQ1bkpMZWJQLUZVVWpWdXItUdIBrwFBVV95cUxNMzJVUG5rYkhSS2JQVGNLSV9FSU9YczljM0hMNDJYSGR5d2FfOUItTllDVEFuR2tNdDNEcUhQR19ZUF9ORWc0aE96WkJRbE0tY1p4TF9NZHVUMkRRZ3V6RVFUMVlqX3QzUTd3Zm5CZERNNU9GSG9kT1lJaVkxcDNoR3l6WVowTy1BQnI3ekNjT29ZTUZjTGxkVkk5akpoYV9nWGVpS1Ffd1JUVGJLTlhB?oc=5",
-          "time": "08/02 21:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The reverse bridge: Crypto meets Wall Street using perps",
-          "src": "CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMDBSTmNQS2Z6bnBpczNocEx5R2wtMFNPZGxEbXJfT1ducHB6WndsSEdlZzNHdElYM29jMURKalNwR2FERDVGdFdLMmItWXRQcEljQlpCc0tIVmZRVGdlTENlXzBSeno4VlA2V0djeWxabWhGQWJOcU93bk9ockstbHlLekYzTUltSndvZjNzMW40VFlBRHVPLThnVUpfYTMyemc?oc=5",
-          "time": "08/03 04:54"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Week Ahead",
+          "catn": "실적",
+          "t": "Wall Street inches up ahead of earnings, labor data (SP500:)",
           "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1INUYwWDhTVDZNWnJTSWZkUmx0cEMxb1NwbDJWeEJzSERnd01tTThjTVc4RXQ0a1VGQ2twaHVWem16c29TdFdQU2lnTHdFWE5Tb085S1ZNX0NhYU1XakVGTDB4NVMwdmwxZzRkSmhDY2c?oc=5",
-          "time": "08/02 20:19"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGctTkFzdmtucndSNVlpNE8zNV9xQkwwcEluOWJmamcyczc4V3FMcVAxSFRmelNHeWlGcFhESWNpRXpGZTdTUjdscVBVZGx5YktJUklYLWFYdW45VDZOMGtCZ1lQSWFtRjBERTBqcklta2sxOHgwMDJMYVZacmJoRXdMN1hQUHA4?oc=5",
+          "time": "08/03 22:32"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Falling oil prices help calm Wall Street's inflation worries, while chip stocks get back to sinking",
+          "src": "WHIO TV",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSDlGMFZrSUw1amk2RUtVSHVXZl80dS12VlN0V3FlQ1RGYWhZdkNKR0I4TUpBVkp4dHpEX2l1NnRmVXhzd0JmNy1KWEJkR3dZZ1hZU3U0SmQtTU5jSC1WZFROZDlPMTFtVlRYdDVJaGE5a1ppamhNUnhHam9NbkRRSVdGamprRVBsalF0SGdKVzh3N1lZaERuZzhR0gGaAUFVX3lxTE9IOUYwVmtJTDVqaTZFS1VIdVdmXzR1LXZWU3RXcWVDVEZhaFl2Q0pHQjhNSkFWSnh0ekRfaXU2dGZVeHN3QmY3LUpYQmRHd1lnWFlTdTRKZC1NTmNILVZkVE5kOU8xMW1WVFh0NUloYTlrWmlqaE1SeEdqb01uRFFJV0ZqamtFUGxqUXRIZ0pXOHc3WVloRG5nOFE?oc=5",
+          "time": "08/03 22:48"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Is the Korean stock market's \"washout\" nearly over? Several Wall Street investment banks believe the market may have already bottomed out.",
+          "src": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcU9oQzk0S3h3UUdNdkdwT0lRRFk0clNDMTdoWGxaa0h0cjhad0o1bGtpX2YzX251dEJOTjRDcUE0Qy0zcjQzRS0xWVVEeXcyWkxOYk45MXNqSVZxYVZ5VDgtNDF3bUJqNjRYZUp6c3pndFNXdV9Ccl9NVzZvTHJWWDQ4WE11M0dfdlJZOU1Lc1RsSERVRW01eTZXdjlOSVE?oc=5",
+          "time": "08/03 20:39"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "S&P 500 Faces ‘Worst Two Months’ of the Year: Wall Street Strategist Warns Investors to Brace for August",
+          "src": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOb3dweUJCYThiTV9Ra0ZpX1lEZXRhWTZsSlkydV91aXM2THN4UU0tZmN4WldmNlBUQVlIel9TYTFrZ3VpNURwR0daUDF3S1R5NG9lanZRRkJ0UnpPNHAzNVQ5QnNqODc4SWlrbzhFNDR2WHkyd3Q0U1VDcEhnTllXQUVaT1V6Q0ZGUTFMdUVEbmcyY1NNYXlKRFBPRjI2UEk0cUotZVJyaXNpZTJHVmRLLVQ5T21lVWdjWUJQb1FOLWZuYW1acjVVR2hHME45bmphSHFuR2ZFUDZTVnBUbnlUS1drTnFlOV8tUHNueE9sQmpUdmVTSUlhLXFHY21OMURSYXZXcjBKY2xzU1ZaVzFJazhLMXZ1cU5mbnotMURHNkszNWNsUnJCaw?oc=5",
+          "time": "08/03 20:46"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Falling oil prices help calm worries about inflation, and Wall Street rallies",
+          "src": "New York Daily News",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5STHBjZlhSUElkYWdnNDYyRFgzd2dHR2tYMWw3OXl2VXFEUmZqTVNtazg1Qm52TVZCd3RrV3FuSWI3ZlExUEhFakJTdDQ1RlVRQkRBbWZQRHkwTlJXaDlDLWsxYTdZQWkzd2dZMk55WFE0dHVodXZz?oc=5",
+          "time": "08/03 21:29"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "3 of Wall Street’s Favorite Stocks We Approach with Caution",
+          "src": "StockStory",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFNSaEJpc21QMHh1NF8tU1A5TkFfOFFxWFVEMzNoTWd2VVBLa3lFSVcwcW0tby1XMUZnZkxkUmEtNXpHV25zTURNUWxvVzhkWmptTUlxeWhDYnViaElaQ1pxZDVXdGdxYms5Q214cEE3NUgtakJKdVlkZUpyQUJTdmJEdDRLZ0I3c05oa19LQmdsMzRLakFqTlIxdy1yNHZJNGhBZkVOZUZYTmQtSDNRQm1vZ050Z2ZtU00wWA?oc=5",
+          "time": "08/03 17:23"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7489.72,
-          "pct": 0.7
+          "value": 7580.28,
+          "pct": 1.21
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25373.85,
-          "pct": 1.0
+          "value": 25843.12,
+          "pct": 1.85
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52485.03,
-          "pct": 0.53
+          "value": 53032.12,
+          "pct": 1.04
         }
       ]
     }
