@@ -1,8 +1,40 @@
 {
-  "updated": "2026-08-07T22:37:27Z",
+  "updated": "2026-08-08T13:25:26Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르게 악화”",
+          "src": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2U0pzUkNuekFNeUZGNEhYbWRfUm5QVzNoYWFrOGZHMTl3SXdFbzVMdWpVTm0wQ3U2dVR3WG1sMTgzZE1SWFI0NFg2T05nT3o5?oc=5",
+          "time": "08/08 18:22"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“역시 미국이 답”…코스피 폭락에 서학개미 ‘대탈출’ [머니+]",
+          "src": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdnF3NUVMRzJ6MnlFNThLMG54eno2OUFfeHZaaFZfVjJIVjBhZ2RLNmd3UFZ3RkdzVjhTUGlEeUxQTThpNmpOSnczY0xpWGJPV3FRQmlpSTZDSnc?oc=5",
+          "time": "08/08 11:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "긴장이 이어지는 증시 : 코스피 신용융자 다시 늘고 있다",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41am92ZUpqNTQ3S1ZPN1VscGNvRkdLRGpRMC1rREVMZjh3Q2xZSUhPNldLeFQ0RURacC1TQmlfSnZabGpaOTk1blVVUGVrWnVXZjhLSEFKQXRsdGltTW9FMg?oc=5",
+          "time": "08/08 13:16"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "주식 열풍에 '빚투'...증가한 대출에 우려",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5QXdrOHdwendZNUdrcVZhQzllZDlibWt6dzdYUExQRGhIZDM5bXlfRGU5emVyY2lDRTFEZ3ZURjBmczhzQWl4WHVobEFZZmVwUHlSWlI4MUZUeDNVV1E?oc=5",
+          "time": "08/08 10:07"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,56 +46,24 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "긴장이 이어지는 증시 : 코스피 신용융자 다시 늘고 있다",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41am92ZUpqNTQ3S1ZPN1VscGNvRkdLRGpRMC1rREVMZjh3Q2xZSUhPNldLeFQ0RURacC1TQmlfSnZabGpaOTk1blVVUGVrWnVXZjhLSEFKQXRsdGltTW9FMg?oc=5",
-          "time": "08/07 17:49"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "'전강후약' 코스피, 이틀째 내려 6,200대…코스닥 엿새만에 반락(종합)",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5OEt1WE5fdEVQTk5jVXF0cVZDSTNFeU5IZ09nTWtlaHgwZFpQbzBiRndLU2tmWWtkLWpTOTRaa2UyMDAyelVWSE9Genljdnd4WnUzZ0oyZ2RfTHczUl9TNNIBYEFVX3lxTFB5OEt1WE5fdEVQTk5jVXF0cVZDSTNFeU5IZ09nTWtlaHgwZFpQbzBiRndLU2tmWWtkLWpTOTRaa2UyMDAyelVWSE9Genljdnd4WnUzZ0oyZ2RfTHczUl9TNA?oc=5",
-          "time": "08/07 16:02"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[주간증시전망] 다음주 코스피 6000~7000⋯“外人 수급은 정책이 변수”",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hcFJiUlJqVE8xZTAxZWRRWmFtMlNPYzlNaVhNY1d3QzVLV1dNRHN1ckUwOGVMNW56VFlkalhUdmVPWGdFZk52bjhOSDJ5SHc?oc=5",
-          "time": "08/08 06:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[속보]코스피, 하락전환해 1% 안팎 하락…코스닥도 2%대 내림세",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42ZDFQNFVCaVhUZUo2VUVqV3pDNU1HcmZnY1dlSDZ1bERDZFlxcFlSZG8zYkZ5Z2hwdEpSUmh5S2hqLTlXLVJfTEJ3Z2d0S0pB?oc=5",
-          "time": "08/07 14:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[증시-마감] 엇갈린 대형주에 코스피 반락…코스닥도 800선 밑돌아",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53am5QMkNmMDRLS0UzTDEzeGZBSS1KVDJuQ2tVZ05BV211NVNBQUEwMk1YbWdpZzVRZHRNTThKd1dWaDNmRE9qSHREMUVablJOX1BUZVQzckpicWY2cDZMQkJBeXEtZUdnVzhJU3lBTS0?oc=5",
-          "time": "08/07 16:08"
+          "t": "한 달 만에 22% 폭락한 코스피…\"지금이라도 팔까 버틸까\"",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zNExZVmJJWGNDdzh3aE9PcUpiN1dBOTg3N1hsbjQwVnA4TFRGY1V4QjNPT293VzNzQkRETlhHa1RlWTRPc2pGY1F4VXhiRjgtR2RxdWEyejZNZw?oc=5",
+          "time": "08/08 06:00"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6296.38,
-          "pct": -4.58
+          "value": 6258.77,
+          "pct": -0.6
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 801.67,
-          "pct": 0.26
+          "value": 798.81,
+          "pct": -0.36
         },
         {
           "name": "원/달러",
@@ -76,52 +76,52 @@
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTMxalYyaTNUTFB0bXJvbVAxM0psTmFZTTVCNTBrUC1YSTd3VGZQdjhwNWw1amNrdVJaUFAtMUtCR2U0V1JyY0VyRURyc3hGV3ptbWthM1IwMTBleDdteUJDaXlnTnl1a0dxcnpkSVpLVkNpNGlnUkxqbm52TWNPaGdqbEl6YkJDS0ZyU3QwTFJtNlgyQkdRcNIBngFBVV95cUxPNGZ5cFFJQlZzY3ZJQWY2UGdoTTBVRkZUR0VqMWdYWmYxdjFYYVEwNFpEckY5SW5VZS15WS1NSTA4Z2xlcFJ5VTlDaDhDQ1hYQnBCZUcxLWhlVzdmQ0xFZENwUEhmUHJQTmhOaUp2SDdyc2tKWWFRRjBUN01aU0lMcjJxNW03aENUY3pjQW9JVnVlSjVGdjZpYUUwS2IzUQ?oc=5",
-          "time": "08/08 05:49"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "META_TITLE_SECTORS",
+          "src": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aZHRnWXJQdlUwdmU4ZExFUzhEVXA5TXBHSFBsNS15TzJCSWtfMGRtU09HNENQMl9mTzlBenQyVmtTOFBKaFJDQ2ZB?oc=5",
+          "time": "08/08 16:35"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "The Economy Lost Jobs, Wall Street Threw a Party - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-          "src": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUzVJMGZ2Q0dXSFhOMHFsbTVVck1LcVY5eG9qdkdtXy04OEttaGNtWEZVY25sMUdnbXc5YmQ4cmFZSHZBSzZwTmtPTTNHdGZPeWRSZi1DazdlQUVNLS1mMU1VTXBfWHpIR2pCdlU0ZHY0eUU1MzlZZG9QdGZvaDMtME5nQzhacDhqQzBhR3hiWGF6WmxxQm9JWlU2dHlpamRpa1pKMzNrZDJXQ1Y4RWU3bDk4ZGNMX084UWJB?oc=5",
-          "time": "08/08 04:40"
+          "t": "Wall Street week ahead: inflation, retail sales updates",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZnhtejZUU2JUNXFMOFI2WFY1dzRHc2JmTk4zNl95bjVGQnZIUTc0T21lRi10bWUzb0JQYmVXN1plbTgyeUcxY3JVOWRaMmhneWlYZGV6SlhlQS1ySmNUQ01SWktFejB1LVlKbHF3bUMySzh3N2FycTlaQWdJREYzNUUtUWNpR2ktQ2RXVThrNWZEZWVLVXh6Y2dBOHdSbGx1RWFMbUJNSl8yeTVIOHRuMjRHZlAtSHc2RTlEU0RwX2NBZEJES2tvc1NKMWZzNDZFNW00WUNOSWZVbW1PM1ZLejFteWVoUW8t?oc=5",
+          "time": "08/08 17:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Making Sense Of The Current Labor Market",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0U0Y3Y0N1lTaXBtT3B4Y2hDYjM0cmVhRkFBcUw4eXV2WmYwN2RadGQwMDk3THhsMUtRNEdQTGtBd1h1M1g2TWl0UU1LM0Y0SkVoMVEwWndKUVNlTWdncXFIQV9rNERBcDNfUU1idTllSUd6Q0lkc2xDNE91RkNPLUNJSEhFc1E2?oc=5",
-          "time": "08/07 20:28"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Stock market hits records as Fed removes key safety net",
-          "src": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUndFOW5Ueks1VUVfWHk5bW02eklWV0lOQVlkOVBDQmtXS1IxOGVHejRWVlFnRDZIY1lJbEM0bENfQTdqaWVWVThndXFnM1Z6cC1naXhOazJfWEpJazJfYWVCM196Qm4tY3J5RFVMV2xFNWFXVHdweV9aT2tETmcwUU44NUJ4T0tIVnBwV1RacEZqUWdleng5MQ?oc=5",
-          "time": "08/08 04:33"
+          "t": "The Leverage Risk Wall Street Can’t Afford to Ignore",
+          "src": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEFYbkM2cDRzOTlsSHo4bnVRQ0Fia0VoeXNxclhYbzc0WEZLWFZpMUpVQUhoX3pycGFFUi0tTzM5OEhDOXZ3VlZUcVFteGhYM1U3Wk9YcVQ1MEs0cThQOVgzZnRzOVpDcl8xV2ZPWDZpMGhsYks5QzlNa2xMcnRTM05Ea0FTZU9sZ1RDVDMxQnpLQUpONjZoaFZ2cHFacWlacVZiVmJmWHZBUms?oc=5",
+          "time": "08/08 20:56"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "SpaceX upgraded, Trade Desk downgraded: Wall Street's top analyst calls",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3NCaWFnbjNqRGh6QlVrSjNza3hpRnFWRlBVaFc4MWkxSVJiOVA3UGtfNmh3MktzRVN1SUE5RXl0NjhPY0gwQ2hWYnd1TE95aWxrYVN6czl6YVdNc1Z2bldsZktuX1lQN001aC1wRnNlc1JDd1R5T3N4bkZyMmU3a0JTTmdfTkJUS1A1SkFYcndZUXpPNFB0TGlhQWZJdmJqMm5DTU1Bbw?oc=5",
-          "time": "08/07 22:45"
+          "t": "Top Wall Street Veteran: The Stock Market Is “Shrugging Off” Every Major Headwind. Here’s Why",
+          "src": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOUnA0OThpS3R4NmFmc2lXRlpaT2FHRGNoSUloeXp4QzBBR0QtbHBjMmJ1a2lvb3lDdDJSa3poUzlBQi16aGtrd2VRWmI5bGVBaUFadXlCR21lbTBqWDBLWHltRThUQmNIOTdwcVZaNUd1SUlsaFdWZkpxSzNrQQ?oc=5",
+          "time": "08/08 16:49"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Korean 'ants' swarm back to Wall Street as KOSPI rout dents homecoming drive",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZS10NkNDSzZNU0hhVHhjcVJ5RFN1YUVXVFl4Skt5bEd6cDE4RDE1NDNKc2E5OXVIV01SWEVDN28xQTBFLWp5MWc3aW44OVBuaXNOZVR0dk5nWF8wR1NKRkdEOXFOaGphdnVFZmlYQ0xGSW8wYnplMi1nSzZDVDdTV21obTBoREpmcjBXZ1N0S1FVVEw3TG01Q2FKRXlEckxyb3k1NFdobFBDUTUxRjRHcmZQSVNXRlFCODhScUJYMFU?oc=5",
-          "time": "08/07 18:26"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSElMOV9fQXlVbGN5V1NlVG53cjlHVXJTUEJwRzFaa0xWYnJLQmZLWTBLajlsMmtiT09qamNzUW90R08tZm5QMkRDTVh6MEMzVHNuUGJuLWpFdV85QzZ4WEF3cGxfTGVNbzVvM3BLQkdVU3ZpajZNZk5oT1NpT3dOTjJqVm1PZ0xNQlhmYloyb2V3UFNCU3l3?oc=5",
+          "time": "08/08 22:11"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Tesla Stock Slips Premarket As EV Headwinds Mount — But One Wall Street Firm Sees Over 30% Upside On A ‘Physical AI’ Future",
+          "src": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZzNnSHdIb0YySzhjeC1QM1VHbW94QWdScV9vc0FTUHk5d2tncHU1U0FsSmJqYktVM05KcmtXMGNEYzFYdzlVd1Z0VjQxMXRTWnFjWHN1SDJsVXRwaWFZdzhxYS1CYjdMTXpSZ2lHandXbFFVRlhhU0w2aUoxT1gzaElhOEpOZWRYYUx1MjFaU0hYaE5QYXFjLTkzZFNzdXV5ZU9MTlB5MkNpOGZ5QmdNUEVZakVvQmZZSEZhcjVKRTBuNlJLV2tBelh4V2lWUThqb1lQOFZTVGw3azlZdkNaMVhEaTJQTDJO?oc=5",
+          "time": "08/08 16:41"
         }
       ],
       "indices": [
