@@ -1,15 +1,31 @@
 {
-  "updated": "2026-08-09T13:29:26Z",
+  "updated": "2026-08-09T22:33:03Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피와 ‘위험한 동행’, 흔들리는 대통령 지지율",
-          "src": "주간조선",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fWkxzampjd19Va2NYbTVyUGZVNV94NV9vVjE1NUhBemxoUzBYdndKVFhwcHg5QkplSVBSTklZb2ppNFJsMFdkelBraG9ueVMtOHhsd2REQWE2aUtESFhURm5XbFpiSHRYa0HSAW5BVV95cUxNR01WUTNIeDBGb1ZjeDlGVnlIQXREZG1sYmpxT1ctSG9jNHA4SkNtaFhFTFlLQWRsNmlPT3Q1bTU5NVoyZS14WFBUblZ3T21vR2I2UGxXUExQTmRTSTQ5ZU9BcmJQbmNCbV9CTnJsdw?oc=5",
-          "time": "08/09 05:00"
+          "t": "\"주식시장 떠나지 마라, 올해 안 9300 다시 뚫을 것\"",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnpyY052cWpvaXo1ZG9GNlpfb2hXTnpHZ05HR3JONHQybmFUOGdNaXRPaUxWVEYyclEzY01jaFR3eFVxMEFkYW52clhlVi16RDBSRm9kZllTT25uLXZhZFVDYURFMThQNVkwd1FWSzRWTnVtYmpOaGppMW9xeUhsNw?oc=5",
+          "time": "08/10 05:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[오늘의 증시]美금리인상 우려 완화…코스피 6300선 회복 시도",
+          "src": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZTRUcVNnRzVvc1JUM3hYVy0yVVg3dHA2bGktMmRmM2M3dGlMYmtYQkFUd1VOUVpWTk9hMWlzYWR5Sll6TGNncS1ZUS1nY1BySHp3WmVnOEFqbVNNdFlfRtIBeEFVX3lxTE5rV1BlT3dDSmF6VDJyaVIwZzJIQlVjQnBmSGdtMExiTkZMamFaSGR6Qi00alZNMFhKc3JVdm9RNG9Ud3VkMk9CMUN2RTJJbE1rTkNLYVEybWxGUkxzeEI0b0pPV1c0YzRva29OZG5wMzJST1drT0xtTw?oc=5",
+          "time": "08/10 07:25"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“코스피 9000? 올해엔 다시 못 볼듯”…전문가가 추천한 하반기 투자전략",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9JWVYtQU9aVUVaX2lCN08tSVYzRVMxRXZsTVV4TG9UU1F1M3BkNjFuUEVYdDVrR2dMd1RTQ0w3Y1l3cEs1V2c?oc=5",
+          "time": "08/10 05:47"
         },
         {
           "cat": "flow",
@@ -20,36 +36,20 @@
           "time": "08/09 12:05"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "주식창 닫은 개미들…코스피 거래대금 올해 최저로 ＇뚝＇",
-          "src": "한국경제TV",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41bG4xcWlMamJFTVVtd1ZGYmNFQmlSb1pOeHc1OHJjaHlrY2x4YWZuWjZBNmZlbzVmVUQ3Vk5DaHc5SkdiajRBeG8zZ0ZQdGpqamJuTmlUc0h0c2VUZkNXbENWbHQ1dGhraHpYYTlDV3VWN0pVMmYw?oc=5",
-          "time": "08/09 13:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[주간 증시전망] 성장성 뒷받침되는 업종중심 대응 필요",
-          "src": "전북일보 인터넷신문",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vaFVsSTV4WE1MaWd2TjRlZUFqRXMzZlVJTmpuajNGdWdYMi1iNlRkM09yNTZMeHZWSUZxMW5SbExWS2cwajFuakVISFNnNW9nTFlwUNIBWEFVX3lxTE9LU1pHcmFmTnU4SnoxTTNLbzhfNmtzZHJHbm94NVprTXlNWVp4M3IxYUdaTk1SSXZ2Zm54bDdKam0teVVFcUExeEtMSlhyYWNFQUEyVXBseVY?oc=5",
-          "time": "08/09 18:38"
-        },
-        {
           "cat": "flow",
           "catn": "수급",
-          "t": "개인 투자자, 올해 국내 주식시장 순매수 200조원 넘었다",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wMlpNcFhpb2V2Vm5Ed3JzcVJ2Wm4wX2ZuWWdEVGpURE9sZldQbVZEODZpdWM2ejlwcHA4MFozOXplM3NYc1NzZjRON0hJTzN4S3Y5YmZtZWhoUFRWRUVuX9IBYEFVX3lxTE4wMlpNcFhpb2V2Vm5Ed3JzcVJ2Wm4wX2ZuWWdEVGpURE9sZldQbVZEODZpdWM2ejlwcHA4MFozOXplM3NYc1NzZjRON0hJTzN4S3Y5YmZtZWhoUFRWRUVuXw?oc=5",
-          "time": "08/09 06:20"
+          "t": "코스피 급락에도 개미는 '사자'…올해 순매수 200조 원 돌파 [마켓시그널]",
+          "src": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIa0N2U3RxaU40cHE0MVdBa0pFNk45RU5Oc1NvVUp2LVBmNVZHUDdLM3lNOFdORTJRRWVJZXByaERTTl9VTEE4TzFUNjd4QWFXdUdZ?oc=5",
+          "time": "08/10 07:01"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "월요일에 주식 사도 될까…이번 주 증시 흔들 빅 이벤트",
-          "src": "아주경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SVlpyWVF0Q0ZVUXhFdEpHc1NTTlhnWDBCenBzTUhuc0lGTWprN3FQd3ZtLTVkNWlLQWs0SW52SzgtRmdzVmlrZTFzdVNfSkt6NGdwZzZLZlRvUdIBWEFVX3lxTE1KMlFNVU9RdnNaZVd1WXpoNG5GVUtkNko5UXNDd3pKakN6cEtsQUFXQnF3T3dfZXJoc0tpanA0eUxTOUlsaDBlc1B1SFJnUXp0dGNkQzYxcEM?oc=5",
-          "time": "08/09 13:30"
+          "t": "주식창 닫은 개미들…코스피 거래대금 올해 최저로 '뚝'",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83eGhUWThaQ3JQQUhBeUhFSTYxcjZGRk5GZWR5UnFRU3lkWWJ4UGk5WUZ0UC04T0tGYUl3Z2ZmWXFHeVBrU2ktZWhFMS1lWjJUb1l4eQ?oc=5",
+          "time": "08/09 13:01"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1415.7,
-          "pct": -0.46
+          "value": 1407.33,
+          "pct": -1.05
         }
       ]
     },
@@ -79,9 +79,17 @@
           "cat": "macro",
           "catn": "시황",
           "t": "The Stock Market Is Doing Something Observed Only 4 Times Since 1997 -- and the Previous 3 Instances Ended in Disaster for Wall Street",
-          "src": "finance.yahoo.com",
+          "src": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHVCclUxcHRaTklkSVZaN3QzZkxCVHUtTlBuNFY1TnUySWtUdlA0TEdlalNZX2htVXhmRjBDUGw2R3J0dnFYdVF4bjQxZmdCM3V4MlJHekUwTERfMkNfZm53SDEzOWdBYXlFejVTVlQwTU5tRnNlSHVnZG1qRE9hNVJmY041ZkpsVHQ2TXRibjNyckI3c19zQ3NaZzlWV2J1MGduQw?oc=5",
           "time": "08/09 19:56"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Blockbuster Earnings Bolster Stocks’ Record Run",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHFiLWJhb1NhN1N4NlN3aTdNSU9vODFLZHBvR3BxNlU2bldZZzZPRmxHd3A2ck9tRld6V1NjdU9Nc0oybWZJQ0dXUVh3V3JvUzdSYmVSZzlFWlFVRDhwUnVBMmtiejNMTW9ESV9HNkEzNWFmaDBzaXhnNEUwLXROem1paEZjWGxyelY3LUZ6NFZqZF9Z?oc=5",
+          "time": "08/09 23:57"
         },
         {
           "cat": "macro",
@@ -92,36 +100,28 @@
           "time": "08/09 21:01"
         },
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street rallies to records, pushing S&P 500 up 1.8%, as profits pile up and oil prices ease",
-          "src": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEtHekc2bTlEcm1uQzhOeVdYakFyb0gxWGgyS0FqQ2tpNmZKQVh6Ul9ndUVFMjV2MU00TDlBWmdHWlU4SFF5LW1qcEc2ckFoWlIwTVRrYm9RYkUwdThqUmVsbXNmWFpXaDNrQmoxbENZdmxCNnpPWlZ6SWgyd0dXbjFnR1hIQ2lMLWVIM1RCcHlBcTZTMjRQR0lmUmhMYy1ta0ZsVUVYcEgyUzU0UVEwdkdMXzRvc2swNXFtRUNvV3BvT251QWtQY0VzZndqMy1OMXgw?oc=5",
-          "time": "08/09 07:58"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Punishes Sandisk's Outlook: What Investors Are Missing",
+          "src": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPckZoRTN4bWRMd1dTbGtJQUNTX3lVMWtwNDIzbmxZV1ZpTVhlQUtpdU1abnZqYkVCSnhvd2NPM3BzVnlLUFFldjJ3dUs5WkNsanFaNUUwaXNsU3U4bjdJMFRxWDlaeGFFd2czQldpbFEzWk1pZ2huOFZROFhmUUk3akxOMGI1dkg1bVllN3FSYlNkSGRFcmk5a1R2c210YUIwT2habnZyY2NOR3RhR01WVUMtdEhIbEdRSTNIUVhPQjhVMlhObFdGc0JLbTVCZzJtRjlaSzVDTW93Ny16?oc=5",
+          "time": "08/10 03:57"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The US Magnificent 7 Stocks are Losing Wall Street Interest",
-          "src": "BeInCrypto",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSmVYU1dtZWxCSWVxaXdzcl92V1doMXI4WU9wTm4xTEFuVWZLLTc5WGotY05zeWtaTm13SHI4elppSWs1N3U4V191U1AwS1FvMUhEMndzVGlRc1RwbWFPQTJaR2xQNDZSYm5icUNYelZuSXl1T1VFMVgzYw?oc=5",
-          "time": "08/09 21:46"
+          "t": "Wall Street set for mixed open after sentiment rebounds in European trading",
+          "src": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjQ5Z05wU1lEMHZpQkZZSlU1NVpCQ25hMTM3VVlTX1owc09kOXRENlBMSFFfV08weDlzNzI2TXlKR2FZYVIzWXNnU0lFTElIbjJIdklDenlzS0lBS0swS3pMQlRPWXFKaVdMRHRSN0ZLMGpydENWc1hqZXhtbE80c3lWTm1WZHhqOVBKQU1XOXlpWEZpbFlacUFobjRWVDc1VmdMSERDaFJqVlcyZDBidVgzdDJwZ9IBuwFBVV95cUxNRThaOHpQejdtM05qTEpMMDlBcHFDbXVfREhUWFRoNXRtS0htTzViZjhHcnhnV0YtODNwYk9ZQ0I5MjUyeW9fVjRCSUxBWmFEOW9QcFhOT1JKN1MtSEtCeVR1dWV4VFBRTWRZNGcyeFRpLV9ib1JQcm04dUJ2S0xxcHpkX2E3OXduR2J3VGxsaElUc3F0MjNaeUpUbXFCdTZRTFlWMjkzRHczU3VzcTJnZFdNRFplVjlUeUJv?oc=5",
+          "time": "08/10 05:02"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Is 'Trumpflation' real? Why Wall Street fears this could be a reason for stock market crash",
-          "src": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUmpQUWJxamlhejB3bkVVRHJTcDV2YUY3czZNMDhpYWFBTUluTkttLXBLbVR4R1RfVi1sTzQ5Mk1vVlR6c1NUa2didC1yM21fQV9XVllJZFdXYWhDZ2RPWENwWm1aMkU4M0JQTS1qUTk0ZEtfdGJMbnRiZ1M3SUZKU2pxV1ZaQk9MbHAtbXNnTm8yRXBSSHFUZUhkZktsZXp0Y0pVelRubjB0Vm1XcjljWTE2SEhzaHZPZW9lSUhxa05TbnJTaGRZZGl2VVBOZUtVazhZUlZQYTVnZnR5RGttY2JIcGUyYkJQMEZtVjkyVHZ4WmZCbDNjTtIB_gFBVV95cUxPX1R5czZtRy0tVTJ5V21fM3lCd3ZWcU9uWUI1Z2Q0elVnemNVX2hqYkxuR1lLRzhIN0d2UDdsQlluWnVVYjFqTXFPQVNXcWl2NjJTWGlsM1JWQklGVld5UE5vc1hPTUFfYi1BVTZTdDJJSEc2UGxKT2ZCeHJrZVZaRTRQbWxqVHk5VzdNNlZMYlZNUElDOGVuT2dTdlpoMEFjdVpoSEFBbFVFY1JYbktITlR5d0ZUZm9uLVBPRHVnSzRjRHJ3d1hsaERqWVJ1MG8zUm1UQm5fU3FMZ1JCLVZtYXd2d2hXTXBkaEFTTUFtNGY3ODE1V2JlYm8yai1HZw?oc=5",
-          "time": "08/09 19:45"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
-          "src": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN29tUTN4WXpkU2VBVGFreXR6ZjJnRW5EZUNraWthVmtXRGVKS3dhb0o0eGZnLXdtLU1WQUZnTXBlaUtZV044QVVCdTROYVh6VF9mWDhZY3Y1QlUyZl9SUXJBbTVxN3hIb3NWZXl2LUNObUYtRUpiMVItWHk2bkRZcGlQeXR6Q1E3VUZhN2dnWDNuc1ZraTl0ZkswaGhkUDBaTWhGWTFoZ2ZNa1l4M3NfRC1Ma1BhaGxMZEVlbVhOemNIbEhBZTktVGFqc1pGaUpNYkFMMA?oc=5",
-          "time": "08/09 20:35"
+          "t": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGxMdUZheE1QZ0FTRmpfSWxpOG9SUGVMcnpYQ1pHcTJQR3JoVFhrQmxlVzcxT2VWSXRQQ0loVlUyVXdnRW94ZGs0aTE4TmZRcG1RbnlGa2FPRW1XTmpkWERQTUVkVXRVeWMtSTVOcjlsb0Fhcl9YQVdvY1ZscFBPc2YtOUVwb2M?oc=5",
+          "time": "08/09 22:00"
         }
       ],
       "indices": [
