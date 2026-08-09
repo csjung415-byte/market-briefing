@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-08T22:30:55Z",
+  "updated": "2026-08-09T13:29:26Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "판 깔아주고 나 몰라라… 롤러코스피에 우는 2030",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUgwNWxYbmxLQmpPal9lNFdvQjgyQkVuRkZjSXc2VmVwdDBZM0tTem9tSU02MnJYRndnYTR2THZHdEtuOGxTRHRHTVU2VGViZnVLZzF6dFV1bG91VnZieDVpeXRWWS1SOFRGamhHb2lCYWw0djh1VU42RjN2NnNEYl8zdFFVZEpkNHJ3SGhR?oc=5",
-          "time": "08/09 05:30"
+          "t": "코스피와 ‘위험한 동행’, 흔들리는 대통령 지지율",
+          "src": "주간조선",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fWkxzampjd19Va2NYbTVyUGZVNV94NV9vVjE1NUhBemxoUzBYdndKVFhwcHg5QkplSVBSTklZb2ppNFJsMFdkelBraG9ueVMtOHhsd2REQWE2aUtESFhURm5XbFpiSHRYa0HSAW5BVV95cUxNR01WUTNIeDBGb1ZjeDlGVnlIQXREZG1sYmpxT1ctSG9jNHA4SkNtaFhFTFlLQWRsNmlPT3Q1bTU5NVoyZS14WFBUblZ3T21vR2I2UGxXUExQTmRTSTQ5ZU9BcmJQbmNCbV9CTnJsdw?oc=5",
+          "time": "08/09 05:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마켓인사이트] 韓증시, 역대급 변동성은 다소 완화…반등계기 찾나",
-          "src": "yna.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wakJHVEtVaG13VERYaEdWQ0FiR2s3NF9SMFNwTGNWc0lMMk93RV9Ya1FsTl81clo3NE9UTDRLa1BNX0NGN3NQUTc2Z3VIdUlzSG5fWmxmbmdlOXPSAWBBVV95cUxOUW1vel9xblk3NWJ0bWxJUGNIN092Y1FTcXRzaGdQLXh1d1JIN1BraWl3cXhVSXVIdzYtNXloS1pHZi1PX2RoYVlYa1dwQzlNMEt0RU4tY2F4cDlrNEgtMjQ?oc=5",
-          "time": "08/09 06:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“국장 돌아오니 꼭대기였네”…서학개미, 코스피 꺾이자 다시 ‘미장’으로",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WNnRBTFFnY0dfdGh5bkM1a3FfWmcyMWVkcWFMWVVlLW1SNTNWNEFWMHNDSE1EemJ1WFRpSF9PZFVyUUd6U1pLR2ZwUTFLMFk?oc=5",
-          "time": "08/09 05:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르게 악화”",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2U0pzUkNuekFNeUZGNEhYbWRfUm5QVzNoYWFrOGZHMTl3SXdFbzVMdWpVTm0wQ3U2dVR3WG1sMTgzZE1SWFI0NFg2T05nT3o5?oc=5",
-          "time": "08/08 18:22"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“역시 미국이 답”…코스피 폭락에 서학개미 ‘대탈출’ [머니+]",
+          "cat": "flow",
+          "catn": "수급",
+          "t": "“삼전닉스 이렇게 싼데”…외국인, 코스피 못 사는 이유 [머니+]",
           "src": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdnF3NUVMRzJ6MnlFNThLMG54eno2OUFfeHZaaFZfVjJIVjBhZ2RLNmd3UFZ3RkdzVjhTUGlEeUxQTThpNmpOSnczY0xpWGJPV3FRQmlpSTZDSnc?oc=5",
-          "time": "08/08 11:20"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyU2N4WFZNNGJJMFItZnRmTXlWYW1RcVFBNVV1M2pGdXU4NzBPQmVUVDV5QTJQUDZoQlJyeG1qU1ljZVhHZHlqbTZxOG5tZ1VpQXl6MzcyTmdYQ2c?oc=5",
+          "time": "08/09 12:05"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "긴장이 이어지는 증시 : 코스피 신용융자 다시 늘고 있다",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41am92ZUpqNTQ3S1ZPN1VscGNvRkdLRGpRMC1rREVMZjh3Q2xZSUhPNldLeFQ0RURacC1TQmlfSnZabGpaOTk1blVVUGVrWnVXZjhLSEFKQXRsdGltTW9FMg?oc=5",
-          "time": "08/08 13:16"
+          "t": "주식창 닫은 개미들…코스피 거래대금 올해 최저로 ＇뚝＇",
+          "src": "한국경제TV",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41bG4xcWlMamJFTVVtd1ZGYmNFQmlSb1pOeHc1OHJjaHlrY2x4YWZuWjZBNmZlbzVmVUQ3Vk5DaHc5SkdiajRBeG8zZ0ZQdGpqamJuTmlUc0h0c2VUZkNXbENWbHQ1dGhraHpYYTlDV3VWN0pVMmYw?oc=5",
+          "time": "08/09 13:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[주간 증시전망] 성장성 뒷받침되는 업종중심 대응 필요",
+          "src": "전북일보 인터넷신문",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vaFVsSTV4WE1MaWd2TjRlZUFqRXMzZlVJTmpuajNGdWdYMi1iNlRkM09yNTZMeHZWSUZxMW5SbExWS2cwajFuakVISFNnNW9nTFlwUNIBWEFVX3lxTE9LU1pHcmFmTnU4SnoxTTNLbzhfNmtzZHJHbm94NVprTXlNWVp4M3IxYUdaTk1SSXZ2Zm54bDdKam0teVVFcUExeEtMSlhyYWNFQUEyVXBseVY?oc=5",
+          "time": "08/09 18:38"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "개인 투자자, 올해 국내 주식시장 순매수 200조원 넘었다",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wMlpNcFhpb2V2Vm5Ed3JzcVJ2Wm4wX2ZuWWdEVGpURE9sZldQbVZEODZpdWM2ejlwcHA4MFozOXplM3NYc1NzZjRON0hJTzN4S3Y5YmZtZWhoUFRWRUVuX9IBYEFVX3lxTE4wMlpNcFhpb2V2Vm5Ed3JzcVJ2Wm4wX2ZuWWdEVGpURE9sZldQbVZEODZpdWM2ejlwcHA4MFozOXplM3NYc1NzZjRON0hJTzN4S3Y5YmZtZWhoUFRWRUVuXw?oc=5",
+          "time": "08/09 06:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "월요일에 주식 사도 될까…이번 주 증시 흔들 빅 이벤트",
+          "src": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SVlpyWVF0Q0ZVUXhFdEpHc1NTTlhnWDBCenBzTUhuc0lGTWprN3FQd3ZtLTVkNWlLQWs0SW52SzgtRmdzVmlrZTFzdVNfSkt6NGdwZzZLZlRvUdIBWEFVX3lxTE1KMlFNVU9RdnNaZVd1WXpoNG5GVUtkNko5UXNDd3pKakN6cEtsQUFXQnF3T3dfZXJoc0tpanA0eUxTOUlsaDBlc1B1SFJnUXp0dGNkQzYxcEM?oc=5",
+          "time": "08/09 13:30"
         }
       ],
       "indices": [
@@ -68,60 +68,60 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1407.45,
-          "pct": -1.04
+          "value": 1415.7,
+          "pct": -0.46
         }
       ]
     },
     "us": {
       "news": [
         {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "The Stock Market Is Doing Something Observed Only 4 Times Since 1997 -- and the Previous 3 Instances Ended in Disaster for Wall Street",
+          "src": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaHVCclUxcHRaTklkSVZaN3QzZkxCVHUtTlBuNFY1TnUySWtUdlA0TEdlalNZX2htVXhmRjBDUGw2R3J0dnFYdVF4bjQxZmdCM3V4MlJHekUwTERfMkNfZm53SDEzOWdBYXlFejVTVlQwTU5tRnNlSHVnZG1qRE9hNVJmY041ZkpsVHQ2TXRibjNyckI3c19zQ3NaZzlWV2J1MGduQw?oc=5",
+          "time": "08/09 19:56"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Top Wall Street analysts like these 3 stocks for their solid growth potential",
+          "src": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHlNWnpRVTlCRlYxdk00cHNXWjRiZW1qVjlpalg3ZlRwcXFMdWNhcGJ2Xy1FVWJhV2FVOWdzZlBnLUNnSmtmWU01SjVyR2xVSjFqWHZKTkI0bXljbm5Fa0hqdXEybkJhZ0M5ZkRqd0hZSHFDNEpzSEI5ck1QeGNOZGl0UFM5R0JsVk9mcnZiUW1BWjdRTi0zamxhWVNBOXhXRE9wSdIBqgFBVV95cUxNMlhFM2hrSWk1MnBjOW9fZTRpdnlnOUQ1NEJZMXplWjlfTnVHanFrbklKQ1JwZjFyWUZBUkxfS1hNMDFYellFcFVqMmlJZ1dTbWxVRF9tZ1BTQ0VTV3RndGJrb2x0Um9xZXFPenRVX3E0LXE5ejd4RU5TSV9sX1FyVGI5aElXTGp2OUNwS1R2dVgzY044d0lfZDFpNUJGNzctVEw2VEV6LXZ6QQ?oc=5",
+          "time": "08/09 21:01"
+        },
+        {
           "cat": "earn",
           "catn": "실적",
           "t": "Wall Street rallies to records, pushing S&P 500 up 1.8%, as profits pile up and oil prices ease",
           "src": "Scripps News",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEtHekc2bTlEcm1uQzhOeVdYakFyb0gxWGgyS0FqQ2tpNmZKQVh6Ul9ndUVFMjV2MU00TDlBWmdHWlU4SFF5LW1qcEc2ckFoWlIwTVRrYm9RYkUwdThqUmVsbXNmWFpXaDNrQmoxbENZdmxCNnpPWlZ6SWgyd0dXbjFnR1hIQ2lMLWVIM1RCcHlBcTZTMjRQR0lmUmhMYy1ta0ZsVUVYcEgyUzU0UVEwdkdMXzRvc2swNXFtRUNvV3BvT251QWtQY0VzZndqMy1OMXgw?oc=5",
-          "time": "08/09 02:19"
+          "time": "08/09 07:58"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "The US Magnificent 7 Stocks are Losing Wall Street Interest",
+          "src": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oSmVYU1dtZWxCSWVxaXdzcl92V1doMXI4WU9wTm4xTEFuVWZLLTc5WGotY05zeWtaTm13SHI4elppSWs1N3U4V191U1AwS1FvMUhEMndzVGlRc1RwbWFPQTJaR2xQNDZSYm5icUNYelZuSXl1T1VFMVgzYw?oc=5",
+          "time": "08/09 21:46"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Is 'Trumpflation' real? Why Wall Street fears this could be a reason for stock market crash",
+          "src": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUmpQUWJxamlhejB3bkVVRHJTcDV2YUY3czZNMDhpYWFBTUluTkttLXBLbVR4R1RfVi1sTzQ5Mk1vVlR6c1NUa2didC1yM21fQV9XVllJZFdXYWhDZ2RPWENwWm1aMkU4M0JQTS1qUTk0ZEtfdGJMbnRiZ1M3SUZKU2pxV1ZaQk9MbHAtbXNnTm8yRXBSSHFUZUhkZktsZXp0Y0pVelRubjB0Vm1XcjljWTE2SEhzaHZPZW9lSUhxa05TbnJTaGRZZGl2VVBOZUtVazhZUlZQYTVnZnR5RGttY2JIcGUyYkJQMEZtVjkyVHZ4WmZCbDNjTtIB_gFBVV95cUxPX1R5czZtRy0tVTJ5V21fM3lCd3ZWcU9uWUI1Z2Q0elVnemNVX2hqYkxuR1lLRzhIN0d2UDdsQlluWnVVYjFqTXFPQVNXcWl2NjJTWGlsM1JWQklGVld5UE5vc1hPTUFfYi1BVTZTdDJJSEc2UGxKT2ZCeHJrZVZaRTRQbWxqVHk5VzdNNlZMYlZNUElDOGVuT2dTdlpoMEFjdVpoSEFBbFVFY1JYbktITlR5d0ZUZm9uLVBPRHVnSzRjRHJ3d1hsaERqWVJ1MG8zUm1UQm5fU3FMZ1JCLVZtYXd2d2hXTXBkaEFTTUFtNGY3ODE1V2JlYm8yai1HZw?oc=5",
+          "time": "08/09 19:45"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Wall Street week ahead: inflation, retail sales updates",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZnhtejZUU2JUNXFMOFI2WFY1dzRHc2JmTk4zNl95bjVGQnZIUTc0T21lRi10bWUzb0JQYmVXN1plbTgyeUcxY3JVOWRaMmhneWlYZGV6SlhlQS1ySmNUQ01SWktFejB1LVlKbHF3bUMySzh3N2FycTlaQWdJREYzNUUtUWNpR2ktQ2RXVThrNWZEZWVLVXh6Y2dBOHdSbGx1RWFMbUJNSl8yeTVIOHRuMjRHZlAtSHc2RTlEU0RwX2NBZEJES2tvc1NKMWZzNDZFNW00WUNOSWZVbW1PM1ZLejFteWVoUW8t?oc=5",
-          "time": "08/08 17:18"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Inflation Becomes Wall Street’s Next Big Test After U.S. Stocks Hit Record Highs",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXl3WGZDZUhmU0k3M0tCMzdZVEM2VU5CUVY5RGlWOWFWdXFlb29WcVZiS3hzZFVEWVdQLVhGMVh0Tk9iWEk1WUtyMHNKTjh2MlotQmRwZzljdTZYMjFXRmtWZEVHSXhiLXFWLVMyOVRLWkNabGxrLS1Wbi1VRnNMMDRvSnFKQkFzTHEtZk5KMmpJd3hSNU1Cbko2aHhVLUdJ?oc=5",
-          "time": "08/08 23:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "When Leverage Goes Wrong on Wall Street",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDdWc2xpRTk1eVNQTnBJeEdiZGZxbEtCZGxkTzBBSzNGcDc4bDFUczc1TnIzNF9UbjhjV2w5NUUxMjhSeEFzRGRjME9jeXFHVG1QZWRuRkRucU1Xd2xhV1ByTldqVGJFa203NVlJeV9QcFZwLUtDcTk0bTNhRDhpYnNDamtFMWZQVWc?oc=5",
-          "time": "08/09 06:52"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Tested: Wall Street's appetite for sandwiches",
-          "src": "axios.com",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QaEhSMDZwNnhEem55TlNEMTQwemExeExqTzZEWFR3Rl9xNk9UaUFWQk5LZFV2T2ZnVXZjajNGaEFraE93TWNHU1VsT3E2bm95SEJLQzBWYXplMjBsQWdVYWlWSndIX0ZNNS1r?oc=5",
-          "time": "08/09 03:06"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Berkshire Hathaway Stock Signals Fresh Value Ideas In US Large Caps",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeGQ5dEVfZ1dpSjFGVnZSeWFmalJ3MUtCcHhPVmNmQkNjc2doX0FfQkN4c1JBa1hXaUh5U2l0NGRFaTlpelhxWW9sNGs1aGttalFHS2EyNlB2bjMyOHQ1SVdYczVhUTJ4NWh3a0J2Z0wtempQTUNqWmJNdHJVR3gyM3BKcll5UThEYkVRWlR5R0hHNmpvbVJsQTU3X2VIUlJyYTNzWmxzcWRVVThzcUwzQzdReEtCa1pLOTRQNHdRUjRRSzdlaEFpLXVWN21vYnJDVC1pMjNoOXBDRTd1dDZaU2RZRWE4S0hTWmfSAeoBQVVfeXFMTnhkOXRFX2dXaUoxRlZ2UnlhZmpSdzFLQnB4T1ZjZkJDY3NnaF9BX0JDeHNSQWtYV2lIeVNpdDRkRWk5aXpYcVlvbDRrNWhrbWpRR0thMjZQdm4zMjh0NUlXWHM1YVEyeDVod2tCdmdMLXpqUE1DalpiTXRyVUd4MjNwSnJZeVE4RGJFUVpUeUdIRzZqb21SbEE1N19lSFJScmEzc1psc3FkVVU4c3FMM0M3UXhLQmtaSzk0UDR3UVI0UUs3ZWhBaS11Vjdtb2JyQ1QtaTIzaDlwQ0U3dXQ2WlNkWUVhOEtIU1pn?oc=5",
-          "time": "08/09 01:41"
+          "t": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
+          "src": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN29tUTN4WXpkU2VBVGFreXR6ZjJnRW5EZUNraWthVmtXRGVKS3dhb0o0eGZnLXdtLU1WQUZnTXBlaUtZV044QVVCdTROYVh6VF9mWDhZY3Y1QlUyZl9SUXJBbTVxN3hIb3NWZXl2LUNObUYtRUpiMVItWHk2bkRZcGlQeXR6Q1E3VUZhN2dnWDNuc1ZraTl0ZkswaGhkUDBaTWhGWTFoZ2ZNa1l4M3NfRC1Ma1BhaGxMZEVlbVhOemNIbEhBZTktVGFqc1pGaUpNYkFMMA?oc=5",
+          "time": "08/09 20:35"
         }
       ],
       "indices": [
