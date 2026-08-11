@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-10T22:38:59Z",
+  "updated": "2026-08-11T13:50:51Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "장기투자 하라더니 정책은 오락가락…개미들 다시 美 증시로 - 조선비즈",
-          "src": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS25zMnVWLUUxZXVUQ2FmUGt0RWY4ZXRucGpsRGZnZm9FMEVZNFFud2VpMXpaZVJFa05pQTVBd0p4aUFJMk55OVUxQzIzaTRBRDlVb0NKSGhZX3NxNEhzaGlkUENOZ2FjNjMxSjc5Q3owT2FlWWc2aUdaWFFBY1YxdUVTNXd1anQ20gGcAUFVX3lxTE5DOXZCaXd6Z0tCRjhGRWg4VjhzbFVvRzVkQV9EOFg5NVR1S1NLWk15Z1ZYM3hTRkNUdUdubUI0UFkxYzBPTnFCa1FUNHdTTTVaa1lPZHRqUXlsSXRlTXFhb3JYR1hVVmN3WTdfbU4xYV9xY0I4ZlhMZWhYeWs4cjc5UGo4VlBtdzFhTjNCMVdiR05OTXZ5SWVjdV9LeQ?oc=5",
-          "time": "08/10 22:15"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외국인 1.5조 팔았지만 선물은 샀다…매도 96% ‘삼전닉스’ 집중",
-          "src": "녹색경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1U1RFZzNTVldOVVlrU3JOcmJPTE1mMlNrV0t5bmVQcFZxOTRWYkpnX3B6T20zWHBHa21TU09hTEY3QjE0X0cxVUdxU2g1VzJ6MGpLS3VlWnJLQzVKbXRQM3RxWC15UWx3?oc=5",
-          "time": "08/11 02:36"
+          "t": "코스피 하락세에 전남광주 지역민 투자 줄였다",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SekxSQjhCZFkxd2U1c1Bvd2lPdmJHRGJUUzJCS2Jqd0kxakg1VGVwaVpidThjUDFOdGRKNk1JRV9vcmM5dDlka3VLT285T2M?oc=5",
+          "time": "08/11 17:41"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "LS증권, 개인투자자 대상 주식 세미나…코스피·전력기기 전략 공유",
-          "src": "메트로신문",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhdnF3RjFTYUp4QlJEVlVhaENuMWdBbm13dndiY251VE5rb19UaldpSUhFbXpUUFhwNGlsckU0Y0RrSkpZMGlxVWJ0U0MxRUlkVHEyYnpsQ0lNTlZKMVJCRg?oc=5",
-          "time": "08/10 16:03"
+          "t": "개미의 해외투자 못 말린 정부···국내 유인 관건 ‘증시 변동성 완화’",
+          "src": "시사저널e",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53ZnpIWkRBRnV4Y1A1enhDQWtJcHZORC1ueVdrUHhGaTZBbVA3UGJ0MVdrVXdSM3BQT3ZVci1xMWtJSmRTTjlnbDYyaXNhdXdTS3ZzakJ3eVA3LTFyWFA5Mi1sMzFCQ0FFOVZoS21HVHkxUdIBdkFVX3lxTE13b3FfTWVlcU11RllVSXpNUW1tSW9GT2c5VXRXcms4ZW5xWXBucGx2TGlzVFU5TTI3QzhBOFBzU2c4MjZGWG1jM21zWU8tR291Z2w4YU9mMzdYbmQwOU5pSnhQNHhnVkcwSWx0aDgyclFKUVBISGc?oc=5",
+          "time": "08/11 16:01"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "도파민중독? 이번엔‘롤러코스닥’…7일 32%급등",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wb1VBZi10XzdJZHc3X19ESHQ2UFhwSjZvbEt2VlB3RlNLT3RDNnNBUlRjRVhqV25ob3RJZU5pMS1PUW83VVVfT2IxTWxoeFhZ?oc=5",
-          "time": "08/11 06:39"
+          "t": "증시 대기자금 100조원선 위태…‘빚투’는 다시 30조원 돌파",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2RWNiWjVUMHN3T3JKalRNZGpDRDluX2Y3WVJ0VERZZmF3SzMyc2RpRGFQRnd3SmtmOXBKWHV2WFB3blV4dG93cDNCRjBWWGNodWdHazJRak9DV1NhaTE0YUZRTzkxSktUbFp2X05UN2nSAXRBVV95cUxQUE9FYUl4RWVxY2pjLUMyaGFDZmVXckhLeHdpZkQtTzRjcTM0OTVLOGRxNV9fQjlxRWhLMmR5Qm84cTItRjA4LVNJOTdzSHo5Z0hNbGtIbHdiZmdGaGZ2YnZXUEM0Y184eTZSRm1vekZPaWRZSg?oc=5",
+          "time": "08/11 16:05"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "삼성전자 반등에 코스피 상승 전환",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMZVF5QWM3SkplWEVCWFU3eFgyV1JHOW9IdGQ2dkN2X255QVd1Umw4TG1UTi00aTNaanNVTmZhckViWVFZdHlxYWVNQ25HMmNZNW1Jamw0SGRrQ3hnRGFCRFZLVkFXM0tZTUFwUQ?oc=5",
+          "time": "08/11 16:02"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 상승 6,300 턱밑 마감...코스닥은 7% 급등",
-          "src": "ytn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yRWEzVXlZQi1UQmVwMVNJU04yTHJDamxkZmNHenZXbHZZQlBaaE9ZeERyZTZDZ2FieVVDUnA3cUt6YWJhVlREWDlDZlg2OFExYTdSNVJVSUh6WkR2SFE?oc=5",
-          "time": "08/10 16:29"
+          "t": "코스피 소폭 상승… 코스닥 850선 유지",
+          "src": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxNXcxRGMyQUdkTVd1bE9FUUh2dkFxMEFjMk16Mi1lQkZCWVNXUkhibnBFbUVNeVR6U3ZSTWJubjFWYmZ0VWRGMFJDdWpPVmx6dkdmOGU3Ri1QVUxueElZcTZqUGI?oc=5",
+          "time": "08/11 17:31"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "기아(000270)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjIwUjhYNTFnN25VRU5EWGhXckQ3TnlIRml2Zm1FandJZUVsSDJpTDEtYUpMMTFxUzVZRXhVNEc3eTFVQjItMHhhUUM1UWZzRUhvcDQyd0E0VkdQX2F6bmRwWkwzRzEtVGFCM281UjJsUkFBS3dHeFI1R2E3b3RGcVJyT2Y3bFdTTi1pckZzVmt0a29jcmRj?oc=5",
-          "time": "08/11 00:13"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[0811마감체크] 코스피, 반도체주 강세에 6300선 회복... 코스닥은 강보합",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CbGE3NVpPcmZkNkg3dWQ1VUNZeG5aRTdfMkZvMHM0MXZUbWp4b0o1ZzkwMzJFNEhla3M5U3NaNlhuNG8tR0paTjdTd2gtWThtd3FFMWo1TlU0dnhuRFlXZnlMLVRMa1MwTkJza3ZRSHVUS05vbEE?oc=5",
+          "time": "08/11 17:26"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6258.77,
-          "pct": -0.6
+          "value": 6345.53,
+          "pct": 0.73
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 798.81,
-          "pct": -0.36
+          "value": 857.84,
+          "pct": 0.39
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1417.83,
-          "pct": 0.77
+          "value": 1411.07,
+          "pct": 0.29
         }
       ]
     },
@@ -81,67 +81,67 @@
           "t": "Wall Street ends down as expectations of Hormuz deal fade",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
-          "time": "08/11 06:27"
+          "time": "08/11 08:19"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "US stocks edge down from their record after oil prices climb 5%",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUE4QXJjenhzdy1DTVEtby1VRDU5TnoyczNRWGM0SFVEWDVVelIwQ08xRVRyaVpVbWpuR2dKMzZaZG9vU0tqLUJWaVM2OFd5U2FkTUhfQ3hrczVIcVVVeldhNGRfajlrLUFrZWRpOVM2bFZSekxmT2NISmxqSDVmR1kyZkZ5VjZoT2liZFJmSm1sZw?oc=5",
-          "time": "08/11 06:09"
+          "t": "US stock market edges higher while crude oil prices continue to swing",
+          "src": "San Bernardino Sun",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FVjBfdzVJR0ZHeV9Sc190U0NaOVRWdGg1ZkhlaE5ZRXcxeGZsQWRDTVBoaFlvTVM5Y2R6cW1RTFZSVmxtU3E0dFlVX2xJUDhmQmNtajNkSi1wMkJ0bVQ4UVRGR1Rrcm5pTld0MnRHTURYcmxQcld5dUlOM2NMOU0?oc=5",
+          "time": "08/11 22:30"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street’s biggest bank just raised its expectations for the stock market",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclR6eHdBNklxOUN5MUlGX1RHRVlLMFgyU2ZHampvNXQ1VWM2Q21sdjVlYkYxdW52Sm5xbHQzQWUzVHZibnZ6X3ZBWFo3UDFtMHFwdHZZRGpsVFc2VEVydHVuZGxkQzd0eF9tUVF3TklsMFFIZ3VLVFgyV21zQ0Vnd2s2aFU0Vmx6bE5sZWM3TzRuN2w0Nm9OZ3dnMzd4U1dkaGNVTTNIUm5Ccl9BbExFUnJSNzIta0hLZ2c?oc=5",
-          "time": "08/10 18:19"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Mark Zuckerberg Is Pivoting Back To His Early Roots",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ29KVXZsNVNwN0hoU0M5ejNiYW1qRTBvbkhlVkljUUdJNFBVUzZKTENzWUE1V3FkY1k4czgyVDRRVnpTUWowUjhBa1VpUjdKYWFrSm1KdXlmZWVUVWVsbnpESVUwOXY4dzBxWENKSERjRkpZZDREUVIxeDdndlk1a1duVDFoaWY2ZFRiSGJDN3gwTTVoTTBn?oc=5",
+          "time": "08/11 20:30"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "Profits Haven’t Grown Like This Since 2021. Wall Street Has More Than AI to Thank",
-          "src": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejVWNHVqV3dYMkJzelhmOUJpeFNOdFNjLWYxQzRaR2hzaElJZWE3SkltZTd5czNaanlxX1FzZXRPZkV6M2o4QlN5R05rVGJFYmxVdE1YdjdkaEtjVG9XT2Q3WGZfOVlSb0FpR0dDU0Rzc0RsZGowOElhUjlOUnFCNlFXSDcwcmJaNENMakhtbkJFTGZGNUhyWkxHZ3pYVnB1UmlVcnRxMExrNHNDSTVXYU85NmtOZThxSXc?oc=5",
-          "time": "08/11 02:48"
+          "t": "Wall Street rallies to records, pushing S&P 500 up 1.8%, as profits pile up and oil prices ease",
+          "src": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEtHekc2bTlEcm1uQzhOeVdYakFyb0gxWGgyS0FqQ2tpNmZKQVh6Ul9ndUVFMjV2MU00TDlBWmdHWlU4SFF5LW1qcEc2ckFoWlIwTVRrYm9RYkUwdThqUmVsbXNmWFpXaDNrQmoxbENZdmxCNnpPWlZ6SWgyd0dXbjFnR1hIQ2lMLWVIM1RCcHlBcTZTMjRQR0lmUmhMYy1ta0ZsVUVYcEgyUzU0UVEwdkdMXzRvc2swNXFtRUNvV3BvT251QWtQY0VzZndqMy1OMXgw?oc=5",
+          "time": "08/11 11:38"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "What Wall Street Pushed MA To Explain",
-          "src": "Trefis",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMWFhYUZDNVJtbVFsQlNQSTlLZWkza1BiZVVtc0lvMjdVQjlyWlRyWWQ3dzNvVFRfTXRSdmpfNWE5XzdLd2lHb2lVUzQxZGx5R01ZRXVsbE53TXJuX3cwYnlnNGdIelU2N2IxZjZlQ1FOS2M4YnA4cTZLUExHdElLcTFZdDdRSVV3UVhzemdsSWp4eVJaSUExU0hCbG8?oc=5",
-          "time": "08/11 05:54"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "US Stock Market Today: S&P 500 Futures Edge Higher On Cooler Jobs And Oil Jitters",
+          "src": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHN6Z091QWFGblFodkFRVmhsVl9EN3BoMkdvbzhZb3h1eGw0emViZGpYcnoyTlZETDR6MEM1aTB6UURMaHFfREU3SVhvMVQ1QzREVXFfVVZLVjFYOU9oSmJNLTl4Z0E5Qzhrdzl3LXdUd3lIQXppNnhONkc4SWtidnJpRHIza0NzSHM0dy11aVN2SWdRZEhyOXpWa2dXaFBCOU1OdHBEMDB6bjU0cjdVWUd2bzJld3lGZGc3aG05ckNtQm5JaFYwMjBySGLSAdIBQVVfeXFMUE1ydnd0enRXc3pNTXZPY0s0enJzNFVEZEhmeHJqVzZnS1RWRkJiQkdxWmM2eFUzdFQ1N1ljQzRpZGNjTktZYXQ1Zlc3TVhRS2JSdEM1VDNnQlBmNXdZRzZCN0xKQlJXdldxS0N6ekxXaFFkSHJrNFFDN3B6eWNJVEE2T2R6ZXlpTFRDSmdna19PemlLQ3RPM0thaEluX0NiS0xCWnh1OFRvWHo5dGRnaVRJRnIzN1ZBMVBJZm5VOHlaQ0F5djlwQmpPOFM1eWk4d1B3?oc=5",
+          "time": "08/11 17:39"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nvidia and Wall Street giants ink $500B AI infrastructure mega-deal",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd1l4X1JiTGFoWHJhU1dmSHZtSWpCLWl5XzF2bnAzQlhGREg4QXpwRGI2NHNWVUk4cG1RN1FmMU9OSVdnT082TmFadE5vdy1uZ3hCdXRuRkxnYmZxUHdEUGlsZVd0RjdMY19FSnRHVlBwejRVMEJuM1JlX0s0UVdKSzdjMnVCUVRka01WbnRzZVEtajVyR0Q2OV9iWDF6SklQQXdTc1hsejhRWEZxU05PblJUdndJR3ViTnFaMUc3VjY?oc=5",
-          "time": "08/11 05:26"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street's Latest Blockbuster Stock Split Has Arrived -- and This Industry Titan Has Rallied 337,000% Over the Last 32 Years",
+          "src": "Currently.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2F1Y1p2VXJwLUJCWGtuN2l1NXdoNkZ6NjV5aV9peXJzMGJtTmIzekc4SVhJY3ktMDcwUzFuSk9PcUVDTjBRQ3E4VnhUWmJTeFE3NE5fOW1wQ0ptZDJvS0tTcW1hM2dzb05XLUNjVXU0TWtPWGNKVzlFUHFhUHdyQmw4alJpTmt4REZJejN4SUZWZw?oc=5",
+          "time": "08/11 18:26"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7753.11,
-          "pct": -0.06
+          "value": 7749.66,
+          "pct": -0.04
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26605.36,
-          "pct": -0.32
+          "value": 26515.96,
+          "pct": -0.34
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53975.98,
-          "pct": -0.11
+          "value": 54192.43,
+          "pct": 0.4
         }
       ]
     }
