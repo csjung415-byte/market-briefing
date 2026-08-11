@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-11T13:50:51Z",
+  "updated": "2026-08-11T22:43:32Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 하락세에 전남광주 지역민 투자 줄였다",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SekxSQjhCZFkxd2U1c1Bvd2lPdmJHRGJUUzJCS2Jqd0kxakg1VGVwaVpidThjUDFOdGRKNk1JRV9vcmM5dDlka3VLT285T2M?oc=5",
-          "time": "08/11 17:41"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[증시-마감] 삼성전자 4%대 급등에 코스피 0.73% 상승…코스닥도 0.39%↑",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PdFFxTWs2NUJFcG9fSzVNOGV4NG43dmdGaEE1b2hZV2xranE5MW5YTUpseXZCNFpITU5QaS1MZmI5Vm54clNzTUtKckladzh2a2JFcDZHV0RpeEtoNVV6SG5FaXVWUm1BVnF4VDFhQVM?oc=5",
+          "time": "08/11 15:51"
         },
         {
           "cat": "macro",
@@ -18,14 +18,6 @@
           "src": "시사저널e",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53ZnpIWkRBRnV4Y1A1enhDQWtJcHZORC1ueVdrUHhGaTZBbVA3UGJ0MVdrVXdSM3BQT3ZVci1xMWtJSmRTTjlnbDYyaXNhdXdTS3ZzakJ3eVA3LTFyWFA5Mi1sMzFCQ0FFOVZoS21HVHkxUdIBdkFVX3lxTE13b3FfTWVlcU11RllVSXpNUW1tSW9GT2c5VXRXcms4ZW5xWXBucGx2TGlzVFU5TTI3QzhBOFBzU2c4MjZGWG1jM21zWU8tR291Z2w4YU9mMzdYbmQwOU5pSnhQNHhnVkcwSWx0aDgyclFKUVBISGc?oc=5",
           "time": "08/11 16:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "증시 대기자금 100조원선 위태…‘빚투’는 다시 30조원 돌파",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2RWNiWjVUMHN3T3JKalRNZGpDRDluX2Y3WVJ0VERZZmF3SzMyc2RpRGFQRnd3SmtmOXBKWHV2WFB3blV4dG93cDNCRjBWWGNodWdHazJRak9DV1NhaTE0YUZRTzkxSktUbFp2X05UN2nSAXRBVV95cUxQUE9FYUl4RWVxY2pjLUMyaGFDZmVXckhLeHdpZkQtTzRjcTM0OTVLOGRxNV9fQjlxRWhLMmR5Qm84cTItRjA4LVNJOTdzSHo5Z0hNbGtIbHdiZmdGaGZ2YnZXUEM0Y184eTZSRm1vekZPaWRZSg?oc=5",
-          "time": "08/11 16:05"
         },
         {
           "cat": "sector",
@@ -38,10 +30,18 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 소폭 상승… 코스닥 850선 유지",
-          "src": "MTN 머니투데이방송",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxNXcxRGMyQUdkTVd1bE9FUUh2dkFxMEFjMk16Mi1lQkZCWVNXUkhibnBFbUVNeVR6U3ZSTWJubjFWYmZ0VWRGMFJDdWpPVmx6dkdmOGU3Ri1QVUxueElZcTZqUGI?oc=5",
-          "time": "08/11 17:31"
+          "t": "증시 대기자금 100조원선 위태…‘빚투’는 다시 30조원 돌파",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2RWNiWjVUMHN3T3JKalRNZGpDRDluX2Y3WVJ0VERZZmF3SzMyc2RpRGFQRnd3SmtmOXBKWHV2WFB3blV4dG93cDNCRjBWWGNodWdHazJRak9DV1NhaTE0YUZRTzkxSktUbFp2X05UN2nSAXRBVV95cUxQUE9FYUl4RWVxY2pjLUMyaGFDZmVXckhLeHdpZkQtTzRjcTM0OTVLOGRxNV9fQjlxRWhLMmR5Qm84cTItRjA4LVNJOTdzSHo5Z0hNbGtIbHdiZmdGaGZ2YnZXUEM0Y184eTZSRm1vekZPaWRZSg?oc=5",
+          "time": "08/11 16:05"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "환율 1415.9원으로 ‘뚝’…코스피·코스닥도 동반 상승",
+          "src": "스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95clhmTTJkY1pialpwdlNyUWVKTmhtbWhBdWxMaFZmVEdUR0lBODB4dURVZTVveDhvWUpxQ3hlX2tfQmNZaWJoT05BUk53STc3ZUpnSExZUkFiT1g1aWpTRDVDYTY4YUVhM0JveEx6bzVSLWhEZElJ0gF3QVVfeXFMT3lyWGZNMmRjWmJqWnB2U3JRZUpOaG1taEF1bExoVmZUR1RHSUE4MHh1RFVlNW94OG9ZSnFDeGVfa19CY1lpYmhPTkFSTndJNzdlSmdITFlSQWJPWDVpalNENUNhNjhhRWEzQm94THpvNVItaERkSUk?oc=5",
+          "time": "08/11 19:51"
         },
         {
           "cat": "sector",
@@ -56,20 +56,20 @@
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6345.53,
-          "pct": 0.73
+          "value": 6299.66,
+          "pct": 0.65
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 857.84,
-          "pct": 0.39
+          "value": 854.47,
+          "pct": 6.97
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1411.07,
-          "pct": 0.29
+          "value": 1412.42,
+          "pct": -0.35
         }
       ]
     },
@@ -78,10 +78,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street ends down as expectations of Hormuz deal fade",
+          "t": "Wall Street ends down as US-Iran peace optimism fades",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
-          "time": "08/11 08:19"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+          "time": "08/12 05:14"
         },
         {
           "cat": "macro",
@@ -94,54 +94,54 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Mark Zuckerberg Is Pivoting Back To His Early Roots",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ29KVXZsNVNwN0hoU0M5ejNiYW1qRTBvbkhlVkljUUdJNFBVUzZKTENzWUE1V3FkY1k4czgyVDRRVnpTUWowUjhBa1VpUjdKYWFrSm1KdXlmZWVUVWVsbnpESVUwOXY4dzBxWENKSERjRkpZZDREUVIxeDdndlk1a1duVDFoaWY2ZFRiSGJDN3gwTTVoTTBn?oc=5",
-          "time": "08/11 20:30"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street rallies to records, pushing S&P 500 up 1.8%, as profits pile up and oil prices ease",
-          "src": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEtHekc2bTlEcm1uQzhOeVdYakFyb0gxWGgyS0FqQ2tpNmZKQVh6Ul9ndUVFMjV2MU00TDlBWmdHWlU4SFF5LW1qcEc2ckFoWlIwTVRrYm9RYkUwdThqUmVsbXNmWFpXaDNrQmoxbENZdmxCNnpPWlZ6SWgyd0dXbjFnR1hIQ2lMLWVIM1RCcHlBcTZTMjRQR0lmUmhMYy1ta0ZsVUVYcEgyUzU0UVEwdkdMXzRvc2swNXFtRUNvV3BvT251QWtQY0VzZndqMy1OMXgw?oc=5",
-          "time": "08/11 11:38"
+          "t": "Wall Street drifts below its all-time high as oil prices keep swinging",
+          "src": "pressenterprise.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0xoTUVHYjVRMEctdVA3NXFyN29YTVF1N2p4MUJYZlRUelBCcGpVVHEtZU1keWRaVFd0SEg1S2txOFpzVXlRNFNtQ0FzekFWUnY0U1NtazFNbU14UGQ5MEtlS2RVY1lhZ2huV0FnYVhhWkhBZEdLMjFreVlMbU03NXItYVNhTVhfN2pCSg?oc=5",
+          "time": "08/12 01:23"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "US Stock Market Today: S&P 500 Futures Edge Higher On Cooler Jobs And Oil Jitters",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHN6Z091QWFGblFodkFRVmhsVl9EN3BoMkdvbzhZb3h1eGw0emViZGpYcnoyTlZETDR6MEM1aTB6UURMaHFfREU3SVhvMVQ1QzREVXFfVVZLVjFYOU9oSmJNLTl4Z0E5Qzhrdzl3LXdUd3lIQXppNnhONkc4SWtidnJpRHIza0NzSHM0dy11aVN2SWdRZEhyOXpWa2dXaFBCOU1OdHBEMDB6bjU0cjdVWUd2bzJld3lGZGc3aG05ckNtQm5JaFYwMjBySGLSAdIBQVVfeXFMUE1ydnd0enRXc3pNTXZPY0s0enJzNFVEZEhmeHJqVzZnS1RWRkJiQkdxWmM2eFUzdFQ1N1ljQzRpZGNjTktZYXQ1Zlc3TVhRS2JSdEM1VDNnQlBmNXdZRzZCN0xKQlJXdldxS0N6ekxXaFFkSHJrNFFDN3B6eWNJVEE2T2R6ZXlpTFRDSmdna19PemlLQ3RPM0thaEluX0NiS0xCWnh1OFRvWHo5dGRnaVRJRnIzN1ZBMVBJZm5VOHlaQ0F5djlwQmpPOFM1eWk4d1B3?oc=5",
-          "time": "08/11 17:39"
+          "t": "US stock market today: Wall Street near record high as inflation data in focus; oil prices swing",
+          "src": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPY0ROdFRmZ3RsMXdEdVRaNnFNbDlXMXJ4aHIwUlNacmdkTnp2QVJaMHFSYmxoenNtMTlLX01sVDNaUDU0NDZ6ZTdOSkhDdG10ZnRrSlVIVDVvX2pQT0ttUUd1ck9KcXl3M0RhYzA1amVJUUJ0ZDhqTUFxcVo0ZFRNb3U1QjAwcF8zMmIwYnpOYkFob05Ea0djUERCWTFtbHRJNG1GR1VsbWRlNzY0ajlMbnhaUkJTT1UtRVFJYXltNmtQNl9QT2VkNTdQMDZwUFV2bVN2QkN5NDM1aTl2N3ZKOTNIRlZyVHZmc2xkOEtwWVN1MGhSY3hscTZwQWVlSWV3aFpyWnRTcXhET0czWWY5Rjdpc3FNUkpMUEhIS3F1WTZPVWFWaFBJMEdwN2kwcE85cDhnM0xjMl9jSXNMWnkxX3B6UWx4ME5s0gHOAkFVX3lxTFBmRTJOTFdmUlg2TDR1aG1aWDFkendyVzJ1Zk94YmFJd0RGN1FKdjRHWUl3YW1rSW5hQ1FndnFVUF9aTmFsQ2owRjFFZF9JblRvQTAzMWJ2anVuMzB6OC0wR2tneWdycWZ1WWVWZ2JKZjN0UHdVV0I3RGtTb1ppenB4RVNrZWVXSG9EbDJxUkhWU2lkSTVXbnZ6cVFYQTU1akcyRzkwOGZfZGtRY0k2U0dKR1Z2MS12dHhUa05pV0wyeTJkbThjdC1ubVlWRDAzV3JaY1ExLVVHcHNqc2NLc1dPZFpaMF9fSVFLRFBaSVBEd2VxQlBURVp3UEtWTW5qUjdma2hKNHRJMkhhdEdSS29yZTJ2YlZ1X1dIYS0yenBuMm81VDYtYWktTjExSlluNXY1dEQteVlpSkVsWGwwU3FielpBa3prNjlxWnhKSHc?oc=5",
+          "time": "08/11 23:15"
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street's Latest Blockbuster Stock Split Has Arrived -- and This Industry Titan Has Rallied 337,000% Over the Last 32 Years",
-          "src": "Currently.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2F1Y1p2VXJwLUJCWGtuN2l1NXdoNkZ6NjV5aV9peXJzMGJtTmIzekc4SVhJY3ktMDcwUzFuSk9PcUVDTjBRQ3E4VnhUWmJTeFE3NE5fOW1wQ0ptZDJvS0tTcW1hM2dzb05XLUNjVXU0TWtPWGNKVzlFUHFhUHdyQmw4alJpTmt4REZJejN4SUZWZw?oc=5",
-          "time": "08/11 18:26"
+          "catn": "연준",
+          "t": "Wall Street ended lower as eyes remain on the Middle East and upcoming inflation data",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0xHVnJ5SU9TbHZ6OWk5am44UDFBVlFXQnkxS2NoTzNTY0hTQzctazZUU1NaaGYxZDN0dlYxY2o2dGw4UHlsVTVvZUt5S3JqOTlHeW1nMkoxd3lmaFF4Z2lIem85djVNVTI4Y3Q1MThyNEFWN2JnZTRrMWlpOTZJTHgxTDRHbFJJcHp2aEpsLUd4eVBfNHJGT0lGeVBlaUNMZ2N4bEd3bG03dXgxODhRZmdDeE5GS3pqUElQVVZvQV8?oc=5",
+          "time": "08/12 05:02"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "US Stock Market Today: Dow Rises As Wall Street Shrugs Off Oil Fears; Nasdaq In Red Despite Nvidia Surge",
+          "src": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVmd0SXlQaWZEZkZUNGduSnFPbDBZaEdaclgwNzlWcVI3QnNuR2psWFltVDZmM1ZnaEFCRGZFYnhxenBRTUY4N21wWmhvZGdMdlBuYlp5dW1haGhlRDM2TGF2N2xyMHFKVjRrRU1oaEMzMmFMRVIzWGRQWG96SDl2N0Y2TEZ5aDBMOXg4YUJ1RGpjMzlqRUxQbjZ4VlprMHVTRFVjb2U0U3h5a3lzdnpRbWpXLWlNUlNyVDFFR29YV1NROWJzSTVMa1FwSzYwaENwNXJkT3padTJmMTdWb2tr0gHnAUFVX3lxTE9VUHJpenVadlBWQXBGaUlOODFiQTdtaTdnYVJmajU2dk9kZnl0RGQzVDZhV3EwMGdzTk92Mkp0UDdjZGJEa1VMUzNtUlFoREZ2elZ3R0FQR2xWMnQ3RExwSlBRVWE2U193ZTNFdlF6c0NSQ3NtSXBCOE9TYlVscFNJUDNzR2RVbTVjVUowZ3IyTmYyNjRPSFJvNXgtcHl1TVFuT3Y0YWU4YkNLVDR4ZEJTTUppd1ZfMzNjY2RmQVlYZ0hvd1A5VkIxa2pFY2dNLUdUeTI1dVNKdVViYi1ZUUFxMVU2bWRmcw?oc=5",
+          "time": "08/11 22:42"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7749.66,
-          "pct": -0.04
+          "value": 7728.2,
+          "pct": -0.32
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26515.96,
-          "pct": -0.34
+          "value": 26445.45,
+          "pct": -0.6
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 54192.43,
-          "pct": 0.4
+          "value": 53791.85,
+          "pct": -0.34
         }
       ]
     }
