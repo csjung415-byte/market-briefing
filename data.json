@@ -1,8 +1,24 @@
 {
-  "updated": "2026-08-12T13:54:39Z",
+  "updated": "2026-08-12T22:42:33Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[코스피·코스닥 전 거래일(12일) 주요공시]",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OT1Q5enJhN2lfVGtxTkVHZ0FDZ28wczR1ZHVSNHNYQkdSYVRJWExZOEY1LWZTMFZ4b2NhU0YtNzRiZzctRXlyak5pWThFQ1VvMG5pakp0N3FQOTDSAWBBVV95cUxQTHJpcVNoenY0a0NuNE43c05wWGFOZEt6WHJ5WW1ZQW5OSDdTMU1IMm90R05PRF91dGowNjdjUUZ2dHR1SmkycVY2VzlFYmdnemluYUFjbXgtbk5mRTZYWEU?oc=5",
+          "time": "08/13 06:05"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "알테오젠(196170)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTRPcWU1bHhQLXhaWk04WVlibjlncmlMbGQzZ0RjTmY4bHUxRWhIM2x3eFczM0JRVHVYbm5ERzNvUG9pUDlhcmdVaFlPQ2hvU01sSkNNaWNXakYxaWgtaF9xR0JNNnZJWVVNTnJOajFuQ09VTmhhbTNsZVBQVHJ3eTdYU1B4ZlpRNXlRN1hJQUlUVk9CaGZN?oc=5",
+          "time": "08/13 00:42"
+        },
         {
           "cat": "sector",
           "catn": "업종",
@@ -12,136 +28,120 @@
           "time": "08/12 16:01"
         },
         {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[0812마감체크] 코스피, 삼전닉스 강세에 3%대 급등... 3거래일 연속 상승",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsdlVXNS1OWDJsMFZGX1NraWFqRkJqNWo3MWp1dW9za1lRQnFtM2Jxbl9ZaWUxUVpZclR6UHJmcFp1YV9XZElWVU54aFBadngzZ2NBOXJUUmlPQms5R0M3R2lVelVEUVZ6eGFuZjdiQ29qanZOT3c?oc=5",
+          "time": "08/12 17:22"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“코스닥 인버스 잔뜩 샀는데 어째”…코스닥 19% 급등..레버리지 규제가 판 바꿔",
+          "src": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBseFRYZXZUVEpsV3JQQkp1N0ZZME85eV9Sc3JlNktHZVRWb0xSWVcyUEhBY2NHWEduT21jSjNQV0cwdV9YOHNBTGgxN2VFUzNk?oc=5",
+          "time": "08/13 05:00"
+        },
+        {
           "cat": "flow",
           "catn": "수급",
           "t": "코스피, 외국인·기관 매수에 3.68% 급등…반도체가 지수 견인",
           "src": "산경투데이",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94NmhTS29SR2V6MTBYYzVjMm5DYmF3OVNzZDB5dEdZQlZWUS1JUWgyT2I1Z3Z0cWhzQ2VNRndmeWVUcjVxdmxSc2dmTDJkd0RSRzNsMnJmVnc4aDlRVVhPUDBQWk9vODNIcXdzNHVQTkTSAXRBVV95cUxOVEZDaF9uSkdxMTB1TFVOMFMyVmswb2kyUVZDZXIxOEZzaWhXWGpKU1g4V0lyUXI5YXJMRlA4SE92M2UtMHVSZE9BaWd5aU1oQ0M2bW1OenhZWnB1SDVIVldQbWpVWWo4cjY4UTJ2SUZ4R2pXRQ?oc=5",
           "time": "08/12 17:27"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "반도체 힘받자 코스피 3%대로 상승 확대…코스닥은 약보합",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OcUZ1eXZWSTA5VzUzVnlTSG8tT0xZdjVuSkdZVnRJUmEyNDhrZ3ltRXBGc3NWc09PRGxCWlBSSTNYOVhyLV8yVHNieF94ZU1PZEZMUy1zcGl2TU81Q04tUNIBYEFVX3lxTE1OcUZ1eXZWSTA5VzUzVnlTSG8tT0xZdjVuSkdZVnRJUmEyNDhrZ3ltRXBGc3NWc09PRGxCWlBSSTNYOVhyLV8yVHNieF94ZU1PZEZMUy1zcGl2TU81Q04tUA?oc=5",
-          "time": "08/12 11:16"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "월가 \"AI 투자 안꺾일 것\"…코스피 '매수 사이드카'",
-          "src": "블루밍비트",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VeGd2MW5ac01kVFBoRWczM1RTS2tRM1A0RklUa2g4a1I2cklQYXZTaV91RFkwODVzelVOTW95SjJHM3NjUFIyWXJVWm1oUWpL?oc=5",
-          "time": "08/12 19:01"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외인·기관 동반 매수에 코스피 6,570선 돌파 마감",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMY0RhaTJxRks5WUt4SGc5YXBXZTNtbEE2V2Qzb1ZNbVo3WXhQMnpUNmZvOXdpV29ZazRsUUFVam5zTHBMdjdHSkFpRnp3RkFJcXJJdExMRkVlWVdLazhDTzVfc3lKN1dpenBTRA?oc=5",
-          "time": "08/12 16:33"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "증권사들, '역대급 증시' 2분기 실적 잔치…순익 141%↑",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DcUlvSVFYT1FwNHVveHBKN2lwM3NsOWdkdl9SSUR5bkZoMUE5dWpjVXA3LWZMWjVTaElxUU5qNVMxOC05Y1RKVXhyOEtXeFc5dWc?oc=5",
-          "time": "08/12 17:40"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6579.04,
-          "pct": 3.68
+          "value": 6345.53,
+          "pct": 0.73
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 858.91,
-          "pct": 0.52
+          "value": 854.47,
+          "pct": 6.97
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1414.73,
-          "pct": -0.18
+          "value": 1416.88,
+          "pct": 0.33
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street ends down as US-Iran peace optimism fades",
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "S&P 500 ends higher as CoreWeave results fuel AI optimism",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-          "time": "08/12 08:17"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+          "time": "08/13 05:26"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street rises near a record as AI stocks climb and worries about inflation ease a bit - Pittsburgh Post-Gazette",
+          "src": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTIxNWpCTVk3cUpQTGhFRW5zS2VRdFh2ZGlWRWQwbjNwNjNXbGs5NHhqbE5POXY0Q210YlI1SndvR1hDQzJQTnpVS25pQUY3SUp1OW91SEY3X1ZuRS1YS3dXT3VMVk5Sd3hsM1hZb2QwbVRaaWp1by1SczZURVBsc0VzYzlmZlVjUFktWkJfU2dtQjRCbnZpc3hSM1htUTlDX09iNURYdVdMWGJPRHc?oc=5",
+          "time": "08/13 06:14"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street rises near a record as worries about inflation ease a bit",
+          "src": "toledoblade.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGdtdDZrWWczZmxVX1BRSWQxbmJ2VXdFSW9pdFMzVkRzN3dIMXBCZ1VFcVdXZXVGdHowQzE4ZHBscDlpX2ZPX1pOZnlrYTJUQjJkYnhwWjJVNk1iREJYRmxxTl9Mb2tYdGRBaUFRcS05dGhLNEt5MlB5MUZsaEtUbnJqSjNmRXVNSlZEMlRxbldHRWI1RG9CTFZwbTJEa2E5Rl9jMGhLd2NmekFXQTRBTzQzdUNybTh1YzFiLURSa1pLLUg4NURidEVuNVNsdw?oc=5",
+          "time": "08/13 06:08"
         },
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nvidia's plan for Wall Street could add fresh fuel — and risk — to the AI boom",
-          "src": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMUEphbkRNRWZOZXI1R19CS0k5WnZoY2Y5MFp5SWt5QUpCb2w2MWl5NFNFZzhONlVoWTFKeUhlYlNVempIQVJIdXI4VGxzVkFCWHUwcUVwdlFKUFRmUU5VTU9qMGRqNHdGZGhnTnplaVJfajlvbWRndVhn?oc=5",
-          "time": "08/12 20:08"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Super Micro stock is rallying after results. Here’s what Wall Street is saying.",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNjRrRXFhOTFSLUM1eTExQ25Fa1MwMGV0WFZ6Mm1GbFBsanU5MkFUa0ZGV0VHdHNpSnZXeWhkRHU2UFZXa0JNT3FDN1V4TmF1blV3U25Hc2ozcC1KUDFtNGRraGNhVnNTYW4xcUJvTVZHVDB5dlA5MHBoWXE2cGdyYzJsMXpMYU5vSU1ZdVUwd282N2xzb0lpYmVYUEF6YjhPNW40YkdiLThOOXh6RVRqVFZKUHQzTnJwNnZF?oc=5",
-          "time": "08/12 19:34"
+          "catn": "실적",
+          "t": "Wall Street braces for peak earnings as stock gains cool",
+          "src": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3ZVaEtqYXFTcWV1VG5jNktWUUwyTDFXcG5OSENIVEI0Nmo3Wnc2Z3dqWnBOcmtmQUc5bTEtZXFuLWV3M3VpVkxLdHhNS0pHcWNiRkkxaHVPZEVjazNOUlV4TTJISzRPOFprektIakQ1QmNYX3dNMGhpdm4xN1ZOVjNwekdYdU94YWVxcHZlQTN0aDY4UU44UXZtTmMzZXJkVmJyVDVuQmt3Zw?oc=5",
+          "time": "08/13 00:17"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Wall Street points to a higher open ahead of critical July inflation data",
-          "src": "hngnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWldmaUJLem1haGVxa2pqRnNWY0dOTDN0em55VUtMU3BnZlhSNFZJRkUxMHppZ0cyQ3lNR2g1Rmx6Y2ZadW1FM3NfZDZ1ZHJ5QnJ5emJxc0hlXzdzalJjYmVFRnBUVFpPck51czZKNUJTWTRaenE5YndUS0JJZHNWYkdXMVR0N1FEMXQ2OE9GLXlqMEZ0SU9wWlRwSnpqUS1WWVN5TGZiaUNDZWozWFEwWGNMdnh5WFBMLUZYTENTUEJCaXJ4THozdktLRHM0TEprWG40eWNVS0RMUVIyUzgxeEd1S1NsYnpMN010RWFGY0V1dw?oc=5",
-          "time": "08/12 20:45"
+          "t": "Wall Street rises near a record as AI stocks climb and worries about inflation ease a bit",
+          "src": "The Killeen Daily Herald",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWHN2LWFRNXpKX2I3QjROa05Vb3VuaW1FUUVvbnlPdWJPOHlhVGdlTGZqeGMxbDdhNkNWWDNPRHZrZ2o1eHpwaHZNZ1RGOVlZWTJWU3ljNVNBZDliQ2x5bnp0eTVMZWplYkowcWd4SEFzNDBSR1V0NEZjVVhzSlFoT1JCNG9oTHR6LWhzRzd0a2pvQkJLbWJ2NXhVcTExNTJTRmJCdG5LbVhwZW0yd0xGeko5N3JEMGhWdld1RXJObWJ5VEpodHF5U0lZajhyYjAtR0ZDZ0xPQTJFVXlBcndIeV8wekU4eUhhRjBIMzRaRXdBMGpKYWVUMQ?oc=5",
+          "time": "08/13 05:12"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "US Stock Market Today: S&P 500 Futures Stall On Inflation Jitters And Fed Uncertainty",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tSkZXd2ZpZnVKNDBXbjYzMHFDUElGM2tLR2lnbmMwSWQxVjZta3hpV0xFSHV6WTU3YXlyWElENXVMaGVhdGt3Ml8yVVJHaTN0UDd1UmFNSUtFRzhVZDc4U1dURzVoTGF2SFFfZWQzNTVodm4zUDdSbnh1SmzSAbwBQVVfeXFMUFY5Tmgway1GQ0VwTVlBeDFVQk5EVFpScTAwTmZmMGhnbHUybEk5SkdvS3MtcERKRGNBQjhoR21pMFpOVWYyMEIyQUJyZXB0QzNqUGhpTHlQZUtLdGFRQWZ5bENmcVNSY1lQUzN5amJERlFPZHRIWGVZN2pxdWFFRjNPWTltQTZ5a25yek45a1hId3pBSG5iNmk1aXA5UzNhMW85NHp0YjkzWXBpSXlrS3VhNk9ZcFdKWVFXeVo?oc=5",
-          "time": "08/12 17:46"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "What Are Wall Street Analysts' Target Price for Waste Management Stock?",
-          "src": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0hYcHRaT2pOY2p0ZWRfQkFxWGZxeEtya3kzY2dFSmZ6SFo1YzhkQzJzQWVwMlJmazlxYW85TGVkbDVEN3VvTTJlTlFOY0dJc0E1WHczZlhfNmpnemJsd1ZvSVlJY1lPOVZ3MnNhTklFM2VTOWVpdzQ4azVMN0dqU09DZkRwVTd1N1R1WEtnTkNOaUFPLW5UV012aG0yZGRsVmdaRWtKeE84RGxCUVd5eW1tSQ?oc=5",
-          "time": "08/12 21:19"
+          "t": "Wall Street finished up in the green after the latest inflation report",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEc3U1A2VUhOYU52dnpiWm1WNEhzM0F2QUNwREFJeEJuLVM5aS1DUVBKTXRhVzJPc0tSZlpLVmpnMGw3Q2g1ZDZjbzlVeFBUejRoSVZJM0lidGJXeUlhNkxlSzhyb0l5SFZQWFpJbF9tNHk3a2lValEtaFNYUjRCSlI3dVFnSGQ2VzZEemgxRGo1akY1VTBFZFJ2V2dXZw?oc=5",
+          "time": "08/13 05:04"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7749.69,
-          "pct": 0.28
+          "value": 7748.5,
+          "pct": 0.26
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26600.05,
-          "pct": 0.58
+          "value": 26588.49,
+          "pct": 0.54
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53841.11,
-          "pct": 0.09
+          "value": 53770.27,
+          "pct": -0.04
         }
       ]
     }
