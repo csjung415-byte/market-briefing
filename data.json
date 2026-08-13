@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-12T22:42:33Z",
+  "updated": "2026-08-13T13:54:35Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[코스피·코스닥 전 거래일(12일) 주요공시]",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OT1Q5enJhN2lfVGtxTkVHZ0FDZ28wczR1ZHVSNHNYQkdSYVRJWExZOEY1LWZTMFZ4b2NhU0YtNzRiZzctRXlyak5pWThFQ1VvMG5pakp0N3FQOTDSAWBBVV95cUxQTHJpcVNoenY0a0NuNE43c05wWGFOZEt6WHJ5WW1ZQW5OSDdTMU1IMm90R05PRF91dGowNjdjUUZ2dHR1SmkycVY2VzlFYmdnemluYUFjbXgtbk5mRTZYWEU?oc=5",
-          "time": "08/13 06:05"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "알테오젠(196170)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdTRPcWU1bHhQLXhaWk04WVlibjlncmlMbGQzZ0RjTmY4bHUxRWhIM2x3eFczM0JRVHVYbm5ERzNvUG9pUDlhcmdVaFlPQ2hvU01sSkNNaWNXakYxaWgtaF9xR0JNNnZJWVVNTnJOajFuQ09VTmhhbTNsZVBQVHJ3eTdYU1B4ZlpRNXlRN1hJQUlUVk9CaGZN?oc=5",
-          "time": "08/13 00:42"
+          "t": "코스피…3.56% 뛰며 6800선 탈환",
+          "src": "straightnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VSEJ0eDNUYU1VUndITDZPUENkWHNRNV92a1ZlVms1b3FpVEhLRndMR2s1aW82Xzl0WTFXcDN2RkIyV09aUzRMcGw4RXJSVTdBRUN5Uk1rWEZweUlXN1hLaEhXUmlMUm1MNF9MbE81ZHJUTkNTVXNJ0gF3QVVfeXFMT1VIQnR4M1RhTVVSd0hMNk9QQ2RYc1E1X3ZrVmVWazVvcWlUSEtGd0xHazVpbzZfOXRZMVdwM3ZGQjJXT1pTNExwbDhFclJVN0FFQ3lSTWtYRnB5SVc3WEtoSFdSaUxSbUw0X0xsTzVkclROQ1NVc0k?oc=5",
+          "time": "08/13 22:02"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "반도체 톱2 강세에 코스피 +3%대↑",
+          "t": "반도체 랠리에 코스피 +3%대↑",
           "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nc0FQVVpQazdlZnFscDFnTjNZaEh3S0JnbGhrcVZ3UUhiczhOWVh6a3F1UjBuTW1OU3E4RVFyejJTaFB0VnNURDBJc0hVTnBhVm1UME1HTkJIQjJmYWlpcTFzLW9jRm03LUN5dw?oc=5",
-          "time": "08/12 16:01"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuY0xLeE5Sc2tQR1ZOeWlFMU9JM01pdFJ6YmNId05kT1BGZHZxeEFTRThIeU1KanE1SmZsY1lqc3hMT2pzcWYwdDhIOWhyVEw5WnQtMkZoOUVNN21Uajg5Mmt4emszaFZsTnlRNQ?oc=5",
+          "time": "08/13 16:07"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[0812마감체크] 코스피, 삼전닉스 강세에 3%대 급등... 3거래일 연속 상승",
-          "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsdlVXNS1OWDJsMFZGX1NraWFqRkJqNWo3MWp1dW9za1lRQnFtM2Jxbl9ZaWUxUVpZclR6UHJmcFp1YV9XZElWVU54aFBadngzZ2NBOXJUUmlPQms5R0M3R2lVelVEUVZ6eGFuZjdiQ29qanZOT3c?oc=5",
-          "time": "08/12 17:22"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“코스닥 인버스 잔뜩 샀는데 어째”…코스닥 19% 급등..레버리지 규제가 판 바꿔",
+          "t": "코스피 급등 출발",
           "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBseFRYZXZUVEpsV3JQQkp1N0ZZME85eV9Sc3JlNktHZVRWb0xSWVcyUEhBY2NHWEduT21jSjNQV0cwdV9YOHNBTGgxN2VFUzNk?oc=5",
-          "time": "08/13 05:00"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5Uzludl83WURiOXY0SlpCNlhfNHQ3WjBlMmhaSnUxc0NMMUhnQ1V5OXJ5Tnc3RlRtUzIxQVdLWW92ZWRiQmNXLV9xVW1hNHZk?oc=5",
+          "time": "08/13 12:03"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[증시-마감] 반도체株 바닥 다지나…코스피 3.5% 상승·6,800대 복귀",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KcFAyUFVfLWZaYUx6S0xZQV9LQWZNLVd3bExCTnJTUmNMcnVBS1BnaDdPcGVzR3FrRlBzb08wX2NrakgxdzFxbU1oQ2J4Rk0tbmRUeTl1TmhzT0ZxZFNlUlNQUzRGaG1EanZUaUgwVU0?oc=5",
+          "time": "08/13 16:13"
         },
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "코스피, 외국인·기관 매수에 3.68% 급등…반도체가 지수 견인",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94NmhTS29SR2V6MTBYYzVjMm5DYmF3OVNzZDB5dEdZQlZWUS1JUWgyT2I1Z3Z0cWhzQ2VNRndmeWVUcjVxdmxSc2dmTDJkd0RSRzNsMnJmVnc4aDlRVVhPUDBQWk9vODNIcXdzNHVQTkTSAXRBVV95cUxOVEZDaF9uSkdxMTB1TFVOMFMyVmswb2kyUVZDZXIxOEZzaWhXWGpKU1g4V0lyUXI5YXJMRlA4SE92M2UtMHVSZE9BaWd5aU1oQ0M2bW1OenhZWnB1SDVIVldQbWpVWWo4cjY4UTJ2SUZ4R2pXRQ?oc=5",
-          "time": "08/12 17:27"
+          "t": "[0813마감체크] 코스피, 외국인·기관 순매수에 6800선 회복... 삼전닉스 급등",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zcnItSVFyUUxaQXBZZi1mTW52WFowblRKaWRMOHNTNzNGYjdkNjBYcm1ZRW1IbENiemVQaWxCU0xUZUlNTEVUeXNPVmh1S3dlZFBVNmtIY1A2QW5SenZfSkxoenhJekdHM2dtSUUzUVNqRi1YMEE?oc=5",
+          "time": "08/13 17:15"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "증시 투자자예탁금 100조 아래로, 올해 2월 이후 처음…조정장 영향",
+          "src": "국제신문",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVFaT3FOTkt5endNYWFmci1mRWw3RUNCb1E1NUZNN3FpUmhYNE1vTF91VnhFNzVMMFFTNFJMUEF0Z002bkNQS3J3c0ZXTTF5S0VFQUJqYUU4YTlQLUE0MEtQbW5UZ2YxckNDbktWXzZNb1Q2S3dDaTRYNHFMdkoxalNTZU93RUNqOU9n?oc=5",
+          "time": "08/13 19:17"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6345.53,
-          "pct": 0.73
+          "value": 6813.34,
+          "pct": 3.56
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 854.47,
-          "pct": 6.97
+          "value": 861.37,
+          "pct": 0.29
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1416.88,
-          "pct": 0.33
+          "value": 1418.08,
+          "pct": 0.42
         }
       ]
     },
@@ -81,67 +81,67 @@
           "t": "S&P 500 ends higher as CoreWeave results fuel AI optimism",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-          "time": "08/13 05:26"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street rises near a record as AI stocks climb and worries about inflation ease a bit - Pittsburgh Post-Gazette",
-          "src": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTIxNWpCTVk3cUpQTGhFRW5zS2VRdFh2ZGlWRWQwbjNwNjNXbGs5NHhqbE5POXY0Q210YlI1SndvR1hDQzJQTnpVS25pQUY3SUp1OW91SEY3X1ZuRS1YS3dXT3VMVk5Sd3hsM1hZb2QwbVRaaWp1by1SczZURVBsc0VzYzlmZlVjUFktWkJfU2dtQjRCbnZpc3hSM1htUTlDX09iNURYdVdMWGJPRHc?oc=5",
-          "time": "08/13 06:14"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street rises near a record as worries about inflation ease a bit",
-          "src": "toledoblade.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGdtdDZrWWczZmxVX1BRSWQxbmJ2VXdFSW9pdFMzVkRzN3dIMXBCZ1VFcVdXZXVGdHowQzE4ZHBscDlpX2ZPX1pOZnlrYTJUQjJkYnhwWjJVNk1iREJYRmxxTl9Mb2tYdGRBaUFRcS05dGhLNEt5MlB5MUZsaEtUbnJqSjNmRXVNSlZEMlRxbldHRWI1RG9CTFZwbTJEa2E5Rl9jMGhLd2NmekFXQTRBTzQzdUNybTh1YzFiLURSa1pLLUg4NURidEVuNVNsdw?oc=5",
-          "time": "08/13 06:08"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street braces for peak earnings as stock gains cool",
-          "src": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV3ZVaEtqYXFTcWV1VG5jNktWUUwyTDFXcG5OSENIVEI0Nmo3Wnc2Z3dqWnBOcmtmQUc5bTEtZXFuLWV3M3VpVkxLdHhNS0pHcWNiRkkxaHVPZEVjazNOUlV4TTJISzRPOFprektIakQ1QmNYX3dNMGhpdm4xN1ZOVjNwekdYdU94YWVxcHZlQTN0aDY4UU44UXZtTmMzZXJkVmJyVDVuQmt3Zw?oc=5",
-          "time": "08/13 00:17"
+          "time": "08/13 08:02"
         },
         {
           "cat": "macro",
           "catn": "연준",
           "t": "Wall Street rises near a record as AI stocks climb and worries about inflation ease a bit",
-          "src": "The Killeen Daily Herald",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWHN2LWFRNXpKX2I3QjROa05Vb3VuaW1FUUVvbnlPdWJPOHlhVGdlTGZqeGMxbDdhNkNWWDNPRHZrZ2o1eHpwaHZNZ1RGOVlZWTJWU3ljNVNBZDliQ2x5bnp0eTVMZWplYkowcWd4SEFzNDBSR1V0NEZjVVhzSlFoT1JCNG9oTHR6LWhzRzd0a2pvQkJLbWJ2NXhVcTExNTJTRmJCdG5LbVhwZW0yd0xGeko5N3JEMGhWdld1RXJObWJ5VEpodHF5U0lZajhyYjAtR0ZDZ0xPQTJFVXlBcndIeV8wekU4eUhhRjBIMzRaRXdBMGpKYWVUMQ?oc=5",
-          "time": "08/13 05:12"
+          "src": "Hartford Courant",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHYW1PT2FjU2lhZXhkMnloZDNrMXkwc1lvVDlKMGpmTlJxdXZKc0Q0YlExMXRIRGpoUlFPLWJNMlpVM1hhcmtvejYyZUtZaTk5M3Flb1o2OUZxZmhCaTJTX2RoSGt6ME9kQjRmeXBHNERTNGlwTUE?oc=5",
+          "time": "08/13 19:18"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Asian shares mostly rise after buying of AI-related shares leads a rally on Wall Street",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUV9PZTdBVFk1VjRpMnRuZG4zSkl2U1l5bGhPRHVhT2hVRkNjX1Y0c1JEc0ZxQ3hoWUtMcnNOV0NCOEhoRkZEQmhYNHBsMWZOdUwzbFZiQkgzbXI2MEdjZDc1UDFLVjBMcFRmOXZqZ1d1dHJsSHZHc090OUpiVl9rWGlVd21ISmJmdkRpelh4c29SdFZiMC1rSmE2cFpjUFN0emxrNFltOVlDWEpJby1EQTU5a0VCTjUwQnBVTDJtN1JEbmVhZjZXY3NxWjBfTFJOMkpfNHIwX1VlYWxRYlRrQ0hOdU0xMnNCc0o0cW1FaHlMNlRZU2tEMWFTTHhMSHFETHZWSEtBRUxGM0FY?oc=5",
+          "time": "08/13 14:26"
         },
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street finished up in the green after the latest inflation report",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEc3U1A2VUhOYU52dnpiWm1WNEhzM0F2QUNwREFJeEJuLVM5aS1DUVBKTXRhVzJPc0tSZlpLVmpnMGw3Q2g1ZDZjbzlVeFBUejRoSVZJM0lidGJXeUlhNkxlSzhyb0l5SFZQWFpJbF9tNHk3a2lValEtaFNYUjRCSlI3dVFnSGQ2VzZEemgxRGo1akY1VTBFZFJ2V2dXZw?oc=5",
-          "time": "08/13 05:04"
+          "catn": "시황",
+          "t": "Korea's Stock Market Surges Another 3.5% Overnight. Intel, Coherent, and Micron Among Most Active Premarket Stocks in US Trading.",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlpWVTdaSlk5TmYxazhoUF9Sb3UwZThteDltb2dUTG15YWxla2VYcXNBMTdST3hCN0ppMDA2S2dmYnQwN2l5ZXJRNVlCLWh1ZXhSUVZnNzgyWWhJZ3gwTnZhY1VwUVBvYjMxWW5IbS12UzZ1cXl0QzVaTERUbUxtanNHelM5WUxMMVhZT0k1UVUyWnJ0MGpfSjFPcE1YUTRvY09HVTBEZFlhd3QzNHNna3hxZS1nUzNpU255MEswWG9XeC1aNldCcTM4Zm9FWXc2bW5OMm92anlBVFJ3amd6LUVhSGdpaWlSNUF3S2VJLUJpUFJWU1RtXzBFcw?oc=5",
+          "time": "08/13 20:17"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "The latest rally has energized the stock market but left the credit market concerned",
+          "src": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM3llVWZJTG5RYnpZVzduU2xNbjI4MmdjQVVFd0ZWWTBPOW5DN2VNTlpkc1pyd080OWluVndidmhWS2IxdFNpbUc1ZWxiX2Y3TFZfVnY1OXlzRDJBVWM3Nm03c1c5a2VLSnhNdjlkcGR0UkY5Qk1CQm1SLWdXVjVZWU1LMFAzVXJoTjJKUTZXeHRqNmRYUHFvY1NiZzRWblRHRWdQNXhvdzBiMlhKbVUxN3FwXzdBTVNNRmcwak1wVmNucDlBNUE?oc=5",
+          "time": "08/13 18:01"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street sends strong signal to Nvidia stock investors",
+          "src": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDZsY3NUUjJjOTF0Tmk0SFpySjhpX2NzeFp5S0Z6MlItbTYtSW1wZVZfR3d2X2pYSERidjNvYkxXdEM1V2ZUZW5EY2trYkNhNmZzN055ZGo5QVprN1d2TXFhZmFDXzlvN3hNVm9nUmlOekZvMERxLXRNZEJpbnhsazZVQ2VuRVM2bTRGZFNNQWQ3d3NkU3VVVHFjOWE3VjVVelBzbTBINVZma1lpamplUm1INA?oc=5",
+          "time": "08/13 20:07"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7748.5,
-          "pct": 0.26
+          "value": 7793.84,
+          "pct": 0.59
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26588.49,
-          "pct": 0.54
+          "value": 26800.43,
+          "pct": 0.8
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53770.27,
-          "pct": -0.04
+          "value": 53877.68,
+          "pct": 0.2
         }
       ]
     }
