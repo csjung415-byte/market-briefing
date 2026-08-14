@@ -1,8 +1,16 @@
 {
-  "updated": "2026-08-14T13:50:57Z",
+  "updated": "2026-08-14T22:24:38Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "도박장 같은 국내 주식시장에서 누가 웃고 누가 울었나",
+          "src": "시사IN",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kMXhfM2VmMm1lbUpkTWNpR1FqR1lqcm0tUnlJOUZ0ZVJSaEx3MEJHU05CdVpFTDk3X2wtdWUtWVdQZ0tRMTFLMVluRXQtNUZPaTRab0ZJM3g3TDBWQXYxeWJKX05YZGpUcXc?oc=5",
+          "time": "08/14 17:25"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -10,22 +18,6 @@
           "src": "동아일보",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6NzV1cnpxeVlaYmkwWU1aanFXSm9OTkVtYmV6Yzd4MHQzcHlvQTFmZ0tGc3dFdFQ1aktMaHJubjkxZmU5a2NtcjNPcnh6UGduUVNHNnh0TXd6dU0wNzZvU3JWYmRBOGlSN01sNkFsMWpvS2NWR3fSAWZBVV95cUxQaFdmanFQUUpidGQ0M2s1dWhYWDY2WGYyNGpPN1llSG1pd2o0aXRhTGN0dHdFZGxBOThPQjFud0dLc1hNZG5zRUI0UnhCOVlsSEVTQk1ucDF5MFVacEpyQXZkZmZzLVE?oc=5",
           "time": "08/14 17:39"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "도박장 같은 국내 주식시장에서 누가 웃고 누가 울었나",
-          "src": "sisain.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kMXhfM2VmMm1lbUpkTWNpR1FqR1lqcm0tUnlJOUZ0ZVJSaEx3MEJHU05CdVpFTDk3X2wtdWUtWVdQZ0tRMTFLMVluRXQtNUZPaTRab0ZJM3g3TDBWQXYxeWJKX05YZGpUcXc?oc=5",
-          "time": "08/14 17:25"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[이슈체크] \"들어갈까, 말까?\"…외국인 사자, 코스피 이번 주 내내 상승, ‘셀 코리아’ 끝났나",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mWkIzdlhhYkZON2dMTEFDYTQxeTV6S0F2RnJKREQxb0pBR0JaMlU5MDhrc2hwcUVPNmxuSGs2TmE0VjV2aDJGMl9mdGVLWEU?oc=5",
-          "time": "08/14 19:19"
         },
         {
           "cat": "macro",
@@ -38,38 +30,46 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "이번주 내내 오른 코스피, '칠천피' 근접 마감…코스닥도 상승",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MNkdGUWlPNmloQTZRV05ueWtBVlV4RjJ3eDYzLTdUQUVSWllJR01ra0VtTUdBLThoZW80d1FnWnA4cGlNbS1rbUtqTVNSeUh3VGRvbEpvQWVMUQ?oc=5",
-          "time": "08/14 15:38"
+          "t": "코스피 4일 연속↑ 7,000선 목전",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY1FoNUx0SHVZRTFIRVRka1dYZVpUaVdlbEdjTmtrdGhaSzJsQjFsS1prMDZEeTg4UGtqRDBkb2ktRmd1RVdNUFpyYzRvUW5yQnlGQ2lNU2NIamYwUXQzR1NfX2k3MTEtQm9seg?oc=5",
+          "time": "08/14 16:06"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "두산에너빌리티(034020)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGU3R2UtWnV0V1I4WkFKU3EyVnlHd2I0TmNuODMwZEg3QzFmcEV6Smp0WFFfTk50Q3lKU0R1ZUt1UnEwOWEwR2JqU01IOFN2Ml9OLWxWbnZIcjJ5OXNDcGcwVGNlVEY1Y2Y5OW5UODlLSkpQRUhMbHF6Z1BqUmFJVncwQ3czMm5hMTZHS0NfWXVjZHRxeGdkVQ?oc=5",
-          "time": "08/14 10:51"
+          "t": "\"결혼 자금 날렸다\" \"국장 믿은 내가 바보\" 개미들 '비명'…전세계 놀란 韓증시 변동성",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GaEk4YlREaG1vempmYXZjNm0yUVUyeE83cFRveDNqWjFmT25IdUI4OGIxTW5hRGp0NlBkWGFSNUdKSmhDY0lheGY0WklNVHc?oc=5",
+          "time": "08/14 14:54"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 5거래일 연속 상승, 2.42% 오른 6,977.94 마감...장중 ‘7천피’ 돌파도",
+          "src": "신문고뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIc3VJSjZCcDg4SnFUOVY4SWktbmpZTGdHRE5GTGJ4LWZfbUlvWDU1aFpkX2VMaTB3LVRTOXVkcUR0V3lVZFVR?oc=5",
+          "time": "08/15 00:05"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6977.94,
-          "pct": 2.42
+          "value": 6813.34,
+          "pct": 3.56
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 864.65,
-          "pct": 0.38
+          "value": 861.37,
+          "pct": 0.29
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1411.18,
-          "pct": -0.37
+          "value": 1416.48,
+          "pct": -0.03
         }
       ]
     },
@@ -77,71 +77,71 @@
       "news": [
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "S&P 500 notches record-high close as rate-hike worries ease",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
-          "time": "08/14 08:35"
+          "catn": "시황",
+          "t": "Wall Street slips from its record following the latest weak update on the US economy",
+          "src": "WDEF",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVklqcFk2OV94LWJ4X1VOMWZKc1ZudXpnUFIxRGp2Vk1FOU1oUTFQYUZOQkhXUzU5d0R5anlzX1pkc0xsU18zUzhUeXh3UHhaQmQ4LXRGdEw0SndVN1o3YXdWamhkMUJLSWtuR21KZkdpZTFJNUFNWVg0YTlBUW02ZkdTaEZmX0FaVWwwdjA5VUhKeXdIWndmV3Azdjg1eUlhNXVVZURuTVh2QQ?oc=5",
+          "time": "08/15 05:19"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "BofA’s Hartnett explains why Wall Street is trading with ’no fear’",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUM4XzhrVWpOZlRoVGZKRVRVcnEzcnlwVUluNEJLN0tqeXg3ejV5b29iYjRXeThacnhabDlVR0dMSm1rMjlReUh6QlRPNDMwUFJQU3MxblZ4TFY4RGFmYXNEUXlLOW1kWG96eS1lNy1HdWZLR0JoNU91YVBlSjBQeUkxRUJobHNoQnlfdS0wVE0zaFFlRE1lZ3NOUm9VTVhHYUlmaEZxc2V5YXJpZFVfdGJZUVotMm5yYkZqTA?oc=5",
-          "time": "08/14 19:26"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "S&P 500 ends lower as investors weigh data, Middle East tensions",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
+          "time": "08/15 05:25"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Investors pile back into US stocks as bullishness returns to Wall Street",
+          "src": "ft.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFlTTm1xaDNMOElUWkhvU0hfTTVnVDhlcFVTVUJEb2k5LUN3TElidzlWalNYLXVRb3F5T0UyTGJVeXRjY2s0Xy1hWHJKcVZfWnhNcHQ3NEtFdnloY1RuWjEyS1pHWGgxajM4UE1xa0ktbWlHaHphQ2tiLVRlRmtkN0Utakw?oc=5",
+          "time": "08/14 23:35"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "US stock market today: Wall Street drifts near record highs; economic data in focus",
+          "src": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMGNpb2IyQzRBQnFOU2prXzdadDQtaFdvWENTajdfWVIyRXkyR1hZemdTbzFod2I5NTV6X0I4YTFSOTktWS1ubGUzeUxVSzZtZ1pCU3lVVFBETXNOdGxVSG1iYmpQUFAtT29IemhaYWJ5cmExdlFOX0pEaHR6VzFQNkp3Tm91TGpvS19PWDVtSlJyZFExMmdtUm55N21wOWlaaVUwVVQxLVhpc0lRTFJwdGE3Y1dqdExWSjk2N2I5Ym1WRURNNnNaSUpDNDhvQWMzOTkwM09xNHN3dUdRZldDb0RWWUkxTXFSNUctVlRCUUYzRWxnczdULS1Md1BlSFI4dEVSdkJsUnBPRjc2clBydl9peWQyNHBoNVROSU95OEYwc3AyQzVGeXdrSy1DcXpUTmpvSHdRbjJBT0dnc3gybjdEdU90b2R00gHOAkFVX3lxTE9NRElvbUtYQmxhZnJOaDRaQ3RqY2lrcXRnaUo1a19nbVUyLWpzdFJuQV9Yb0g5T29obUgzNWZtb2FNU2picFlnNVVJUDQteXBqU3pCMzMxTmNJd0Ribm1XWk9VbEdNekxFaEUyQ3BKLWtWZjk2UG5wR0pLSExYejVlNmthMGNYdHF4ZjIwbmpNRnJUNHhMSW14aUwtYkJ0cU40MlA5c18yZElBcnlkSVFfeWplUDdtM2Q3UXh1a3NrdFA5ODU0WGxkRVFHeHYxUklyZzRHZTRuR0U1ZGstN2ZGbVAwQ1pIQW12cUZfWmVvaDJSNkdiNGRIUnBLLXlkWE9TQWxpYlNnOWZSMHRmd1F6ZU5GUE93LUl2bm80WXI4TmNOZlRKODJlSFlzM29tNWdtZ0FZZEx1cTFhaDI5TVBjaWlOcGxyQUtmZHJPTWc?oc=5",
+          "time": "08/14 23:21"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Bathes in the Light, but Darkness Is Creeping In",
+          "src": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3EzckZmdXpsamFjSFNQQ3ZJUlYxS0dWWGI1OG5RU3JjVVRDbFpmNmlHRF8wZHZsdEZ1QlhmV204aUx3aFlncmRieFdpdkNWYnJZYzdPYlJRYXV4blNiZGN6S180Tlk2a0RtQXRKUXNrQl9zNFpobEVmWmktY0tBYjVDRm5MaHc?oc=5",
+          "time": "08/15 02:08"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "Sandisk stock surges as Wall Street cheers flash memory maker's bullish outlook",
-          "src": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN3BMYldHYkNIVEdEaXZJc0FEckRhaWZxR1VKUzZoMG5yVmtQSkp6TnhqSVN2b1FrbF9ZSkxmSjZoWlVBS1FSVS1mTjhnS3BwelVwbFZDbkQyeXlxZm5IenBCcGZSdmJxQnlHZnRfOU9DM0VYUTNjZmdTbmJYdzAwS0JOemVBZU01eW04TjRfVDlpeGRXdUZOOVF4UGRua0lIRmpmZUtzWV9Qc3VHOXBRaE85YkhMUk84eG5UeFUySW00YXhVWXc?oc=5",
-          "time": "08/14 22:15"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Reddit joins the S&P 500, shares surge 12% 📈 From a niche forum to the heart of Wall Street",
-          "src": "XTB.com",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGJRR242dmxadE1mYjZxRVBGdzFneEdBMjUxeDJUQVZIN1Q4MkNPcFRTRTZqU0NnQTZOZFE2VWdQbzNPclU3SVFJQmhpSUFLeklpNzZvZ3pXVXZCMFB5TG5wUFZXUGFXZFFNbUZjUlpnbDZHRlpQV0R3YWVENWdzNjRDMm9oX2h3WGdHTkg1N0cxdWhJbmpVaC15bG9PTTRFbkZBYTZoMElkS3VFR3pnOXhyNnFTSjhNeTBpczlfV2hpc3ktSHQ5RDFnVDAyTks0bFRxM3NLalZLZ05ySWc?oc=5",
-          "time": "08/14 18:54"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US Stock Market Today: S&P 500 Futures Edge Up On Sticky Inflation And Deficit Worries",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ0N4bDhDY2Fta3YwWXFRWTJGa1Vpc0tvVmh5SFZWSV8wcHc1YTJGbUdTWlRuTUVQa1dNd1VWcmc1ZzlkMC1iODgxMnFvTk5kdXQyakR2WEpnVjdubHczbU1oOWVBWHllanM2QU9IZ25QLVhkWUxqNlBrMjE0d2UtWHhnai15M2hhX1ZHbDFEN1lMXzlUdU9tNDgwTGdsTFJ2cGV4ZmhPSmlvZW1zR3lFVEI2bG81cldaYy1kYlpsY2lKbVFB0gHKAUFVX3lxTE9NT1VmS21GX1dQd3VZNWszTXdQSGNIVHFJUEpHZ3ZpTjVLUXNMUzlwLWc0dk1aSXZwdTJ0YlhaR0tMd2VCeXItT3pUYW1vWDFFSEtzTkQ1WllkYy1wbkxzWGpxSm9xRmcwaUFqT0FZa1FULXFKZWRFbUN0RlBhNjIzRlpVOFpDeVRoUTM5bzA5VXdLUXhZdFpSem05MVZFMm9EdnJHR1puS3FMMi1CNTl6RDdmRWJZem9aQzdzamRIbEgwcllFQVFydWc?oc=5",
-          "time": "08/14 17:54"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "U.S. stocks rise to a record as oil prices drop and inflation gets less bad",
-          "src": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLWFwNmhMd25qNzRDTVJqT1ptTHhXWVRfUjZmYWRIclJmOWdXdGJUVjBES3pjZG9ELWR0ODZJOTh5VWVZcnVYeW5ZVlY4TjE4bEdmNG1ERG1YTVNYamlLaFVaeHJhcWxCdFRzTjVyN1NUMDB5Yl96RkRXYVlzU2ZpNjlvVnJHa2p6aVZRODB5b2g?oc=5",
-          "time": "08/14 06:59"
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaVEyYzNEQkxYbmdET2ZKUDlFeXl1aVZVaUJRdm1rNDV5dDhHVEw3OEEzYlFaZFRZc1RieU5KS1FXNklPSE94bW5YQWdXbVFpajVyZWVDNjZKT2pqSnpNS0pvTHRERWFIT19tNFMtd1RDMzEyWWhKSWhhZlZMTG9XcDAxaHJaMEU1cTd4NmNtcFRpbTBqUUdJbGVtanB5ZGw3UkdLcXRTWjVJTzVPWWdSbllnOEJBNGJwYUNpOUh4YjZnVWlsYzRkdDRHeXhPbzRVaEhJRUk4OVprZw?oc=5",
+          "time": "08/14 22:34"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7801.36,
-          "pct": 0.03
+          "value": 7785.76,
+          "pct": -0.17
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26799.31,
-          "pct": -0.01
+          "value": 26729.16,
+          "pct": -0.28
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53833.69,
-          "pct": -0.01
+          "value": 53732.41,
+          "pct": -0.2
         }
       ]
     }
