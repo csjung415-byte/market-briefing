@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-14T22:24:38Z",
+  "updated": "2026-08-15T13:05:54Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "도박장 같은 국내 주식시장에서 누가 웃고 누가 울었나",
-          "src": "시사IN",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kMXhfM2VmMm1lbUpkTWNpR1FqR1lqcm0tUnlJOUZ0ZVJSaEx3MEJHU05CdVpFTDk3X2wtdWUtWVdQZ0tRMTFLMVluRXQtNUZPaTRab0ZJM3g3TDBWQXYxeWJKX05YZGpUcXc?oc=5",
-          "time": "08/14 17:25"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5",
+          "time": "08/15 09:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“한국 증시 믿은 내가 바보”…외신이 본 ‘코스피 개미’의 잔혹한 여름",
-          "src": "동아일보",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6NzV1cnpxeVlaYmkwWU1aanFXSm9OTkVtYmV6Yzd4MHQzcHlvQTFmZ0tGc3dFdFQ1aktMaHJubjkxZmU5a2NtcjNPcnh6UGduUVNHNnh0TXd6dU0wNzZvU3JWYmRBOGlSN01sNkFsMWpvS2NWR3fSAWZBVV95cUxQaFdmanFQUUpidGQ0M2s1dWhYWDY2WGYyNGpPN1llSG1pd2o0aXRhTGN0dHdFZGxBOThPQjFud0dLc1hNZG5zRUI0UnhCOVlsSEVTQk1ucDF5MFVacEpyQXZkZmZzLVE?oc=5",
-          "time": "08/14 17:39"
+          "t": "\"한국 증시 믿은 내가 바보\" 코스피 변동성에 투자금 날린 개미들 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YX2FoTXJKeDJlRFRYWFNYNDJ4SktiWHNzYVFNRWJTUGNxSTJXQjdEMzV5VXRabkhlcnZqSXdvRXg2UkUya3RLczZ6TzZxMGdWNEdZMERsUjlyNWt0X3ZlcnJrckI1TU05cHRyeDln0gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5",
+          "time": "08/15 12:56"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[주식] 코스피 7000 턱밑 마감...큐리옥스 30%↑·페니트리움 12%↓",
-          "src": "히트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YZldpWmJuS0RnUEdhX0EzM0NoWGlsdk9Lb21VSHJ2TlZtcmhENXhDWHUwSGtUV0w2dm5pR1hpd0RkSU9XaFBfdjQwLVJUaXY2S3RXeC1pNXpza3lPd282WmpHMTVfeDkzQ3Vr?oc=5",
-          "time": "08/14 16:57"
+          "t": "[주간증시전망] 코스피 7000선 돌파 시험대…AI 투자 신뢰 회복이 관건",
+          "src": "ebn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5",
+          "time": "08/15 18:24"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "27만전자, 164만닉스, 돌아온 외인… 불붙은 국장과 반도체 고점론 [주간 증시해설서]",
+          "src": "더스쿠프",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XaV9Gb3hVbXdMR1RScHcyZlE4UzBBRmtyYVlKVWl1MFJPRWFpcjZLWXFFRXMzOTBPTTR3T0RzYnR0T0lLVV8zc1JnR2M4ZU5sUWdERjgzRmpWcEVsUE82R0JrUWxFR05IYTFlNGxR?oc=5",
+          "time": "08/15 10:29"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 4일 연속↑ 7,000선 목전",
+          "t": "코스피, 6,977.94로 마감, 종가 기준 7,000선 재돌파 눈앞에",
+          "src": "정경시사 FOCUS",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Q0k0QWtOSjhBbXJvaVk1V0Q2TnBGd2wwUzZVQUZXUERWQjN3bHBYMTRzMDJZUWVyUUVkQ3U2VVJpSXVtTElOU2VsU3R3eTIyU3VmUDBsRjNMYUx6NmhHc01Qb2pndVhG?oc=5",
+          "time": "08/15 14:38"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "관리종목 피하려 합쳤는데 주가는 뚝…'꼼수' 액면병합의 역설",
           "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY1FoNUx0SHVZRTFIRVRka1dYZVpUaVdlbEdjTmtrdGhaSzJsQjFsS1prMDZEeTg4UGtqRDBkb2ktRmd1RVdNUFpyYzRvUW5yQnlGQ2lNU2NIamYwUXQzR1NfX2k3MTEtQm9seg?oc=5",
-          "time": "08/14 16:06"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"결혼 자금 날렸다\" \"국장 믿은 내가 바보\" 개미들 '비명'…전세계 놀란 韓증시 변동성",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GaEk4YlREaG1vempmYXZjNm0yUVUyeE83cFRveDNqWjFmT25IdUI4OGIxTW5hRGp0NlBkWGFSNUdKSmhDY0lheGY0WklNVHc?oc=5",
-          "time": "08/14 14:54"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 5거래일 연속 상승, 2.42% 오른 6,977.94 마감...장중 ‘7천피’ 돌파도",
-          "src": "신문고뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIc3VJSjZCcDg4SnFUOVY4SWktbmpZTGdHRE5GTGJ4LWZfbUlvWDU1aFpkX2VMaTB3LVRTOXVkcUR0V3lVZFVR?oc=5",
-          "time": "08/15 00:05"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxcGFEWXhXTkQ0X3FzbHhIU2xGRzlQdkdCTUFHY09Uc0FyZ3Z4OWd0bGNaVVBodFdSRko3UEdIVm5neWdIV2hERjRyeVU3STBydE5zaWNYazFqMjBsblFkdVNFM3h5VTFYQzFyT1A1RHA1UQ?oc=5",
+          "time": "08/15 08:33"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6813.34,
-          "pct": 3.56
+          "value": 6977.94,
+          "pct": 2.42
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 861.37,
-          "pct": 0.29
+          "value": 864.65,
+          "pct": 0.38
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1416.48,
-          "pct": -0.03
+          "value": 1412.0,
+          "pct": -0.34
         }
       ]
     },
@@ -78,10 +78,42 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street slips from its record following the latest weak update on the US economy",
-          "src": "WDEF",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVklqcFk2OV94LWJ4X1VOMWZKc1ZudXpnUFIxRGp2Vk1FOU1oUTFQYUZOQkhXUzU5d0R5anlzX1pkc0xsU18zUzhUeXh3UHhaQmQ4LXRGdEw0SndVN1o3YXdWamhkMUJLSWtuR21KZkdpZTFJNUFNWVg0YTlBUW02ZkdTaEZmX0FaVWwwdjA5VUhKeXdIWndmV3Azdjg1eUlhNXVVZURuTVh2QQ?oc=5",
-          "time": "08/15 05:19"
+          "t": "The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?",
+          "src": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRTVEUEs1a3NGMEVNZ3A3OEFrRFg0VHIzTk5ia1ZjTVJRcERwRC1RZkRMNDNNRGRlcTU2Q1JnTUxsZ3p6cWRsQnBic0x3OEduQk56MGRnSWJ4MDVKWWdXc1hJa3Z5UDNZeEN6dEtwakJDa1dabmJ5eHhDUjk3UDBoQWVBa21FVC1DWWFEbmhqRWstd2V1TmtXczM0OEJkVXlVMzNSV2R5Q21jYUd4OTZ0bkxQd29oWW0tLV9waVdHSEJ2SEgyamc?oc=5",
+          "time": "08/15 20:00"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORXRQQ1JjdmhVU1BQY2JNODNBQ3g4c3oxbEJRMGRFWFc5bEhlNTYxenlNakdvN0RLdjdTRUdnUlE5V29HZzVrQ1BhbUxTYUZkM0VBR2ZiQ0ZGOFA3bE9RR1pVdExsZm52N25DQzk3VTltQkdteDQzWEx6VWVMVVdxeS1EcmdJd3RvNnYyWGhrNmZjcXJPQ0w1T1RYaURYSkpUMGtJMzRSREFlNUxFekNjSUVjNGpOdTlNczBUZjV6UEVra0JZVm5XNTgtNHNsOHc1Tm1ySEtHemJJaFBVVk1vX3ExbU9PeTIzR01oYVRVUTRlUHBHSS1VUWJiY1F5c0J4M2FkUlFEaXluNzBkNVVrZnctbkRjb2M?oc=5",
+          "time": "08/15 17:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street slips back from its record following the latest weak update on the US economy",
+          "src": "VailDaily.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0Nhd2daSHZoQkFfV1BzS1M5eURpX1RtdnlhenlnSzA0WGVienJKWVl1UXpGX0pBc2VRQUgzUnNrY1VYLVVVTkQwOURON2JhUW1vdnJUczVfNUFUY2Roc0JsUllURVZFZHNzMEVkUUJJSklKa1h0OHBBTXE3ZlNkVENxSkRxWmlRMlQ0bmpYeElqa0lXVVB6MkVacUJ5cldHVllKcFhtWmVRVlRrMU5Uc21uR2xTRmVFdWpZM3B1NDdqUy1yN3laZXJGTEZmbVE?oc=5",
+          "time": "08/15 16:28"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Peter Tuchman has survived every market crash since 1987. Here's why he's not worried about an AI blowup",
+          "src": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWQxcXNhb19NSUFGaTRMd2Y0N3RaMk1Yd2l4UzhUTTJUOVZpaklRd2ktRXA0Nm16aU91WUc5V0RxQmRUcWdWREttU3p3c1g4QkdXYlI0aFZEbFFEbVBuSm5COXRQRnVqemNWZnZHLXl1bElwZHZMT1c4LVNjSkt0N0VtWnJDTFkyZ0pSNWh6U0xlWmRJeGVUWTU0U2E4UHc3NGlHc3FR?oc=5",
+          "time": "08/15 18:45"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "3 Under-the-Radar Chip Stocks Wall Street Is Sleeping On in August",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDl2VWd6Qm1PVW1mdV9xV1BFd004TWI4VEl0Z1EtR3NlNXlUR1VqZjBRN1QzNWkxcE5Gd1k5MHhUWkFDZjdiQTdqenYwaWlKaUJNbWMwMHJEOGdBa3pTYlY0Z1VpOXBNcGRONUQ5NTU1djZZU3VCVWlTRmdCWHVGYzZaRExSdWRzTnhXLWpUZ0VReDlCZDdUMi1LOWNXcTdNMHhTUDdSWUpCaUFqdXBR?oc=5",
+          "time": "08/15 20:00"
         },
         {
           "cat": "macro",
@@ -89,39 +121,7 @@
           "t": "S&P 500 ends lower as investors weigh data, Middle East tensions",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
-          "time": "08/15 05:25"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Investors pile back into US stocks as bullishness returns to Wall Street",
-          "src": "ft.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFlTTm1xaDNMOElUWkhvU0hfTTVnVDhlcFVTVUJEb2k5LUN3TElidzlWalNYLXVRb3F5T0UyTGJVeXRjY2s0Xy1hWHJKcVZfWnhNcHQ3NEtFdnloY1RuWjEyS1pHWGgxajM4UE1xa0ktbWlHaHphQ2tiLVRlRmtkN0Utakw?oc=5",
-          "time": "08/14 23:35"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "US stock market today: Wall Street drifts near record highs; economic data in focus",
-          "src": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQMGNpb2IyQzRBQnFOU2prXzdadDQtaFdvWENTajdfWVIyRXkyR1hZemdTbzFod2I5NTV6X0I4YTFSOTktWS1ubGUzeUxVSzZtZ1pCU3lVVFBETXNOdGxVSG1iYmpQUFAtT29IemhaYWJ5cmExdlFOX0pEaHR6VzFQNkp3Tm91TGpvS19PWDVtSlJyZFExMmdtUm55N21wOWlaaVUwVVQxLVhpc0lRTFJwdGE3Y1dqdExWSjk2N2I5Ym1WRURNNnNaSUpDNDhvQWMzOTkwM09xNHN3dUdRZldDb0RWWUkxTXFSNUctVlRCUUYzRWxnczdULS1Md1BlSFI4dEVSdkJsUnBPRjc2clBydl9peWQyNHBoNVROSU95OEYwc3AyQzVGeXdrSy1DcXpUTmpvSHdRbjJBT0dnc3gybjdEdU90b2R00gHOAkFVX3lxTE9NRElvbUtYQmxhZnJOaDRaQ3RqY2lrcXRnaUo1a19nbVUyLWpzdFJuQV9Yb0g5T29obUgzNWZtb2FNU2picFlnNVVJUDQteXBqU3pCMzMxTmNJd0Ribm1XWk9VbEdNekxFaEUyQ3BKLWtWZjk2UG5wR0pLSExYejVlNmthMGNYdHF4ZjIwbmpNRnJUNHhMSW14aUwtYkJ0cU40MlA5c18yZElBcnlkSVFfeWplUDdtM2Q3UXh1a3NrdFA5ODU0WGxkRVFHeHYxUklyZzRHZTRuR0U1ZGstN2ZGbVAwQ1pIQW12cUZfWmVvaDJSNkdiNGRIUnBLLXlkWE9TQWxpYlNnOWZSMHRmd1F6ZU5GUE93LUl2bm80WXI4TmNOZlRKODJlSFlzM29tNWdtZ0FZZEx1cTFhaDI5TVBjaWlOcGxyQUtmZHJPTWc?oc=5",
-          "time": "08/14 23:21"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Bathes in the Light, but Darkness Is Creeping In",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3EzckZmdXpsamFjSFNQQ3ZJUlYxS0dWWGI1OG5RU3JjVVRDbFpmNmlHRF8wZHZsdEZ1QlhmV204aUx3aFlncmRieFdpdkNWYnJZYzdPYlJRYXV4blNiZGN6S180Tlk2a0RtQXRKUXNrQl9zNFpobEVmWmktY0tBYjVDRm5MaHc?oc=5",
-          "time": "08/15 02:08"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Sandisk stock surges as Wall Street cheers flash memory maker's bullish outlook",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaVEyYzNEQkxYbmdET2ZKUDlFeXl1aVZVaUJRdm1rNDV5dDhHVEw3OEEzYlFaZFRZc1RieU5KS1FXNklPSE94bW5YQWdXbVFpajVyZWVDNjZKT2pqSnpNS0pvTHRERWFIT19tNFMtd1RDMzEyWWhKSWhhZlZMTG9XcDAxaHJaMEU1cTd4NmNtcFRpbTBqUUdJbGVtanB5ZGw3UkdLcXRTWjVJTzVPWWdSbllnOEJBNGJwYUNpOUh4YjZnVWlsYzRkdDRHeXhPbzRVaEhJRUk4OVprZw?oc=5",
-          "time": "08/14 22:34"
+          "time": "08/15 07:57"
         }
       ],
       "indices": [
