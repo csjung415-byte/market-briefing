@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-15T13:05:54Z",
+  "updated": "2026-08-15T22:23:28Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5",
-          "time": "08/15 09:00"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTjNJN0Nub3Q4bEpoLVhiVEdZcE9nekNLTzhUTjFJT2lDUW5PWVlleVZrYWRIMkFPb3U4VjZJa3h0Wi1jZ0JpNjByMHVlUVB5TXc?oc=5",
+          "time": "08/16 06:00"
         },
         {
           "cat": "macro",
@@ -22,34 +22,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[주간증시전망] 코스피 7000선 돌파 시험대…AI 투자 신뢰 회복이 관건",
-          "src": "ebn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3cUZEczlfWmF2dThDZXJKN3RYSmNUdXdBLWwwa3hDZDhWaDktUlhqMDYtMmx2U2llRTVKNUN6bnRFcG5vTnExcXg5UnQ4d3dNSFZoZUxkM1BuWTZmbEl1WmRWWENKZVpF?oc=5",
-          "time": "08/15 18:24"
+          "t": "[여의도 물어보살②] 흔들려도 9000피 간다…반등 열쇠는 ‘이것’",
+          "src": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRDhqQno0R0VkV1FMcXFmVUh2UDdOLVdERjRXdG1hMTlySGo2TzRLbVE3MTNrTDJBVElwYXBZUEZUZnlGTHlpWFh6b05vQW1aRExIZGVTR0ZvZHBtRFhsODJOVXc5eG1aS0FEdHlsOXU0RWwtWmNPLUozWW8wZk14XzM3emdUZFJXdkxfMzREbmhDbjdaU1daUWFoeWFpOEJJbVNUSi1UN2tzVjlEZEhLa2IxYUtqODl6dlFvckpiRUo1WnI5dTYtUTFSVEk1LWF1NmFxb3JQazU2LXQ5Z1dSQWR5dXpPY2V0dUMtN1dEZUhzVV85VTB6MnVIQWxnelpfeHhJ?oc=5",
+          "time": "08/16 07:07"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“빌려서라도 지금 투자해야”, 증시 훈풍에 늘어난 20대 ‘빚투’",
+          "src": "한경매거진&북",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kZGo4UWoxVE1FelkzNE5SeVJfck13WlNkTDRMNThDMmRJUW1lUFBnT1FjdkxsTWxTZnpuZ2UxVXYzTVhpcGg2ekljVlkyZ0k4SzJIS1dzMHBqRmZWX0ZhQWEzTTlMRWpqdERF?oc=5",
+          "time": "08/15 19:15"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "27만전자, 164만닉스, 돌아온 외인… 불붙은 국장과 반도체 고점론 [주간 증시해설서]",
-          "src": "더스쿠프",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XaV9Gb3hVbXdMR1RScHcyZlE4UzBBRmtyYVlKVWl1MFJPRWFpcjZLWXFFRXMzOTBPTTR3T0RzYnR0T0lLVV8zc1JnR2M4ZU5sUWdERjgzRmpWcEVsUE82R0JrUWxFR05IYTFlNGxR?oc=5",
-          "time": "08/15 10:29"
+          "t": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5",
+          "time": "08/15 09:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 6,977.94로 마감, 종가 기준 7,000선 재돌파 눈앞에",
-          "src": "정경시사 FOCUS",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Q0k0QWtOSjhBbXJvaVk1V0Q2TnBGd2wwUzZVQUZXUERWQjN3bHBYMTRzMDJZUWVyUUVkQ3U2VVJpSXVtTElOU2VsU3R3eTIyU3VmUDBsRjNMYUx6NmhHc01Qb2pndVhG?oc=5",
-          "time": "08/15 14:38"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "관리종목 피하려 합쳤는데 주가는 뚝…'꼼수' 액면병합의 역설",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxcGFEWXhXTkQ0X3FzbHhIU2xGRzlQdkdCTUFHY09Uc0FyZ3Z4OWd0bGNaVVBodFdSRko3UEdIVm5neWdIV2hERjRyeVU3STBydE5zaWNYazFqMjBsblFkdVNFM3h5VTFYQzFyT1A1RHA1UQ?oc=5",
-          "time": "08/15 08:33"
+          "t": "코스피 2.42% 급등 마감…美 증시는 혼조, 어떤 영향권?",
+          "src": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSUR4RWp6R25pWjNLbWZPclduaURNTl9rR3Q3Szg1dE1naEVRWFpPQ01GdU16SHhDS2ZXcnl4TEFvSGdBUVZSRHNKUUxaUFRKOEZNZ0FWbDdtMVlkYzdER29XZGVlR0JL?oc=5",
+          "time": "08/15 22:08"
         }
       ],
       "indices": [
@@ -76,12 +76,12 @@
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRTVEUEs1a3NGMEVNZ3A3OEFrRFg0VHIzTk5ia1ZjTVJRcERwRC1RZkRMNDNNRGRlcTU2Q1JnTUxsZ3p6cWRsQnBic0x3OEduQk56MGRnSWJ4MDVKWWdXc1hJa3Z5UDNZeEN6dEtwakJDa1dabmJ5eHhDUjk3UDBoQWVBa21FVC1DWWFEbmhqRWstd2V1TmtXczM0OEJkVXlVMzNSV2R5Q21jYUd4OTZ0bkxQd29oWW0tLV9waVdHSEJ2SEgyamc?oc=5",
-          "time": "08/15 20:00"
+          "cat": "earn",
+          "catn": "실적",
+          "t": "‘Outlier’ S&P 500 Earnings Strength Cheers Wall Street’s Bulls",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVl0ZnJ3ZlY4TWtMUnBpam5SYjdhcXFRdmtyd2wyd3gzUWFsYlBGT3d3M3p1c0RWT2tlb211UEJiMDY0dnFkZDhtOFBzb3NGVlY4ZE8xX0hNdVBmOG12cnBnNGktRkRQZlVIYV9jNkJqVDBIb1B4VjlneEozaDRYMkpLSEoyczZJUG9zM2xZTjhXN2t0LXVHRGZocWxRR2huUXFqTDBDLVJMdTZOdWtMMHV3?oc=5",
+          "time": "08/15 22:00"
         },
         {
           "cat": "earn",
@@ -94,18 +94,18 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street slips back from its record following the latest weak update on the US economy",
-          "src": "VailDaily.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0Nhd2daSHZoQkFfV1BzS1M5eURpX1RtdnlhenlnSzA0WGVienJKWVl1UXpGX0pBc2VRQUgzUnNrY1VYLVVVTkQwOURON2JhUW1vdnJUczVfNUFUY2Roc0JsUllURVZFZHNzMEVkUUJJSklKa1h0OHBBTXE3ZlNkVENxSkRxWmlRMlQ0bmpYeElqa0lXVVB6MkVacUJ5cldHVllKcFhtWmVRVlRrMU5Uc21uR2xTRmVFdWpZM3B1NDdqUy1yN3laZXJGTEZmbVE?oc=5",
-          "time": "08/15 16:28"
+          "t": "Wall Street slips from its record following the latest weak update on the U.S. economy - Pittsburgh Post-Gazette",
+          "src": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0VBZE9EdmlXWXFYc3dwcXN1WFI1a0R0QlJIWlg5ZF8wcGRSeDd1Z0FlRE9DWWpDdGdNR054d0Uxb0lUbjdmYkwxVEdSS1VXSjZJSU41RTJXeXVDVFFQQnJmdjVLamNiMFdHRC1PSmdQZHFtaTFidWtKeF9NVEJ2clpfbXF0czc2MFd4dnUwemZOa044UTRMbzd5ZW1uU0p0WUVkcGRoZ1R1dm9X?oc=5",
+          "time": "08/15 17:43"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Peter Tuchman has survived every market crash since 1987. Here's why he's not worried about an AI blowup",
-          "src": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWQxcXNhb19NSUFGaTRMd2Y0N3RaMk1Yd2l4UzhUTTJUOVZpaklRd2ktRXA0Nm16aU91WUc5V0RxQmRUcWdWREttU3p3c1g4QkdXYlI0aFZEbFFEbVBuSm5COXRQRnVqemNWZnZHLXl1bElwZHZMT1c4LVNjSkt0N0VtWnJDTFkyZ0pSNWh6U0xlWmRJeGVUWTU0U2E4UHc3NGlHc3FR?oc=5",
-          "time": "08/15 18:45"
+          "t": "SEC again delays tokenization exemption after Wall Street pushback",
+          "src": "InsuranceNewsNet",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWNKSnpCX1JKZER4S002dXliREY4LWc2am9zOWdEbXVsSlMzR3VLTWRfUUZ5X0VscjdLb1hNRFBzUG1HVlFrZUs2VXBEeEdnTEV5cVdnaVp2cS1IRTJzMlNzc28xNkxpcGFQR3NaOUdKYUNyWXdTZHlsN0N5WUxuckpZY3dJU2xKT1c1dkIxbEowU0hVcEpEZlhEUEl1Z0hNSXVDRjNZYw?oc=5",
+          "time": "08/16 01:57"
         },
         {
           "cat": "earn",
@@ -116,12 +116,12 @@
           "time": "08/15 20:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "S&P 500 ends lower as investors weigh data, Middle East tensions",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
-          "time": "08/15 07:57"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Bumble Stock Extends Slide From New Lows After Changing The Rule That Built Its Brand — Wall Street, Retail Are Both Swiping Left",
+          "src": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNcnI5SW1yTkZSdm9kaWJaN0g2ZmhlRU80aG9RaGFmd1U0OWpwZ1ZpVTdVS1VWZ0RjT0Q0S1c0QXg2dFp2YndzTndmaGZqX1REVDdyYlFkT1R1UzNjUGZKWWROV0ZuQk1uSS13MDZjYXBaTVl5aGpIejFtaHdXRzNELU9IMElzQUVsSFFuS0tsbk1qWURnYW5xZzd4aEdTbVlXOUxJMDQza2RBekI5N2hwekJ0SjdzMEdQWi1pb3FWcDFYMVpvSXI0bkZ1VTFObDhVc1FrNElqZkJRd2pxbXBtRHAybDF5bDIxbV9WWmZaLWJFZDFkZmFWQmJVbHNlOHAwcl9NME1aMnRza1dLUFY3VXc5cm5QZFNjekE?oc=5",
+          "time": "08/16 01:07"
         }
       ],
       "indices": [
