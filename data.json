@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-15T22:23:28Z",
+  "updated": "2026-08-16T13:07:48Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "\"올라도 못 믿겠다\"... 코스피 반등에도 주식 팔아치우는 개미들",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5",
+          "time": "08/16 10:29"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“올라 봤자지” 코스피 하락 배팅 나선 개미들",
+          "src": "munhwa.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ycFVOeU1SbkNsNmlMUFFybDM2MHBOdDhPbjd4NzRpbnF6UmtGUWRZR0V2TGM3Ny1RRE0zMVN4NVJjcHVJTWFTNmI3dFh4N0t3?oc=5",
+          "time": "08/16 10:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[롤러코스피 탑승기] 청년도, 노인도, 주부도…모두가 주식을 시작했다",
+          "src": "국민일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydjNsa3N5VENJblVvZ01MMHNsc1B0eS1NYkdlRHdOSFg4TXNQRWV4ZXhwYWZqR1JtWHNTRmZmOTVpbE9GaHVmenZmdnpiOEVlNHA3cEdFOWJZdFBHaE91RmIwWEVQSTDSAWxBVV95cUxQcGZGZVBlamJVMFlXVVVKWTNBVlI5dHFhOVJiUVp5SXFUamJkajhtZm9tQm40emJvd0wyMmxEbE56ajFpNEdEblI0YS1QRE84MXJYNU8tVGhUWFBjOGdpcjQ2OWJXbGRCcUswUTk?oc=5",
+          "time": "08/16 12:11"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NTjNJN0Nub3Q4bEpoLVhiVEdZcE9nekNLTzhUTjFJT2lDUW5PWVlleVZrYWRIMkFPb3U4VjZJa3h0Wi1jZ0JpNjByMHVlUVB5TXc?oc=5",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TX2RRMFBnWXM3YjliSFFtNy1tS19qNElJSGF3eER4RXV1d1Y4Q2RkdEtFNW5YMjFDVW1LWE1LNlZoQ094M2NpSmkyeVRYel9ZYlFab2FwcUJZZknSAWBBVV95cUxPcUJZVHNtbkZlLTNXalBJMGZKZ3JYUjk3b1dlX1U3Um0yUS1LM3FZVjE3dURaandhbUlDRGNmQ0ZyQU1ZX0FxVmZhemxVUDRGOWFxMmpNQzlyenVVdl9oTnM?oc=5",
           "time": "08/16 06:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"한국 증시 믿은 내가 바보\" 코스피 변동성에 투자금 날린 개미들 - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YX2FoTXJKeDJlRFRYWFNYNDJ4SktiWHNzYVFNRWJTUGNxSTJXQjdEMzV5VXRabkhlcnZqSXdvRXg2UkUya3RLczZ6TzZxMGdWNEdZMERsUjlyNWt0X3ZlcnJrckI1TU05cHRyeDln0gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5",
-          "time": "08/15 12:56"
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 외국인 매수에 5일 연속 상승…‘7천피’ 재탈환 시도",
+          "src": "sankyungtoday.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZbXRzWkVUN1llNDRqUHhNYmNxTXpvSHRJV3RBTXpZS29QcTBZLVBmeU9NdkRLbmNheWllaWVFd3Bxb2xYcGFpeElCc25uc0ZWcWVKcUcweUdmRGgtN0tIbkp4ZXNOOVhKNlB5R3poNzjSAXRBVV95cUxPY3I2cjBSUXRHeHpPbFBkNFZhcHQ4aE16NmoyTWhfZ2M3QW1XZzUweVJzYngtLVI1R1Z0TW11S1BtaE9pWTVMSmVybU8tRW5NQVRYcFNnLWtZekxEc2hwSkc3SjRQbF9BNWNxLWJwUEJOVjExaw?oc=5",
+          "time": "08/16 09:22"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[여의도 물어보살②] 흔들려도 9000피 간다…반등 열쇠는 ‘이것’",
-          "src": "데일리안",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRDhqQno0R0VkV1FMcXFmVUh2UDdOLVdERjRXdG1hMTlySGo2TzRLbVE3MTNrTDJBVElwYXBZUEZUZnlGTHlpWFh6b05vQW1aRExIZGVTR0ZvZHBtRFhsODJOVXc5eG1aS0FEdHlsOXU0RWwtWmNPLUozWW8wZk14XzM3emdUZFJXdkxfMzREbmhDbjdaU1daUWFoeWFpOEJJbVNUSi1UN2tzVjlEZEhLa2IxYUtqODl6dlFvckpiRUo1WnI5dTYtUTFSVEk1LWF1NmFxb3JQazU2LXQ5Z1dSQWR5dXpPY2V0dUMtN1dEZUhzVV85VTB6MnVIQWxnelpfeHhJ?oc=5",
-          "time": "08/16 07:07"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“빌려서라도 지금 투자해야”, 증시 훈풍에 늘어난 20대 ‘빚투’",
-          "src": "한경매거진&북",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kZGo4UWoxVE1FelkzNE5SeVJfck13WlNkTDRMNThDMmRJUW1lUFBnT1FjdkxsTWxTZnpuZ2UxVXYzTVhpcGg2ekljVlkyZ0k4SzJIS1dzMHBqRmZWX0ZhQWEzTTlMRWpqdERF?oc=5",
-          "time": "08/15 19:15"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "다음주 코스피 또 7천 볼까…반도체 회복·숏커버 가세",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XSzJMS01oaFRaTzZVdEtBMWt6SFlQY3Nyb2IzM3lrRlA0Y1UtNThCQ1o3ZFR2MGFaYXBfaUNldlE2R2ZibloxVkJBR3RCRThORHZPWlRJTFBNWXdwampTeEtIcy16MlpjMENCMkRVTUjSAXRBVV95cUxOSWR5dXoxNmtwY1Z1WkZkN1dJM1RBS05MQVRXWmg2QjdVWG1mdFlWRjZoRXBIalFMc3p4cHFMYUljREo2WmNKcEU5ME9tU1lmN3hhQnowd1VqVGNKNFloWkctQWNrT3VUNmpKWnpCZmpPaGNZZA?oc=5",
-          "time": "08/15 09:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 2.42% 급등 마감…美 증시는 혼조, 어떤 영향권?",
-          "src": "CBC뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCSUR4RWp6R25pWjNLbWZPclduaURNTl9rR3Q3Szg1dE1naEVRWFpPQ01GdU16SHhDS2ZXcnl4TEFvSGdBUVZSRHNKUUxaUFRKOEZNZ0FWbDdtMVlkYzdER29XZGVlR0JL?oc=5",
-          "time": "08/15 22:08"
+          "t": "'코스피 다시 강세' 전망에도 청개구리 베팅...국장 불신 커졌다",
+          "src": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92ZnZJYjdLYTRLUVNVT211R1phLXNkTUN0eXhMbGpfZ3pVUXZ6RlZnald6STMteGg3cTR4WWF1ZkNBVWtaSlFLanVYb2ZRdVdlMHl6MXNQb1phc2RZMUlVeXcwa3FWY0txU2haZFU5aVc0MXfSAXNBVV95cUxPdmZ2SWI3S2E0S1FTVU9tdUdaYS1zZE1DdHl4TGxqX2d6VVF2ekZWZ2pXekkzLXhoN3E0eFlhdWZDQVVrWkpRS2p1WG9mUXVXZTB5ejFzUG9aYXNkWTFJVXl3MGtxVmNLcVNoWmRVOWlXNDF3?oc=5",
+          "time": "08/16 14:45"
         }
       ],
       "indices": [
@@ -76,52 +76,52 @@
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "‘Outlier’ S&P 500 Earnings Strength Cheers Wall Street’s Bulls",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVl0ZnJ3ZlY4TWtMUnBpam5SYjdhcXFRdmtyd2wyd3gzUWFsYlBGT3d3M3p1c0RWT2tlb211UEJiMDY0dnFkZDhtOFBzb3NGVlY4ZE8xX0hNdVBmOG12cnBnNGktRkRQZlVIYV9jNkJqVDBIb1B4VjlneEozaDRYMkpLSEoyczZJUG9zM2xZTjhXN2t0LXVHRGZocWxRR2huUXFqTDBDLVJMdTZOdWtMMHV3?oc=5",
-          "time": "08/15 22:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORXRQQ1JjdmhVU1BQY2JNODNBQ3g4c3oxbEJRMGRFWFc5bEhlNTYxenlNakdvN0RLdjdTRUdnUlE5V29HZzVrQ1BhbUxTYUZkM0VBR2ZiQ0ZGOFA3bE9RR1pVdExsZm52N25DQzk3VTltQkdteDQzWEx6VWVMVVdxeS1EcmdJd3RvNnYyWGhrNmZjcXJPQ0w1T1RYaURYSkpUMGtJMzRSREFlNUxFekNjSUVjNGpOdTlNczBUZjV6UEVra0JZVm5XNTgtNHNsOHc1Tm1ySEtHemJJaFBVVk1vX3ExbU9PeTIzR01oYVRVUTRlUHBHSS1VUWJiY1F5c0J4M2FkUlFEaXluNzBkNVVrZnctbkRjb2M?oc=5",
-          "time": "08/15 17:00"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Top Wall Street analysts like these 3 dividend stocks for steady income",
+          "src": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX01sLVhuWWRLSXQteDI0N2hFdTIyQlFvdTJOYkNOVGlFQ3M2b3lONnlWYlJOazJCSWhreFRFeGFHZVkyT0Q0QlAyUmxsLXhJRld6SVBLVTJrX3NLR01YN28yU2FnWVVZU0thaXByWkZ0LVpyNkltaEp4bG5JQVZ1ZW84ZUN2Sm5tVGlaSlNKcl83Qllqa2Z3UkR4QnRZREZBTVF3bzlKMkVPd9IBrwFBVV95cUxNLWpSU3FpVTluMkZnVW0wd3VIOEVSc25Qay12UzNkbXJPcC1yZnltbTN5a29kcTdkU3FTYkZQSm10RUlUVEEyNVItc1FJMnJpbzloMEFEQXlOcnZNa21rNEhQVUt2cUQxbEVmYUpPZFVVTnlIdGVtV25jd1JseTNYWUpHNzYtYXRnczlEV281NXV2dDVFUHdNYVFjOUJWSnhrb0h3RkVCOUhNS19HZFkw?oc=5",
+          "time": "08/16 20:58"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street slips from its record following the latest weak update on the U.S. economy - Pittsburgh Post-Gazette",
-          "src": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0VBZE9EdmlXWXFYc3dwcXN1WFI1a0R0QlJIWlg5ZF8wcGRSeDd1Z0FlRE9DWWpDdGdNR054d0Uxb0lUbjdmYkwxVEdSS1VXSjZJSU41RTJXeXVDVFFQQnJmdjVLamNiMFdHRC1PSmdQZHFtaTFidWtKeF9NVEJ2clpfbXF0czc2MFd4dnUwemZOa044UTRMbzd5ZW1uU0p0WUVkcGRoZ1R1dm9X?oc=5",
-          "time": "08/15 17:43"
+          "t": "The Stock Market Is on the Verge of Doing Something That No One's Witnessed in Nearly 156 Years, and the Consequences May Be Dire for Wall Street",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjQzT0ptWU5IZnE1MWlhVXRRc1hyNnZETHMyWGluRjBROEdxekEtSG90b3hYdVlPTExGeGRVSXEwd2N3NExfaTlMSWNjSU9PSWpLaVMtMmhIbXlMc1RsRHkySC1Jcko3ZWhxNW9lY1pPamtTck1vQXZObXFlRzZRR1RYZW9fYTN0dzliT19QTjFUbFJMY1NF?oc=5",
+          "time": "08/16 20:03"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "SEC again delays tokenization exemption after Wall Street pushback",
-          "src": "InsuranceNewsNet",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWNKSnpCX1JKZER4S002dXliREY4LWc2am9zOWdEbXVsSlMzR3VLTWRfUUZ5X0VscjdLb1hNRFBzUG1HVlFrZUs2VXBEeEdnTEV5cVdnaVp2cS1IRTJzMlNzc28xNkxpcGFQR3NaOUdKYUNyWXdTZHlsN0N5WUxuckpZY3dJU2xKT1c1dkIxbEowU0hVcEpEZlhEUEl1Z0hNSXVDRjNZYw?oc=5",
-          "time": "08/16 01:57"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazgxdmRpSDgyZkxsR2s2UVVjWm5zMmhwVVRacE9LV19DMVdxdERRZU81dG0zdUx2VE5ZYkktdDgtN29RSmQ1dXFkNzNhelV4Y29IVnNJOG1IWlllWkt3R2VFcnYxQjZXUldQZXpfTUpMVVR4V25TeHA3YXhIR0JKdnIwTGVqVGhGUFN6eWRUUGd1ZVlKQm5URU90Zm1ySmJkQ0t3MmhlRnBidl9tUkhvemIxMGY?oc=5",
+          "time": "08/16 21:30"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "3 Under-the-Radar Chip Stocks Wall Street Is Sleeping On in August",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stock-Picking Funds Are Performing as Poorly as Ever",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXkwbGotNk1hN1FKbGF1TFBXY2hpUk5UcEo0UVlwYkw1SVA3NmpLRkJ2RGp0N2VjbWZkVGdraEo5ZDIxNnVPUTl4TVJ4TDhOb3RGeUtOaks1a09DUGpJNUNfejF6TlZCMDBKNS1YM0xGb2hLSzRHaExCQnc2eGkyV2hBd3l0bXNoYUFDdzd3aXU4WW1FeDc2TFlHMVdiVXZw?oc=5",
+          "time": "08/16 10:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Michael Burry Warns of a Market Bubble. This Indicator Close to Breaking a 150-Year Record Says He May Be Right",
           "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDl2VWd6Qm1PVW1mdV9xV1BFd004TWI4VEl0Z1EtR3NlNXlUR1VqZjBRN1QzNWkxcE5Gd1k5MHhUWkFDZjdiQTdqenYwaWlKaUJNbWMwMHJEOGdBa3pTYlY0Z1VpOXBNcGRONUQ5NTU1djZZU3VCVWlTRmdCWHVGYzZaRExSdWRzTnhXLWpUZ0VReDlCZDdUMi1LOWNXcTdNMHhTUDdSWUpCaUFqdXBR?oc=5",
-          "time": "08/15 20:00"
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMzFPaHNKRVI4Rjd2V05xVGVtSGU4WDNIRmtxYXBLdlJJOFRrWFNmVWxINHZjU0N3aF94QnVZZUFId19kQUJNaG9wRFhVZ3l6NEo1RG9abmpuYmo0SmZvcHpzdm83RlI1aDQtQkFEOGMxT21qN2V3cnJhdTlNQXJzR1drLV9hZTY0MlF0WWxFamhxS0c3TlBYYWwzX2FjSThVM2tSZHdHbk5iMHNuSVhsRlYzaDF3X0dROGVZWWhudWltMXlEdFU3dDdlT1lkTjBOdy03QU5BLUtjNnNsSHlzVV8zbEkzYkMtX2c?oc=5",
+          "time": "08/16 21:47"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Bumble Stock Extends Slide From New Lows After Changing The Rule That Built Its Brand — Wall Street, Retail Are Both Swiping Left",
-          "src": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNcnI5SW1yTkZSdm9kaWJaN0g2ZmhlRU80aG9RaGFmd1U0OWpwZ1ZpVTdVS1VWZ0RjT0Q0S1c0QXg2dFp2YndzTndmaGZqX1REVDdyYlFkT1R1UzNjUGZKWWROV0ZuQk1uSS13MDZjYXBaTVl5aGpIejFtaHdXRzNELU9IMElzQUVsSFFuS0tsbk1qWURnYW5xZzd4aEdTbVlXOUxJMDQza2RBekI5N2hwekJ0SjdzMEdQWi1pb3FWcDFYMVpvSXI0bkZ1VTFObDhVc1FrNElqZkJRd2pxbXBtRHAybDF5bDIxbV9WWmZaLWJFZDFkZmFWQmJVbHNlOHAwcl9NME1aMnRza1dLUFY3VXc5cm5QZFNjekE?oc=5",
-          "time": "08/16 01:07"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Robert Kiyosaki reveals 'the biggest liability' that puts you at Wall Street's mercy. Is your nest egg about to crack?",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWWFQTnRlX3U1NUROd2IyMzVGR254OVRqdWJnYTVwYW1GRFpSdWl3OGxXRkJKR3lUamRzZDVLZjUtZmF0c3hkQTl0b3Jqc0R6NE0zY0UxZ29tRE5ycEdKb2FVdEVOanVULTJpUXFrTzNJZ3RicVAtbjE5Mjd3SWJxTDJMd0FnWGo0dG03ZDg2QkFhWXJYcWptWVJTUTRhSk1mRS1Tc0F2b0tYUQ?oc=5",
+          "time": "08/16 20:15"
         }
       ],
       "indices": [
