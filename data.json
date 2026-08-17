@@ -1,57 +1,8 @@
 {
-  "updated": "2026-08-17T13:14:23Z",
+  "updated": "2026-08-17T22:26:20Z",
   "markets": {
     "kr": {
-      "news": [
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[한국 증시] 8월 17일 코스피·코스닥 국내 주식시장 휴장한다, 이유는?…재개 일정은 언제",
-          "src": "CBC뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43UGx2Q0MtdGlLR1BsTmlNeEVOVXhibk1Hd1M5Ynhxby1jejdYbU9vUC1UaWZVLTQ5S3NlZDRtQTBjNVZVbFRvUjN3Qmd1ZjU0SDd0YnJzWHY5QktkQlhiX1I4enBvQS0w?oc=5",
-          "time": "08/17 07:55"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5",
-          "time": "08/17 04:10"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "韓 닥터둠 \"지표는 거짓말 안해, 코스피 5000 아래로 붕괴될 것\"",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW5TVUh4UUliM0RPMDdaS2s1RG9xeVBwOXQ5YzFXaUdjeEFOTko3RVItWHJKbkNXbjFQSTg5Ums1M0kxOUg0dmdrNHRsNUxzS09JdEg5OV80c09GRnVxQk8xOGRLVTBSNUJBMlFWM3NNdEJWYWFPOElwdEV6aUVQUQ?oc=5",
-          "time": "08/17 05:32"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 변동성 작년의 2배 이상…“완화 장치 실효성 높여야”",
-          "src": "국제신문",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1hrY1dEcFJybjJPLXgtbHNtYnRPX08xMURIUDBvR2RwYUkyYnBBRUwxYjlvSWFDc2ZJMTZfblNyTkhFNlpVUk14Tm03V0RKdGdGbUNDNG40REtiWDZyV3VqandtV2hzZG9XTFR5dlc2eG9QZ0J1Q21aNUhjM1NwU1JsMkZDd1BJZVF3?oc=5",
-          "time": "08/17 19:19"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 外人 귀환에 ‘추가 상승’ 기대…낙관론 확산[주간증시]",
-          "src": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxcS0waER2TC1ueGtDbjVWQm92MndiRm43Z09NSXd5eF9Ic1BoajdjZjRRRWRDMGJnVWtXNzl3QzZ2YTRKSHRRMVAzV1VueHU4dFl6b0VaallSLWsyblBGWXYyNA?oc=5",
-          "time": "08/17 05:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[코스피 시대, 미국서 TK경제의 길을 묻다 ③] “지역에 다시 투자해야 도시가 산다”",
-          "src": "yeongnam.com",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BOUNTNWl5Wktxa19iSVlTWUJybUVZd0I0Tk55RU5RajFtUDl2YnBPb1JGUmdjc053c1NCM0pJVFlIa3YwT0pDZjlCNzh1bjg4Tnl3dW10cnZfbVJKXzhBZnNweVRLeEwtdUpZ?oc=5",
-          "time": "08/17 13:31"
-        }
-      ],
+      "news": [],
       "indices": [
         {
           "name": "코스피",
@@ -68,80 +19,31 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1411.78,
-          "pct": -0.36
+          "value": 1416.31,
+          "pct": 0.07
         }
       ]
     },
     "us": {
-      "news": [
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Says the Stock Market's Return Will Crush the Long-Term Average in the Next Year",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnJmWWtaVjVidWVZZF8tcDcxMUoyQTdmZW51NTBIR2RMa3IyNld0b1JUX2xUcThwZ0hmV3U1dmg4VVJwdGNtQ21CQnVNeTBuQWl5NEJ3Ri1COVlCYjl1c3FoTWwzb3I4R0VqU0FhWmc4RUZ3aTFhOWpiX0JUdG9HZHJiZ1QyU2IzemNScFdocFhENW50RGVSYnlEYw?oc=5",
-          "time": "08/17 18:04"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
-          "src": "cnbc.com",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcnp6dVIwaUtDLUtQcE56Yk9zMU9YQXlCVmxDNU9tZEFsLVJVckE0R0xPYWV5a1ZSTU9fY2FNcU9HZlU0Q20xYlI0MDZJRkQzLTNyYnNtcE82X2F2NEdUUE1COG03RWZIOGJ2a3BOeE4zWmVpQkpOb0p3R1V5bFZXYXJR0gGHAUFVX3lxTFBMcnB4N2lINkxrTkQ2TUtaR2RfMmxSNnhzOFFTWnZrY3dLRzlUeXp0TVlLMFpCZHdjbmx3RkFNUEVYTW9WdHhGZmpYbVV1NENoanlTR2ZkalhlT0RRNTdTd3BaNVFVM0d3VUtheGlsTXYxVl96MXpEZmdEMV9aX2c4MFcyakF2QQ?oc=5",
-          "time": "08/17 21:19"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "U.S. Futures Mostly Higher as Tech Stocks Make Gains",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUVTb1JsTmxxRTUxSENvaXg4bzNUVy1UT1ZPaTJuUko0UUV4TEZWX3NVZldOcWp4ODlHOVhoTzlUMlh5UW13bE5XR3FxVWRxZnp0ckg1ZUtYT1pWSlpLQlBpT0M2ak1nUXdLOXpnc3preWc4U3QtZjhjZy1XSW1jVDZWOTNIU2gwVk9nS1E3eFN6RGRacXhsTkZLZEViYlFKUi1j?oc=5",
-          "time": "08/17 20:10"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "S&P 500 hits all-time high; Wall Street futures slip Monday",
-          "src": "qz.com",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LRk1UdWNYWFZTaFFTZDNTY3VEdHZNRmowZGMyRlVKV01DSE1BZTNGY2NsSVJTYU96S2FINV9Pa3ZzUGNBU2V1VGRDZ0N3T052TkhDakt2ODR5V3dBX2xRVFpIdkZrSVNpaktLNWx3?oc=5",
-          "time": "08/17 20:36"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Here's the bull and bear case for investing in stocks with the market at an all-time high",
-          "src": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGhnX1U0LWpudS1NNGk4c3pqTjJIcUJPc2J0T0FIUE84S3lnQUFPXzlNeGlwZGpBTGtBX3h1SGMtLUVCN3FLYTV3a19neWVaQ2JQX0ZtSkhtT1paMjVmSUJrRUlYV2JobVNHb3NUSFNYdEpJODVNM0UxaWpuaWY2ZWUxMWpwdjRiaGFzMjJKQk1zOGJF?oc=5",
-          "time": "08/17 18:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Record Highs and Low Volatility: Is Wall Street Too Complacent Ahead of Midterm Elections?",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUU1WjdqelE4WTdoQnVkM1ZnaGszUGxIWFdrWUh4MXU3aWs2dU9HaDBOS2dldDFZSzhaTjRPcHVGcHd4OE1LQnBIYWI2U0txOExvSXJXLXU4cGR3MU9VMjNla0JDNE44Y192aGNvOTBRN00td0FEdmVCVVR2dTJOb0llMi0?oc=5",
-          "time": "08/17 20:47"
-        }
-      ],
+      "news": [],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7785.76,
-          "pct": -0.17
+          "value": 7745.06,
+          "pct": -0.52
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26729.16,
-          "pct": -0.28
+          "value": 26644.91,
+          "pct": -0.32
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53732.41,
-          "pct": -0.2
+          "value": 53459.78,
+          "pct": -0.51
         }
       ]
     }
