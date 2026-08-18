@@ -1,49 +1,147 @@
 {
-  "updated": "2026-08-17T22:26:20Z",
+  "updated": "2026-08-18T13:21:56Z",
   "markets": {
     "kr": {
-      "news": [],
+      "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "韓 닥터둠 \"지표는 거짓말 안해, 코스피 5000 아래로 붕괴될 것\"",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW5TVUh4UUliM0RPMDdaS2s1RG9xeVBwOXQ5YzFXaUdjeEFOTko3RVItWHJKbkNXbjFQSTg5Ums1M0kxOUg0dmdrNHRsNUxzS09JdEg5OV80c09GRnVxQk8xOGRLVTBSNUJBMlFWM3NNdEJWYWFPOElwdEV6aUVQUQ?oc=5",
+          "time": "08/18 21:39"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[증시-마감] 7,200 넘봤던 코스피, 日 국채금리 급등에 반락",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6aTZFcTQ1bUVEYkVyRnNtOU9wWWRmc2p4dElwYmcxcUhfOUVZZjNFOFNhaEJUYzFqUlBrT1JkYVJUdWNqb3RzbzBHbmVraGdCNm5ma1IxR2ZRb2p2TjBXMEpZYU9NbEJMaFk0NkZpU2E?oc=5",
+          "time": "08/18 15:48"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"코스피 다시 오른다\"…간 큰 개미들 '18조 아찔한 베팅'",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtMlh3Q0NqX3ZoMHZGbVBIOE8ybWNNX19EZWxUWkNiR1BtcjNDejhHQ3lKUXBuZ2lIWXVaVnFlaVBTUEVuMndqSGVmdWFZVktyOXZzb3R0Ulo3UQ?oc=5",
+          "time": "08/18 14:00"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[개장시황] 코스피, 외국인 6000억원 매수에 7000선 회복",
+          "src": "newspim.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EUVNzalVTY0hDZW42UmIzMEtXdlhRZ21kSi1KVkk4N1ZRZUlSQjgwVk5mb3R2VU5RWkFXR1JVVHBEWmxya3pXV0dWSlZQX3hjckJSRkNya2VMMXp4?oc=5",
+          "time": "08/18 09:31"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[0818마감체크] 코스피, 장중 7200선 찍고 6860선 마감... 기관 매도세",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41TVV6d3JDRTBNU2ZEY0pZOHdTZlBWVHo4ak50Ui16U0RFU1N6akQ1OXlORTlsM1NUZ2pmcjdfdGNjUVBMbkd6TEFray1jdEZyalFJcm9Ua3pTcWtlcUdUMmQ5Yi13bEtXRXNqWTBmd2hEQlVRX0E?oc=5",
+          "time": "08/18 17:17"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 변동성 잦아들자 외국인 돌아오나…5거래일 연속 '사자'(종합)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RMEY2U2JmT2Q5VUpfeG1SOXVLMjB0bUdmdllQQUlKT05CZkFkM05zSktFcFMtMWV0X3hCT1VDeDRGTTk1dENKYk94RWNRd1BoWHc?oc=5",
+          "time": "08/18 16:34"
+        }
+      ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6977.94,
-          "pct": 2.42
+          "value": 6869.83,
+          "pct": -1.55
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 864.65,
-          "pct": 0.38
+          "value": 834.2,
+          "pct": -3.52
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1416.31,
-          "pct": 0.07
+          "value": 1410.38,
+          "pct": -0.35
         }
       ]
     },
     "us": {
-      "news": [],
+      "news": [
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AI Election Backlash Is Shaping Wall Street’s Stock Market Views",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSHBIRXRlSGcwUDJrN29DdTF0RDYzMkgwLUVpQ1h3aHNQNV9qYkFoRklMdWo3OE5yQVU3dHU4cmxKSHIxZDRmWmtwbHpyNWFTLVhUWmZ4U2o5QzRTSm5oYm0tTnZwSmllS05BQzVHNm5oNVBodDBQV0NlSTd0M24yR3dtTGtZZ005WG1sYjJWWUtWcVM3NVBsVHBfQ2dPZG9IOEhWOHBLMnJheVZZbm9mS0dFaC1wZw?oc=5",
+          "time": "08/18 20:58"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street indexes slip as oil prices rise, retail results awaited",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
+          "time": "08/18 07:44"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Baruch’s Stock Market Challenge Gives High School Students a Taste of Wall Street",
+          "src": "Baruch News Center.",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclg0YTBGRlctd3NkWVdPVWpQQ2VfeDRRTXFIVXprajNzV1JvXzZqYk9pYm5aNk12T2Y4WmRQZ05tbEtRR3ZRQk5vZ2VXZGNaYWpFNWs5VDBKUnhoTWpsZ0VJbGR3a1RRUmZWdVdYQmZMLU4tNVRwcTNYWWxvV0VReC1uUWQ5RGI3SEROSkxZODVET0FUYkxyd0hEZW1GeC1POXFTQnRvR3IwRTNBX0o5bEJOOU9BNFpMWkU2ZkFn?oc=5",
+          "time": "08/18 07:17"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street Wants to Put the Stock Market on the Blockchain",
+          "src": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVJrY185V3hLdnUwVHlKM0ZjZlRKd0dsQ3pBd2oyakhtaUl0MF8yOTlobjFjZVRCMTZCN3FrYTYyUE4ya3JZVTFoaVl1NnhHRldyOTFMRi1ZOVRiVFlYY0pTQzlubVJYSURPS3owYTJ1RlItTmZZV0h6WnltWXRVckU4b0RObTdKUzh5d0kybTd4bXN6RzVVQmZTQ3JudU1JQW5Dc0JaVG1SUEtKcTk1bU9R?oc=5",
+          "time": "08/18 21:07"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street clearly loves Google stock, 13F filings reveal",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUHN2MGZqTW1VUURKeDQ5UUJ1cXVUNmpNQWhSTkVGaGE4ejdjRDBtemRsMlhyYUtiUkJvWG1WS28tQzNzVnJyV25halNWX3NKeE1INnVrWERwYmF4SExLTENBY2RHcTJObXgxSmVXRV9mVy1zNTIybzloYTJ4cXlhYlFCTWpuczZjUEZCelR4NW5paHhoSnJ3UXlyYTN3ZjdRc1RYU2hRUXYwb2lndjliOVhUUkVaZkRqMXE3Q3F3?oc=5",
+          "time": "08/18 22:14"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
+          "src": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNnNaWFhkd2szcjBEQ1dDWTBDejE0WnFNazVpVldlY3JXbGhvckJpY1laVk1fbmJyb3Jzc2VYdllXX1VZbDNTY0ZMZHJSQ0VUSmpCX2lRNWxrTVFuc3l0SVBmN1Z1X2lOUl9ScWF6VlhpdjBqeXJCamhPZWQ0Z2RnbWdn?oc=5",
+          "time": "08/18 05:23"
+        }
+      ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7745.06,
-          "pct": -0.52
+          "value": 7785.76,
+          "pct": -0.17
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26644.91,
-          "pct": -0.32
+          "value": 26729.16,
+          "pct": -0.28
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53459.78,
-          "pct": -0.51
+          "value": 53732.41,
+          "pct": -0.2
         }
       ]
     }
