@@ -1,127 +1,127 @@
 {
-  "updated": "2026-08-19T22:26:30Z",
+  "updated": "2026-08-20T13:25:33Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "에코프로비엠(247540)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVM0VnlXbVVsS1R4c2FLZVYtd0xRbldmMThkTUUtQ3BxWDdkN2JtamxEZ2FfV3ZaZXgtQk5QRE1sQ2tYczliT2lQSEQ1VWFvU2dpdnNUSmJnNWw2cWhBQmNLSWV5VzhncmdxbnlwTk5hamZhVTlYcUZLQkF3WENOb1pkYzIyZFRuWTFvZFpONWF5LVhZVHBj?oc=5",
-          "time": "08/20 00:41"
-        },
-        {
           "cat": "flow",
           "catn": "수급",
-          "t": "[마감시황] 코스피, 외인·기관 매도에 5.80% 급락…6471선 마감",
+          "t": "코스피 폭등에 외국인 보유 국내 주식 가치 급증...2분기 순대외 금융자산 역대 최대 감소",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnd0VmFZM3RQZXJBVW5ZcHIzUzdDTWtBSUtlUlBfcW0xWTJvMUJ2TVBQNlBsMzllcGhCMnNtRXE2Z01hNTZDWDdsYmZaQ2IwM0JoTWpMeG5OenAtaXlOUi1DQ2R4WGJjUnFTTC1zODhUUHpZVE5XdXVpbFk3R0ZCUDZ5UUxldjdEU1FEeENB?oc=5",
+          "time": "08/20 12:04"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "SK하이닉스 '40조' 잭팟에 코스피 상승…다음 주자는 삼성전자?",
           "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jd0hPaHZnRkNlMFg0VkQzcGhQRUswS25hMVRHQ3luQUo5Rm1BbkNibkpfem5sSno4N1hRNTJjQzNRMFNaQzRReUxVNEFPWUZmZjVhdXpGdzBzSVFZ?oc=5",
-          "time": "08/19 16:07"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "[0820개장체크] 美 증시, 오픈AI 실적 실망감 및 비용 부담에 반도체주 약세",
-          "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CV2w0VURERHZLeUZPVmpFeVZtdk5NbEtRT19TdGJ6b1Vob0pOS2RDVGJNUnE2LXBJQjdXQ3ZjTVlRLWs4YUtRS00zamZ2RUdEdnB3d1c1NUNZZ1RtcGg1R1d5NVJtUXR2SXRJWllxemE4N3U5dkE?oc=5",
-          "time": "08/20 07:08"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JY0pDRkhNVjdOSFV4ZVdfV0luWGtBcXhDWUotaEtITE91dWFoTUFlRzc4cmpqQTZ1RFNGems2NjVyWTJ4SzNxTUFGTEFRZGg2YnAzNTJjek00Wm5T?oc=5",
+          "time": "08/20 17:23"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 반등에 증시 대기자금 ‘꿈틀’…투자자예탁금 105조원 육박",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWZlBPTld3aEFWRzdIWWVzMHVVQmIyb3FvUll0TFc2Ml9QU0Y5UUlGR2ExZ2JZTTA4NFdSdFFPWEJQUmRSUGhucXotVlNkbzhzQ1J0ZHJ0REdjb2ZLZFNKN2lTVUdEWWdEaHlsV3Z2YnXSAXRBVV95cUxPd2VtR3dRMkNuUXhMT2dhM21IelQwT2xsSFNSSUlNcHVzZy1XeHh4Sy1QbTRiY2VSODBSUGZWMVNiZURiTlN4QkotM1FyZExZdW9KV3RZOGR1RHlXbTlzejl5NHZCRUJzOENGRHFERzVGNGk5Sg?oc=5",
-          "time": "08/19 16:15"
+          "t": "'롤러코스터' 주식시장의 진짜 원인... 깊은 반성 필요한 정부",
+          "src": "OhmyNews",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydnluMVIzYmpocllkNGFjYjRpdjBKR2kwSkRlZElQbFpQczVKcG8zZkxxMHdhV2ppdzRsT0lwV0RMWkhUVTF5cm8zN25jLWt2aGluWFkwUzZ4Y09RbVFIdTE2eEE1LTVMSFNwenp2MmhCeDdDRUJN?oc=5",
+          "time": "08/20 11:51"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"주식계좌 보기 겁나\"...소심해진 개미, 거래 '뚝 '",
-          "src": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PeXB6NkVrd0JpSjlVUlZqdWNsWjhiWjBfQ0I1NV9CODJrUDBwR1VzaDNEUG9OWXZrcmtINk4zLXh0blc1eG12d01ndE54MVNwUFRtSjlscDc3UQ?oc=5",
-          "time": "08/20 07:00"
+          "t": "‘40조 자사주 카드’ 통했다…하닉 11% 급등, 코스피 6800선 견인",
+          "src": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wQW5NTklPYkNZVEZVaF9FNUVZTGJaYjZON28tR2t6bWFmY1Mxcmo4ci1OYmRIZnhwc3lsWWdrSHNTcTVHczRZNk95TF90SFV6?oc=5",
+          "time": "08/20 17:30"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "‘코스피 언제 오르나’ 이번엔 글로벌 장기채 역습… 증시·실물경제 압박 우려",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VTEdITG4tSVQtNURZUkd0QkhXeGNDelc4Tk9EeUlZNGh1UU5GYlNhSmpTdXBxWTlLVUVMQ0hZQkMySFlaRWU2RExabzZMNnc?oc=5",
-          "time": "08/20 05:04"
+          "t": "국채 4%대가 막아선 '7천피'…코스피 리레이팅 셈법 바뀐다",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MWGtYaHZkTXJlTWM3Q09EMWppY2NBdWhGai1MYjB0U3FPNDBYTHd4cjlTQ1BfeWxHOVNrbGFZNzI0NkJDRFV1OXB0ZlRYT2pGS1BVa2R5aXlLanN2VHhvQjNVUlNBWHJNVXNhTVM2eFU?oc=5",
+          "time": "08/20 08:29"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[경제쏙] \"자사주 40조 소각에 급반등\"‥코스피 계속 오르나?",
+          "src": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vOERxTUZLdDdJWkh3LTVNUDNpX19WR0RxaDZwSTNCd2N0M25GRFhycjVpQUZLSm9yV2Z5aVUxZnJaclM0SElOZ2ZTMzhoRW9ESFcxYlh5dnlHUDNGRU14WXpEVXh1ZmE4bzBLOHhFc3dpdTVkbGlQZ9IBeEFVX3lxTE90YWh2UWVZYnBiR1EyT1kzOS1BMDdNVWQwMmVwWkhQSVR6VFBTSDVJa2JBNUUxVFBUZDZTdENYUHlxa1RENlFVa3RQLTg5bzJDbHdxYUc4LW83YnJUblRpT0RGYmdaa3l0QU9pNjUzOG9YMnpYeFZzVg?oc=5",
+          "time": "08/20 15:31"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6869.83,
-          "pct": -1.55
+          "value": 6852.58,
+          "pct": 5.89
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 834.2,
-          "pct": -3.52
+          "value": 840.89,
+          "pct": 1.99
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1386.54,
-          "pct": -1.91
+          "value": 1393.19,
+          "pct": -1.44
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall St rises as yields ease, Moderna lifts healthcare stocks",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-          "time": "08/20 05:47"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "S&P 500 Rally: Why Wall Street Remains Upbeat on Stocks Despite Rising Oil Prices",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEdNdVhoWjJoUk5SVC0tMEp4WEx2VWZVby1MV0MtSFhKcU9SUWVSNjZ3bzM2Q3k1WHNVeTlLVlNwbGZGYWY4YWtNR2VHWHB1TGRuOThqMTJ1QThVVVByY2t4YjhvdDIwOVlEOXh6M3NLcnRjR1ZXYkZjYWw3WDY5bzNwVGNEbkg1Rzk4Vg?oc=5",
-          "time": "08/19 21:31"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Picking AI Winners Is Getting Harder for Wall Street",
-          "src": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaXBOY2pJTi11ODN0bzVBNGhNUmdWSmNSbUxMRUotXzNSNU5MM29uWTdOVURJem0wSkpFeTlJMUlBbDlRV1ZvVFBZbWN6eUp6R29uWmlpSlNPUEkyWUVER0k1VnNmOFNLR25Ca29RdXkxY1ZSbERsQjAzNVRPWmI0NnlJeGpyWVRxaFdFOEFZWEdHbVY1ajA3OTFSdHhvdnRHdmMxTmxIZVFMc1dGcHBBMTlhSUN3eXpydlVCZUc1aGNHdkhrQ1I5cnhB?oc=5",
-          "time": "08/20 06:00"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "An alarmed bond market gets the Trump administration to act again - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTE5UHFUdm9CVlE3NklzMGM5QjkxRDZnMGtvMG9XVWlWUXR4cEZPVUUtMV90Q2lrUGFHME51d0ZkWV9DUVRBSDc0Z1ZzcTZ5WEtQU1JpeWo1Mk5DY1ozS2YwbkJQQXJHVmN4TDQwTDk3eUtuRXZwQXAxYTF2Mkg1bHEycXN5SUFtUWpURmc0cFlNaTY5UVVj0gGcAUFVX3lxTFAyTVpfMGRGNlBXckFrQUF3TzVvbXVwTFU4NVpLUFFfSkFjMWxXT2lndHFVX1dJWUxSVmwwS3FWWm04cE5aSGtaRlFkTTFFRFM5a0tjVS1HeWNabEthV2ctd29CTmRwdUN2RG1wWktjMU11emZyUUpYanpQSHZaaWg4QTBzU21ORVZYNGUyM0E2aVp6ZEU4bDF0NmVtRQ?oc=5",
-          "time": "08/20 04:23"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street ended higher, and yields dipped after the latest Treasury Department announcement",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stock index futures lose ground after green day on Wall Street (SPX:)",
           "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHR0Qk1tZ1J5NE5tT1M2Q0NxcjhaNnE2bk9oRG82ajFrV25TUHNwYkRiQ0lMS1laeVJsWTUyUVhCWHgwY3I0dDJjRV9Lak01QjZmWjRIWDFBdlRDem1XLUJfREVMOHFvRkVROXJWR0xuVVRJdlNnNU45SDViQTF5Rjl4NUEwam9FeVZxdHIzVkNad0lIZ3ZHQk5HWmxxNFhWVnBjQ3ZtWmtlbTIybUZwemhsb05LU2E0bnhwOWkza2FhSGo2cjE2LQ?oc=5",
-          "time": "08/20 05:06"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkZ3WkJMalJJb0FaOGNmZERxNDRia2ZvSUItNDc2ckJ2ODVhUTBRUGVHX3hEcDN1c0lSMEVxOHVqcDA0a0ZRVzBXbFU1MXhEVUFMYmZpUVNoWmhtMTZ4Z1BqRVFlZlZsYVZBcXROSjhGV3hrd2szOGVRZlY0MklmR1NNUnR1Q2tm?oc=5",
+          "time": "08/20 21:26"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "US Stock Market Today: S&P 500 Futures Edge Higher On Softer Inflation And Housing Jitters",
+          "src": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGhxZ2lLVnhzd1R5ckUydjJERjktVWhWQUtoaENvdVN5SjBURUdMUjhyWDl6eDhCdk5Tam9ubnNGTjBYZldqNEd1YmZnU196LXluVW93V3dDUHlIVGdJVW1LVHg4MnZPczZ6NFAtMkc5MHJHeTdIUmQ0Y2szQk5TcUlEUDg4ZjdFcUpGc003UkRyTjFReVBKaTQ3ekpxQ29EZGJieF9MTThFZm1MaDNOQy1pV1h6UE5MNGhSVTJVdXlZS2x2Uk1PM2lBVmhyZ0NzdUZUYlo5Z0tKXzBobkHSAd4BQVVfeXFMTXRocWdpS1Z4c3dUeXJFMnYyREY5LVVoVkFLaGhDb3VTeUowVEVHTFI4clg5eng4QnZOU2pvbm5zRk4wWGZXajRHdWJmZ1Nfei15blVvd1d3Q1B5SFRnSVVtS1R4ODJ2T3M2ejRQLTJHOTByR3k3SFJkNGNrM0JOU3FJRFA4OGY3RXFKRnNNN1JEck4xUXlQSmk0N3pKcUNvRGRiYnhfTE04RWZtTGgzTkMtaVdYelBOTDRoUlUyVXV5WUtsdlJNTzNpQVZocmdDc3VGVGJaOWdLSl8waG5B?oc=5",
+          "time": "08/20 17:43"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Jim Cramer drops stunning take on the economy",
-          "src": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVy1sTFA5SG5md0I1d3QtbWdSS3F0WmNoTXhtdDkyWjc3WWtkYVZSOXAzUXZqQTJtdkpnRld3U2g4eDkwc3ZlU09zM3FMaExFbU55WVpPWkVUSk9XUWVXOGEtWG9nTFJSWWwwQ1FPbEVVbzRKSWUxWFpkQlU2WllfM3d2NzVKVEFZZWZETERFYw?oc=5",
-          "time": "08/20 05:00"
+          "t": "1 of Wall Street’s Favorite Stocks on Our Buy List and 2 We Ignore",
+          "src": "StockStory",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVVid1ozV2tlQzZUUXJETGZMUldlNTZiUE5XYjZCODFNRURQWGFBM25hU0U3aVcxajg2LVJvN2lQT2thSDltalhmWDJkN1FmNUxOa1BJeEdmU3FKMGFINmVhaGJybFpUeWVyek5mZHB0XzVNVVVyZ0h1MFdzZHk2MWwxNlZmQ3JSS2xaRDV2YmJtOGpHRThteHM3MExJc0t6Y1VveWo5NXpHRUxXeVR0MFB0LWZBYnhPVmZMb0hTSTE1czBhTFE?oc=5",
+          "time": "08/20 18:24"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Alphabet, Analog Devices, Crown Castle, Ebay, EPR Properties, Etsy, Merck & Co., Shopify, TJX Companies, and More",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNWm9FSGtLVEotZ09YYXFsS3BHYkQtT2d4dXlINDhxN3pYQXE1UmRPTVR5bTZQdTFFZ2xycjAxdlN6RnBtUVFIVExQUmdYcnFWSUR5WWkwbTVaeEJVU2tCQ0J1QmdSYWQ4RXczYTRSTGhBT2JBQnF5WmxtQ3Q1T0FULVF3d2FaOXRuZE1DU0FYVlkxTWtZZklUMFdZRmNET180LTdDYWpDY0dxQjNPcVh4WnM4YzhNYjV0a1oteFRCb2k2b1ZFejNKMl9UUnJnYlZQM2xqb2hjdWlrNUhLREpTS1JyVW9XYmZNMDZSeWVqMXpUc1RWRXhSTnY1dlFIcV81cFQ4eGxFQ09YWTFqSlFLUnZ2NE41bzF4WkdiTFdfTU82R1BmMTExazBhRQ?oc=5",
+          "time": "08/20 21:01"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Wall Street Rebounds as Treasury Buyback Plan Eases Bond Yields",
+          "src": "Gotrade",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdC1jblJmOHFCZHJOUjRVVFRHdl9PaGZPYmU1ZzhzMXlqTXFrZF9ZXy1LVzJJQ3BoYUVUcUhjeVd1SlJkOTVxM2R0Y25aVWJ0Tm1wRjVnSFpIa0xnTzBsRHFqVVFoZFNBMllRMnJ0SzJoV2VUazhvSnJSMXdwVGtYaVhZblRGcVBua3pWTDQyVQ?oc=5",
+          "time": "08/20 18:02"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Wall Street rises as yields ease, Moderna lifts healthcare stocks",
+          "src": "The Detroit News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlNYT3JacEtiMERURlVqdTVQbXZQTTJPMm5pS3RWZ215NVB1ZXU4QjNQRFdWb0JoWkNSMjRMX1p1YTMwc050aFBvYTlLR1k4YXktZERhU2JSYnF2WlZaRF9MQ3ZIR3FIN3J5bFU5LW5SREpiQ3cyaVFucjdZQ1phajRQV1FobW80elJnTzVrMDhEcDF4VFA4eHlGTjVLNVlCcjlabVVLODB4RWNzWHFCaEw0LXRkS0FiSW9XTTgtbkotVmtUeE91aUNZeUZrdw?oc=5",
+          "time": "08/20 05:12"
         }
       ],
       "indices": [
