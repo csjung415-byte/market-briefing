@@ -1,8 +1,16 @@
 {
-  "updated": "2026-08-21T13:24:47Z",
+  "updated": "2026-08-21T22:26:37Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 절반 삼킨 '삼전닉스'…커진 변동성에 \"지수 쏠림 낮춰야\"",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ObWxPeHNYNTJ1RjlzWFBhcFFaX3JSUFJGWS1wU0E1OXl2Vk9ScktzbmE1Ul9obHFEeDB3dEJ5WXVlSmFlMzdIX0dmZTZyN0lmb2hzX1B0NVRWMEst?oc=5",
+          "time": "08/22 06:00"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -20,12 +28,12 @@
           "time": "08/21 16:07"
         },
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "[마감시황] 코스피, 삼성전자 주주환원 기대에 6900선 회복",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwZHJ3V01fWGc1ZzRWZElhYXBER3dhMFIzV29FZ1lCUElxWkZuekJYMkxMRmw2UkFmb0dBbVhaeHkwazNNTWc0MWp0T0NrZS1NNWliWl9JMDRrU3NQ?oc=5",
-          "time": "08/21 16:00"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5",
+          "time": "08/22 03:30"
         },
         {
           "cat": "macro",
@@ -36,60 +44,44 @@
           "time": "08/21 15:47"
         },
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "삼성전자·SK하이닉스가 끌어올린 코스피…코스닥은 4%대 급락",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HXzBxT3l2bkV2MEkwc3dsRC1QUVV4SXhvM1BIMDVGbE1TRjBlSTk2bHlvRmZxcV9iWTVYLVdFcUJnZzJKUjNTLUZnWERFZkgyZm5XY2NvUERNQTVUUk5HRWRDTGlFeUNZai0wMlZYMHjSAXRBVV95cUxPcXk5c0R0MjdVQURWUThBT3A5RXRSR0tYTWlaSmhRMlBZUjZERHZreGhlVjJUektLdUU2NnZXbFpsdjd2ZDNKU1lhbnAzSnZ1bG9TSGdLZ2FfYUYzXzFfNkRoWnNDemZrUE1QYWJxYUMyT182TQ?oc=5",
-          "time": "08/21 16:29"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "엇갈린 증시…코스피 0.78% 상승 vs 코스닥 5.09% 급락",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oQUpmWkFCaWxIRFJZV1pKcWZia0ZiQ3RlNE1WRHg1Vl9zdHgwQWl4dHFSOTJOWmlwanZyOEV6VGxadmR2UWV0Zzg4Z2VQZHVZbWd4VTRDQ2l1SURzV0ZEd3V0YVpwWWoySkRESg?oc=5",
-          "time": "08/21 11:43"
+          "t": "[0821마감체크] 코스피, 주주환원 훈풍에 6900선 회복... 코스닥은 급락",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05dnBSVHV3UF9TREtELVZIS1liSWxjNTFmMXJzbWtxalZqQ09uaDM3eGtOVC1FMjF4SmMzVlI4bkpLemdrZkVtbDVuZkEzUnFyckhZckd1NUFKOGRKNHQ0WFNkaG4yTzlyV21JTEkxaHpvRzRVcFE?oc=5",
+          "time": "08/21 17:13"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6912.95,
-          "pct": 0.88
+          "value": 6852.58,
+          "pct": 5.89
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 801.94,
-          "pct": -4.63
+          "value": 840.89,
+          "pct": 1.99
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1385.91,
-          "pct": -0.25
+          "value": 1385.98,
+          "pct": -0.35
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stock Market Bargains Are Hiding in This Overlooked Place",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW9EWUR5dzlYMmN3c1dtLXZ1WGpQR19kazVOcjBodEZ4UlRqUlYxRUo1eDJHRDY2YUdhdTEwYmY0anUtSEwxakYxOGNIWXIxdFVNOVJvSGtFczNwYWY1dkpOekczZVNEeTZOTnVkaFFkNjRJTEIzOVA5WlVmWEpRcDVTVmpRbmlQeDgwYUN4UThlOV9nWHlfYi1wRXN4OVVlbjRB?oc=5",
-          "time": "08/21 18:30"
-        },
-        {
           "cat": "fx",
           "catn": "환율",
-          "t": "Wall Street sinks as bond yields rise, Walmart results disappoint",
+          "t": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
-          "time": "08/21 07:19"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
+          "time": "08/22 05:44"
         },
         {
           "cat": "macro",
@@ -97,51 +89,59 @@
           "t": "Wall Street Turns Sour on Once-Buzzy Space Stock After 73% Rout",
           "src": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdk9Rd25CVEJPMlF4bHh0M194N0gwbldrWENJQW1vTXVvdlBTYnFVZkM0MlgtcDlGOVJCTHhfcVJ4ZEZvRDJKalhOMVFLTXlxUTJxTnQtbGo3VC1menJSQ1NnTW0wRmZWTmZoU2dCVE1TWEJlOFJQN1lxaTNnb05ZUWFZZGVKYUw1ZjUySm03UUZIbmo0RHJ0SGRYa2RDX0xwQi1DQjJ1dnV4dnllLTB4NE1PYw?oc=5",
-          "time": "08/21 20:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US Stock Market Today: S&P 500 Futures Edge Lower On Mixed Fed Rate Signals",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWHhOVS1fTHAxSHh2Mld0RjJBV25lZHNqOGF6NDFYYm0xVjRkaWRsTW11eEkwSEc5ei1WbF94aW94Ym9XamQtUlNka0x3YXZpbmZiR0h2UHNkVVdEQ25oMmtlMVZKQXVaUFF1WWJ0OWR0bGRMeHRvbFl4eXJtUlJYNTFJcGdnZzJOT2dsNlFVekRGVzNEanJ3ZEdvTXRISjVpYlNweFFrWUJqTHNncERDT3NCTmtZTHk2Mkw1aU1kZUkyd1ppQWVGeTBMR2pEeFo3YmpqZW9PMkfSAd4BQVVfeXFMT0tHMm9fSklEcm0ybkxsMnVMUE1KaEpCU05Vd2Q1c1FMemZRUUdnWWtTeDFXc2MzZlNfOHNVdWdReENsUV9yWmNsaDhiMVJJVkhMTTc2VFduQ29yb1RQZVVxR3JldlhTWG5WQUlhRWRhMTF4ci1kYXA0ZU9oREtNRk13bkMyUGpqOEpQMDRsR0FnenlUMVJtZ185SEdpWlBlVWJMTDk4ZHJmbFFaZ2s1MWRRTEhEbHdDdVN6ZDhuLUJNZ1J3N2hQNlJCLVRFQnR5RnFlUVRPQS1vVTdWVHFB?oc=5",
-          "time": "08/21 17:40"
+          "time": "08/22 06:40"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Asian shares advance despite Wall Street losses as US Treasury's moves fail to calm markets - Union-Bulletin",
-          "src": "Union-Bulletin",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMzAtRVVRaXN3ZDZLdEZwcFVxa0NWWVZ5dEJSNkpFdzlyQWRSQTFya3RsNlRvSnpuTDMzemVoN0x3blhZLXJoMGMyZE12ZDFwbks0djR6dlJfUlluazZpMEt0ckVmZUFiQzlnVmZ0U0V5TnVHUDZmUzhHTlZkS1NTM0c2blREcEpsNXIwLUZkWmdZcm9TV1ZDOWFuUFdSNmtfemZWZk1vRjlHeEFPQXlwdkZNb0JqZ1A4UUxNaTIwMFRzZ1E5dDJpWUJBc0d1NXJ3VHVDNzhZQzEtX1R4Sk8zLW5jZEZfRkFOSmNrOTB5dk1qN05xMks5LXhxbnpuMUZKWVVpRjNtT0poOWUyTVhF?oc=5",
-          "time": "08/21 16:59"
+          "t": "Markets Brush Off Treasury’s Buyback Plans",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXJ0NUtVanV5enNtZTRJeHpkMVliX0JGOVVubWhTYU51QmlWSXlvMWhJbXI0SWdGRFJfeFhKNHhuMHhRcVFXTnZmNGdGNnhxeERlNHp0Q0QxbG5oQUpBZnR0cF91dVl0NzIxUnpfNnJjdFh0MzAtSlA5cDdrNzdMc0lGVVpfWXZVVm1VcHdwY1diQTFoQlR4cDZscWJZRVFVLWx2T0pnLVVkMzg?oc=5",
+          "time": "08/21 18:09"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Oracle Sits Far Below Wall Street’s Target. Here’s What Gets It There.",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaTVEQy1ObmM4TU1rR3lJVHo2d3RwTUdYdFZjSlZZSkZ6cURydDhWZGtKR0JzenZQeU5qb1YzTTFKbF8wN0FKNmE4d1V0NExNc3Job1J0SWE2WmNWZXdTT2JFQXNQMzdsaDI4ZWVHQ2NlSTZfUkhDcnNoLTg1em9zeTNKdDJQZnVkeXF0UjI0ejY1V014U2JaWWZwLTRqRjlfNFRfMklKZWF5Vl9xYTZJ?oc=5",
-          "time": "08/21 21:05"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Wall Street rises on the day but falls for the week; bond yields and Iran in focus",
+          "src": "The Detroit News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWIza0hsVlc2a0k3c0FYbVdVcEdNSWczRjc4MFIyTWZPWUZaZjdIUHNTZno4T3ZOamx0Vlk0dmVielNURFdValBxUEtRbUFWZHktVl9lRUg2ZUtxaXhwR3ZUS09fdWd1YkZLZWhkY0FMeUxFSTlhSG0xWGllSHMxTWtCSmVqT0U0Y19zMHFjb1o5T0lNMUZBc2l6U2ZaRFdqbkdV?oc=5",
+          "time": "08/22 05:12"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Update: Wall Street Trims Weekly Losses With Friday's Gains",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRnlyX1hrc1dKdGtCT0VZVkVOaDJDdTZCdjctc2FCb2VHNmVGRnBFLXhSaFhmVFJlQkN2RUNyZTBncGpha2VLWHRDWnlKSGtfZExtQURsTEVPc1FJcExJT1FndEhyb2pTTXJEQ2NVUHB0S0ZvOVdRMVdleThaX0VYNHlWbnQzVEVfNG9PMXo1bnBBc1hrQnFVNmYydnM?oc=5",
+          "time": "08/22 05:55"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "US stocks rise, even as the bond market applies more pressure - San Antonio Express-News",
+          "src": "San Antonio Express-News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWF9jODNwU044UzVxaEYzTldjSlplNWM3RjJvNXBROW5kZTJwYWg1b1pGSDJsTlVud003RXBwSjJUUkdZTjMwRUo2VkdkZkNyWWQ5VG5vYjRGMEtWZjVqcEdTeHh5N1QydDBjSEpydElUSWx6RS02YTVLWnZIR3hhNmc5RG94LWd4U2phanljUHA0dzRxS2NRYkRwQVhfMUQ4bVFrWFRtRQ?oc=5",
+          "time": "08/22 05:15"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7641.16,
-          "pct": -0.87
+          "value": 7674.37,
+          "pct": 0.43
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26067.17,
-          "pct": -1.0
+          "value": 26180.46,
+          "pct": 0.43
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52759.21,
-          "pct": -1.32
+          "value": 53277.01,
+          "pct": 0.98
         }
       ]
     }
