@@ -1,127 +1,127 @@
 {
-  "updated": "2026-08-23T22:23:16Z",
+  "updated": "2026-08-24T13:28:58Z",
   "markets": {
     "kr": {
       "news": [
         {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 회복에 다시 불붙은 ‘빚투’…신용잔고 32조원대",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RQlpmQnI2ZnBSa2FRazNSNWdDOU9JcFNDMm5WeDJYOHMyNWVIb1B6UDduMHpjY19VeVo0VkxEaGIzZzNXWlhXOWlhSHUydExNVDlfRHRDMVp2bjhvSFR0MU9nekxDa3FmYjlsSHJmUzDSAXRBVV95cUxQbG5vRmpXQ0V4eFZnRHFQR1JfMTRaS29nTVJMQnJGcTV5bWU3SXZyT1dpNC16X1piUFlxT0FDODlKVlZVcjBhYjJkLUd3T01IcldhR2hRVlFoX1NIc2VQa1R1M1V2VnQ0RGcxZU10cnJ1Y0FGYQ?oc=5",
+          "time": "08/24 16:57"
+        },
+        {
           "cat": "sector",
           "catn": "업종",
-          "t": "반도체 반등에도 개미들 '관망'…코스피 주식 회전율 연중 '최저'",
-          "src": "글로벌이코노믹",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXd1b3ViNkVPeDRZU1FqeW0tcnZscnhSMjBOQS1lcXJJemhXdGR6OHNsNE16TUVaMWpFZUlxSkdQdUUzQmJvX1VBS0NhN2kxSG9jRFR2bGdiWEtVMHoyeWozRi1KUjJpTVN4MlBvWWpVaGlld2IxSm1nOTBIT2locmF5cnAwV0U?oc=5",
-          "time": "08/23 19:36"
+          "t": "삼성전자 실망감에 코스피 3% 급락…코스닥은 반등",
+          "src": "프리진경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CYThVTEtVU0VXMEZESHlFUjlBXzZMQU1TM1MwUXNnUmp6bEYzS0tCaWd2VzdIZ3gwYlJBV1M4N3BUN1ZoMHZLLXdtTjV6dERmRE90NWpFMFQ3RE9Gc0lwLVZ4QnlGWk5vZktRcQ?oc=5",
+          "time": "08/24 19:27"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"코스피에 놀란 가슴, 나스닥에도 놀란다\"...서학개미 거래도 뚝",
-          "src": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55V3BPblNKUXIxb3RGM3NmNko0aVVmMm9SMlNob2N2MG5PUnlMeGtVOFE1VDhTX3R4Y1UyTl8zcmV4emF0cURaajFrN0Vwa0p5bDFpbzA4NllPQQ?oc=5",
-          "time": "08/23 14:11"
+          "t": "코스피 -3%대↓, 코스닥은 반등 성공",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oYXJpZGN3X0hlR2w0SUozX1VpZFdiZ3V5VTFYRHFOR1dKdXh6cnotZ1pTZ0l3cDNDNnlNSEFtMDZ2SzJTYUtzVGRpdmZSVDA2eHhiSEJ0dnkzWUdWZEtwQTlvQW4zdlVTNVJFYQ?oc=5",
+          "time": "08/24 16:03"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피 3.12% 급락… 삼성전자 셀온 충격 속 코스닥은 이차전지·바이오 강세 (2026.08.24)",
+          "src": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa3IwSWZob0FORjdIbTVHX3pIQVFuZXoyZS0zR3ZVMjF4bWlaZUE2N1oyVWJBajh3QXA3UHNhV3d2VVczTmJla0c5OGNzdzhUYUZLUzZMcUw3dWZOemRkZXJ2X2tBME51NnBpOHZSUnhWRVdtLXY0al9EUWlMMFA2OW5XZ3hyTDMwTHc?oc=5",
+          "time": "08/24 16:46"
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저",
-          "src": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xTXhnZlRZR0pIVEN1aUI0SGpfWWR6REJvVVd6d2RrbHFoX0NUNXpmTDdkMXFVV1JoVlUwbmpUZ1phdjFLdXlJR0dQNVRKQQ?oc=5",
-          "time": "08/23 11:40"
+          "catn": "금리",
+          "t": "코스피 흔들릴 때 코스닥은 반등…AI·금리 이벤트 주목 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lWkZzMGdMSkRtTmlNbENWVzBoWTB5WC1FZGpCQkFJTWJDLWlKdTVoMHcxZjVFeWRRTGc0R2lkbVlSLXEwX1JEaXFZUDJZV3RzZVZNa1BRQ3lOazFvY0VkRUhKVXBvWFJXLTkxenZn0gFuQVVfeXFMT2VaRnMwZ0xKRG1OaU1sQ1ZXMGhZMHlYLUVkakJCQUlNYkMtaUp1NWgwdzFmNUV5ZFFMZzRHaWRtWVItcTBfUkRpcVlQMllXdHNlVk1rUFFDeU5rMW9jRWRFSEpVcG9YUlctOTF6dmc?oc=5",
+          "time": "08/24 17:23"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 6900선 되찾았지만…투자자 손은 멈췄다",
-          "src": "ebn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lNmhhemlyRHlpRGxHbnNVQklVMlVKT0V4QUlZcUItbndCSzlGTV9rLUNsVjE0cjZNRkdWOVVFNWR1RldZTno4YXRHbkJhVnN1LU4tMHNTTlRpSExuTko3TzY1ZVR0cHdJ?oc=5",
-          "time": "08/23 15:04"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[주간IPO] 니어스랩·해치텍 코스닥 상장…한화M&S 코스피 상장",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PeTd5Zndjc19wSW5SV3JVUGlVU3MyWF92bkFVTkVPYkxTb0NpaHlWalJnWFNKYjFMZkFhdzhZb0dXWmhUSmZWWjRBTGpST1AtcUI1b2tSUUx1Rm5Q?oc=5",
-          "time": "08/24 06:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“삼전닉스 올라도 안 산다”…코스피 7000 향해도 투자자들 ‘관망’",
-          "src": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12ejBHNnJiLUZ6U3B5ZG9uMFZMZk9wRXVIUjA5M2lFd0ZnUUM1eEVmM1p4UUVyTmhfUGlQQkNBWjRYNWlBazNLc01mRVZCZEwzT2x2TnI4ajN4R3M?oc=5",
-          "time": "08/23 09:31"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[증시 인사이트] 주주환원에도 삼성전자 급락…코스피 약세 지속될까",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ldEpGNkJtSmN3RE8weHhhOUdLNHBNcGM3YndYS0V6MnE2REJSbnFtdXJhUFE5c1Z1NDVENHZIM0tNZU9qVlJSdEdEYWFPU28?oc=5",
+          "time": "08/24 16:46"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6912.95,
-          "pct": 0.88
+          "value": 6696.96,
+          "pct": -3.12
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 801.94,
-          "pct": -4.63
+          "value": 813.33,
+          "pct": 1.42
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1386.0,
-          "pct": -0.34
+          "value": 1381.98,
+          "pct": -0.63
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street's Biggest Bubble May Be Popping (No, Not AI), and It Has Dire Consequences for the Stock Market",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3NhTm9FTm5DYWJUT2h0cDR2d1VXNVBhaEpjVDdJelpZaGRnN1dhdWNHSjF0OEdBQU5GQ1lJN2Vfd1ZiZzEyeXpyMnVzSmYyNmNDNXZvLWViVElfd0JobEFLbGJtZ0VLVGRxemYyUjZsTjNjSFBQX0xlU3ItbGtYVkswR3MzT0VoTHVfLUlvT0h1V1NMWkpKVTNQSVU?oc=5",
-          "time": "08/23 19:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Week Ahead",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OM0RmcmRHSzFPR1BFSnI5WnI5bm5iaEFSVGo3NUtOUDJ4RlhPZ1VsRDFuWmZneDNXSHdObXNBdnZ5WEtxaEhFLUJna1duT09fUERHUEUtMDFzNjJ2Z2pMMmY3aVVvSDhHSFNqNUtSSTQ?oc=5",
-          "time": "08/23 20:13"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Axsome Therapeutics Stock Is Up 16% Year to Date. Why Wall Street Thinks It Has Even More Room to Run",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUC1ldWRIWHctSVVPV0FRV2s5cU1CWWRrN3RJY1BuX3htUENDTjZlVmhQb0ZKUzVPeHRHUlJRczJUZ2xtbmk2WE5rY2FYcmF2VWRkaW15QnhsaDgtWUtRTFc5X3c3bDdJYVR6ZGRvMnNXQ3NhakVjZTNmY0xWRk9XTTZsejUtM0ROTmtWa05nVlJ2UXktX0N5ag?oc=5",
-          "time": "08/24 06:26"
-        },
-        {
           "cat": "macro",
           "catn": "연준",
-          "t": "US stocks rise to a record as oil prices drop and inflation gets less bad",
-          "src": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHMySTJ6WkpRcmNDdkNPcnVsa2dfc3ZTaWg5d1Myc0p5eWVURjYzZUMyRU10eHRIWjgzdzU3S0NTY0RFT3dMNXY5T3V1YmVZZXVvY0ZHRDBXS2tObDFaLWh1bl9fdDRmSUJNTEZ3SHlVclVsNjBDVTdseUxQWVp0Z0lKaGVRR2xsdlgzajJialhoRTNtb1RWQl9HSUVCQjh0LTFLOTdweExxZWxZeHBHYUdMZnk5VjVuZXc?oc=5",
-          "time": "08/24 00:32"
+          "t": "Wall Street set to open lower as high-stakes Iran, inflation tests loom",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+          "time": "08/24 22:06"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "US Stock Market Today: S&P 500 Futures Rise On Steady Services And AI Earnings Hopes",
+          "src": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHl5bXRJdEF4S2E3UTZhQzNqZ21aNnJhSnpiaGJnUUlwSVduVjhRY0dUaVRoMDZnUnlTQ3AxMWl0bDJhbkp2VngyWTg3SlNLak5yN2VWTUxUNW1Va25NbDc5dW1PMXlCQmh4SXBjRHRLV3Jic254VG9Wdkdudmc4VTNsM3pTUzRubmswR093cmxVM2gwYjZxVWV2dEMwTFpUZDJOZjZzTFhFR285eU5BYi03TXRIWVZvQmZNSGhVTG5jdE41ZS1xTTlrWUNDMncwcmZWQTNQc01NMG_SAeABQVVfeXFMTjl4emRiV0tudzY2WFZIRHJkamRNTmo1a25UQXZnYW16S1FsTURhekJxLVFDYTJfYVF0ZnVHYk5iSE1HX1V1a0gwWFdIYmUyWmpfbkNEYWQwU0RZbHpZRzh3S0VMdmRrZG1HcHB6blExbjdrOWxBcVJUMmdJZzRXSllDbG1BZzlWUGgzNWgzYXlnc0dQM1kzTGN5RUNzUnNXUHY5MzF3Sm1GLXc1MldyRXRWaEVLT1Y3RkU2Q0dxXzR3Rjc2U2xEd05kOVdWM3A3d2s1bjM0VWVVcE9pX0N2cnQ?oc=5",
+          "time": "08/24 18:17"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Another Wall Street Bull Joins The 8,000 S&P 500 Club – But There’s A Catch",
-          "src": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWlRXZGRuaG1SWFNnV2V2X0VNdDZQWmNWOEJwcHViMkl0Z3otSTBXWEpCYUE5Y29nalFvYnJaYnNnTUV0ZG9NZGhFeC04aWRTYUxVbURCZXRiejhobFdiazN3RUlNRm80MFRxREpJQ1RBa0c5SzhhTjlXLVFHVG16SkZ2eE50QmhMeXdCRlg2ZUNDdE9sWFhDSENsTlF5cVZkNzdpdEpUNmRDNk1XY3J1WXFyYnFkZE1SQ1BlMFhsU1dDUjQxazVSeTVtYUtydw?oc=5",
-          "time": "08/23 14:33"
+          "t": "What Saudi Arabia, Abu Dhabi Stock Market Moves Signal",
+          "src": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQay1VSjB6aUJWTm1kZHFJcjJJMDlsTHpELTZXaHRCdE5vYXA4WFA4UTVoZnZYazNOSjZMTFdqSWRnUER4LUp6XzhEWDJ2SlV2V09HUzFLWHc5WHpCWnlrdXFjbXhKaEZubGdGSGZMcHpFczFYR21RTUJhSnN0UDVYTXZEeFBieTBsZGtBc1YyTUlGUWRhNVNGUG4xeHN3cHpXbDBGZWtEWnEzWWRKcWdGS3ZCRzRWSVNXTXc?oc=5",
+          "time": "08/24 21:12"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "KLA Corporation: See What Wall Street Sees",
           "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM0Y2R2FLM1FEY0FYdFRhMjAtd2d1ck1taGVfTUdZOVF2VzlfV1dJS2JYcGxuQW9hWUc0OEE1NXJTbEpkVnFVU2VpVWdjQkhTQWRPWG9vNkVsZDVmUUZyU2JKajNPS1V3YWc0UGg3aXZiRkM4ODMzd3ZDaHhfS3c0V1BOTlJubjF2MVpraE45QWw5dFdIaGFIamtQb2VDVEVwZmZZQ3h3XzZ0azJYelFpTk1TeE9ydw?oc=5",
-          "time": "08/23 22:44"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUM5UHdTM0xicTY5Rk9rTHNGYlZXbXNvVUx0THpSVzMtV3RqUG1lT0dPdFQxYXlrY0U2YktUQmRBdkUxUXZza0wtNFp6Qmhhdk1BVnZuaXRwdGxlYmdneDE1Yk00UlE0NXlReFZ2LUV3RXVyc0ppeGFCNE1zQWMwZ3Blb3RSQWJoZ2E1bjVR?oc=5",
+          "time": "08/24 21:58"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Are Wall Street Analysts Bullish on MSCI Stock?",
+          "src": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDQ4ODRNczdaWDRST0lNMTE1dFluOHdmSHhkLTVTdWtqV2pSLWZTN2V2eS0xb3lseVM2dnJIMU1JNTM4eFBpaTZvMnloTDRHdnV3dm1pYktDR2xBRWtRc05YVWFZeVpIdE8zUlRHUHk2QXByd0M0Tlp3U05zTy14UWJyTDBoaWtaMDZrR1lEUkc1SVM1?oc=5",
+          "time": "08/24 21:42"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Jersey Mike’s Subs Shares Rise as Wall Street Launches Post-IPO Coverage",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMTZlNUROc0R4MFlkcGJjeUlXdE0xUFdzWEs1UUY3cjdFcWFqdElFdTF1cC1VM0NyUjE0M3B3andmSHBDRzUteVhoSGJLVTV1YVAxWkdNQTZ3ZkVOc2lrNGlZR0Fxd24yXzl1ZGlsbmI3MVU5MjBBZmo2LTB3UWZmSUFfcHVRMzc4ZTBzSlNZaVNmOEpTb2UxOA?oc=5",
+          "time": "08/24 20:08"
         }
       ],
       "indices": [
