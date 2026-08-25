@@ -1,15 +1,31 @@
 {
-  "updated": "2026-08-25T13:26:19Z",
+  "updated": "2026-08-25T22:28:54Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"다신 주식 안 할래\" 줄줄이 돈 뺀다...뭉칫돈 다시 '여기로' - 머니투데이",
+          "t": "'금'으로 피신하는 투자자들…코스피 회전율은 0.55%로 뚝",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdEEySElKQmstVnBsQ3ZjbDJiRVVjSUJFVTJuYlgtMUtDUGJfTGZpNFIxcF8xNHlQRjIzVU1kUnR3QWpzS1drWnNTUHNXeXFPd1doeVI3X1RDaU1p?oc=5",
+          "time": "08/26 07:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "주식 줄일 때 아니다…탄력 잃은 코스피 ‘매도’보다 ‘선별’",
+          "src": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOVdIYmpVZkdUcXVSaG5TZ3pHSEVhNEpyTUNtRjYzYzNxNjVvM3NqdTRuMUE0Z2lNY2xpSmNzR1Y5MHdHSWlyRFk4VlRvUnQ5eHBZTEtvVUtVWVNpV29HamdJZ3RTSm4wZlI1VEVEbDNyaGhMT3dIUm5QUmtiSlFOc0xUeS16bGZCVGdYX252VllNak5QOHFfUGhHSVl2b3R6NlRuNV9tV05hbE53YlZMbzRNSTNyUDkwVFRDTGNpRlNhZHQ5a3Z6SmRrb1NuaG1FczFad2JFN2pKRzJNYkVWNk5Od1hlLUdUdU9pWVJvalUzUUdSejJzV19QaHlQMl9BLWZjRmxzQUpSeldxT1FkY0g3a0pnMHZR?oc=5",
+          "time": "08/26 07:04"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"대박 노리다 쪽박\" 주식 손 터는 개미들 '여기로'…사상 첫 1000조 돌파 - 머니투데이",
           "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3SVdfbjNVWDJtZlVReDFvSmt2VzE1SG8zZVU3VUpUc1NfN2tEUUJlN09OTzJaRE85T1E5RmJ2X2wzZ2NjOGUtaDJoLWtsMi04YzRGTnQzTUtqdzhHSDVZa1lxMUhFM0NE0gFuQVVfeXFMT3QxalI5dXRzLUFfc2toU2t4UFQteDE0LVhuRDdoMXI1UlM4WnBPMXNHZ195STRSNGROdHZFTGx0dUNTN0RFX0NoZWRRT1h1bWk3VGlJVG5wb3J4RmplX3FMOGdrWDlKeVIyLWNtM3c?oc=5",
-          "time": "08/25 16:20"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Tb2dZT21xdnVWa0RaRmNBZkJURGloMV81TF9ac0VIOWZ2RG1CZUJTWW5UdnhJR2FseVI1aDl0cVduMExWaEg5SEg2ZVRZczJSWmhKT0cwaktfUUw5UVAwSFA4YlU2SnBlSTRn0gFwQVVfeXFMTVR3WE1mNkZnNkxjbEdMQl9CYUxjS1BkS09pRUtjcWltVk5vWkZmVC1UN0YwYnp4UEluWWVfbGVGQ2FzVnZkU19JbnMtRS1fYlBURm9NLWxJcVVOamt0YTNzb1VBdjlibUZpQ3pIRDRJaw?oc=5",
+          "time": "08/26 06:00"
         },
         {
           "cat": "macro",
@@ -21,127 +37,111 @@
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "“퇴직금 절반 넣고, 일주일새 1000만원 날려”…영원히 오를 줄 알았던 '미친 증시'에 당했다",
-          "src": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDeXJaZHRQbkJHUUZwNU5LTVQwRzlGemxVMG1HdU1COVZzUDNHekJBZG5yOC1zOVpndGxYNkV0VmhiZlBWSFlVNTBjNTNNZw?oc=5",
-          "time": "08/25 21:39"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "‘롤러코스피’에 외신도 경고…“세계에서 가장 미친 시장”",
-          "src": "뉴시안",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53Q0dfV2JVVFVfa1ZzWFRlVW1JZ1ZldkJVM00zeVhYS1htRk1rZVl3SUJCeGl2WkJmRW9ScHhpanNNSXdvcjVjbEs1a1hkZFItaTJkOEI1ZHY1UE5odVE4bHcxRENMZnFaMU9kNzZn0gFuQVVfeXFMTndDR19XYlVUVV9rVnNYVGVVbUlnVmV2QlUzTTN5WFhLWG1GTWtlWXdJQkJ4aXZaQmZFb1JweGlqc01Jd29yNWNsSzVrWGRkUi1pMmQ4QjVkdjVQTmh1UThsdzFEQ0xmcVoxT2Q3Nmc?oc=5",
-          "time": "08/25 20:58"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[0825마감체크] 코스피, 장중 4%대 하락 딛고 상승 전환… 6700선 회복",
+          "catn": "금리",
+          "t": "[0826개장체크] 美 증시, 국제유가 급락에 따른 인플레이션 우려 완화…반도체 업종 반등",
           "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRXJBbjRKUHZ3SWRTTlphaVRVNDZCNzdGM1o3NjY1bWxpY3FYbkdpOHNTQnZEcUpqN0Fyd3hVS2xna1V4Y3RhbGxKWnpSRDI3MXpMY3Z5MmlFVjNBdTZjeUZzaWM4emZxMHRMUkpRR2VRSGExYnc?oc=5",
-          "time": "08/25 17:14"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54UTUyYWpDek1YVWdMckhzbkF2OURMY3Ayd1FnMVM2VURrYXBYUmRCN2t3VGRPLVFjSEd5cXBaZHdpZWpKc3pnU1dRYlZlN0pEbHdVdHZvOWs3NElQLUU4QmdBbzQ2WWNOWS1OMjZVYnpZeTlE?oc=5",
+          "time": "08/26 07:05"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“세계에서 가장 미친 주식시장” WSJ…한국 개미들 ‘롤러코스피’에 쓴맛",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EcVk2UUlqT25IN1VrLU1ZWThtVzBmYW8xT3NDRndjd2hiYll2S0poaTgwMVhkUkc2UlVkVHIycmVUZm5xR1JFZ0F5b1cxMmxZRkRwMA?oc=5",
-          "time": "08/25 16:49"
+          "t": "알테오젠(196170)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXVIYmtZNUw3SGVBdlFfTW54SWhCaloxQVRZSV9NcTJEb0QzU3BCajBvZzZaSGtXWUFzbjF0enl2aFg1M3RPU1VGNmVoSFA5QVBjUTVPTnZXVFVad0ZqTHV4dUhUSnhJRnlsVTRMaXRIZDVxbjV3ZWlYeWpfS2lZdi1fRkltazRCaUJXM2VrY3hPMzRzSHZz?oc=5",
+          "time": "08/26 00:11"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6742.74,
-          "pct": 0.68
+          "value": 6696.96,
+          "pct": -3.12
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 827.15,
-          "pct": 1.7
+          "value": 813.33,
+          "pct": 1.42
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1384.08,
-          "pct": -0.06
+          "value": 1382.43,
+          "pct": 0.12
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The World’s Craziest Stock Market Has Turned Into a Fright Ride",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHc1cktvMF9zTEkxYm0tVVhfR1doLVVORmZTZGdjanhnbEJTdEtnWEVFb3ZhT3ZTcnRrYXo1MjJDc0tMdmNwTHMyRnRFYnctZEtrVE9BWFNQRVZpOTJPZS1Gc3R2UjZzSFpkSDdOSkhZSk5pLXU2d2p3S1EwMUl2b0lCRQ?oc=5",
-          "time": "08/25 22:12"
-        },
-        {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
+          "t": "Wall Street ends higher as tech rebounds before Nvidia results",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-          "time": "08/25 07:26"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
+          "time": "08/26 05:29"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Falling oil prices help calm the stock and bond markets",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RM3NKbGFPSFBqZDFoME5WeEI0MzRLQjVrQUNEM3NndEhtWkhUVGZOTzlQaGpWd0oxSGJoLVBWc0VGZ2h2QUU0WW4wSnBIVDFUZGFVVkJfR2pfUzNJRVg2OTFBVEFZLVZhalk0LThWamZUWUMyOFJrV1FBS0JzOWM?oc=5",
+          "time": "08/26 04:39"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
-          "time": "08/25 21:00"
+          "t": "Fall in tech stocks leads Wall Street to mixed finish - The Arkansas Democrat-Gazette",
+          "src": "The Arkansas Democrat-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWJINjdIS3JIN0JQQTZGaGNzRXh5dV9XV2pkR0g3cm9NVklCclA2cmJMa1VSS044aGFmc0x6THJ3SVhEQ1d3WEQ4VE9QcWFLQzF5dzZQYndmLU9SR0lmc2lDcGotdld6TG1lTHdsTm1rOHhuSDRGS0g0djNzNDBkOUVKUmc3d3BrVU02N2F2OHhob1JoRWlacFJaaw?oc=5",
+          "time": "08/25 16:11"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall Street ended higher ahead of Nvidia earnings and key inflation data",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0dlb2tNSktfRHNfbi02SXd3R09oRm1RYVV3Z3h3aFVsaG9EazNGWEdudS1lVm4zWGJtUXhBNTlWa1RSRlpsVElySWJEei1FTHlYeHNDajNxT2JYdHlwMHdxMkREWVVQc2Rla210STJYWjNKTXhucWRwUUkzem1mUUswZ0t4M2pCRjU3MTYxVHdWdGJKemlqWnBrc1AxU0RyOGNkSUc5dw?oc=5",
+          "time": "08/26 05:04"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "US Stock Market Today: S&P 500 Futures Edge Lower As Inflation Jitters Linger",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekREdk9RYTJnTmhONmxsZFpVRXBPeVBUNXBEeWhDMlIyOWF5QWd5WElMOXJFZkM1OWEzQ3Y4Y1ROVjhOVDZYSDJwbWxZRjZSdGRUcVBheGVDcWExUHRyUVVHQnlRMDIxMVZTQS1ZdkVGeFhfVm44dkhMQVdhRElnWXJob3k3QXpPYVZ0NnVhSWF0cmthcEticjYta3M2VGJWclZ4NzJPT2FmVlFWTHBKMXdzVGJEaE14Wl83X9IBwgFBVV95cUxOeGtaa1VtckgtY3hnT1VuRFhpSUlKY0kwZzhwcE83QnhOSXdDVlJuR1JUNUtZckZDTWtmcVlpUjlPSUZQZkMyZDBPdDk4bF9ZQTE5REtza0RGcXlYRHozMU5GSWxsclBrWmVpWmJfMDQ3T01SN2xBMllwTGY1SkpHak1hOXdzR285OWY4MjVMdjJoZnd5SjI0NEV1bGFKYnp2enRaejJDbENRMEt4ZU1ieHh6dEhfSGx3UWIwYnFYd3lydw?oc=5",
-          "time": "08/25 17:37"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nvidia Stock Is a Screaming Buy Before Aug. 26, According to Wall Street",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3RBODdLMGhCWWgwaEEwV2swUF9NQlJGU05BQU1OTXZEUUM3eDVVRjlkWUhmSE9VMmVWbmlOT1c2aFRGOEE5c0xzNy1nZ25Mc3QtbGNSZ01KWGZWMnI1dDNZN016cTFER1hvbnI1UXNMWlZGUDZaZ0Y5eXMwaWdWNF8zWUQ3bk9fS08zWUVn?oc=5",
-          "time": "08/25 18:48"
+          "t": "Walmart Keeps Cratering: 45% Gains Are Expected From A Respected Wall Street Pro",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTgzQUFYUTA0OG5WY3NxM1lkbnA2ZHRBOFEtREVETGU4NWdXRFFmZGtwY0ozUTVxdHNONm5LU2o0YUpkRWY5V3dDclg0T1pTMDJ0WjI4ZVVkanFwaWJrSXhIYVZGNUtNRDcwdHQ0SS1OVUVlWEZZelhSV2JkbmlUaTlvUXJ2bk1FMDQ3ME1laTFabkxiY2c3cm9nWGRxMUt1Q0lCMzRjUDVyYW1aOG1Bb2ZXTUJxNDR5b2doUENHcw?oc=5",
+          "time": "08/26 01:59"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street is rotating out of 2026’s biggest winners: Chart of the Day",
+          "t": "Are Wall Street Analysts Bullish on Raymond James Stock?",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVlrWEJmNEs2S0hydXJUMUNtN01XV29zSVExb0JHMkdhMGIwdWVERXB3T3BvNDQ2cnQ0My1CZHlfN0l5bTZhQ1hBWTNic05La1kwWTJ0elhIYnpQbEhfTmFqNWI3ZUVzbnJsVWhLOFpVc0w5dkstcVVSeWNHVFJzYVpMX21MVjViNjQ1QkxFdWtaUjhBSTR2a3pKNUFKQjFuNzdIZVhlUlUyU0QxYkROVkR6NDJ1SmRlMGRZSGpVaEZrRE1v?oc=5",
-          "time": "08/25 03:06"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnlDTkYtajhONXBKQmsxQTI2a1pXd0JpMDlsbF9GOGtiVkVxN2Rtb2ZDeW1xMmFoX010Y211akNSbnA4SXFFcjB5UUtEandLaHNFb015ZkhCSV9yOXU5aDRKdF9WUVhlMmpwOExXbTB1Rk90elNpdXZxajVhTXNkUERwQUM4ZkQ5UFBfYzgxN05GRVp3R1dQNDE4ZjN1clMyS2V3?oc=5",
+          "time": "08/25 22:49"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7652.86,
-          "pct": -0.28
+          "value": 7677.28,
+          "pct": 0.32
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25980.19,
-          "pct": -0.76
+          "value": 26151.3,
+          "pct": 0.66
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53417.16,
-          "pct": 0.26
+          "value": 53577.4,
+          "pct": 0.3
         }
       ]
     }
