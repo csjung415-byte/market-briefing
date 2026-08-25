@@ -1,127 +1,127 @@
 {
-  "updated": "2026-08-24T22:27:51Z",
+  "updated": "2026-08-25T13:26:19Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"코스피 거품? 일본 대비 1/4 저평가, 총수가 진심 주가 상승 원하는 이 주식 사라\"",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTTUyZzM5Z3Jna0N2WUo4ZDZ5Rzh4TXZibXE5YjZnbFljMy1FOHJMT3BfNWp5cTFNNFlKSnZ3R296clNhTmM2ei1VLWg3MmNPeFJqejVQV2EzWXNzN0FYclVISWxfSzV5Y0tXQ1ZVSlMwLTg3bG1MNWFrYWUwT28xVg?oc=5",
-          "time": "08/25 05:39"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 -3%대↓, 코스닥은 반등 성공",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oYXJpZGN3X0hlR2w0SUozX1VpZFdiZ3V5VTFYRHFOR1dKdXh6cnotZ1pTZ0l3cDNDNnlNSEFtMDZ2SzJTYUtzVGRpdmZSVDA2eHhiSEJ0dnkzWUdWZEtwQTlvQW4zdlVTNVJFYQ?oc=5",
-          "time": "08/24 16:03"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외국인들, 삼성그룹주 던졌다…100조 넘는 주주환원책에 실망한 이유는",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsYXVHWF9qYXN4M2dZNXd3M1lMM3h1R2dTcWV0R0xYZXdMeFozY2phMHg1X3Z4Q1lEdzhQdk16QXBKc1ZVRUU4QlI1MDNrSlJRZWc?oc=5",
-          "time": "08/25 06:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 회복에 다시 불붙은 ‘빚투’…신용잔고 32조원대",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RQlpmQnI2ZnBSa2FRazNSNWdDOU9JcFNDMm5WeDJYOHMyNWVIb1B6UDduMHpjY19VeVo0VkxEaGIzZzNXWlhXOWlhSHUydExNVDlfRHRDMVp2bjhvSFR0MU9nekxDa3FmYjlsSHJmUzDSAXRBVV95cUxQbG5vRmpXQ0V4eFZnRHFQR1JfMTRaS29nTVJMQnJGcTV5bWU3SXZyT1dpNC16X1piUFlxT0FDODlKVlZVcjBhYjJkLUd3T01IcldhR2hRVlFoX1NIc2VQa1R1M1V2VnQ0RGcxZU10cnJ1Y0FGYQ?oc=5",
-          "time": "08/24 16:57"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "삼성전자 실망감에 코스피 3% 급락…코스닥은 반등",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CYThVTEtVU0VXMEZESHlFUjlBXzZMQU1TM1MwUXNnUmp6bEYzS0tCaWd2VzdIZ3gwYlJBV1M4N3BUN1ZoMHZLLXdtTjV6dERmRE90NWpFMFQ3RE9Gc0lwLVZ4QnlGWk5vZktRcQ?oc=5",
-          "time": "08/24 19:27"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "코스피 흔들릴 때 코스닥은 반등…AI·금리 이벤트 주목 - 머니투데이",
+          "t": "\"다신 주식 안 할래\" 줄줄이 돈 뺀다...뭉칫돈 다시 '여기로' - 머니투데이",
           "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lWkZzMGdMSkRtTmlNbENWVzBoWTB5WC1FZGpCQkFJTWJDLWlKdTVoMHcxZjVFeWRRTGc0R2lkbVlSLXEwX1JEaXFZUDJZV3RzZVZNa1BRQ3lOazFvY0VkRUhKVXBvWFJXLTkxenZn0gFuQVVfeXFMT2VaRnMwZ0xKRG1OaU1sQ1ZXMGhZMHlYLUVkakJCQUlNYkMtaUp1NWgwdzFmNUV5ZFFMZzRHaWRtWVItcTBfUkRpcVlQMllXdHNlVk1rUFFDeU5rMW9jRWRFSEpVcG9YUlctOTF6dmc?oc=5",
-          "time": "08/24 17:23"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3SVdfbjNVWDJtZlVReDFvSmt2VzE1SG8zZVU3VUpUc1NfN2tEUUJlN09OTzJaRE85T1E5RmJ2X2wzZ2NjOGUtaDJoLWtsMi04YzRGTnQzTUtqdzhHSDVZa1lxMUhFM0NE0gFuQVVfeXFMT3QxalI5dXRzLUFfc2toU2t4UFQteDE0LVhuRDdoMXI1UlM4WnBPMXNHZ195STRSNGROdHZFTGx0dUNTN0RFX0NoZWRRT1h1bWk3VGlJVG5wb3J4RmplX3FMOGdrWDlKeVIyLWNtM3c?oc=5",
+          "time": "08/25 16:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "WSJ “한국, 세계에서 가장 미친 주식시장”…공포의 놀이기구 '롤러코스피'",
+          "src": "경기신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQlBNNUJ2RGdkSENVTGtyNGdXck9xdEw3VG8tSG1BNHVUM2lBWkJxZEF5dy1FRndVWmY1UklEdE1OQ3NSc2pDN0Q2ZVUwdFpvaFBMbzJDWklNQzlqUDljQVdR?oc=5",
+          "time": "08/25 17:58"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“퇴직금 절반 넣고, 일주일새 1000만원 날려”…영원히 오를 줄 알았던 '미친 증시'에 당했다",
+          "src": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDeXJaZHRQbkJHUUZwNU5LTVQwRzlGemxVMG1HdU1COVZzUDNHekJBZG5yOC1zOVpndGxYNkV0VmhiZlBWSFlVNTBjNTNNZw?oc=5",
+          "time": "08/25 21:39"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "‘롤러코스피’에 외신도 경고…“세계에서 가장 미친 시장”",
+          "src": "뉴시안",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53Q0dfV2JVVFVfa1ZzWFRlVW1JZ1ZldkJVM00zeVhYS1htRk1rZVl3SUJCeGl2WkJmRW9ScHhpanNNSXdvcjVjbEs1a1hkZFItaTJkOEI1ZHY1UE5odVE4bHcxRENMZnFaMU9kNzZn0gFuQVVfeXFMTndDR19XYlVUVV9rVnNYVGVVbUlnVmV2QlUzTTN5WFhLWG1GTWtlWXdJQkJ4aXZaQmZFb1JweGlqc01Jd29yNWNsSzVrWGRkUi1pMmQ4QjVkdjVQTmh1UThsdzFEQ0xmcVoxT2Q3Nmc?oc=5",
+          "time": "08/25 20:58"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[0825마감체크] 코스피, 장중 4%대 하락 딛고 상승 전환… 6700선 회복",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRXJBbjRKUHZ3SWRTTlphaVRVNDZCNzdGM1o3NjY1bWxpY3FYbkdpOHNTQnZEcUpqN0Fyd3hVS2xna1V4Y3RhbGxKWnpSRDI3MXpMY3Z5MmlFVjNBdTZjeUZzaWM4emZxMHRMUkpRR2VRSGExYnc?oc=5",
+          "time": "08/25 17:14"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“세계에서 가장 미친 주식시장” WSJ…한국 개미들 ‘롤러코스피’에 쓴맛",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EcVk2UUlqT25IN1VrLU1ZWThtVzBmYW8xT3NDRndjd2hiYll2S0poaTgwMVhkUkc2UlVkVHIycmVUZm5xR1JFZ0F5b1cxMmxZRkRwMA?oc=5",
+          "time": "08/25 16:49"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6912.95,
-          "pct": 0.88
+          "value": 6742.74,
+          "pct": 0.68
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 801.94,
-          "pct": -4.63
+          "value": 827.15,
+          "pct": 1.7
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1382.05,
-          "pct": -0.21
+          "value": 1384.08,
+          "pct": -0.06
         }
       ]
     },
     "us": {
       "news": [
         {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "The World’s Craziest Stock Market Has Turned Into a Fright Ride",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHc1cktvMF9zTEkxYm0tVVhfR1doLVVORmZTZGdjanhnbEJTdEtnWEVFb3ZhT3ZTcnRrYXo1MjJDc0tMdmNwTHMyRnRFYnctZEtrVE9BWFNQRVZpOTJPZS1Gc3R2UjZzSFpkSDdOSkhZSk5pLXU2d2p3S1EwMUl2b0lCRQ?oc=5",
+          "time": "08/25 22:12"
+        },
+        {
           "cat": "earn",
           "catn": "빅테크",
           "t": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-          "time": "08/25 05:50"
+          "time": "08/25 07:26"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street drifts ahead of a big week that could swing stocks and bonds - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMHE4ODYyV3RDbktJcl9aSUdEbWJoUHhYak9UcU9MY0hiN3hRTktpOERwZXQxU2ZkWVJzMUUzTS1oMmNmSTdsU295V1dNOElZQUF0MVpGcGdhNzE4VFlQTE1laDdYZm1mOHlMRUlGQ1JIZlhaX0RnTFgwWWVfUXI3TzRleFpOaDJ5UmNZMll2Z1VISVZLaTVDYzRPRGZyQdIBowFBVV95cUxPNmtUbS10NFhyODhhMkhyemwwLXFXWFRsTXNLREdfMV9GaFN4RjY2dzREZEtWdlVhT2V6bnpnUWV6UHJIenh1RmhQVXh0RUJiSVlZWWo2VExOMFJqdHl5bVBwM2d1eEZtRHRNVXJFMnJHU3hsSENRa1Z3VmZnVVZmRHZONk9JWHp3dGZsSGxmVzFjOERhU2RfTU5wcXJBUHhjcUlr?oc=5",
-          "time": "08/25 04:34"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnkxV2Y3U2loLXNvZXJ1RGplTnM3OFdWb0F4dHpGT3Z5MmxLVlg1NkczOUI4ME5ldmZWWTY3ZWxxRDFvdWpaOEsxSXRXdk5ISGpYNkY2Q0JvWGVwYmdHakpuRDQxWDBGb3BLcnF1MG9jYzNsNVItLW1tQ2tXZEc1c0tMUkhzQjVPZlgyRXFWMUl4eDg2c1F4NVp6bkN2S1FK?oc=5",
+          "time": "08/25 21:00"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street drifts at the start of a week that could swing stocks and bonds",
-          "src": "The Killeen Daily Herald",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZkI2eGczMXg5dzJUUmlnMTFCTmg0S2lfNjhsWmlNUHRxUDFmdC01N1B1em4wUTN2NHJHVGNEc1JkaENpRmZBM1MwdDRQajNBd1czM3pOZ3B1Wi01ZzFad012MjM0TEdyWTRucEdKR0R4bVhyNWd1dmJra2FjcENQQnB6Z3lZaWtZaHd1b2pBNlQ5Z2czMFlPYmx1MDFDbXE0LW12YUJYWGZQOHRuSnl1OTE5YzlYczBKbHV3NDBkZllCcE96NUdIbHlvbE9wU0hlT2tsazFkZDFfNkZIcGNESEVsdVdmOGxWSFAyR1lB?oc=5",
-          "time": "08/25 05:15"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "US Stock Market Today: S&P 500 Futures Edge Lower As Inflation Jitters Linger",
+          "src": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekREdk9RYTJnTmhONmxsZFpVRXBPeVBUNXBEeWhDMlIyOWF5QWd5WElMOXJFZkM1OWEzQ3Y4Y1ROVjhOVDZYSDJwbWxZRjZSdGRUcVBheGVDcWExUHRyUVVHQnlRMDIxMVZTQS1ZdkVGeFhfVm44dkhMQVdhRElnWXJob3k3QXpPYVZ0NnVhSWF0cmthcEticjYta3M2VGJWclZ4NzJPT2FmVlFWTHBKMXdzVGJEaE14Wl83X9IBwgFBVV95cUxOeGtaa1VtckgtY3hnT1VuRFhpSUlKY0kwZzhwcE83QnhOSXdDVlJuR1JUNUtZckZDTWtmcVlpUjlPSUZQZkMyZDBPdDk4bF9ZQTE5REtza0RGcXlYRHozMU5GSWxsclBrWmVpWmJfMDQ3T01SN2xBMllwTGY1SkpHak1hOXdzR285OWY4MjVMdjJoZnd5SjI0NEV1bGFKYnp2enRaejJDbENRMEt4ZU1ieHh6dEhfSGx3UWIwYnFYd3lydw?oc=5",
+          "time": "08/25 17:37"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street drifts ahead of a big week that could swing stocks and bonds",
-          "src": "WDEF",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSm1Rc1hlQ0dzUnlYS043RHZMMmJySUgwd2FWVy1mQWl4NGZIbWxrazlQZko0LUlLSkFNYWU1TnIzSEt2VWE5QkZfVURiREJ1MlBzbnp6V0lJQlNhRFRCSDZvbU5ZYXZKWGU4UWZ0NmhKNkZZU1hkSmtwbEFRNmdpZHVMTi1fOUdNc2Y2WVUyZDVrdWNoR1dfZ2Fn?oc=5",
-          "time": "08/25 00:22"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Nvidia Stock Is a Screaming Buy Before Aug. 26, According to Wall Street",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3RBODdLMGhCWWgwaEEwV2swUF9NQlJGU05BQU1OTXZEUUM3eDVVRjlkWUhmSE9VMmVWbmlOT1c2aFRGOEE5c0xzNy1nZ25Mc3QtbGNSZ01KWGZWMnI1dDNZN016cTFER1hvbnI1UXNMWlZGUDZaZ0Y5eXMwaWdWNF8zWUQ3bk9fS08zWUVn?oc=5",
+          "time": "08/25 18:48"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Cross-Border Economic Damage Ahead For U.S. And Canada",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlpPSndta3NTZkp0dFZCQ3lEdjF3UE1UUmM0N1M4c2sza3JqLURyS0V6T2lBdFNKYm1hS1g1X21vZjV0alB6STBaSmRzREExVGZZRnRmeUlNdXVQR2RaWktrdnNzMks2SVdJaHNCaXdxMi0yWTFpdFh1VUFzdFBINzdfV0dnVWNlMEhubngxdzJwSjJSSTNPc3VR?oc=5",
-          "time": "08/24 20:30"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "US stock market today: Wall Street subdued ahead of key earnings; bond market in focus",
-          "src": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUGtvX2ZXaEJVaDZaT1dZOXJWOVJBcWhjcHl3TVBkR0oyc214M3pYc3poeHJWTWl5dTNmT1MxSnZ3NEdjZTJJUjJ1YkZwSEJlVkpHcDRtLV9POFo1NmFhb2YwU0VmaVdIVTVxYVVUT2pJZFUwWnFnaElUQlR5ekFka0dseE9tRVRlOFdzcUE1cW1IUGJPSUY5d1VlbmtjU1lEU2dwckZEVHBwNVd5aExaVkoxVUZsVlQ0LW1tWHBzUW80ekRMMXE3RnpuTk5MTW9JY2JoOFhsZGtfaFEyUGpLMnRjY2ZLRllDdkNJWk96bVpncVFMZl9jUkptb1pYV2k5VHZmeUdfZFllZjJ0NTk3R3ZYSUxxMmNhLUZkNGdGZWVfbWxGa0Z5ZVRrVFh1bkN6S2E1UVlwVWVJWW5vQ3dkTjh5REY1THQx0gHOAkFVX3lxTE9JRHFUOUhmOHFsVmJ4OXJCcjhCbDZOZWpqSDU5S2x2UVpDQWFqRWFtbWM0RDdSQmNnVTRVaERwb05iaTBGdzBpR1NNdndWa19PM2tmZlpFakR0N0pEQXlsV2JYRWZPQ1RBTmk2aTh6RmlwMmtNandrU2Z3dUFZMmJvamNPYmhBOFZUVTRGel9DNmpwQzhQRDhZNkFKZzNSclJfMGpYdE9tbjBoUzlGT0dmUnJmdlpXTG1SdmVqLTZCSzRwa3YtNk1GVkhEWHRDQVZLbUI4YmtSOUlwVVA0Y1dFeHlwTDZnaFZqVEw3RlVUbHVvLXZyNU9fRjhiaHBhRVpBSUxYRUx4YUpKclhRWE9mRWFYTWtJZzBER1AxOTRIQWJlR3d6N0VuOU05WFNIVGlpV3ZDYTNWZHdWbG9VQU9JeWV6QUNUWjRpTTM0YVE?oc=5",
-          "time": "08/24 23:19"
+          "t": "Wall Street is rotating out of 2026’s biggest winners: Chart of the Day",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVlrWEJmNEs2S0hydXJUMUNtN01XV29zSVExb0JHMkdhMGIwdWVERXB3T3BvNDQ2cnQ0My1CZHlfN0l5bTZhQ1hBWTNic05La1kwWTJ0elhIYnpQbEhfTmFqNWI3ZUVzbnJsVWhLOFpVc0w5dkstcVVSeWNHVFJzYVpMX21MVjViNjQ1QkxFdWtaUjhBSTR2a3pKNUFKQjFuNzdIZVhlUlUyU0QxYkROVkR6NDJ1SmRlMGRZSGpVaEZrRE1v?oc=5",
+          "time": "08/25 03:06"
         }
       ],
       "indices": [
