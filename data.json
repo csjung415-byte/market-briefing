@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-26T13:31:52Z",
+  "updated": "2026-08-27T02:59:15Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"오늘밤~내일 새벽 큰거 발표\" 숨죽인 주식시장…매수·매도 '멈칫' - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mUUZQVzM1ek1WOHo4TjdRNy14a2RyaGZYM2xNdndpWXctQmFaTFdKSWJIdFRObzRjVXZmTVpDaVp5bGNSNjFqRkR5d3FaZmQ3bW51T0J2SHhpWS1ob2VPSkI1Snc3dEpE0gFuQVVfeXFMTmdodFBlbUtiOWRuRGpZOXk5VnNxTktuekRkOUZ3TEdnRnh4V19BTHZ2UC1RT01rT0hfOXA4ZHRZMnJoMUVJMWNWMHNDek40a2tJR0k3Q1ZuX1hqZmg0X3daSmMxNFBxSU94blpkaGc?oc=5",
-          "time": "08/26 11:36"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "국장 계좌에 돈 녹는데 마침 환율도 ‘뚝’…“미장으로 안 갈 이유 있나?”",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UOS1EZ3FvT1R2Y1FBU2F5TGwxeGF6MTR6U1h2eUlxRFpYLUE0aEs2SXRpYVM2d3ViT0VjcW1wbGJSbXJLMXdDRERCSElpUnY5c1E?oc=5",
+          "time": "08/27 09:18"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“세계에서 가장 미친 증시”…외신이 본 한국 주식은 ‘공포의 놀이기구’",
-          "src": "주간조선",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqdmtjOEJheTB5QWdMM1VmNkNpc0pZczhoVlFrM0xJU1Z0T2RhTWVHbHFjbkRtc3EwaEJtZzd4Vk1wU2pEX1AyRzQzemZGN01qRGxjNGJucXo5c21fRmZaS1gwQjBkNG1EUkHSAW5BVV95cUxNMXp5ZGxCNWd1Q3l1ZUwyUnBSN2dXdHdnY3ppN2NndFZvQ1V5VjBRX2FZWlNBV0dQcmNQNi1MNTVBTzZZRFBraE1LZy1uTENFck5ESzQza3ZBbVpzWDlDdWN6OHF0c2dGdnRqV2h1dw?oc=5",
-          "time": "08/26 09:12"
+          "t": "‘안녕히 계세요, 여러분~’ 개미들 ‘원화 강세’ 타고 미장으로",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ETlk5TUR6SlJnSVIxcDBMTGRPNDA3aDM1dlhqaFBPbXpsNjZ3WHlSZzdsSUQ5T1B6MnMwam1kSnVmV1VCU3c?oc=5",
+          "time": "08/27 06:55"
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "순환매 확산, 코스피 2일 연속 상승",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uTGNEa2t5dDN1MmhFWkV0SV9EYTRmU1lhUlVxREJkd3kyTVBJYnRuVERxSms2eWViUHhqVUNoQjVnSWtHdnJ0am0zb2dTdWJjQzFwa3E3TFJFTE5kYUZFdXYxM1ZWdXFtRXhEdw?oc=5",
-          "time": "08/26 15:58"
+          "catn": "금리",
+          "t": "금리·유가 안정에 코스피 반등…6,800선 회복",
+          "src": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUFJhTjl1enlyaXg1eFZzdzdpbXpENmJ2NDZ0TmNnVzVoV1NvV04zSDJkdGUxc1JKUWVfUENBQS1OUkdEdVVoV1JYSHc0UWwxQk83NktCdVYwTmxuWkxpNFJyNnlBNDQ?oc=5",
+          "time": "08/26 23:18"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[0826마감체크] 코스피, 기관 매수에 6800선 회복... 코스닥은 약보합",
-          "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NM044dk81Vk8wTFltZ3VycjJ3Wk5qWG5oVmpPNlFYVHpsSUVfOThoRDE4Q1BXUVJXZWRYUmt0MHNZc21sbDI2cm1QQW1obnU1dG9WVXh1NFNGcDVNZ3ExOVNSNXBvU2U1eFd6TW4yYjJjVTNtbXc?oc=5",
-          "time": "08/26 17:00"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[증시-마감] 코스피, 기관 매수 속 6,800선 회복",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zemZCeldzbzNibDQ3em1mSnl1eGJrUk5CZnlBOElTNzYyT2Iydk1FUURQcEltcjlyUVpRcUk0RTRYZVNHNy1PanNZbWNpcUFQdFE5NnM3S1ZTMk8yXzdSV1RGUDNJem9lWnpvZlZiTzk?oc=5",
-          "time": "08/26 16:05"
+          "cat": "macro",
+          "catn": "금리",
+          "t": "한은, 금리인상 강수…코스피 싹 빠진다 vs 물가 잡아야 여론 보니",
+          "src": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scWV5cURFeWp4cEpUMml0c3k0WHE2QXBXUkRiYTVVOWxUM2VHSVlQaTlhYnVNcW4tY295Ti1qSEZUc3NvcmR2T3BIVjlIZXBUeTV3T21ENE9hZ9IBWEFVX3lxTFBEaWYxSjUzMGppTDZROUxudTgtVHBYOTNUYWFDWlpVbF9Da1BrUlF2endBeFZoV3BIZWFFLWhGak51b0k2WG9oZnFQUUVUZHVUeVhTeWIzWjM?oc=5",
+          "time": "08/27 10:46"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "엔비디아 실적 앞두고 관망..코스피 0.97% 상승 마감",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SkRueVhFR0VIbjJaR0NlZ2dIUXFYVVBwNmJLcERjOS1LaVlOUGZiX0U2b185Mml2c0hlcGszTkVmSTNrQW1MSFI1endpU1RJSkE?oc=5",
-          "time": "08/26 17:02"
+          "t": "코스피, 엔비디아 실적 호조에 2.15% 상승 출발",
+          "src": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xME83eDFQcVJWbi1ZU2ZNSGUxQkxoNXh5UVhQXy1BZGlBMlo3RjRPczJpR1M0TUVlTVVhQk5Bc0hlSmYxWG44a0l0MEtyQQ?oc=5",
+          "time": "08/27 09:57"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[주식시황]\"국장 답답하다\"…개미들 미국주식으로 갈아탔다",
+          "src": "남도일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQzFkeVFyR01jWXhKaTZPMjVZWXJQcWxyT2J5U2hMcFc1RzAtVUY1ZlFLZjNpbUprYVRwVEIwZ09LWDVEUFJkMXJvcXQ0T0ViYlhBQmU3RVEtY2hOdmhxN3BTbFRON05OZW9EUkVKSUfSAXBBVV95cUxQQUMxZHlRckdNY1l4Smk2TzI1WVlyUHFsck9ieVNoTHBXNUcwLVVGNWZRS2YzaW1Ka2FUcFRCMGdPS1g1RFBSZDFyb3F0NE9FYmJYQUJlN0VRLWNoTnZocTdwU2xUTjdOTmVvRFJFSklH?oc=5",
+          "time": "08/27 07:18"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6808.21,
-          "pct": 0.97
+          "value": 6946.98,
+          "pct": 2.04
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 826.87,
-          "pct": -0.03
+          "value": 834.15,
+          "pct": 0.88
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1384.89,
-          "pct": 0.3
+          "value": 1382.58,
+          "pct": 0.08
         }
       ]
     },
@@ -77,71 +77,71 @@
       "news": [
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street ends higher as tech rebounds before Nvidia results",
+          "catn": "실적",
+          "t": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
-          "time": "08/26 08:14"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "AI Demand's Big Test",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fQ2RqVjdsTVN2Y1NLQkRWR3J4NGhXMzJ5ZEZUU2NhbDU0cjkzRjl3WkVlZkZYV2V6TXlRN0hZaThNblh0VXZuTEJMM2Fsd3VobS0yM2pFNW92clBxeWp5TWRmNWQxRDhadDcwNw?oc=5",
-          "time": "08/26 20:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "INTU Stock Plummets After Q4 Results Leave Wall Street Divided: ‘Unsatisfying Growth’ Meets ‘Foundations Take Time’",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSDNtUVZsSGdmaExkUlhSbHppUUo0TjVEVVZmVnozRE9CaUNUNTBJUFZDelVCWFNmU3k4MVVrWUI2V1JJZTZBMU1DeEFMcy1hYm5tR3dRQl9OSHoyMW1ZQzQ4dU1TZzZvbUJBblBzQnlyajdtU1AxMnhraFJ4WlZWT2lKZkxwZTIyd0lCcmp0ZzhsTjV3OW1IaFdMOA?oc=5",
-          "time": "08/26 21:03"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street’s biggest optimist says ‘I wouldn’t jump into the AI trade right now’",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMG93NWJPMWFpbWdpUGJsczk5dmtIa3kyZGRFREwydEpNZ3MtTmlMZ25lSWlCNkt5WFk2OUpZV0lUckZ1RDkwYzBFcWNocm11ZmpkZHlRUVBzREoxU1JPVmxkTjBjTXh2Yy03eFNpWE45SjZlNXNQd2xqU2RJMU5xeTM2SHpKN3FLSXdJamg1UGRvbUdTUXh6dldDaXotcnoxVHhfczJIZ1c0dTQtTkxRWEJ6ZWVjQ1FET3lFQg?oc=5",
-          "time": "08/26 21:16"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
+          "time": "08/27 07:50"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "US Stock Market Today S&P 500 Futures Edge Higher As Earnings Focus Builds",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbW41Um5LY3ZaQ1QwNHFtQ1NxRkF6UWZXQ0U5WUNZMnRZNmE0cXBKX0NJMGpyNldJZk1TZmVGN1NQdGJsN0xtdGhiNVlDSU8zVUZZM3UzSzJGR0hhdTFhRDExVEs4UE9STkF2LXhNQ1hhb3pIU3BFclh1QlpTUzQ4OTVDRlU2aW54UTZkVVdWTi1FOU5IQlBDbmVodXN2OEhZZURLUzdxMXRBQkZ4UkRubFJqQXFYeklQMGhhVy1vbElmUFFLZHd3dXlFSWzSAdIBQVVfeXFMTmhVaDRmcF8zbEQxV3ZOZ1dRUUxqdXNhVURoa1FsR0xudHNBVVM5THpiU3ptaDlxYnRhbnBNSk9rTzFlQlZtRVRHbDhwODRsWVlub3FZTENLZjZmbmxpd25URjVuOUJndGFVbVFpOTVvakhOVlNWRVA1T3gyQ1VtQmFOT2psUm9Mc0o1NkQ1UmgwT3ozNkN0NE5ERE5RY1phZ0ZsVUEyMTRqUjZ2MUlGeVBxendoZWotV0tlZk1rMFFUalQ4SjBMeUhWSEgtQnZaVDFB?oc=5",
-          "time": "08/26 17:27"
+          "t": "Stock Market Today: Wall Street Retreats Slightly as Investors Await Nvidia Earnings",
+          "src": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmlXQ05DUFlzR0ZlVGdRUlFYUF9iSFlCZXl6T1FYazJ0X3BINEVpdldQWHR1cHpzVDBaUWJnMHJMOGxyQkdqTkRpUlhkOEh2QmlHSkhLZUlGcWR4eENFWUp3VDVwamJZWUhPbUNpX3BYZWdfZVlzWkg3UjYxdTlXTjNsTlpyNl94SkVaVjExcHlUajdYM0lDTFotSk01Q0hjLWZRS2V4S0l6bFJlZTFQRDVEVE4xVkVLU0tFV1c2VURDdVNMZXc?oc=5",
+          "time": "08/27 04:50"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street holds mostly steady following the latest update on inflation | National News | 2news.com",
+          "src": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1gzYk1tNUk5V2lPb1ZuUE5UUzIyZEJMWTFHZGpVekRkMWs3LW1ybFZoZlY2bDFGODNVbDQ4UGlCT0M0T054VU1aVHQ1R1VBajh4QjJDUlJEWERSMThDM09zZ1g2Vl9kOEl3ODF0Y0p2cHZSYW41QTlWMXZyU01TejRGQy1QWFlnNGw2VHNzSW5DRzNzMlZfZXB5ZEZYV3ZFQ0xiWm5KeXV1NlFGUk1uYUpkSUJ2WVI2LVRLcXNSODZEb0szQ3g3bDRhWjZCR3lmc3h6N2FReG4tbnNpbUptWm9FdkJTVG0yUmN2Sg?oc=5",
+          "time": "08/27 05:22"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street holds mostly steady following the latest update on inflation",
+          "src": "Beloit Daily News",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPazlPMmNldDVIR29paFItOFhBMzRxMXJmUHFQcW1ENDBtbEN6aEhQaUl2QXJUR0t2RU5DR2JvNlhTY2VLai1pWUJRU210b1pBZjI0WTY0Q0kxbDZTR0h6b0ZsMzE0aTdzU3UyUDJMVGlIaXVWNU80YU50Z3BvUzNwWmpRcFNnd3BGTDdVNjhnZ25ZNlcxSHZCWW14R2lsWVA5aUloQzBRMGt3SGxfTmRNcUx5Z3Jua05lNXpfcEdlN2ZRN1pFQlVUbEdESkJXUW5PUDQwT0RYWnlaU2NoNDdHelRaQ1NYUzltbHVoYVJIOGxUMmowSlVUb2gtVng5c3BCUThN?oc=5",
+          "time": "08/27 05:03"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Market Indexes Hold Flat as Wall Street Waits on Nvidia",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnFyQlZfSFlzOTlXTzZWQkQ3TDVzM3pEUnZSYW5MeDdyaTlHTjRKSm0tak0xYW5QOTdEUHRPZ2Q0ZlFSLTJFNWxEZ25ZXzBORy16SzlXTERvaElsSlpXQ2Y5V1AtLUdkNjlHUWRPaGdTdG9DZVZlcXJOMXVwak5hdV9oYlZPWG9UaW9XS1hfWnZuY1Uyc1ROdDZR?oc=5",
+          "time": "08/27 02:40"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Atlassian, Dick's Sporting Goods, EPAM Systems, GoDaddy, Intuit, Jersey Mike's Subs, JFrog, Lattice Semiconductor, and More",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNUldNM3lNbjhXU0JZQVRYc29EbWdKc0hqN3VMaGxadzNSV1NLOG9KOWE5OUt3RnVnYmZHOUs4MUxSMmNVMTBjdXJDS3JaaC1FbEFxeXo5OHN2UUxGaDRQVXdYbHcxdnlZZ1hDUVpuOUVQMjROZTd6VWpCVGpHNU9yNElscW16WDJLV1NrVHgyRHpRSnp6QTlMeWc1UE1IZDN0M19PbE5iV2VfTzUwd3QwUFNjMEFmOElfWTIxUGl3enZTc1loZFJXYncycnJpeXdzeDdBb3FaaklZVG5oZWhmZGJmQTNZSFNRcmtFMUsyWVpvOE1EWUIzd214c21Zczg2NjRTUkQwbk5fVGZjRk80eVdHSE8xRzNkMWVBMFVLcHowZFZHaUlqdkI0ckwtWnpROGxLRXpkTGpuSndm?oc=5",
-          "time": "08/26 20:52"
+          "t": "Has Wall Street Given Up On Oracle Stock Too Soon?",
+          "src": "Trefis",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxqbXNuQ3pSX0hFckFEX3ZZZVRJb2VuYXdTcjV5ZGVBQmRfTUFWU0FzMERCY0daSWJTQkxnS2s0U1E3Z2dhWTZzYWJpM0hSYUNxel9JdjcwRHRMb05JMnlMU0Q1Z0UtOWE5YjNReXBuZFN1QnNQUURxNGFLSVFpSFJjMldkdDRKR1hLSTlBbWhoX3VIdGJzdUg2NlpMcE5LdWcyZXZIWGNUR05HWEtV?oc=5",
+          "time": "08/27 05:13"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7671.05,
-          "pct": -0.08
+          "value": 7675.7,
+          "pct": -0.02
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26113.22,
-          "pct": -0.15
+          "value": 26130.2,
+          "pct": -0.08
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53478.31,
-          "pct": -0.18
+          "value": 53463.88,
+          "pct": -0.21
         }
       ]
     }
