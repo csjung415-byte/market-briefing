@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-27T22:27:16Z",
+  "updated": "2026-08-28T05:59:40Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "기아(000270)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblo1Skg0RU9fWlBYUEZpLVF2cmtaTGhNamh4TXFwZ0dQMUgyTlhGNXo5TjZSR0s3cVIzU3V0cnp2TzZUbWFqbm5HaVBsQjJzdEhTQ00yS2NKWk01TFU3WmJ2Y29LNGtSSkZybGtPWVN2MUo3N2d1bHROWkc5dk4wNGJkTFFWRkVwN3dnRDluUUJ4RzdCVWtZ?oc=5",
-          "time": "08/28 00:35"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55bWdwbFBkME90SHNIYUhyNEdzVk9qVlRMbHNOaUVjUVJTdDlpbFlYcjdlYVVjWFpCOURLVURnS05TOGFyN1BrZ1JaMkhGSVp2UjNmRWVQRUNwTDQ3R2FCRVkzbXlURUphYkdINXhlcEk?oc=5",
-          "time": "08/27 15:44"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "코스피 3연속 상승, 엔비디아 서프라이즈에 반도체·ESS 강세 (2026.08.27)",
-          "src": "네이버 프리미엄콘텐츠",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1N3cllZZ1hiWXdVa19WNUhRQVJ2aGdDSXhyVVhoeUc1Zk9pVFNBV0dMcFFNcEUwekpKcHhBSmluTFJ2VUZGV3dlbkMxbFJJMWd4aEJSNnhJOE1paWZ5MmptRUV3RE10cTJVcmhYQTB6WVp1YmJucTdEMzFKeVVHRDdoN2U2OTNWVHc?oc=5",
-          "time": "08/27 17:01"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "엔비디아 훈풍에 반도체 강세…코스피 상승 마감",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44ZDhVaS1uX2JzeWFYbFBNNThEbk1yQVVSeXUxQ2hHdEJHNVZIbGFLNW9jQnNrdThvVXNWRG1CMXlsV0d0SG1xSVJUVHRFM2NiOFdJOUlreFltdllJWFQ2M0EwdWMtU2pnUjlDRg?oc=5",
-          "time": "08/27 18:09"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[0827마감체크] 코스피, 엔비디아 훈풍에 6900선 회복… 금리인상에 상승폭 축소",
-          "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YTWZ2Z3RZaUlmelIzb2xyc0g1Z1Q3dG9UbUpaVlQwRWt4YUNvdWF6X0NOcC1PZ19KMjcwZHlKc1RwYkNfem5OWm1ISWdHUmFCcXhaZ0Y3dHd2VnFrajVzZkhOWGREdFBTSFBoLXNHV1FrVElW?oc=5",
-          "time": "08/27 17:20"
+          "t": "코스피, 1%대 하락세…삼전닉스 1~2%대↓",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iUUttUDI2VWlpY3g3RTNKazJtNFNBR0pfajdwaHZIYkhiZjV2ZnRITndmam42Nk56WDBZdGUxMlIwN3lnekxUS0lVUU5aWnBkeEJsYW1hLWRYUE1CVVhnd9IBYEFVX3lxTE9iUUttUDI2VWlpY3g3RTNKazJtNFNBR0pfajdwaHZIYkhiZjV2ZnRITndmam42Nk56WDBZdGUxMlIwN3lnekxUS0lVUU5aWnBkeEJsYW1hLWRYUE1CVVhndw?oc=5",
+          "time": "08/28 11:02"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "증시 출렁여도 주식 사는 개미…CMA 잔고 '5조' 빠졌다",
-          "src": "데일리안",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wbFNoTkp4M2YyOUhZNkVKQ2RqMkZBWnlEbk84OGI3dy1FYVRtMG9xZE8xeTVKaHpjSjNkeUx1azVuTzNEclFwSy1xSU9PVWs5RG1KelNyNA?oc=5",
-          "time": "08/28 07:01"
+          "t": "[개장시황] '엔비디아 훈풍' 하루 만에 꺾이나…코스피 0.7% 하락 출발",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XZVlMZ3FzWWJjOWU0ZHJpajRZVFFjSk5mTjVybHNjbGFUOVg5WmhEdmZVLXpvenlOT1dDYnVPc0kwczI2dkEyUVE3MURXZURnQjI0ZFp2WUNYbE5X?oc=5",
+          "time": "08/28 09:18"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[외국인 놀이터 코스피④] 빠지면 속수무책…'증시 방파제'가 없다",
+          "src": "ebn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pMnNyTDJhcXBzUW9pRGoxS3NMNEtHLXBHN0l0eHAwSHIyRWRHNDFGZWpxWGFNZFM5VHlTTUhFbmwtdGxpSFVVaFUtX2E2UTlvTml0blJWeUxXLXZXWUJPUmRFeThUQ2hL?oc=5",
+          "time": "08/28 13:24"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 외국인·기관 매도에 1%대 하락…반도체 대형주 약세",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tTWZqNW1LbW1WdnNpRDRONm1VQWU1cWFvV2paUnBlVloxVDN2NGc0SzZqd294X1g0dTFTVzNTMi1aV3lDSmx5akNBdHBrakVBM0RoR055V0F3bm1EaGlMUDhWZU55S0tISGNyOGhodlfSAXRBVV95cUxOMHBZUVdFdnJzaVRPVHZ1TU1pNV9oOUswaC1lZUR2VFNXSVNURDByeUwyNUFWSnNGSGx6enVqT0hvVE0zVnlBcVo1ZVQ3RUwyTmFKaWE4RFpCUzVzN2tOTjBhU1V3bVRIak9iSDVscWhaRG1OVw?oc=5",
+          "time": "08/28 11:57"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "아시아 증시 혼조, 워시 연설 앞두고 코스피지수 하락",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HazNYTE0tMVdJZ2U1a25vX1h3RFhuN0F6ZVdIbi1vcDlycXJRU0FHRjZzSlRKSF9vVmhqTVpVZlJkTTNCUGJlSXZqVXdKbk9Gd1lsZllRYmNmWFpCSkJvckVreU11UllYdXpTZ1VsNUg?oc=5",
+          "time": "08/28 12:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"삼전닉스 무너지면 어쩌려고\"…코스피 '빚투' 40% 삼켰다 [증시는 왜]",
+          "src": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00T0NkZ0J3R1M0S2xDMFNpcU1wdWQxV3llb3ViSWtMV1RnNHhrQTFQUU5rRFNCZDNxVXctWGlfd3VzbFZjQW44UnRUTUhsd01Ta2twendpRVJXdw?oc=5",
+          "time": "08/28 14:00"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6808.21,
-          "pct": 0.97
+          "value": 6787.82,
+          "pct": -1.8
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 826.87,
-          "pct": -0.03
+          "value": 835.8,
+          "pct": -0.22
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1381.01,
-          "pct": -0.18
+          "value": 1375.73,
+          "pct": -0.56
         }
       ]
     },
@@ -78,10 +78,18 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Tech Stocks Lead Wall Street After Nvidia, Salesforce and Others Say AI Is Creating Big Growth",
-          "src": "U.S. News & World Report",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcFVkaDFaUm1IbDI5dWFMTGcyZWlDRkRIX0RvTTA3NS1SbkxIZ3hENENqNDR3MFlsWk9VWWVkVE1aelhEMzYxdDZWZ24wWXNlZks5TFdNMWxnMTlXYURFZkdGUG1FM0JwcFBhWGN4STVucThpRGVYeTNxTVJfVjUxS0xvektEY0hLNmtHelhTTjllZHNxTEk1LVNlRU1PbmFMdzh3a0tQUFhseDBOdDZIVFlDRnZYUXZId3FUbFJMQzVSczlFVU00eHFrTQ?oc=5",
-          "time": "08/28 05:53"
+          "t": "Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth",
+          "src": "Northeast Mississippi Daily Journal",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRUZCank3OXFlTW9zdHJaNXNKTjJTcWZWeFQ2aFNWVldQWFc4N1NaRFQybXZsOXQzNklUUnBzLU0wbHdIOVBDa0ota1dZcDRJMENXZDh6Q3hCcUh1aW5ndUowbXR3YTFfVnhpOEp2b29sbTdOVFNFcS11SlQyeE5ab1VNSlRHeTRYdmF3Nl9KNjktbnhwZ05UTjNoem5HR0dfMnlESjdyNDFWTjlvSzlGb1NDbnVFMTk5RTdid19NNjFmaU1GQldiTElITXd2M0oyanlRTWpuYUU0Q2NUZzU3YWVRY3lvWnlXUG9hREMxYVpmOWVha0ROcXdrdDVhMXdhbmFsU3h3?oc=5",
+          "time": "08/28 08:38"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Why Is Wall Street Doubting Google Stock?",
+          "src": "Trefis",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUZSU1JJUTNhRHVRMUp6UWhFVUp3OVFkdWowTGJXRTVFUUdBTUgxU1BfaWlEMVRzR2Y1Q0hVN0xleHp4eldsNDZIcUl0bVR4RGNhX1VJVG9QSkJTTGQzSFNKOG1FQkZvWVJ4eG5nRFZmVXp0VXIxdExoT1R6bjl1OFJRdlVsd09hOWZzcVZaVDk0MkVhV3Y1VkhIZ0NubEhzdFdPRg?oc=5",
+          "time": "08/28 08:38"
         },
         {
           "cat": "macro",
@@ -94,34 +102,26 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "5 Things to Know Before the Stock Market Opens on Thursday",
-          "src": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEZMVXVvdnI3SlFnNHBTV19jTzBLTGxRVl9taHZ6UlNpSjFEVUI1NHpYdzRCOURjMlZReHVkQVZCOHdYaGR1Mnpzb2FleDlGN3Q3NTVyaHJNQWFZeGFUbU0wVG1FR0dyYU9kQ2NnOXhTNHJiYmJsMVh0V19BVWh2ay1CYzh1a0pvcXRQY3I3NUhwUUlzVkR4cENTMnJld3VOUzgzQmtwRGs1VWEtOTJYbw?oc=5",
-          "time": "08/27 21:06"
+          "t": "Asian Markets Track Wall Street Higher",
+          "src": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlFpN3dNcFpxeXBfX1FJMURUeDJ5NUtlV3N1RVBrXy1PaEg2dkxPOU1PTTZmRVBZQy1TVkl1ZjN6Tk84bWZ2UW0wWUhQM0NMQjYtdHhLN1o1Y3RUbnBReXFaaElaRFBYaGYyZnBhQy1HdWh3dVRZaU1CNkRCN1cyZA?oc=5",
+          "time": "08/28 12:26"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth",
-          "src": "Ottumwa Courier",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQOFg3YmRrTkhfSURLR25URUFHWGxLWEkyTjVoaW5sSEFieDRqeTU5eGVLUV9yQzdKTkN5UFlGT1VUU1NQV1lhRmMzZlVZdGdpVE1QSjd5UzZPeXgwbWVGSlpwX180RlBxcWN1YmViZVlkOEdRYzRHYTlvakJNS3EzMzJjQUNia0l6YWVHSFhUc1EtRHJ2UG95bDdsTmR3M05kVnN6VGNfTkEtdnlwYXhmZ1JJajJxYVR3cEpkV0NXMlFqenZSSVRDUnZNbHhrRTFVNm04d0EyZkljVTduMEVzbGRiTTROTVo1UXBFbkd6NVpPeG9ndkk5RXlkQ3ZxaUNWUnJpMnVSNmxzRzZBVHhhc28tVGM?oc=5",
-          "time": "08/28 05:33"
+          "t": "Wall St futures steady after Nvidia-led gains; Warsh’s Jackson Hole speech looms",
+          "src": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa3NuQ1hJMWVzRHZuQklVaVE4dlJkRlJhNngzOWFpcWFWMzJtcC00ZWlFLXNOYU81Qy1vcnV5bEhDdXRIZnNRMnpxME5jV25XVDVtNWc1S3U5RENXQmY3Rlg1S3laWnNxanFhTWtSeDc0dTNvUkc4d3llRUtRcUt0VXg5Qjl6VVR2WXVPMk9HU0I5QW0xamI5OEhaTTVnMEJBODFHbDJrM2RWQ24tTUNnOERYcW9JaHBFYm5BWFd2SnU4Ym9FZWdNZkJvODg0aUE?oc=5",
+          "time": "08/28 09:56"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "World shares are mostly lower after Wall St retreats following economic updates",
-          "src": "WOWK 13 News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzBMZFk2OTYwaTZ6bmY5a1ZaNzFYdzhZRnhBVHJkbURVX3R1cTZsVkF1cUpXd1lFNHFwZV9wQXdjaFRZRXQ1YlJSTHRibGtQSUNsTGoyQTNMRjc1cjU4QjdxYTd5NE9xVDJobERjczNuRGZjTG53RGU0V1AwSVlFTGZydGtsdG90bnllUmZXREdabUJDV1J6LWl0ck5ZZ0JYdVBlYTNyQWlYbHJOdTNZWVFSVEtMSEXSAbwBQVVfeXFMUHZhUGw1NjFtNzdGVVVqY0lEaTZkVFBJZmFfYlFya0RWRk1xME55LThxQ3dDOWJoWG00R1VoNXZLZDVPMGtONVZmdktLdUwxc013R0ljUzJmdUl3eEt0NVVTelQ1Y0NpeGdTYlZWUkl5S09jelBGSU9ZWkloT2haMlZ3UmduMU5TY1RZQXF3SHI1VlRYMmlLb3A3QV9PSlg5NmxpZWU2aUs2SDB0ekRlVFRvXzNncmNSei1yWVk?oc=5",
-          "time": "08/27 19:12"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Asian Stocks Set to Edge Lower Before Jackson Hole: Markets Wrap",
-          "src": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVFrV2JvVEJsSGFkQlBNdzc3c0JsMHBDUWo5ZG80RkY1c1ZmN1h2MGUybnB2Mk15eXBNWWRDSlFRWThYMnoxOGJxZ25VZ1RKZXI1N1NRNlhucDFZMTZMaDMxOEZES3cwV3MweEdXU1ZpZGJ3XzNIVGZpWHlCemExU0ozSWw2TGdIYUtvWHpKWXhVX2ctV3ZTTERhdUZkV0FfeUJOTEpLV3NxaUkwck41VjRXZw?oc=5",
-          "time": "08/28 07:08"
+          "t": "5 Things to Know Before the Stock Market Opens on Thursday",
+          "src": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEZMVXVvdnI3SlFnNHBTV19jTzBLTGxRVl9taHZ6UlNpSjFEVUI1NHpYdzRCOURjMlZReHVkQVZCOHdYaGR1Mnpzb2FleDlGN3Q3NTVyaHJNQWFZeGFUbU0wVG1FR0dyYU9kQ2NnOXhTNHJiYmJsMVh0V19BVWh2ay1CYzh1a0pvcXRQY3I3NUhwUUlzVkR4cENTMnJld3VOUzgzQmtwRGs1VWEtOTJYbw?oc=5",
+          "time": "08/27 21:06"
         }
       ],
       "indices": [
