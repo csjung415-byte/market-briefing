@@ -1,147 +1,147 @@
 {
-  "updated": "2026-08-28T05:59:40Z",
+  "updated": "2026-08-28T22:30:12Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 1%대 하락세…삼전닉스 1~2%대↓",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iUUttUDI2VWlpY3g3RTNKazJtNFNBR0pfajdwaHZIYkhiZjV2ZnRITndmam42Nk56WDBZdGUxMlIwN3lnekxUS0lVUU5aWnBkeEJsYW1hLWRYUE1CVVhnd9IBYEFVX3lxTE9iUUttUDI2VWlpY3g3RTNKazJtNFNBR0pfajdwaHZIYkhiZjV2ZnRITndmam42Nk56WDBZdGUxMlIwN3lnekxUS0lVUU5aWnBkeEJsYW1hLWRYUE1CVVhndw?oc=5",
-          "time": "08/28 11:02"
+          "t": "\"주식 팔아야 하나\"…오늘 밤 11시, 코스피 운명 가를 한마디",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hTExtREppc0YydXVkNzZJVzJ3djlFa2hMRHZpQXBxWFhPeldMUC1lYlMtVkM0QU5hNkNxQjdEczV4MXVOcnQwb0xuenFVb1FoOTNCd1AtS19Gdw?oc=5",
+          "time": "08/28 15:48"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[개장시황] '엔비디아 훈풍' 하루 만에 꺾이나…코스피 0.7% 하락 출발",
+          "t": "[마감시황] 코스피, 외인 2조원대 '팔자'에 1.8% 하락 마감",
           "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XZVlMZ3FzWWJjOWU0ZHJpajRZVFFjSk5mTjVybHNjbGFUOVg5WmhEdmZVLXpvenlOT1dDYnVPc0kwczI2dkEyUVE3MURXZURnQjI0ZFp2WUNYbE5X?oc=5",
-          "time": "08/28 09:18"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2WEJsenQzb2VSTkUzbTZ3Z0FNRkEtR0traFpPZ0RTcU1YMjRLdnAyZW9EVGhOWHFGR21Sb0tzMnlGZEM4WG5rUDJFT2U4ZmxjU1lYM1lVYVRzcnZZ?oc=5",
+          "time": "08/28 16:00"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[외국인 놀이터 코스피④] 빠지면 속수무책…'증시 방파제'가 없다",
-          "src": "ebn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pMnNyTDJhcXBzUW9pRGoxS3NMNEtHLXBHN0l0eHAwSHIyRWRHNDFGZWpxWGFNZFM5VHlTTUhFbmwtdGxpSFVVaFUtX2E2UTlvTml0blJWeUxXLXZXWUJPUmRFeThUQ2hL?oc=5",
-          "time": "08/28 13:24"
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[9월 자본시장 전망] ‘금리의 벽’에 부딪힌 코스피…주식 확산·채권 박스권",
+          "src": "경인방송 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOS0dWOElPOS1TUDJzQ0d0ZV9xU1ZsU1BFUzYtaENWUGVuczB2ODN5WHgwc3lrU3djWFpobHRMZW93VlA4WjAtRWdZU1Rqczh5MFlKcXViUHc1OHByOVhIMzFydkHSAWhBVV95cUxQb2lJQUhKUFBfbkN2UFVfa0VHTTUxRXRkMlFkbXlHMmNMZjVjUFlvbW9aLVYxN1A4dGw1Zm1PRFFMTmc0VlA4SnlJSUwzZzRIRERCQjRTUDh3UzlaSDY0RThHa0YzOXFRTw?oc=5",
+          "time": "08/28 14:27"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피, 외국인·기관 매도에 1%대 하락…반도체 대형주 약세",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "케이엠더블유(032500)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYW9BVzJuNFBVQl9xbGM2ZWlMcC1OeE1sUTZ1V2FySXEwS05lWFAtM3ZhX1JOaTRqei1BMUdZQl95aldxYl9aRnNGY25qY3oxd1JXaEMzamxPZlRuTWZuc2EzRnpfMnVVd1U0R0RleVAyTncxcklTVElvbzJJbkZrQ3lVS2RXc1hkM3hUd0YyUkxEUkhaRTRZ?oc=5",
+          "time": "08/29 00:08"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "반도체 투톱 급락에 코스피 1.79% 하락…6,800선 내줘",
           "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tTWZqNW1LbW1WdnNpRDRONm1VQWU1cWFvV2paUnBlVloxVDN2NGc0SzZqd294X1g0dTFTVzNTMi1aV3lDSmx5akNBdHBrakVBM0RoR055V0F3bm1EaGlMUDhWZU55S0tISGNyOGhodlfSAXRBVV95cUxOMHBZUVdFdnJzaVRPVHZ1TU1pNV9oOUswaC1lZUR2VFNXSVNURDByeUwyNUFWSnNGSGx6enVqT0hvVE0zVnlBcVo1ZVQ3RUwyTmFKaWE4RFpCUzVzN2tOTjBhU1V3bVRIak9iSDVscWhaRG1OVw?oc=5",
-          "time": "08/28 11:57"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10OFU1WGxURWFWbEVnQ1d1MGF3ZlAzRTZzeEFpajZMQ3lWYTdlYlptdmlDVm45RkNBcHMxeEYxcTlEa1dBWGR6MndVbTNOX2VKcGJXSXAxV2x6VlRieDJhWmdyM0xWY19NYVpGWnczZTHSAXRBVV95cUxNeURfbm5XU0dVYVY1RHlTQzM4ZjBsX0Y4WUZZN1pmczAtbUd2WmNmTDhSc2dKNWNxZElQN08yZVRoa1hhdGUwSjBKOC1lZlRqV1Rvcm5SWlhOTjNPLWZyQVVWQ3Z1QzRYaEt5bElheW81eGE5Wg?oc=5",
+          "time": "08/28 16:14"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "아시아 증시 혼조, 워시 연설 앞두고 코스피지수 하락",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HazNYTE0tMVdJZ2U1a25vX1h3RFhuN0F6ZVdIbi1vcDlycXJRU0FHRjZzSlRKSF9vVmhqTVpVZlJkTTNCUGJlSXZqVXdKbk9Gd1lsZllRYmNmWFpCSkJvckVreU11UllYdXpTZ1VsNUg?oc=5",
-          "time": "08/28 12:20"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"삼전닉스 무너지면 어쩌려고\"…코스피 '빚투' 40% 삼켰다 [증시는 왜]",
-          "src": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00T0NkZ0J3R1M0S2xDMFNpcU1wdWQxV3llb3ViSWtMV1RnNHhrQTFQUU5rRFNCZDNxVXctWGlfd3VzbFZjQW44UnRUTUhsd01Ta2twendpRVJXdw?oc=5",
-          "time": "08/28 14:00"
+          "t": "[0828마감체크] 코스피, 삼전닉스 급락에 6800선 하회",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRdGxHdGJNdVZMMmRCbG1ZcmhuWEpBYk1aTWNBSWs0clUzZXVKSWRoYTFuMlFJUjVHdUw2Uk9UQzZwSHM0eURTVnZmSjcxajFiRUx1ZGVoZWdqZUZ1eXpnaTl3XzVqNVF3ZGo5blRkXzd1TjJKSmc?oc=5",
+          "time": "08/28 17:21"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6787.82,
-          "pct": -1.8
+          "value": 6912.37,
+          "pct": 1.53
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 835.8,
-          "pct": -0.22
+          "value": 837.65,
+          "pct": 1.3
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1375.73,
-          "pct": -0.56
+          "value": 1375.67,
+          "pct": -0.57
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth",
-          "src": "Northeast Mississippi Daily Journal",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRUZCank3OXFlTW9zdHJaNXNKTjJTcWZWeFQ2aFNWVldQWFc4N1NaRFQybXZsOXQzNklUUnBzLU0wbHdIOVBDa0ota1dZcDRJMENXZDh6Q3hCcUh1aW5ndUowbXR3YTFfVnhpOEp2b29sbTdOVFNFcS11SlQyeE5ab1VNSlRHeTRYdmF3Nl9KNjktbnhwZ05UTjNoem5HR0dfMnlESjdyNDFWTjlvSzlGb1NDbnVFMTk5RTdid19NNjFmaU1GQldiTElITXd2M0oyanlRTWpuYUU0Q2NUZzU3YWVRY3lvWnlXUG9hREMxYVpmOWVha0ROcXdrdDVhMXdhbmFsU3h3?oc=5",
-          "time": "08/28 08:38"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Why Is Wall Street Doubting Google Stock?",
-          "src": "Trefis",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUZSU1JJUTNhRHVRMUp6UWhFVUp3OVFkdWowTGJXRTVFUUdBTUgxU1BfaWlEMVRzR2Y1Q0hVN0xleHp4eldsNDZIcUl0bVR4RGNhX1VJVG9QSkJTTGQzSFNKOG1FQkZvWVJ4eG5nRFZmVXp0VXIxdExoT1R6bjl1OFJRdlVsd09hOWZzcVZaVDk0MkVhV3Y1VkhIZ0NubEhzdFdPRg?oc=5",
-          "time": "08/28 08:38"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5",
+          "time": "08/29 05:22"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Ditching SpaceX Didn’t Help You Beat the Market",
+          "t": "The Stock Market Is Doing Something Last Observed More Than 25 Years Ago. Here's What History Says Is Coming Next for Wall Street.",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVDZrb2V0MVRtdkNZRHBybUhkNGtDQkItLTVKdHpmWnd6Qmx6Uy1seXFCcGFzd19BT0ZlYUVNQUhJNFh6cUZMVHdDZzlSUjgxanFvYW9MR1BiTU51Q0tNRHdZUHNtd2FpS0g1eldacWxoS3J1V2xRT2ROX2RQdmhubnM1b2M3WGd0RldfVTY5cXFrc0JadVRhVA?oc=5",
+          "time": "08/28 23:45"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Stock Market Today: Warsh Comments Boost Rate-Hike Bets as Wall Street Trades Choppily",
+          "src": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWZfZjdNaHhjZ0dSX0otZzZSRDNMNUN5czZBTnFIWTNNLUptRGRVNERsMEhlWHUyNEREcWpoeG81ejFZcko1TEE2RXpJUUJsb21kZjF3SFI0MHNqQTc4TnU1RHFsUURqX1RQdU1jRVg0cm1SUmtDWGtkaHppOXdaS3lQUUZ5U3pXM0lLZXczRmZTUUNBRHR1ZExDeEZ1RTFBWTNLT2tneUs2X1lGeUxfVFlnT2VLdUxVVjlqNktJWlplSnNFLU5QRg?oc=5",
+          "time": "08/29 03:15"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "The bond market prepares for a hike to interest rates, while US stocks drift lower",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzIxdGhkemdDdDYyNVZYWHU0X2ZPRVlOaDlfTmgzVFhvbi00ekQ4VG1ocFJ0Y0NlVzFVTWhyTEo1dlZEenZwMVU3STh6c0VLbF9raUZCenNpOFM0emZxa3JZQmFlaFd3NExvbkJmLWI5YU5ncGNBMS1UTkotMi1OVFVSQ0w0SXc?oc=5",
+          "time": "08/29 03:52"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Apple Is Handing Its New CEO the Keys Right Before Wall Street's Toughest Month",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaTlJd2FldjRtcHhLT3huMmExNm9ZemRBLVRkR05NbHR6UzNBWUtsVUw3a2VpV09Ra3BUNHBUci1VY1luVnFsRTF2Y1RzdUx6UUxXU1FrNVRwd3h5TW4xR3dfcjV0SllaS2dBSWlTOVpIanVaRWh0T3RpRmVOY1VqR2pCRXZfZ3pield4elZnZ0RWRDMxX1Zr?oc=5",
+          "time": "08/29 02:09"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "What a 125-Year-Old Bull Market Says About Today’s Trading Craze",
           "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSnRMTHA3aHhqZDNsQUZRZFVlWlYxb1VJY3V0NmNoc2FGNFZPeVRLZXRUbDcxbXk4Wk1RSnJxZmlVZ29PUDRDWkczcFVBaVdKZXVHUmIyTjBOV2NZdEwxR09rMzZRdFpnOER4bVdMV05OdmF6VkliOGpBSF9qbXNtYzN4bHdFRHAwb184amxGeDBkYWZQ?oc=5",
-          "time": "08/28 00:48"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Asian Markets Track Wall Street Higher",
-          "src": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlFpN3dNcFpxeXBfX1FJMURUeDJ5NUtlV3N1RVBrXy1PaEg2dkxPOU1PTTZmRVBZQy1TVkl1ZjN6Tk84bWZ2UW0wWUhQM0NMQjYtdHhLN1o1Y3RUbnBReXFaaElaRFBYaGYyZnBhQy1HdWh3dVRZaU1CNkRCN1cyZA?oc=5",
-          "time": "08/28 12:26"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall St futures steady after Nvidia-led gains; Warsh’s Jackson Hole speech looms",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa3NuQ1hJMWVzRHZuQklVaVE4dlJkRlJhNngzOWFpcWFWMzJtcC00ZWlFLXNOYU81Qy1vcnV5bEhDdXRIZnNRMnpxME5jV25XVDVtNWc1S3U5RENXQmY3Rlg1S3laWnNxanFhTWtSeDc0dTNvUkc4d3llRUtRcUt0VXg5Qjl6VVR2WXVPMk9HU0I5QW0xamI5OEhaTTVnMEJBODFHbDJrM2RWQ24tTUNnOERYcW9JaHBFYm5BWFd2SnU4Ym9FZWdNZkJvODg0aUE?oc=5",
-          "time": "08/28 09:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "5 Things to Know Before the Stock Market Opens on Thursday",
-          "src": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEZMVXVvdnI3SlFnNHBTV19jTzBLTGxRVl9taHZ6UlNpSjFEVUI1NHpYdzRCOURjMlZReHVkQVZCOHdYaGR1Mnpzb2FleDlGN3Q3NTVyaHJNQWFZeGFUbU0wVG1FR0dyYU9kQ2NnOXhTNHJiYmJsMVh0V19BVWh2ay1CYzh1a0pvcXRQY3I3NUhwUUlzVkR4cENTMnJld3VOUzgzQmtwRGs1VWEtOTJYbw?oc=5",
-          "time": "08/27 21:06"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjhTMFl1MVFtQXBmWkhhNF9CZGxLUmUtb2ZvdHVkeUpYUzJuUUxNVG4yTUZZS2pJTXJjZkYzR09NTkFoT2NIUWJHODJqaTBpX2VPZjBHd0l0WnlCZFZLUWx5YnU0M3NGQmFIZ0tMYUpsLU5scXQ2RVJvOWJ0N2xUblpwaXNoSHB4X0FPWmlsemdMd2JJaHlEaHpCMzAzRHpZYkFCSkQxUmhtS1ZnZThN?oc=5",
+          "time": "08/28 22:00"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7730.99,
-          "pct": 0.72
+          "value": 7711.76,
+          "pct": -0.25
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26541.35,
-          "pct": 1.57
+          "value": 26402.42,
+          "pct": -0.52
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53569.44,
-          "pct": 0.2
+          "value": 53559.99,
+          "pct": -0.02
         }
       ]
     }
