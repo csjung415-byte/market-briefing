@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T22:30:12Z",
+  "updated": "2026-08-29T03:33:07Z",
   "markets": {
     "kr": {
       "news": [
@@ -14,18 +14,18 @@
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "코스피 흔들리자 일주일 새 2.6조 몰린 ‘방어형 ETF’",
+          "src": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Rm50eDVjMHFLOEJRUmFiNkNudUpMbWx2Zl9GQXJhQ1VtVjhhMzBPNF9nUnpFTmxkM252SzB4YUZtekxWTUpmem80LXE2aDFvMl83R0l1NUFGQQ?oc=5",
+          "time": "08/29 10:25"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "[마감시황] 코스피, 외인 2조원대 '팔자'에 1.8% 하락 마감",
           "src": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2WEJsenQzb2VSTkUzbTZ3Z0FNRkEtR0traFpPZ0RTcU1YMjRLdnAyZW9EVGhOWHFGR21Sb0tzMnlGZEM4WG5rUDJFT2U4ZmxjU1lYM1lVYVRzcnZZ?oc=5",
           "time": "08/28 16:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[9월 자본시장 전망] ‘금리의 벽’에 부딪힌 코스피…주식 확산·채권 박스권",
-          "src": "경인방송 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOS0dWOElPOS1TUDJzQ0d0ZV9xU1ZsU1BFUzYtaENWUGVuczB2ODN5WHgwc3lrU3djWFpobHRMZW93VlA4WjAtRWdZU1Rqczh5MFlKcXViUHc1OHByOVhIMzFydkHSAWhBVV95cUxQb2lJQUhKUFBfbkN2UFVfa0VHTTUxRXRkMlFkbXlHMmNMZjVjUFlvbW9aLVYxN1A4dGw1Zm1PRFFMTmc0VlA4SnlJSUwzZzRIRERCQjRTUDh3UzlaSDY0RThHa0YzOXFRTw?oc=5",
-          "time": "08/28 14:27"
         },
         {
           "cat": "macro",
@@ -36,12 +36,12 @@
           "time": "08/29 00:08"
         },
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "반도체 투톱 급락에 코스피 1.79% 하락…6,800선 내줘",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10OFU1WGxURWFWbEVnQ1d1MGF3ZlAzRTZzeEFpajZMQ3lWYTdlYlptdmlDVm45RkNBcHMxeEYxcTlEa1dBWGR6MndVbTNOX2VKcGJXSXAxV2x6VlRieDJhWmdyM0xWY19NYVpGWnczZTHSAXRBVV95cUxNeURfbm5XU0dVYVY1RHlTQzM4ZjBsX0Y4WUZZN1pmczAtbUd2WmNmTDhSc2dKNWNxZElQN08yZVRoa1hhdGUwSjBKOC1lZlRqV1Rvcm5SWlhOTjNPLWZyQVVWQ3Z1QzRYaEt5bElheW81eGE5Wg?oc=5",
-          "time": "08/28 16:14"
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[9월 자본시장 전망] ‘금리의 벽’에 부딪힌 코스피…주식 확산·채권 박스권",
+          "src": "경인방송 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOS0dWOElPOS1TUDJzQ0d0ZV9xU1ZsU1BFUzYtaENWUGVuczB2ODN5WHgwc3lrU3djWFpobHRMZW93VlA4WjAtRWdZU1Rqczh5MFlKcXViUHc1OHByOVhIMzFydkHSAWhBVV95cUxQb2lJQUhKUFBfbkN2UFVfa0VHTTUxRXRkMlFkbXlHMmNMZjVjUFlvbW9aLVYxN1A4dGw1Zm1PRFFMTmc0VlA4SnlJSUwzZzRIRERCQjRTUDh3UzlaSDY0RThHa0YzOXFRTw?oc=5",
+          "time": "08/28 14:27"
         },
         {
           "cat": "macro",
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1375.67,
-          "pct": -0.57
+          "value": 1371.5,
+          "pct": -0.65
         }
       ]
     },
@@ -78,10 +78,10 @@
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally",
+          "t": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5",
-          "time": "08/29 05:22"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
+          "time": "08/29 08:21"
         },
         {
           "cat": "macro",
@@ -103,9 +103,9 @@
           "cat": "macro",
           "catn": "연준",
           "t": "The bond market prepares for a hike to interest rates, while US stocks drift lower",
-          "src": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZzIxdGhkemdDdDYyNVZYWHU0X2ZPRVlOaDlfTmgzVFhvbi00ekQ4VG1ocFJ0Y0NlVzFVTWhyTEo1dlZEenZwMVU3STh6c0VLbF9raUZCenNpOFM0emZxa3JZQmFlaFd3NExvbkJmLWI5YU5ncGNBMS1UTkotMi1OVFVSQ0w0SXc?oc=5",
-          "time": "08/29 03:52"
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONkpDM0hLVmtPYlBKb2lodmZCV3NRZmdfR1VnT2JOQUgxN1ZFNkNsWnZnM1FWVkU2WGxHd0J3anFpcDJBN2FkVTVVOEZ0RUR3SDZxcHZqaW1MaXdMeS1WbU9XVkpfdXVaUHZWYWoxM3dHZlk3bG5tWEdtNE1sdUotNkVaT0EzZU1TeFhrZ0x5Q1hJcVRoVjFHeEk4N1Bpc1lFcDNPTWp2M0tsaHZpSFkzWC1DUUpINFVjNDAwN3U3TFVfV2hBWUlycVIzTm94OFZ0cW1OVGp4ZG9TT2VFUklMSThaMTRMTzkzSTRobU1INndUUHNkX1FHUFFZbldIVnJTMGZBUk9Idw?oc=5",
+          "time": "08/29 04:57"
         },
         {
           "cat": "earn",
@@ -121,16 +121,10 @@
           "t": "What a 125-Year-Old Bull Market Says About Today’s Trading Craze",
           "src": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjhTMFl1MVFtQXBmWkhhNF9CZGxLUmUtb2ZvdHVkeUpYUzJuUUxNVG4yTUZZS2pJTXJjZkYzR09NTkFoT2NIUWJHODJqaTBpX2VPZjBHd0l0WnlCZFZLUWx5YnU0M3NGQmFIZ0tMYUpsLU5scXQ2RVJvOWJ0N2xUblpwaXNoSHB4X0FPWmlsemdMd2JJaHlEaHpCMzAzRHpZYkFCSkQxUmhtS1ZnZThN?oc=5",
-          "time": "08/28 22:00"
+          "time": "08/28 22:01"
         }
       ],
       "indices": [
-        {
-          "name": "S&P 500",
-          "code": "US500",
-          "value": 7711.76,
-          "pct": -0.25
-        },
         {
           "name": "나스닥",
           "code": "NASDAQ",
