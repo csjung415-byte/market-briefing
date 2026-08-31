@@ -1,8 +1,16 @@
 {
-  "updated": "2026-08-30T16:52:02Z",
+  "updated": "2026-08-31T00:15:23Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[서학개미 브리핑] 박스권 갇힌 코스피…개인투자자, 해외 증시로 발길",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92a3FjeEhRbkhUc2V2QW01WlZVUmU3ZVlJekhmZVc5bkZKWnRtLVUxNEdFWWNiU1BId2JGMGZSNVVGcFM2azFpMGxXX20zcU0?oc=5",
+          "time": "08/31 07:28"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -12,44 +20,36 @@
           "time": "08/30 18:33"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "개인, 두 달간 미국 주식 10조 순매수…코스피보다 더 샀다",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“코스피, 최악은 지났는데…” 8820조 굴리는 美금융사의 조언",
+          "src": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdVpkbGZjTTd5QkY5WklZUjRoR3EyWjNmODZpMEp1dGZ6cTdhM1Z1ZjVacTU1OExvbzFzUDYwY3Q2NWJnSnVSTXBCRFItN2JFZEVpY21R?oc=5",
+          "time": "08/31 05:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[코스피·코스닥 전 거래일(28일) 주요공시]",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45X3RsUnhrN2pSOHlHd2FzZWpmYVRVYzJBR3VhdTB4V1J0UFpXTzYwUVFxdF9keUNTaFpTSm5fVmppOG1nZHVjR3ZHYVNCTXQxTVE?oc=5",
-          "time": "08/30 11:04"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40X05LTVplVUk4T2ExRTRaYl95Z1dNU3daaUF1VWhudmg0YVVCTjByNzlONm4tc1FUbTJ3dDc5YVFWVUVRSmFwSEo1NWlQWnFSSUE?oc=5",
+          "time": "08/31 06:05"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "개인, 두 달간 미국 주식 10조 원 순매수…코스피보다 더 샀다",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDUl9NNVYzLVN0TWJHWlNRdXRoRllDYU1wdUlPcjRZdWhGTkhXVXEteHFLTUVud3E2U1h6eDJJeTdtVE84VFE?oc=5",
-          "time": "08/30 09:27"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"다시 미장으로\"…개인 투자자, 두 달간 美 주식 10조 매수",
-          "src": "KBC광주방송",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMkNMWXhseU1JMnhLMmZFSmFnTndaZUhTRGpPNHREU1FXRWVpdEZ6REk4UmYzMWFDdEhIT3RpUVFBZWdsajBxTUktZ1htc3FadVIxMld0YnN2Y2R6Yi1mSw?oc=5",
-          "time": "08/30 07:59"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "\"9월 코스피 6,600~8,000 전망…반도체 자사주 매입이 하단 지지\"",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lV1JNNnYxRkJzRUxNRjcwekFQSEkyMEFGLW15QXJTMmI3TmFubV9wZ3B6SUtvTEJPUHhtNUN5UlBLS3l0bHFjSmlSVnNnU2daM2EyV29qTzNhZ1FTQTJPQTBGclc4RW1EYnlwSElMNHU5Zw?oc=5",
+          "time": "08/31 08:53"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "국내 증시 복귀했던 ‘서학개미’ 다시 미국 증시행",
-          "src": "부산일보",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DVndDd2RzQjhmN2VWYjJOMUwwSWhfUzAzVnAwckx1T1hGUGdSWFhqUkhBRF9BYTZqNmtYRlZxZ3k5Ml8tRlpZUVZ0WVJRVUMzRUNFY2RwdDZveGFyVkV3b1pUbzdzdU11WVF3bmVuWDAtT2FOMGlfZw?oc=5",
-          "time": "08/30 18:13"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 7천 선 못 넘자…개인, 두 달간 美주식 10조 순매수",
-          "src": "노컷뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40MFJMRHppNV9OZE5oWjQ4Y3VYWUpwREdxeVI4Z1pwcm81VWNIZzlXMGZnR3VkaFV4MjRqMFpreTBScF9jeV9XVFdORjVoUnoxNmc?oc=5",
-          "time": "08/30 10:25"
+          "t": "잠잠해진 ‘롤러코스피’…개인자금 10조원 미국행",
+          "src": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5NnJxYVRRWHdrTjZyd25rVUtZODdSNG13eHlhUnlZUWNQV2ZyREFsOU50UGczMkVtWWpCZzRiS2lMY2ktNWRsb1VYSjA0VVNWM2lKOHpvYUs3QQ?oc=5",
+          "time": "08/31 03:20"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1375.67,
-          "pct": -0.35
+          "value": 1377.69,
+          "pct": -0.2
         }
       ]
     },
@@ -86,42 +86,42 @@
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "Ripple Is Now Brokering Wall Street Equities. Where Does XRP Fit?",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnE3SEFqczNZQ2xRaVVCOEJnMnd4RFlpVW0zOHFUcmhWaFNQZWFraUJQOUxCQlFtcWFUSk13VG90MlEwSkNDd3lvMElpYzNsOHMyRWJ5RjVCczNZd05fckx4NTVfNy1nTmtMX1ZvZWFvR2FOb01tbDBfbXZTdDgwQWFXRzRBVXdEbElBTmFPX18tVDgzQWJwTGdqZmpsNzVEMDNtSkVmbkkzQ0FYMGJHY0xYOFF6a3lMaUJVaHJBNA?oc=5",
+          "time": "08/31 08:07"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "Wall Street Week Ahead",
           "src": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EZWs5WUl6STU5cEhRYnlJLXRYUHlScFhpU1FKNTZyWUVMQThDV096NmI4TENnMm11S2U3ZEJRWURaakxOUlVieEgweWNoVTVWb2o3T2tUUHZXU05heWJFWUpqcFlnN2Q3UXh0MVNHYkg?oc=5",
           "time": "08/30 18:58"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "The S&P 500 Keeps Hitting Highs - But It's Just Microsoft and Nvidia Carrying the Entire Market",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMk55aVQyOGl4NG9VM1d0d0dOb0hGcWViZEhEMEJObHlwWTZQazc4ZnNMdXBaMnFsdHlnbnY3b2JBX29UR182eDJBQ29hb0x2a25XU2MwNGNKY3g4eTROclpFMm05aFpnV0wyZ09WVXoxUWlsMzN4NVNjSnY0R291WEdXQzlsTjFXYWFGUk1vb01hNDN2cWM3RGt0ZUdOc1FJdk4zdnpGdWxsT1RpQUNLeTBMaU5Vd1B3MlQ5RVlQbVV4aC1FY2tHT2dxVkdqYjNK?oc=5",
-          "time": "08/30 23:55"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
+          "src": "Japan Today",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1BxYU1NcEtrZmpXS2lKaGNXdEpWZ193aXpJVVlwYzhGZW9WRDcteDVNNzVMTTVJeXhnOTJ6cUN2d0NEX3F6NndQcWR6ZEhoejItckFZQkstZTBvaEZWQTFzQzhMNnZ5QWxSeU1TVUxfLXMzRTItOTJud0NFVWs3WjZYaGwwRHcyN1NCZkZ1OEt2ZWNZT28zZjZGRGczUjlkSmNWR3RXQVJZbV9vQlhWUkx0dGswbDR0QTJOeU40OVAyaURfRFdsQlBXMWhNVDlF?oc=5",
+          "time": "08/31 05:15"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Top Wall Street analysts suggest these 3 dividend stocks for consistent income",
-          "src": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbi04UGhRYjR2V0RKOUFGYUVYRVFPNHo3Ulp6OEtOeWJ3YmJfcmd6TWd2VjdQRGh1LUkzWjB3b2JTczlqSnhZVkFwOGtQSmYyTWo1NGFuU0xBNklaR2JmaHB5amhxYks5YnRHLVo3M0l1aUk2b19nYXhIU0FxS2NNczRRTktwalZTRVhQODhFeVVkY2VIYTJCaWNmNDQ5cGJpVWhV0gGoAUFVX3lxTE42aHRkWWZ1WTRMTXVUN1VmNC10SUZ5SjcwUlRqOVNXSVhubzVfYW11ZlBELTRkS0xiM2Q4QWUyS28zY3Q1S2k2Q1Buc0Rqd1JrVUZQNW82ZHhCUkRZdGlyZy1xZlJVQkZmQ19HZ0hWSUpHeFBFb0pxUXhMc3ZCUU5YTHBkU1FrNHg1VjcxY2dKVWhpdkE1bE9sQnF5eHhBYmNXZ2JmX2Y3bQ?oc=5",
-          "time": "08/30 19:42"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
-          "src": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRk92Y2lJdnNyV3ZFSk1WUVRZRk00bEFIbW42Ukk4X0N4eU9uSWdPaXByOXdNMTg1U2pDS0QwVVpaMm95UnZFUkZiRmYxd3JzVGJyemVad1h3U0tHOXNVYVZNb2FvTXNvVDVhaXJybE5tbVc5NHIxZU1RZ0k3ZWZzRzlKZWwyd3FQM3FTcTJldWxuUXU0eGRmMWNveFFWUXY5ZTJyZ3FSUTI2aW5Qa0E?oc=5",
-          "time": "08/30 23:45"
+          "t": "SpaceX Stock Gets A Chorus Of Buys From Wall Street — But Why One Analyst Sees Downside",
+          "src": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1lpVXdhUGk2OS1SN3FqSDBOSjdhVHZkM3pzSHF4aW9hUWpzTlFlRWpzRjYyUDBtc1p1RTRONkhfNTh1R1dGRlNQZ2g3VG1pTHA0c255RVdueWJYS2RWR3NQaVY4bW5ybGpWajJsSGRja3cwZzFhU2NMT2pWR3VxQWRMZkJ3ZjZyemdSb01VMHBHUnk1cl91UDRFdUZIVVBMeEhsVlJXSlh3ZDlrV0E1MEs5VEtHT1R4TEl2c25haW8xaTFQSzRPT1B6aUZBd1NIbVgzNVV6UzUtYlp2YXc?oc=5",
+          "time": "08/30 21:20"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street’s summer calm is colliding with the year’s most volatile stretch: Chart of the Day",
+          "t": "2 ‘Perfect 10’ Stocks Wall Street Is Betting On",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU09fOEhJUWUtTXQ5M3FlSWJJcWRBc2IyeFlqbE1sUUdJeWhDTTNucjhmLTdzNTIzQ0FwU0FieEtWMUtHVzJ2U3o0TkRLNVFNR3U5WElteldaNnpGRUVjMVBSc05LWHUxR2h6NUJsN1VpOUltcndmMUxnbzRodjJsQlphQkNJUW0zbW9HaVhubE9XbWRmVGxMRmt1YWlDazc2Yy1HTFpwNGp1Umk2aXJLZWI0Vlc0Z1V6WkFKRjhyNzYwLW13VXNfWVAtSUVKb3RQcTR2RkJKOFZNdGNidkZvdEtB?oc=5",
-          "time": "08/30 20:49"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHhhVlVUWjZzdjIyX29tS1pnX1dyR2tyellTYS1GX1FTZ1Y3RHZUSFVtNUZtMEtPRjBDQlFxanQwcE81VmY2THFsUjFRekRGU2hTOFptZ0ZKenlicWRnLTZTbDJkbF9TazdEOXBfbWZlR0ZZTHA1akF0ZmxUMXZqa0g5ZGt5TTFPR251dURreVVSVGs?oc=5",
+          "time": "08/31 03:00"
         }
       ],
       "indices": [
