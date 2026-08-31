@@ -1,75 +1,75 @@
 {
-  "updated": "2026-08-31T00:15:23Z",
+  "updated": "2026-08-31T19:10:29Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[서학개미 브리핑] 박스권 갇힌 코스피…개인투자자, 해외 증시로 발길",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92a3FjeEhRbkhUc2V2QW01WlZVUmU3ZVlJekhmZVc5bkZKWnRtLVUxNEdFWWNiU1BId2JGMGZSNVVGcFM2azFpMGxXX20zcU0?oc=5",
-          "time": "08/31 07:28"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "‘국장 탈출’ 개미 자금 10조원 美증시로 쏠렸다",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVFZ6cnJwekhxVzZhUS1feWdxamtTd011QTRXS253X3dham9oSnNNUnNzVGZhN2hCRUQ5MjZYQXBqdHgzZGJqNkhWUTdReEM3R3RqLVpDYjd4WklXWTlFa0xNRWVsMm5abXJwcnVRNEg5NkJfM3RpQVh3eGRWdWRRVQ?oc=5",
-          "time": "08/30 18:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“코스피, 최악은 지났는데…” 8820조 굴리는 美금융사의 조언",
-          "src": "중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tdVpkbGZjTTd5QkY5WklZUjRoR3EyWjNmODZpMEp1dGZ6cTdhM1Z1ZjVacTU1OExvbzFzUDYwY3Q2NWJnSnVSTXBCRFItN2JFZEVpY21R?oc=5",
-          "time": "08/31 05:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[코스피·코스닥 전 거래일(28일) 주요공시]",
+          "t": "SK스퀘어(402340)",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40X05LTVplVUk4T2ExRTRaYl95Z1dNU3daaUF1VWhudmg0YVVCTjByNzlONm4tc1FUbTJ3dDc5YVFWVUVRSmFwSEo1NWlQWnFSSUE?oc=5",
-          "time": "08/31 06:05"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "\"9월 코스피 6,600~8,000 전망…반도체 자사주 매입이 하단 지지\"",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lV1JNNnYxRkJzRUxNRjcwekFQSEkyMEFGLW15QXJTMmI3TmFubV9wZ3B6SUtvTEJPUHhtNUN5UlBLS3l0bHFjSmlSVnNnU2daM2EyV29qTzNhZ1FTQTJPQTBGclc4RW1EYnlwSElMNHU5Zw?oc=5",
-          "time": "08/31 08:53"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWVZibzJsMkQyeG5iOWZfeURtU1BTRG9tcGhDa0JGNlBQWW5MbHdMeXhPcHJ5dmRDeFhablRmQjFRNlpDZEMwckxLNURPNjhRV2x4Uy1BZUVKQ1dBZVFBeUo3SE5sQ215UW10RENKNUJkazhELUhqNGdkNG5zaUpzOER1MmtJOGlIUWJ1dkZtUXBJeVUtTjJJ?oc=5",
+          "time": "09/01 00:54"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "잠잠해진 ‘롤러코스피’…개인자금 10조원 미국행",
-          "src": "경북매일",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5NnJxYVRRWHdrTjZyd25rVUtZODdSNG13eHlhUnlZUWNQV2ZyREFsOU50UGczMkVtWWpCZzRiS2lMY2ktNWRsb1VYSjA0VVNWM2lKOHpvYUs3QQ?oc=5",
-          "time": "08/31 03:20"
+          "t": "코스피, 개장 초 급락 딛고 6,800선 마감",
+          "src": "프리진경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zb2psTTU4akdMZE1WZHduWHJUQ1RZMzhSc1AyNjNjV2EyWG9IbVJ2enZneDNLZ1UteWMtbm1IYVJRLW5adWd1V1NYalpncVU0emRWa3l6aF8xWkNGbW5kNHdUUnhWRXk0dEY4dQ?oc=5",
+          "time": "08/31 19:06"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피, 장중 3.5% 급락 딛고 상승 전환…6820선 마감",
+          "src": "straightnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1TkRLa0JtQ0xnOVFfYmt6a3JJdjQ1b1lhcFB1S0ZMdy1xNmJ1MzRuS19qU3pkMmtVMnZVZm5vQVoxcGlRbHlOTzJzM2ZzSGw1NWkzN0phRmFFOXB5RTdLdGcwSmJCX2xDTVBXYWdxcWQ3b3fSAXdBVV95cUxOMy1qbnJiNmE2cHRXZktLOHNGSFhzZTg1S3I4Z1o2UkRDVGFrNmVxRWFHNExodVdwamhpRGY4RElreXlkcElveWNlU2hyTjFNWC1ZempDOXlCTUxJYUdDOU5rNkF6OFFJWnNUWXRLa0VFX3RNREpCNA?oc=5",
+          "time": "08/31 16:09"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "株 호황, 7월 증권세 1년 만에 5배로",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVloVGd2S01mNWVYcmFsM3U5NEtLUERmaXQzejVsVTBEY0VRV1BpX2tDWjZTQ1dvd3FkZXpydlhDbXQzZzFsdURvUmdSTFNvMTZERlluNGZPRmxTbE4zdkw5d0VWN004R1FNRVpYcVItRmNYQkx0R0RSU2FNYURaSFF4Y2hnUm5xZWNYQzZR?oc=5",
+          "time": "08/31 11:06"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "'국장탈출' 개미들, 美주식 10조 쓸어담아···1위는 '이것'",
+          "src": "womaneconomy.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QaGctZG1uMTMtOHVjVDhKQ1VwbjIzMEJLd2hCbzRFbTNqd0IwZ2FEMFFoaE1VWGdBQ1lycy1mUW5BMmxCNTJXLXVNUndNRk0xQzRib0ZhdG5ieF9zYUNrMi16cXdpemU1VmdaS08zNHM0aUHSAXdBVV95cUxOclBQZXlQVFhhTWtJOGtiZWtPVXFOVmxOZTJSWTc3d285bGhPcGxRZFhIeFFfei1EeHNlMk5PV0pveEZxOXdZZ2xVVW1jaUlBb2JFWVNKZmdTRWM5ZmVmdWJONDZTTmlTZktxbzZHQklaYVFkaDZOUQ?oc=5",
+          "time": "08/31 10:29"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "주식시장 호황에 세수도 '대박' … 7월 증권거래세 1년 새 5배",
+          "src": "뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GYUJVNFVtWUVOaXlrVFE4UzhOaWh1MVV1bnJWSkctY01STEhlLVFQZHhaMHR2d09PcFhaWXprSzNCR1VKcGVxNkZvWnJlVks1X3pudERzeC1UZDd6Mk1Vb1JwMDRtdy1uRWp0RlZ3emJqNVJpOVpsWGFPONIBgAFBVV95cUxNQ3piMnByZXBySlVtV3EzOGkwQTc3UWNGX2dvQ2VwSjdLd2kxcFV0M0tUWVIxb0tTT1NGajk2M21IaE9ZSktEOHduWTB2S0FlTVBpbzNEWmIxblBncUVfVFpHeHA1bkNzVXNpMzNrQkZLaFpMeUptNndkdzZQNE9oaA?oc=5",
+          "time": "08/31 20:34"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6788.88,
-          "pct": -1.79
+          "value": 6912.37,
+          "pct": 1.53
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 838.41,
-          "pct": 0.09
+          "value": 837.65,
+          "pct": 1.3
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1377.69,
-          "pct": -0.2
+          "value": 1367.73,
+          "pct": -0.92
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Stock Market Is Doing Something That's Been Witnessed Just 3 Times Over Nearly 156 Years -- and This Signal Has Proven Disastrous for Wall Street",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnRhY253MTZsaERyTW1pcmVDZEVQRmlCYlROTHNLZnB4NVdjcWxwSVhMbXd0OEhxclM1SzdRSWJNWEFheklscnRMd2VfMkFBOTlRWTdSRHBmZlFBUUNPNW8tOWFXc1pZSThaZjBEME5DQnZzT1ppZ181aTFDX3RGenkxcTFiY2ZjMHNYeHJ2MUVZZndMOWRVamhZSXg2c2RU?oc=5",
-          "time": "08/30 19:56"
+          "t": "Major U.S. Stock Indexes Slip Amid Mideast Flare-Up",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWNuMHJ4blFzRUZmY2JNSk5FVzRsOFM2R0lnV3YtQjJ4Z3RYd045Y1huSFpHVTVPNnY5dlItQWRBUl9RZV8wejdKZ0JsNXYwaDJFR29uMlhxbXVON2lueXpoUnlRMUpwdmpSZ1VrTFNqcVRkb0VpY29XTm1OYV9EU0hYSVd2blpoS2FLazNhakMzS19OY2dxS0dBZTFqQm51dzJUQ2JrcnFOWVVobXZyTm5OYVJMQ2gtaE5z?oc=5",
+          "time": "09/01 03:47"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Ripple Is Now Brokering Wall Street Equities. Where Does XRP Fit?",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnE3SEFqczNZQ2xRaVVCOEJnMnd4RFlpVW0zOHFUcmhWaFNQZWFraUJQOUxCQlFtcWFUSk13VG90MlEwSkNDd3lvMElpYzNsOHMyRWJ5RjVCczNZd05fckx4NTVfNy1nTmtMX1ZvZWFvR2FOb01tbDBfbXZTdDgwQWFXRzRBVXdEbElBTmFPX18tVDgzQWJwTGdqZmpsNzVEMDNtSkVmbkkzQ0FYMGJHY0xYOFF6a3lMaUJVaHJBNA?oc=5",
-          "time": "08/31 08:07"
+          "t": "Stock Market September Forecast: What History Tells Investors",
+          "src": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XX2w0Nk13Q2dfYnUyQ2pPajVTQVZlbGNtUmhaVy1CUFV0U3o2dTVOSGNPYU9fMGZ1Rko1VXY0TG9hTUE3MHNuMmFUeUF6ZE5MX3Yxdjl4dDd2bUUwdkl5VHo0SEQyOXlYZTNYRnRjMXhnS0FFaEI4Wms2TFlTZw?oc=5",
+          "time": "08/31 14:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street Week Ahead",
+          "t": "Wall Street trades lower as Middle East tensions flare (SP500:)",
           "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EZWs5WUl6STU5cEhRYnlJLXRYUHlScFhpU1FKNTZyWUVMQThDV096NmI4TENnMm11S2U3ZEJRWURaakxOUlVieEgweWNoVTVWb2o3T2tUUHZXU05heWJFWUpqcFlnN2Q3UXh0MVNHYkg?oc=5",
-          "time": "08/30 18:58"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaklWc2ZXZ1hUaUJXNG9JNnlrT2t4MmtuMTdPVkVzZ0w5alNhazg2VFVWekcyY3RZVVBmNnBYVk03YUJIOUZpTkY3SGtXQzMybkhyWUdMVkJmQ1hRckg3SEp3OWM2R2pXaUMtbjV1V0k2Q09reEhtVUpKbGVCRG1sMDBwR1A1eWMzOTg3M09faGVzbjVfaUxz?oc=5",
+          "time": "09/01 01:00"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "US Stock Market Today: S&P 500 Futures Slip As Inflation Worries And Tech Earnings Loom",
+          "src": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdHk3VXo3SlI0dEpUYmFVaGVFZE1lZF9NN3Y2cEJnbGtLSFRCR08zU3hxMlFhTTNZbmp3VXViV1FWUEU2RGZYZUQwdkplc01SUWlfNnA5dElSZlBHT3dzMGRibTI2NVJJWFNGNnEwMi1Kd1g5LXA5QjltRWIwdTBzSUo2dkNGVENReGxFbUlwY1puNnN4dDlKdkFfSG5MU0ZoeEotSHRaLTV1cjJnczhzM0VybXFFQTJsUlIxY3lkWndialY3cEVVcXhlNG5Lb1RjUlhYSXpxdi1PYVHSAeABQVVfeXFMTnZGZ2pFVWNpNmhpLXFJaWhMM25GQVl4cjdpZnN5Vkg0azQxM0JJQTNRcmVPWVV3VldfV2tISl80aTUtSXVIWXY1ejNXSVlxdFFNRlF5eE5LUWxadGI2ZjFFenNBUmtFblpXUklLX0lTUE1VaUhZenZ3dHlZa3JBd29LR0JNbVRJamY4di1FcllQQWc1c0lQdURXOVlHVFN2Q2FPX0pmRmM4YW11bko3NTZ0QURsWjRDMUhWZjR5Qm1yMmhxU21jQjRIYUFWaHc1NEw5eHlCaTZYWm14blYzWHI?oc=5",
+          "time": "08/31 17:21"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in",
-          "src": "Japan Today",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1BxYU1NcEtrZmpXS2lKaGNXdEpWZ193aXpJVVlwYzhGZW9WRDcteDVNNzVMTTVJeXhnOTJ6cUN2d0NEX3F6NndQcWR6ZEhoejItckFZQkstZTBvaEZWQTFzQzhMNnZ5QWxSeU1TVUxfLXMzRTItOTJud0NFVWs3WjZYaGwwRHcyN1NCZkZ1OEt2ZWNZT28zZjZGRGczUjlkSmNWR3RXQVJZbV9vQlhWUkx0dGswbDR0QTJOeU40OVAyaURfRFdsQlBXMWhNVDlF?oc=5",
-          "time": "08/31 05:15"
+          "t": "Wall Street Is Looking Here. I’m Looking Somewhere Else",
+          "src": "247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHJ1azRwRXdhaTZwU29UZElVZW10STV6WDU2bFVraUR0cjFVbkpQQW5MX2tVR1JuV04ySUxQX0hJdkxOMjNqUnN5VVFMRkdiOTZPNGhYU2Z1R1JzMzAxdENmaGN0akMxclJ0MFlERktoM1BCVWxQRWRxR0hUS3BLMFgtTU45MEg4RUdQakl2dkVoclo0eFVPcmN0Qm9YQQ?oc=5",
+          "time": "09/01 02:30"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "SpaceX Stock Gets A Chorus Of Buys From Wall Street — But Why One Analyst Sees Downside",
-          "src": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1lpVXdhUGk2OS1SN3FqSDBOSjdhVHZkM3pzSHF4aW9hUWpzTlFlRWpzRjYyUDBtc1p1RTRONkhfNTh1R1dGRlNQZ2g3VG1pTHA0c255RVdueWJYS2RWR3NQaVY4bW5ybGpWajJsSGRja3cwZzFhU2NMT2pWR3VxQWRMZkJ3ZjZyemdSb01VMHBHUnk1cl91UDRFdUZIVVBMeEhsVlJXSlh3ZDlrV0E1MEs5VEtHT1R4TEl2c25haW8xaTFQSzRPT1B6aUZBd1NIbVgzNVV6UzUtYlp2YXc?oc=5",
-          "time": "08/30 21:20"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "2 ‘Perfect 10’ Stocks Wall Street Is Betting On",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHhhVlVUWjZzdjIyX29tS1pnX1dyR2tyellTYS1GX1FTZ1Y3RHZUSFVtNUZtMEtPRjBDQlFxanQwcE81VmY2THFsUjFRekRGU2hTOFptZ0ZKenlicWRnLTZTbDJkbF9TazdEOXBfbWZlR0ZZTHA1akF0ZmxUMXZqa0g5ZGt5TTFPR251dURreVVSVGs?oc=5",
-          "time": "08/31 03:00"
+          "t": "S&P 500 Near Record Highs as Wall Street Enters ‘Panic Season’: Top Economist’s Old Warning Takes Center Stage",
+          "src": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjNha0k3TVUxdDIxUm4xVFowcVhTUXVMVjhVOTQxYW1WRS1CX0ZBN1d3VjctbFVZSjBpZ3lFMnUwamRoSGlqOG5JV2QydlBHaklDVVZLMUlGakFaUnVLS0NWdGtFczhsWDlZZktCVXpHWlA1ZHp1UkplOS13b3VzbVJQV21RQ2lWWUl0R3UtTVQyYkp1UUZ6a20zZElYVHowRFR4b010Y3JfTXVhWmdZWlhTaTk4bF92c3h0NHdabXREWjJKT0M0R1lyMWR3Yy1zOEhBa0dYZThSMTdyUG8xcFBDcWJOS0J5djhNXzBJY2ozSi1F?oc=5",
+          "time": "08/31 20:39"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7711.76,
-          "pct": -0.25
+          "value": 7678.45,
+          "pct": -0.68
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26402.42,
-          "pct": -0.52
+          "value": 26302.63,
+          "pct": -0.9
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53559.99,
-          "pct": -0.02
+          "value": 53229.79,
+          "pct": -0.63
         }
       ]
     }
