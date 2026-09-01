@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T16:47:52Z",
+  "updated": "2026-09-01T23:51:22Z",
   "markets": {
     "kr": {
       "news": [
@@ -15,8 +15,8 @@
           "cat": "macro",
           "catn": "시황",
           "t": "코스피, 중동 긴장·美 증시 약세 딛고 반등…코스닥은 하락",
-          "src": "프리진뉴스",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BVXJaSzUtbDRYZElNMXltdGJ4blRUZFhZT3hCYzNUajNTSFZucFhNVUVrVmttVFhsV2t1SEtqU3E1YjhDelhiV0kteno3QVZWRVk4dktkVWgyYmtwZVFEV1hvMS1BdzV0Zm5UUzFxYw?oc=5",
+          "src": "freezine.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNV0t0U0Jtb0p2MC0teVVYRExIWTdEbUFOTmx0UERBT3FQSXMxTEdtSE1fejViTTFhMVZld0JyMUVzeWlEOERxODJ3TVZXaFR2Z2VDZ01xU1ZtV05qYTRNOGlYT0JEZnJ0aXRLWQ?oc=5",
           "time": "09/01 20:43"
         },
         {
@@ -24,7 +24,7 @@
           "catn": "수급",
           "t": "기관, 해외주식 753조원 투자 '역대 최대'⋯외국인은 코스피 170조원 순매도",
           "src": "포커스온경제",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wU3J4YXNvYzlSdUlQU25wYm1yYUQxdlp6eVRrZG1GSm5pWXY4MWlDd0Uxei1xbUhjaF94Q3VWRGF3dnVELTBPS3Q1X0JRTXo4MndHQWtfdzVCSVppX0E?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sR3RtbEM1SC1LTG80SFVUUmo1cEl6dlo0NU43QXBJLXVhU1BDQWtEdkM2aVBNUVppcGV3TVd5bUl0SzdwcktJ?oc=5",
           "time": "09/01 14:34"
         },
         {
@@ -37,19 +37,19 @@
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "널뛰기 잦아든 코스피의 ‘두 얼굴’…변동성 줄었지만 자금도 말랐다",
-          "src": "중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0UDJhM2hNZWlJcXlpY0VkSVhEdVEwMWx0WFhaaWVpZDBvX1FIZmlDZWhmSnJXSnNIV0hhTzN1eGw1NnEyWmN6WXNiTWJMaVdHYWM4SjBR?oc=5",
-          "time": "09/01 15:48"
+          "catn": "금리",
+          "t": "[AI MY 증시전망] 코스피, 유가·금리 급등에 약세 출발 전망",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UdlJKbVk5V1RvQzhFVWhSTW4waGxXekQyZ3pkVnpPMU14bmdQN0tvRGVRdUl3SDJpZGlnbWM1OGpodmNoU1lBNi1wZHVSYVBRanppaWhGTHRFVV94?oc=5",
+          "time": "09/02 08:36"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피, 외인·기관 매도에도 6,790선 방어…코스닥은 1%대 하락",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1T0hMVXQ5bWxaQ2J0c0k3bmFzalRXVDFGMEdyMjdCb20zaERhS29mMGtEdkpEeU11aTVoTkJmN0d3THIzcEl0ODBBWVVySkViQVd5T0c2YS15MEtzREx4S244eWlvWXdUUVFGa012c2PSAXRBVV95cUxNTEN6MlgxdUx1SkxzdGtycW16YmJLVl85TGYwbUtaMzNYVnlmWVNxZ3hqcWJjeWNWeG1qNzdULUJ3MzN2N3FadDZKX1RZUlFDdlUzMHhqTmpodkxIdjZkTlBycmdlSXl6ZFl6WFdsNDlEb2RPbg?oc=5",
-          "time": "09/01 11:48"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓 프리뷰] 중동 긴장 지속에 美증시 하락…코스피도 조정받나",
+          "src": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wMHpEeGpPb1I2T3NaNW14aFhRc19YaWRkeS1ZYjgtSlFQamtfeURCc3NFbzFOOXhxaENTUkI0cEpjdXlGcDZYR3VaVW5VZ05ZQ09IVE01Z0Zpa25WR0JvMg?oc=5",
+          "time": "09/02 08:48"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1372.38,
-          "pct": -0.34
+          "value": 1373.3,
+          "pct": 0.49
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Wall St falls as higher yields, oil prices dent sentiment",
+          "t": "Wall Street ends lower as higher yields, rising oil prices mark shaky start to September",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjZiWGhvamxJTzU5Ync5V2xObHhDRk1PRlZFRkZnZVNqQzM0dHhuUnBMeGJDYW9YWmgxc29fRTNUaTVRT2xLWFZUOGJMWDU4MTlhQVVXRmFOQ3VGQnlNME9tQ09nUW0yMGNUR1c2amZkSVBQbHcwWDNQY0tfZHZoREF4SzVqZ2pNYzlCQVFmSkJMNFFwMEptQi03WlZlZG82bDVNZWhnUm9KMnFDS1pqVWlHZDZ2MmE1?oc=5",
-          "time": "09/01 23:39"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Stock market dives, yields rise as Wall Street braces for weak September start (SP500:)",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGREdkp1V05BVFpNcEdtLW1zeldIeFF2NUlhV2JuX2JGOU42N2pOS2tqUXlQVEl2cHBLQXFWbmlvanMyQWZWQ08xZGQ5X2d4THQyUDh0R0xfd2lTeVRRcWVTSkRIdmFhd3ZVY0ZlZ1J4bmZaWV9PWVpDY3pXQy1vVEVFbDZlNXRu?oc=5",
-          "time": "09/01 22:32"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Global Bond Selloff Intensifies as Investors Brace for Rate Increases",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o?oc=5",
-          "time": "09/01 23:07"
+          "time": "09/02 07:26"
         },
         {
           "cat": "fx",
           "catn": "환율",
           "t": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off",
-          "src": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ29KXy0wVHpwSzBhTTlwUU4wcUNIM3JzQnJjQXdGT2ZlVGs5Tm5HMTVrT0dBUVVqQ3Qxenc0eDVMRm1qcWNVVmNhTWF4bFJPQ3IwWk5HN3B5WW0tYl8wOUJqc1dWMUNkY2gyUTZPQkpVU3REYVduM2NhbXpYUjdLRg?oc=5",
-          "time": "09/02 00:59"
+          "src": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4?oc=5",
+          "time": "09/02 02:48"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Suddenly Wall Street is getting a bit nervous. Here are two ways to prepare for turbulence.",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUHREV0JFODhza2V4eVY3ZUFZdExpbzhoaWk5aHpYWDRJUjBzNDZDRldOZXZPZnlLZDUwRmVOcDlRWjVzaFBsY2JQMFZXck1DazV0QWhnNzZBS3FlcnVhb2ZTVUtJR0pLWXNTaDY3LThpTENDWHBjVDFyWThiQWhOaF9QN09HMEZRMkVjbzA5cGgzdHVVSVJJT09NeXVQakdwVW5wSVkwMVREMkxyeno0NGVTcnpsYk9oVV9BTnZsRzFLcnFIRXhVcTBpU0FlSGJsa19JbHVnR3A3Zw?oc=5",
-          "time": "09/01 21:53"
+          "t": "U.S. Stocks Fall as Oil Surges After New Middle East Strikes",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o?oc=5",
+          "time": "09/02 03:51"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "How you can quickly tell Wall Street still really loves tech stocks",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHhCWnhnbnNuenpNZUpRRmJ3Qy1RNFFuR3V6TmRxWXdveG00RnlzVHZyVFV3NWJqMU1wXzY1V1RwV2YtalkzRlR6Szc3VFdSeUwydGVCM1lvN3owdzZBUGhPeUNXRkQweTJiNXlCUXFaa1VxbzFaS0lzWnlUZ2F0RFd5MVY3UkZ1bF9QY29ubDVQMHU0SkJhQml6bW0wazVHeXYtcGJRbEk2dG02SDQ3STM2VkVtSVA0a1R6WElGVzEwRENrOHptb1ZmTQ?oc=5",
-          "time": "09/01 19:23"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Update: Wall Street's Pullback Deepens as Oil, Yields Surge",
+          "src": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTXU2MktPdEdTdkloWDlOSy1sbDFNQXNXbXRjR1NueWZ5VDN5YmQ5TEh2eUdIbVpvYzBwUnBfNndsMFktaEZHNjFRYlVQVVZELWZScWQ0WGRsQk9BUkJsYlNBNGcxM3FadU12aENhS2FqOGxCSkxnTk1JY2kyUm9PVmUzUThVa3dfVmc?oc=5",
+          "time": "09/02 05:41"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Stocks slip on Wall Street under pressure from higher oil prices and rising bond yields",
+          "src": "Toledo Blade",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcmo3VjRtdXRfZ0s3TEN1d0tjOW0tcGw4Zmp6WXg1OVNhZHVjM0FtUW5tSGYtbDFOQk1Zc3VVb0lHREVibmtJVVFFaXNtTmdZekNXSEVNaU5yemlQMnNmU3BBRzI3algya2wybjhrQ1pPZWxWOHhTUkF1bG1jVTNsSXdUVmp5NFFJZ1ZKVWFRWDRXSF9md29mVTNpNDFRWlZmMk5sUWl3MG5pbnZ0WFJTdHlwSTBoMHVsbm9zbkIyVngzeHhTLXZTX3JDRG9zTHdGcEtYak1pOGtDZzN0eHpaOEl0bnBhTkN0MXY2Mw?oc=5",
+          "time": "09/02 05:18"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Wall Street finished in the red while yields advanced at the start of September",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWFqQzdnaF96VGhkMnktM0lSc2pIeFVCLVVSMmVxcFdRY2Mwc093MUZaa2UyeS16MTB3b2x5TGR6MmJjeHdKMVFSN1NSTVBxaHpLOHdvSzNfN0pBOXFsZ0NRNWQ5NENRdnUwXzY3UWxzRE1LRk5TZ3dpTE81Z0p1MG9pWkxaa2ttZDJNMnVlOXd4eTF4ZGJXbVdTb1NqeEFKdmNfZm1fb2QteEZ5?oc=5",
+          "time": "09/02 05:05"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7635.43,
-          "pct": -0.66
+          "value": 7631.47,
+          "pct": -0.71
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26133.19,
-          "pct": -0.9
+          "value": 26099.77,
+          "pct": -1.03
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52768.77,
-          "pct": -0.78
+          "value": 52766.88,
+          "pct": -0.79
         }
       ]
     }
