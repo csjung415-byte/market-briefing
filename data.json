@@ -1,8 +1,40 @@
 {
-  "updated": "2026-09-03T23:50:37Z",
+  "updated": "2026-09-04T16:30:33Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피, 美증시 훈풍에 올라 6,600대…코스닥도 닷새만 상승(종합)",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTG5PVHdFSjVWNXhGbEpxZWZNTWp4YzVmOF9MTDRoUW1ZSXFVcVFuZERNS1E0QVpUVlFlZGI3MDlreEVDeVVxOEVYaE1GbWtyN1VSNDczZkFSR01iWkk3ddIBYEFVX3lxTE1PTG5PVHdFSjVWNXhGbEpxZWZNTWp4YzVmOF9MTDRoUW1ZSXFVcVFuZERNS1E0QVpUVlFlZGI3MDlreEVDeVVxOEVYaE1GbWtyN1VSNDczZkFSR01iWkk3dQ?oc=5",
+          "time": "09/04 09:29"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓펄스] 코스피 반등에도 증시 떠나는 개미들...예탁금 5조↓",
+          "src": "투데이신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02V2EtUFQ1c09PWWtvbDVZb0lEQnpwWDBUSHo0LXMtSzVEVHJTWFM3amJBQWE5Y2RsX1A4SFRBUnRjbUVwN0JXTWFldWo5Xzd2Y3RKbktJSXFZY19CdUphMDliTlZQcEt0d3J1S0xlMNIBb0FVX3lxTE02V2EtUFQ1c09PWWtvbDVZb0lEQnpwWDBUSHo0LXMtSzVEVHJTWFM3amJBQWE5Y2RsX1A4SFRBUnRjbUVwN0JXTWFldWo5Xzd2Y3RKbktJSXFZY19CdUphMDliTlZQcEt0d3J1S0xlMA?oc=5",
+          "time": "09/04 17:36"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외국인·기관 매수에 코스피 1%대 상승…6,660선 안착",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00a0pUZDIyMHJ2eW1BUE1QYmZjdnJmS3ZwZ1hPQ0VsQkpPcGRzb1lmWjhWQkFZRWZZR3JFT0JLTTd3dEVpTmhia2lScng4SDhyNHNLZkVGdy1rMXllelEwWG5hM213NXhNa1dtMkVkVk3SAXRBVV95cUxNNmJOZnpEMVUyQnh1cWtMQldTcGRqbDNfc1h6djNMTFA5WWZPVXo5THVXTi1jX0lnei1VNUNkN0twcUYwb19XRXBESjBUWG1lZkEtY2JkSlJJQnNKZ29McUFhSjA5ek03Z2EtNnQ3azNWLU05aA?oc=5",
+          "time": "09/04 11:40"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[0904마감체크] 코스피, 외인·기관 쌍끌이 매수에 6600선 회복... 코스닥도 상승",
+          "src": "infostockdaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WMjhCbllsMU41U3pnMGROMHpIMXl1bmQxNXR6N2N1TGt6RFhhWmtTX1lfLVFJbWpjV1VxazFZOXNyeS1JSTdHaFNKS3R4R1NGLU5SOENXbjFlNFA1V0Nyd3hXRlA5YkNkWWRTMmVBV2JXSTV5eUE?oc=5",
+          "time": "09/04 17:16"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -13,68 +45,44 @@
         },
         {
           "cat": "macro",
-          "catn": "금리",
-          "t": "[AI MY 증시전망] 코스피, 美 금리 하락·증시 강세에 상승 출발 전망",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yVGFHbnZ0eDE0ak9QcnhDMnZfMnE3Z2g5X1FqWWhvQVh5ZVN2X3ZHNldGRndVb096SFBaNnhhZUowcGJVQnBwSzJQdUhCWlZMdndEa1RwX2QtRE9R?oc=5",
-          "time": "09/04 08:38"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[마켓뷰] 美 증시 상승·금리 부담 완화…코스피, 상승세 이어가나",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FU0lCTTcyeG5MWk5taUZPX0o2bUR0czEwZV9Mc2tlUzg5c3dXRmpFWGJHNllZNlBZOHNEa3RqeUpMNUI1UHQ5bmZfLXhBemVYamc?oc=5",
-          "time": "09/04 08:08"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[증시-마감] 코스피, 기관 투매에 출렁였다 0.26% 상승…코스닥은 1.71% 하락",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SN2dhc3pVZ1NvYm5VVENCcVp6RTBiZnRHXzFWbHFmTzdONm04M1FRM0RMSDBRUDVHclNDY0RIMV9idU8xbEpic2QyYVY1SW1XU003VFp4TndaZjgwNmFmclJpOWtFXzk0YWx5aDN2MFA?oc=5",
-          "time": "09/03 16:19"
-        },
-        {
-          "cat": "macro",
           "catn": "시황",
-          "t": "중동 불안에 코스피 상승폭 축소",
-          "src": "kbthink.com",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSlFXOU5PX1VFdVRWNi1oNVNsYWpXMC04bm5tWjQ2VDRZTXJCejJJdEVhNkVsTTZEcXhiczhaYmk4bUlwU1F0NDFoX3RFc3FfNkQzYlNWby1XMVpiNkozb0RLcm1xYm9jTWI0dQ?oc=5",
-          "time": "09/03 16:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[심층분석] 미 증시 반등에도 엇갈린 코스피-코스닥, 구조적 셈법과 한국 경제의 시험대",
-          "src": "데일리연합",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZm5lWmRYVFl5ZkN3YUFPY29EZll4Q3BBY0tUREJiYllLblVRSm9zTDduQlpOS3BiZFZaeGVuTDJWbDQzbVBSb2RBalNOUHBQWVpSUFFBVUxKVlk?oc=5",
-          "time": "09/03 17:40"
+          "t": "“7000 간다더니 6600도 간당”…코스피 전망, 일주일 새 무슨 일?",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocXo3WVNnSmlzX05SNWQ1bVVWMFNxNTNXU19Rd1ptazhXcnFXejJkS2lIS3pVTVpzQTMwSGh2ZE1xS1haaEpOb1Fac1d1dENTT1E?oc=5",
+          "time": "09/04 12:54"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6562.72,
-          "pct": -3.99
+          "value": 6579.48,
+          "pct": 0.26
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 803.98,
-          "pct": -2.1
+          "value": 790.21,
+          "pct": -1.71
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1356.1,
-          "pct": -0.17
+          "value": 1345.57,
+          "pct": -0.94
         }
       ]
     },
     "us": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street September October Historical Market Risks",
+          "src": "Funds Society",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeE9jOWdlR09TeE5kcWpfOVVxYzhsYmNjRXU4cEYxMEJtd2pyTjZUOFJ3QmNkQ01fay1sVHZ2dW1sWkZEa1NaRUNVVENERU5ZdElianJuT3MtZ1NHQjE2MUpmdmt2N0twSGNfUXBYMmZfb0ZUQy1sYzU4Y2RnempBVkliLWlBdXNYYzZWRGpfak1ZVmJZVXlCaGNJUkxJWXI3NjRRcGNHcUVadThRNS1DYmFRMUlpUEdpQzJ1V256VW1OWFQzTXVyekpoU3BJc0U0ZUJGTVlB?oc=5",
+          "time": "09/04 22:29"
+        },
         {
           "cat": "macro",
           "catn": "연준",
@@ -84,64 +92,56 @@
           "time": "09/04 07:48"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Tech stocks lead a rally on Wall Street as bond yields ease some more",
-          "src": "apnews.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRm1qUndzRGJ6NHpzRWZueGRlcTNFS0tCb2RQakc0ZWZnUlBjUkJJM2d5RGM3eEJOelBwc21LME4xazIxc1ktTzVPOVNjNWxrb3hYenFkemtuR1R2Q3Rvajk1Tmd1RDZLX2lnT1F2TGxldDBDXzFOM2plMmxPLWpUaVZJVEt6RHRYSGtVcVA1TGRqRjB3NWY0OA?oc=5",
-          "time": "09/04 06:04"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "Robinhood Stock Is Surging. These Wall Street Analysts Say They’re Growing More Bullish",
-          "src": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV2xpUmE3NXpBQUtlcm9xeDcxODFOWm9rbGpwQ29kV0pnelZrbEtOblpOSGFKT3BIWkJEYkhReGFHUnljRHh5TUVyUmI4TnVKNldvcm9ENG5zY2xqM1BvNFBrUFhZcjNmdHVOdzV2bmNGWWNBdXhuTEYtenNkUnZmQTRDZVYtMmtKdzU5MFVVaFZEWFRmLTB0YnVlS2tSRWxPS1B0aUI3TXlJb0ZmY2pseUlkU2p5ajZ0MEVmZ1Ftenl3d0RnSHE5YzVxbVZBUnVPbkw4alNHNnR1QQ?oc=5",
-          "time": "09/04 05:39"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street closed higher after the latest jobless claims and trade data",
+          "t": "Nonfarm Payrolls Data Looms",
           "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFJUQjI3Y1h3dU9tUjl6RVhMaF9QYUlVWHBQNjhtYVVjVmNzQm95QlpPZmZZejBlNUQySGpNUTltQlNleEZEUWNBUWlKbndURTNFVTVFc3R6S3ZNSkl0VmhGcnRFM3Rid0pJZVdRVE15aDJqeERwdXE0eXNScDdETzVTOG5pc05ienRIN3hzYzFGXzNqNjhsU1FpVGNHRm5PaURILWJ5cXN1eS0yNWZ1dGxR?oc=5",
-          "time": "09/04 05:02"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "US stocks open higher while oil prices continue to climb",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaHB2SlRSZWMxMWpDZlBzbGwtOTZrYjJ6Y0tCaVpua0dKOE1Kdy1fNVRiOEU2ZGM3NzJreldHYjRoejcxN2ZnaUxwT2VBeW04djlFZG1uc2hXbzhJMGhrNW9xM1RMT2E4cy1SOWp4MkRqTXYwbDA4VVdlVEhTMU02aklSbHV1c3dXdzJmOTF2YlRJNmpvZnp6Qm9GckoyNnBXQXVCck9KSTRDdnlwanFtaHNQY25IbmlHSFYtWXRVY29sWkZSN2Z3VTdyb3NZZGljZ0ZvUmdmSXo4dWp6VUo0dTNOajVkZFFiYzFLRDRYWWRPRjdySGFRVjFOMzF5UWZvRGc?oc=5",
-          "time": "09/03 20:46"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QNmdLaHZrcDJ6NTNHNVBuNUNHNFYxVW1QdDJCOWlmcUtFTzdrWk12Wmt0R2NJUUozN204b04xY2xja05tRzZUQzdqc3pJWWNkMFZkZERqM0w1UUxFZUZxRGNzXzRyRzQxMkpCNk1ETUJfNUVJZjhB?oc=5",
+          "time": "09/04 20:03"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "AI volatility tests Wall Street’s bear market label",
-          "src": "Finance & Commerce",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sU1RPamxIUVBhOHM2d3YxR0tIZHNzaFJib05TVXZnbkZ1LS12akZveW1aTnhhWVhxbVdza0dlcUVtT25yZ0gtOVBNTThKTmtTemp6b0otMVY0bzY2c1EwWGI5VHV1WlJRYVF2NjlENXB0R1dXTnMw?oc=5",
-          "time": "09/04 05:43"
+          "t": "Synopsys Fell 11% This Year. Wall Street Expects It to Gain 50% in the Next 12 Months",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0dBSGhCV2dxZU02b2VVZnAxN3dTSXhDdTJTekRURzlvTkhqMm1yWXc5TTl4S1FtVFVyeVFhNjZMMWs2c2k4OTMyVVFOc3M5UVpOam5UQUdha0Vyd19Va0FWVEpDc1E2T2xkR0oxQkVNbk1ORVRwQW1MdjFHVVRpaHdNRS1ablJxOHAwNlN5cGFYeU8xMzI4cTJLamVKc3VfYmdFMWVVQVpwNGhmeGFGVlNzRW55UGxZdWhsd04zanY3YUxP?oc=5",
+          "time": "09/04 22:29"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Asian benchmarks mostly rise after tech stocks lead rally on Wall Street - ABC News",
+          "src": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNME4wUG9Qc0YtSm5IUWtycm15TlA4dkRVSVp4azBTaFkydUJKVXpRV3NuT3h0Q3gwcjJNWGkwd21YNF9zQUZHajduZEtmUkMtREJxZ0ROQmZmb0RkVE9XMTJsSnRMdWszVkpCSHJOSm5DdEkyMWJTNVdWWVIwSW51OG9xeWlsQXdQdjVmclVxbU5NVERjZW4zMVREQ2tXWmtW0gGmAUFVX3lxTE5lQTVMVS1HUER5R3pUeGtSaWN6SDZmcGt4YkI5ODZVSl9EdW1aTHYza2cxdkZTazlVUlBtYzlnT1lkZXVTQ1BuNHdvcnlpY09wcGNTcjBSbDlUcTNNbWgwVkx6WDZLWEhabUpJWDBqRkJEeUJTajQ4Nk9RNkJzektHOFpvenVyeHNjd3dJWGJCdk4xU1FSV3hHN2s4Y2lZY1NEdWdUX3c?oc=5",
+          "time": "09/04 16:03"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "U.S. economy added many more jobs than expected in August. What Wall Street is saying",
+          "src": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3JQc01DbEx4QzRDN1RibU1JUjVTbzZ2aEdrb1EzdFlBaU5nVXJySXZwRnhMZUhSZU11eElEZWRxVkNySnJGdTEza1RhVnNwSjBFTGNUdU0yNDh2eVpUN25nTGl2eGpwbmdqRFVydzEzdW9qSG5GQW9XQTk0dUNPenY1NUxhQjYxOHlSWk00a01hM0lkTjFHamJxU3VJcWdpZXlfNHJTUmhsZjFiNzluZ2ZvaG9DMWZrUTlZ?oc=5",
+          "time": "09/04 22:27"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7747.71,
-          "pct": 1.06
+          "value": 7721.48,
+          "pct": -0.34
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26584.06,
-          "pct": 1.4
+          "value": 26498.3,
+          "pct": -0.32
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53686.11,
-          "pct": 1.18
+          "value": 53419.11,
+          "pct": -0.5
         }
       ]
     }
