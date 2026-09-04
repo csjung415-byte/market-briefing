@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-04T16:30:33Z",
+  "updated": "2026-09-04T23:47:29Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 美증시 훈풍에 올라 6,600대…코스닥도 닷새만 상승(종합)",
+          "t": "9월 코스피는 원래 잔인했다지만, 미국 중간선거가 코스피를 살릴 수 있을까[경제뭔데]",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSczFVQzlGNmcwQXp0eU9ZeWNkdTZEU0Zyb3dDNzZWZFplZG5KSGJVWjV0OGxjd3ZBYUhYVWpiQjBiRGZMQXJXZ3c5SWI2SVE?oc=5",
+          "time": "09/05 06:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "美국채금리 안정에 외인·기관 복귀…코스피 1.6% 상승 마감(종합)",
           "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTG5PVHdFSjVWNXhGbEpxZWZNTWp4YzVmOF9MTDRoUW1ZSXFVcVFuZERNS1E0QVpUVlFlZGI3MDlreEVDeVVxOEVYaE1GbWtyN1VSNDczZkFSR01iWkk3ddIBYEFVX3lxTE1PTG5PVHdFSjVWNXhGbEpxZWZNTWp4YzVmOF9MTDRoUW1ZSXFVcVFuZERNS1E0QVpUVlFlZGI3MDlreEVDeVVxOEVYaE1GbWtyN1VSNDczZkFSR01iWkk3dQ?oc=5",
-          "time": "09/04 09:29"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RM3llUVRldENsRDFDQTFiQk00OFZsWlUyMlgxYWhUS2NLNE1rWTM3Ul9PRlNsOUQ2QzlqZ2wxTjNYelVIUWllUEU1SnZIMXFLbU13SGN3X2NXbzdBRXYtWNIBYEFVX3lxTE9RM3llUVRldENsRDFDQTFiQk00OFZsWlUyMlgxYWhUS2NLNE1rWTM3Ul9PRlNsOUQ2QzlqZ2wxTjNYelVIUWllUEU1SnZIMXFLbU13SGN3X2NXbzdBRXYtWA?oc=5",
+          "time": "09/04 16:08"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "[마켓펄스] 코스피 반등에도 증시 떠나는 개미들...예탁금 5조↓",
           "src": "투데이신문",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02V2EtUFQ1c09PWWtvbDVZb0lEQnpwWDBUSHo0LXMtSzVEVHJTWFM3amJBQWE5Y2RsX1A4SFRBUnRjbUVwN0JXTWFldWo5Xzd2Y3RKbktJSXFZY19CdUphMDliTlZQcEt0d3J1S0xlMNIBb0FVX3lxTE02V2EtUFQ1c09PWWtvbDVZb0lEQnpwWDBUSHo0LXMtSzVEVHJTWFM3amJBQWE5Y2RsX1A4SFRBUnRjbUVwN0JXTWFldWo5Xzd2Y3RKbktJSXFZY19CdUphMDliTlZQcEt0d3J1S0xlMA?oc=5",
-          "time": "09/04 17:36"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외국인·기관 매수에 코스피 1%대 상승…6,660선 안착",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00a0pUZDIyMHJ2eW1BUE1QYmZjdnJmS3ZwZ1hPQ0VsQkpPcGRzb1lmWjhWQkFZRWZZR3JFT0JLTTd3dEVpTmhia2lScng4SDhyNHNLZkVGdy1rMXllelEwWG5hM213NXhNa1dtMkVkVk3SAXRBVV95cUxNNmJOZnpEMVUyQnh1cWtMQldTcGRqbDNfc1h6djNMTFA5WWZPVXo5THVXTi1jX0lnei1VNUNkN0twcUYwb19XRXBESjBUWG1lZkEtY2JkSlJJQnNKZ29McUFhSjA5ek03Z2EtNnQ3azNWLU05aA?oc=5",
-          "time": "09/04 11:40"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95eEM3R1BsVGs2dnJ3bWN1akJ5MHNwaUNMeFREU21ORmNZN1FUdVNEOGs0YnRCdjIwSVpSUVhYLUcxeXR1cng4MVU5YUVsRTRHdzgzVlhVSmxJNFdwX2I4UDhLSU9zRnBvRHBN0gFvQVVfeXFMTTZXYS1QVDVzT09Za29sNVlvSURCenBYMFRIejQtcy1LNURUclNYUzdqYkFBYTljZGxfUDhIVEFSdGNtRXA3QldNYWV1ajlfN3ZjdEpuS0lJcVljX0J1SmEwOWJOVlBwS3R3cnVLTGUw?oc=5",
+          "time": "09/04 16:40"
         },
         {
           "cat": "flow",
           "catn": "수급",
           "t": "[0904마감체크] 코스피, 외인·기관 쌍끌이 매수에 6600선 회복... 코스닥도 상승",
-          "src": "infostockdaily.co.kr",
+          "src": "인포스탁데일리",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WMjhCbllsMU41U3pnMGROMHpIMXl1bmQxNXR6N2N1TGt6RFhhWmtTX1lfLVFJbWpjV1VxazFZOXNyeS1JSTdHaFNKS3R4R1NGLU5SOENXbjFlNFA1V0Nyd3hXRlA5YkNkWWRTMmVBV2JXSTV5eUE?oc=5",
           "time": "09/04 17:16"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 1만2천 간다더니…골드만삭스 “향후 1년간 글로벌 증시 수익률 한 자릿수”",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91RFYycHloUFNwVm1jeGlKRHJHb0ZUNnFqRldhZ3RTbzFUMm9IOTFFc2Rza1dkSXVaVnZpVTVpLXZfQXZUaG5oNGR2ZDBBaXFB?oc=5",
-          "time": "09/04 08:03"
+          "t": "[주간증시전망] 코스피 6200~7300선 전망…지정학 리스크에 약세",
+          "src": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WX2hzeENUUjZiT3VkQkw4MzZXTnNzMjFyUDJCellTM3k2S29LanZ0U3pDRmo5c2hzOFIxZ3NIVGhwUU1yWTAyaENjUV95NWtra21rOQ?oc=5",
+          "time": "09/05 08:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“7000 간다더니 6600도 간당”…코스피 전망, 일주일 새 무슨 일?",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocXo3WVNnSmlzX05SNWQ1bVVWMFNxNTNXU19Rd1ptazhXcnFXejJkS2lIS3pVTVpzQTMwSGh2ZE1xS1haaEpOb1Fac1d1dENTT1E?oc=5",
-          "time": "09/04 12:54"
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외국인·기관 매수에 코스피 1%대 상승…6,660선 안착",
+          "src": "sankyungtoday.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00a0pUZDIyMHJ2eW1BUE1QYmZjdnJmS3ZwZ1hPQ0VsQkpPcGRzb1lmWjhWQkFZRWZZR3JFT0JLTTd3dEVpTmhia2lScng4SDhyNHNLZkVGdy1rMXllelEwWG5hM213NXhNa1dtMkVkVk3SAXRBVV95cUxNNmJOZnpEMVUyQnh1cWtMQldTcGRqbDNfc1h6djNMTFA5WWZPVXo5THVXTi1jX0lnei1VNUNkN0twcUYwb19XRXBESjBUWG1lZkEtY2JkSlJJQnNKZ29McUFhSjA5ek03Z2EtNnQ3azNWLU05aA?oc=5",
+          "time": "09/04 11:40"
         }
       ],
       "indices": [
@@ -68,13 +68,21 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1345.57,
-          "pct": -0.94
+          "value": 1345.99,
+          "pct": -0.69
         }
       ]
     },
     "us": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+          "src": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
+          "time": "09/05 05:24"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -86,10 +94,10 @@
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5",
-          "time": "09/04 07:48"
+          "t": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdlRrMXRHY0twa1NHOWlyUGk3di1Fa0xraWRnajYwNWJOM295blZkcS1kcVItRmRUc1NiMzBFeWZlelRGZVoydktLWndTMmZQcEJZRFI4SVhNM2NkV2U4RWF6Q3MzUmFnZF9jdmk3Ty1KT1BnNlI3WENGUDUxUTJUQzN2YTQwX1cwNHh0cHQ1bTVxd1hhNURHdmw0VndhWEE2cmo0bmx1OHQ3ZEdjR3ZZSXN1eWZ6aXZPVjIxX0dpRldYdDF5M3BaNHlNRTZzZUR2cnRpWVFUM0NfT3NTUDhvbHhBMFhtQzdPYjlBRnFObGgzVy1yWWp5SWtlZkd0bS1BSmNzSTZ6UFJNaGQwNEVuNmpaVQ?oc=5",
+          "time": "09/04 20:44"
         },
         {
           "cat": "macro",
@@ -100,48 +108,40 @@
           "time": "09/04 20:03"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Synopsys Fell 11% This Year. Wall Street Expects It to Gain 50% in the Next 12 Months",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0dBSGhCV2dxZU02b2VVZnAxN3dTSXhDdTJTekRURzlvTkhqMm1yWXc5TTl4S1FtVFVyeVFhNjZMMWs2c2k4OTMyVVFOc3M5UVpOam5UQUdha0Vyd19Va0FWVEpDc1E2T2xkR0oxQkVNbk1ORVRwQW1MdjFHVVRpaHdNRS1ablJxOHAwNlN5cGFYeU8xMzI4cTJLamVKc3VfYmdFMWVVQVpwNGhmeGFGVlNzRW55UGxZdWhsd04zanY3YUxP?oc=5",
-          "time": "09/04 22:29"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Asian benchmarks mostly rise after tech stocks lead rally on Wall Street - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNME4wUG9Qc0YtSm5IUWtycm15TlA4dkRVSVp4azBTaFkydUJKVXpRV3NuT3h0Q3gwcjJNWGkwd21YNF9zQUZHajduZEtmUkMtREJxZ0ROQmZmb0RkVE9XMTJsSnRMdWszVkpCSHJOSm5DdEkyMWJTNVdWWVIwSW51OG9xeWlsQXdQdjVmclVxbU5NVERjZW4zMVREQ2tXWmtW0gGmAUFVX3lxTE5lQTVMVS1HUER5R3pUeGtSaWN6SDZmcGt4YkI5ODZVSl9EdW1aTHYza2cxdkZTazlVUlBtYzlnT1lkZXVTQ1BuNHdvcnlpY09wcGNTcjBSbDlUcTNNbWgwVkx6WDZLWEhabUpJWDBqRkJEeUJTajQ4Nk9RNkJzektHOFpvenVyeHNjd3dJWGJCdk4xU1FSV3hHN2s4Y2lZY1NEdWdUX3c?oc=5",
-          "time": "09/04 16:03"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Tech stocks lead a rally on Wall Street as bond yields ease some more - Pittsburgh Post-Gazette",
+          "src": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalAzUkk5RlpLOVdNNDd4YjFfUE52RmF6R3RVdUU3RlowdUpTS0F1aUQ5OG1UY2VwWU4yVmNaQ2pmaHFfbUFXaW1HT3VJZFNNbUNkcENYU2ExVjRVbnRxMnJQcU9adzlVRmNrbHczN0I5S2RFdm5lakFydEVMaUdqbXJhZTF5ZGt4dlMyZjdxcnJWYm9PZmwzQUdjcm4tRW9jRXo3WngyVkhqX3lGNXB2Zg?oc=5",
+          "time": "09/04 16:00"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "U.S. economy added many more jobs than expected in August. What Wall Street is saying",
-          "src": "cnbc.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3JQc01DbEx4QzRDN1RibU1JUjVTbzZ2aEdrb1EzdFlBaU5nVXJySXZwRnhMZUhSZU11eElEZWRxVkNySnJGdTEza1RhVnNwSjBFTGNUdU0yNDh2eVpUN25nTGl2eGpwbmdqRFVydzEzdW9qSG5GQW9XQTk0dUNPenY1NUxhQjYxOHlSWk00a01hM0lkTjFHamJxU3VJcWdpZXlfNHJTUmhsZjFiNzluZ2ZvaG9DMWZrUTlZ?oc=5",
-          "time": "09/04 22:27"
+          "t": "Update: Wall Street Wraps Mixed Week in Red Following Strong Jobs Report",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEFvaUlfTlhMREpTT2xmcUpLU2R2Q0VhajBESWxnYWItWU5ZSHdXTHBzeldRdmY1ZnYzRE5BeVVQT2wzcjJ2TjBLY3lGVGtaeFVyWkdpNklwZTZmZ3hKRTZMUGI2MER3c3pQYm1OUnpuWFA5dU1oVlBfUnJyalJ1aDFIN2JuRGVOQmRnb1l2ZVdEQ05UUm92Zw?oc=5",
+          "time": "09/05 05:42"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7721.48,
-          "pct": -0.34
+          "value": 7718.6,
+          "pct": -0.38
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26498.3,
-          "pct": -0.32
+          "value": 26506.99,
+          "pct": -0.29
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53419.11,
-          "pct": -0.5
+          "value": 53414.25,
+          "pct": -0.51
         }
       ]
     }
