@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-05T23:36:16Z",
+  "updated": "2026-09-06T15:35:57Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "이웃집 토토로 토토로 자산 배분의 파악: 원리, 방법 및 기술",
+          "src": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEc09ua0VJMGgtSlloNGthVWtHdFpsdVpZMGFUc1JLVzlfd2NKUnlLeU9XUHM1WmxKdTdIYjBHcHpFRUloWVdXRkZRRUFyTlRQekRTSGY2UXN6dE9xcEVKRkQwakV0UkF0ZmFjaWFuZEtvbW9YS0g4eA?oc=5",
+          "time": "09/06 18:52"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[주간증시전망] 자사주가 떠받친 코스피···美금리 결정 앞두고 '관망'",
+          "src": "서울파이낸스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSnBJX1ROUUJ0X2haQjVqZkowVmZJTHZVY1llbnB2N1lEb2lRSXVEcWVnbVVWNHFoemMtZ0JueXlaakpLSDY5TkhkOW80T1VwUk1XeWM5UEduWjBiYV9JMUtWbjN3Q0laR3c?oc=5",
+          "time": "09/06 19:00"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -13,43 +29,27 @@
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "증시 하락 경고음 키우는 '한국의 닥터둠' 김영익 교수",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43S01ZQmp4Wi15YVFueWYtcGxaRklwZ2w1Yk9WeVU5bnZZT0VETkdKeWl5a1A3dHNlbDVBYjdaRm9jWVlnUjdxSkpCSDNTUnc?oc=5",
-          "time": "09/06 07:02"
+          "catn": "금리",
+          "t": "美 소비자물가지수 발표 앞둔 코스피…7000선 회복 분수령",
+          "src": "진일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kZ2tueUo3LVNtSTlHUGRmZXpvUF9oQkVQaTJuQXFxbFAxNVgydGFvSGdCM1lCMktvUVpkTzloNVdyd2Jrdmp2OG1oNWxnT0FCbEhwaDVLazd0OXJSNS1TU0ozOHFCUDM1QWxYOEFqNA?oc=5",
+          "time": "09/06 09:45"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 7000반등 성공할까…다음주 증시 향방은 [선데이머니카페]",
-          "src": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50T2ZXaGg4d05LVjltWGdYMUdjMW5kX1RRLU43aUhSWXpPaEZjTjlDZE9KZDdSWm1EMm9tY0wxaWoza3IyMXdKZmVHQ0JSODJhVEHSAVNBVV95cUxNekF1MkVTSkJ2Z0xnOVpvTDdVMnVKX2NJUTJ1RXB2TVpvWXU0ay1EMF9jU3Q4NDdBdkNERldVanNXNmFTcmpnSlBuaGN1ZGs2dTZlMA?oc=5",
-          "time": "09/06 07:00"
+          "t": "\"다음주도 주식계좌 열지마\"…네 마녀의 날→CPI 발표에 개미 '긴장' - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aTnRTbkhxYUZSZ3UyT01CUnFuWG1MeW5WOGc4dWFPaFpQS01DTHlUVk9TeW5HMkNBczYyV1JsQnZaNXp1d09YWmJITlJMaTNuR01kUTEwWUpUVmhnOEJ2R1h2ektXanBE0gFuQVVfeXFMTU1QWVVDZ1lEcWZGenczOXZjdGVuNENWUC1fM3FlZEwtS3BYeV85bVBTWVdjdWJkeWxrb1FfV0VZNFFZRDNpVmNQZGVNTHJIMzBIUzJ3VGxEYm44WVM4QnJLWFFCaDFvaGV6ajY3aXc?oc=5",
+          "time": "09/06 13:02"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "美 CPI에 쏠리는 시선…코스피, 7000선 회복 시험대[주간증시전망]",
-          "src": "뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfejZoQ1BraFNKSlVLNmJCMm5NWi11YWg2aExyU0czQzF1QkZabUNTWWh3d0NraVd4dmxQZmJHeTBuNkxjTlNJTGNJbVBjNVZwbW9FaHJubFhPYl9tcHRSU9IBeEFVX3lxTE1EYkFoakM4anB1YWZEdlpHY3hOMUx4MFU3Tms1RVZlS0lIaS1PcHN0LVUyM3BjTkpTdC13Q0RYWnplTDA4YlZ5bkJVMnRxSlJJQmxQckR3dnhfbl9nb1I0ZTB6QTdLNXZrY2dZWFRNdXc0UUdiUjJteg?oc=5",
-          "time": "09/06 07:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "美 ‘이란 왕따 작전’ 긴장감…코스피 6200~7300 [주간 증시 전망]",
-          "src": "데일리안",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RRS1NUnBmOFdvQXgtdTFLTnR3aS1NNFI5NmVPc0k1S3hBRnVBN3VLWlZMUjVTTXEzb0drWlNhaXB5LU5kcTd0b3dCb29EQlQwQkdXejJuSQ?oc=5",
-          "time": "09/06 07:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“주식 계좌만 보면 잠도 안온다”…예적금으로 다시 ‘머니무브’",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pZzVxcmtvWVlDVWdxV1YyUUNQamdWUFl1dDBISVljZ3ZKMEJvemZPOW9jVWVhX1ZxcGdab1BzaEFUM0FOMjBhbzREVXJaNWp3YnlLMw?oc=5",
-          "time": "09/06 06:04"
+          "t": "코스피 호황 덕에…주택도시기금 상반기에만 1.2조 수익",
+          "src": "경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FbjlNU2kzNVBGNzBoMTVpRDZLNE5YSmdSWk9hYnd4b2tQeXp0ZTFVTDkxci1pVW9fSlBRYXcwLTFESGZRN2w4VU00dm4xVUhEcFk3RE13bjJKYUU?oc=5",
+          "time": "09/06 13:59"
         }
       ],
       "indices": [
@@ -78,50 +78,50 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "U.S. Stocks Fall as Oil Surges After New Middle East Strikes",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o?oc=5",
-          "time": "09/06 02:12"
+          "t": "Wall Street Week Ahead",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCR0E2eFRYd2xCcXVMbjRVVHBoV3NPdldERlRPa0RWMHVDcWZGc0d2b2EweWVHVmx2MXVOdUNBeEp3ZjhqSDRVam9YSHN0NjRUaXJvdUlYVlg1Vnp2WGs1Tlc0aWRTUHJ4RlJ0UUtpSms?oc=5",
+          "time": "09/06 19:37"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "AI stocks resume sell-off and drag Wall Street lower from record highs",
-          "src": "fastcompany.com",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5USDR0T3ktQnBzRWpqbERWWDd4R3liYXJjT3MyWWlBZW5naVJjSUJSZmlURTluWXBHOWNzaTNNZ0xDWG1QdGR1THJXUjI4VWNsaVFsVktVWTREWkJWNHpyN0lfWjBpTHJBb1RnbmVrOUlBUQ?oc=5",
-          "time": "09/06 00:14"
+          "t": "Stock Market Today: Nasdaq Ends Off Steeper Loss, Dow Rises After Downturn; Credo Technology Advances",
+          "src": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWtqOUZjRl9sN004azF3ekxYQzc3dHdQUk44UXRTOEhpWVFJWHpmcUgxTnRTNTBHRVlJT1dBMkRPbUI4eklyVW9JajdTbXA1WDBkUHJRQXVzZG95UmpQRzJyV3R3NGNha2hqNE1uWnJRLVFrcnhFZkZVNmFjS2U1blh5TVctMWx0bjY3Rkphb2xFWlRyQ1lScE5vZWhaOEZQX2NGQkRvOXF1cFU?oc=5",
+          "time": "09/06 16:26"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "SpaceX Stock Gets A Chorus Of Buys From Wall Street — But Why One Analyst Sees Downside",
-          "src": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1lpVXdhUGk2OS1SN3FqSDBOSjdhVHZkM3pzSHF4aW9hUWpzTlFlRWpzRjYyUDBtc1p1RTRONkhfNTh1R1dGRlNQZ2g3VG1pTHA0c255RVdueWJYS2RWR3NQaVY4bW5ybGpWajJsSGRja3cwZzFhU2NMT2pWR3VxQWRMZkJ3ZjZyemdSb01VMHBHUnk1cl91UDRFdUZIVVBMeEhsVlJXSlh3ZDlrV0E1MEs5VEtHT1R4TEl2c25haW8xaTFQSzRPT1B6aUZBd1NIbVgzNVV6UzUtYlp2YXc?oc=5",
-          "time": "09/06 03:20"
+          "t": "The Stock Market Is Doing Something for Only the 2nd Time in Nearly 156 Years, and History Says It Foreshadows Disaster for Wall Street",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3pBaHNYVXZVc2ZIQUE4VkFGV0dTSGpfWjVJdmNfcWdJOEJqZ3ZVTDNJdWRZbWFiZWZ4N09jV29ybzBPdEtWTmlaQnZ3MEhjdjR4alo2RC1KaER5RmI5NFowS1dHVnlLVmpBRXBRSDVIQV9PTlNRWWtKQktmTEFIVDIyek1oVmk3dGg3aG5scUlOZ1VPelRfc3V4U3VxWTZ0aXhmZTFkaThHd3VvRkIwdFFDRTF6OWlvSi1hNHR1aFl1WmVWckZaRVVwa29zQ2lOQmlMTGd3?oc=5",
+          "time": "09/06 20:07"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+          "src": "Mankato Free Press",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPX0JVOXVwejU1SzVfVnFrYWk5YlF2SGYweXF6emRScjdPS3A3ZlBIbkdUYkZDVDZGV0Z3cjBlVW5BWU1Rc0pqbmxEbjJTSjdobE5RYUptR181WUNRdlZRRUF0Vl93MDZmQVpsUmdlZ0RzZDdybHIwaU5zajB6Q1c3WndDSDl2OGhmNGVzLXQ3TE1uNDBad1Q5NERhNEFOQjlLT1cwRDNpTVNHSHZWa2dONTczMkRueDJSa3ZsWnFfV0staHZJZS1wTjVvYlNMWFhGRlhfMXBod2ZVZE4zdy12eGFlYVlCT25sdjdyZ1JFNzN5UjgzZkNvd05WRHUyMjRBbkhhR25pbW1ENnV1cE1WcUFUSGtvcnFj?oc=5",
+          "time": "09/06 19:05"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Wall Street week ahead: The market focuses on key inflation updates - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmMySTRlSEpIdEk0VEkzeWJpb0dCMUlpZ054ZkZXRnlWWkk5b28xY2FaLVhqbWYxT05IUlFoODFUQjgtRGV6OUpmR1VJZFV0VzhnMHpJSXd0by1Pa1hHMjZxX2pqQUlFOGd1aVp1NlJpenFXaGFsZVBXdXlVcVV5MW5wYzc1cGIwSzJVX2lVVWVMR0ZfckFoUlBGd2RBTmpSRVHSAacBQVVfeXFMUEFKVlBBVXQzd3RNVGdzVnJIX3ZzR3EyNVNXdzN3VXlHSm0yMmxRcWs0Q0pXelpNclNsSmplbTBjREZYMWphaXBvNlExUjF3azVLelpTb0hsNjVqWGF2ZlBrY2ZJX2sza2JuX3RWOENxNEVIcW85SGpDNFZ4b0lPS19KeENXMzZLM0RWSWJ1U1JCM1pieUlOYWpRQmNGNjhEenBNMTdBOTA?oc=5",
-          "time": "09/05 19:59"
+          "t": "The Jobs Report Was Almost 3 Times Better Than Expected. Why Stocks Fell Anyway",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3Zpd1BNTUZTNHM3d19BempiQ0hiX01JZ0NSRzF2ckltcW5aMGZiN1dsOXNuWXBqa0ZETmVUSXJ1bjRQdXctbG9DUUR6aUJjV1kwRDZZdmdTaU9sTzI0Wk8yeXFETGY1M3ppZkNzRTFFdkc0Q0tySHRkbGFxZld5X09sckhLVFczWFBhYjJ3dHBZOVRsZDVzSFptOHlYZVc1M1JvTUV6U1Z0aDRraUxkMmN3NFljaFlpRmUwSXB1Yw?oc=5",
+          "time": "09/06 22:41"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Snowflake Delivers One of Its Best Quarters. Wall Street Is Loving the AI Boom",
-          "src": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1k3eTBSb21EOGJXb0dJa00yT2k2RV9QMEpVRG1yRmZxaEI1TUZnZWNSb2dNYmJlTVU5eEoyMjU4Q3NBTGVldlRWNUpEVF9iVS16YnJXQkZsY1N2b1ByMzdLbkhPSDJobnR4SlZmYTZfdDVjajZfSk5GMTVMM3RKZ016NUdxc2hFeVRoSVJ2VURnR1VmQWRjQm5yZlBucF9JYlI3MDRGTzVHbnpTelZ4YXhBV2p4ZXJzVzhaSk93?oc=5",
-          "time": "09/06 00:37"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Is a Stock Market Crash Likely Under President Donald Trump? History Weighs In With an Answer Wall Street May Not Like.",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZWc3VjU4d0EwcTNiM3ppTjFnWXpDV3FfUmtIOWJjd2pqUTcxWUpkeU5tWGdSeXhIdnR1aUxhXzlWc1RleE9kYUg5bVlMZjIyZVBnVUFfWHhNQk9iT1BjRmphSjJMelczWmlqeUtkdWx0YnowVzFOR2ZLZEd3S3c3aE9uOEx4WWJRb0hjQ2dQSUhReGgzR3hLWmdzRU9SWEtybkZiWGQ1R054bjVYdGJHRXBLRG5UT08yMnd1TlR0SWRDQTNqNm1uY2l3RHhwVE5RNjF3WmhhcGRYUQ?oc=5",
-          "time": "09/05 18:06"
+          "t": "He’s Letting AI Agents Invest His Money. They Even Have Names.",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLThYM2VKejRrbndnaTJuYUFpNVBmMlFqa0xyQmhDRWVJSENSRlJ3dmRBMlZoS0lXNEY2VUEyRHFrQzNCV3dWYVlzNTlOMnRLeTZiNkNPTHJyR3FiYkV4OVJYamRqb2Q3bDBtMkdIOGxXTTRMRm0zZnRfUkRlTmNKMXFfSE5UVFV1dkdZOGRTREctd3ZsLXdnTFNPRk1SbVE?oc=5",
+          "time": "09/06 09:00"
         }
       ],
       "indices": [
