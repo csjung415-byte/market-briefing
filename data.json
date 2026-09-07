@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-06T23:34:45Z",
+  "updated": "2026-09-07T17:48:08Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "[이슈]“코스피목표 1만2천 유지” 골드만의 근거",
+          "src": "munhwa.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGZ183amVUdkV1ZXdnb2FrNkJ4QWpoWjNxa2g1OHBLWjRJVEJ3MlhmT1huOWhqckFZRlRNNWFYZmxQSDYtNjRaUGM1d25VX1Ey?oc=5",
+          "time": "09/07 17:15"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "알테오젠(196170)",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVAtd0JzdFRlMkJSM1RRSnlpNy1DQ0tFTWs1MkM4RUYzeGhBYm1zZGJBUnBfT29xQlZyU0xRNURlUTNmSkN3YzN4Sm00eVV3WTYxaUhuMS1NNDJPUDlEVFRybWo0UnhTLTB4cUxFWTMzT1hNMHZFdjVZVDFxcE44SHhud0JRTmhsVVZjY2dKaVJ4b0QyU3hB?oc=5",
-          "time": "09/07 05:17"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "[마켓뷰] 오픈AI발 호재에 美반도체 급등…코스피도 강세 기대",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yM0pjU3JkUzlNYk1VdTVvTHhJNEtDZ3Q4cGJ1ZjNVNjNSX2kyWHE3LXNLVzFUcUxNRWJyVlhjYWtzTndKaGJtTmQ0bENfN2FHRFpRNU1uR1dpYkHSAWBBVV95cUxPc2hSdzd5Z2hkczU0OFJYM3ZLNnVmN0ZieTVIVFlGVjhzeGFwTE9nUDdCNm1zazFTUW0yNV95VHMwSjZpb2swS2tYd253M05JaUNZUE8zVmota294SDJZUUE?oc=5",
-          "time": "09/07 08:05"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlN2MDR2UUxGMmNIVDA2MFZoZGE0bFZWbjZOVy1rWHVlZGQwZ3J5MFk1OXRhWmVId3huaFlWTTJZT29xd3B4THJLRlRMcC1LN19yUGhCUmhYVkZPaHY3N3pVSGtrU2ZWU3FoUlA4QVphM0psWEdhbkhHeE9fMHpiSkY3NVRsSlZFRmJabHlLb0lSM0M3WnJF?oc=5",
+          "time": "09/08 00:51"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "'AGI 시대' 메모리 수요 폭발 전망…코스피 7000선 안착 '기대'",
-          "src": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tY2JsMVQ5VmI5cXNMV01WV1JDWW81eXU0eDBOYzlfc1htY3U3dDZEWlpOX0tOYy1zemo5N1lPZ2hhWGhDREVjeDdQLXZxLVlvNHM3M1pjX2ZNcHlVMkVNVUt3dk3SAWRBVV95cUxOLWNibDFUOVZiOXFzTFdNVldSQ1lvNXl1NHgwTmM5X3NYbWN1N3Q2RFpaTl9LTmMtc3pqOTdZT2doYVhoQ0RFY3g3UC12cS1ZbzRzNzNaY19mTXB5VTJFTVVLd3ZN?oc=5",
-          "time": "09/07 06:00"
+          "t": "[코스피·코스닥 붐업이 남긴 것] ④지수는 올랐는데…투자자 ‘국장’ 지킬까",
+          "src": "스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45Q29UTldLZElBRk9YdC1RWEpZYXZzRE5oZWFaS2pJUVhzLU9YSXpvSjdURGlKNjNyWGdWekNGdGdLakFwcExiOEUyemlqNngyLWVqclVnSHk5VVEwTzR3WmRicl95YkhQMEdrRHZsdFFsd2PSAXdBVV95cUxQbWZNU3pPZXVYWlQzeFpKdlJyNXhZOW9JX3dMNTItVm1hWXVVa1FCLWhtWjlQU3dxSUhUZTlQTzVKOUp3dFhlVDNXRWI3T3JyMHRQZTFGQ056a194WVNDaWdGY0JSMTBYRDFRSmdyVC1jbEZIdXZ4Yw?oc=5",
+          "time": "09/07 11:32"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[마감시황] 외인·기관 쌍끌이에 코스피 4.61% 급등…6995선 마감",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mY1dtQ0g3cW02R0wwT0s2QnVoU3FYTEJYT2JTV2hnODR1V0ttZnpSdUZUQ2tuVVBBbHBhdnlpZVRhaExvakZVaDRuQXdrSmowNjVLOEg3NExLblEz?oc=5",
+          "time": "09/07 16:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[주간증시전망] 기타법인 6조4684억이 코스피 받쳤다…이번주 6200~7300",
-          "src": "jabon.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aR29IeU56anFqTFluLVhwTmZZUEhLNXVEZmlyY2Fld2k2YVJqV0N5blIyZ0k1QldYS1lMOXIwb3VjdFdIQXpXVkYyckpyZGt6SEw0Y2h4MHM1d0RpWlp4NUxVcVh6QjQ?oc=5",
-          "time": "09/07 07:30"
+          "t": "9월 10일, 코스피는 내릴까 오를까",
+          "src": "topclass.chosun.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93X0dTSHNGTFRQMG1jS2s0UVB0djRtcE1oZUNWUkEzbmF4ZGZTNk5UaTdiYjY5b2J3SjF4dTJFYklUaTA0eDFlX25fMl9tc2xaci1qWFlVXzUxQkRCT2Vadkd3QWZxcTcwemZEd2E1cGjSAXBBVV95cUxPd19HU0hzRkxUUDBtY0trNFFQdHY0bXBNaGVDVlJBM25heGRmUzZOVGk3YmI2OW9id0oxeHUyRWJJVGkwNHgxZV9uXzJfbXNsWnItalhZVV81MUJEQk9lWnZHd0FmcXE3MHpmRHdhNXBo?oc=5",
+          "time": "09/07 11:56"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "[박정식의 국내 주식시황] 인공지능 투자 확대 기대감으로 반도체 부각에 증시 반등 기조 이어질 모습",
-          "src": "뉴스퀘스트",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90R0Y5UUhjZDdQMm16NzRibmNGOWZNNHNtMnFPSU9uZFhWb0oxeEVTNlRRaDctYU5KSGFBY0x5NzFsMXRmY1k1UzBxMXdad19sRFljZGV6Z0FSaUsxRlhQUERMQTZvQzVvWm15Z1U4cw?oc=5",
-          "time": "09/07 08:14"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "박스권 갇힌 코스피…美 금리·중동 리스크 극복 관건 [주간 증시 전망]",
-          "src": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rbm5udC1nLXFtakhjZVk5LXJLZnBJamh6RHcteUhYX0Rua1hvT2tCZWVzYW9VbTNDWlNqVXVBRE9RSVZIMnRRYVFaRzJja05IZlHSAVNBVV95cUxOVXlHTmF4eUE5M0hUN3M3SkpYaXRQamE3bk9MNmUwTTRzQkdZdVZtZUdPRWJ2Q09wOWE3OHFuQVdTaS1NV1ZuWVBrUWd2ZUVTZnJsQQ?oc=5",
-          "time": "09/07 07:00"
+          "t": "반도체 랠리에 코스피 7,000 목전",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiLXdHVTZUV3N6RlBsV1dzVTVldmJQM1dqLUNiR2psdmNWN2xiV2xnV3VyeUtiZ3Zhb1pjT3NmYzBoNV91QjRSejE4TEdTbF9Hb2ZNWVhEMmRSZmhzOEVYTGhsQVdMMkMxbHJIQQ?oc=5",
+          "time": "09/07 16:08"
         }
       ],
       "indices": [
@@ -68,60 +68,60 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1345.72,
-          "pct": -0.71
+          "value": 1344.38,
+          "pct": -0.81
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stock Market Today: Nasdaq Ends Off Steeper Loss, Dow Rises After Downturn; Credo Technology Advances",
-          "src": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWtqOUZjRl9sN004azF3ekxYQzc3dHdQUk44UXRTOEhpWVFJWHpmcUgxTnRTNTBHRVlJT1dBMkRPbUI4eklyVW9JajdTbXA1WDBkUHJRQXVzZG95UmpQRzJyV3R3NGNha2hqNE1uWnJRLVFrcnhFZkZVNmFjS2U1blh5TVctMWx0bjY3Rkphb2xFWlRyQ1lScE5vZWhaOEZQX2NGQkRvOXF1cFU?oc=5",
-          "time": "09/07 02:37"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stock Funds Are Up 12.6% for Year So Far",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ETjE5QXh6TFdtYnRqS1djZGt0TVp6NHRLTzFCejZnZTdobUc0SElMN2VkQ3lCNXRzZEV6cG9VamlfVVNYOXN3c09jYUo5cC1GUFBiaUpmRnBXQXM5b0dXYjIyTDVhbkFSdG00anRVQ01iOWtpejlzNk5UQQ?oc=5",
+          "time": "09/07 23:01"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Stock Market Is Doing Something for Only the 2nd Time in Nearly 156 Years, and History Says It Foreshadows Disaster for Wall Street",
+          "t": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVI4RmVZT1VZR05wUXhiMEg0TjBaQmtiamw1RHZ2ekhFdzZDOWRaUkJtV2Y2bVQ4Qm9nZUxFQS02QUtmckFjZDAwekktSW82cFRoTDdiWkE5MEtMOUUwMmx0NmZDT3FCekhlU0dzUzU5MnpGdExjX01ZNXI1S0pURmZHckJvTGFZa1lyZmVrN2w2ai0wWWdndk9DejFCMGM?oc=5",
-          "time": "09/06 19:56"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "AI stocks resume sell-off and drag Wall Street lower from record highs",
-          "src": "Fast Company",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5USDR0T3ktQnBzRWpqbERWWDd4R3liYXJjT3MyWWlBZW5naVJjSUJSZmlURTluWXBHOWNzaTNNZ0xDWG1QdGR1THJXUjI4VWNsaVFsVktVWTREWkJWNHpyN0lfWjBpTHJBb1RnbmVrOUlBUQ?oc=5",
-          "time": "09/07 03:11"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMnYzNXZESjBqcnRtUEdTM3RSVUY2clJfMEgwZ3I4eTVDYjZEdXNEZHIyckdmdG9keGpZUVFGY2dibG9IYXIzN3BJX19Na0wwQ3VRcmdVU2dDR0xCYmlsRjFCc2dQb1dqOXhhT2lfeTUxUUZtTVUtYzEtcnh6T0Z1Mk5EcnJNWEZVNEFBbmxJZEM5Vi16Q3N5UjBCVks1R0ww?oc=5",
+          "time": "09/07 19:20"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street Week Ahead",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCR0E2eFRYd2xCcXVMbjRVVHBoV3NPdldERlRPa0RWMHVDcWZGc0d2b2EweWVHVmx2MXVOdUNBeEp3ZjhqSDRVam9YSHN0NjRUaXJvdUlYVlg1Vnp2WGs1Tlc0aWRTUHJ4RlJ0UUtpSms?oc=5",
-          "time": "09/06 19:37"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Possible Stock Market Crash: When to Buy and Which Stocks Could Benefit",
-          "src": "finchannel",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0xTNGE0bExJTEJHb0FFU2UzYXlsektTSVBPSWstbE5Cb2xGUTlrWC1rd2lzZGxCMkxlN3VJRl9ZdTc2S0dmNjNwX1dEaExaQnhqbl9uLTNzQy1QMkVzSnpTLWkwMUdELUFqSmdfZ2RtOVlzamotZTZkS0lsVEZtc0RJRUZ0RS05eEFUbk5iaTh0N2oyMTB0WXU1bjloQjdZZE1ic3VmWmlUWXctcU9FNnhpQm1JMHlRN2xpcGQ0a3lEN2dhMm5na3lSaXZpU1U?oc=5",
-          "time": "09/07 03:46"
+          "t": "Top Wall Street analysts like these 3 stocks for the long haul",
+          "src": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0JYWFZrYWw5V0tBSF9sU0QwU1JPVVJFR2pnZHZlbXUyLUJNdFh1ZFJfU1VzOS1xcFZTN2twSFFVWEFVbkVoMmhBRzNnajBfdG1hSDNUWFpzYVlsNGk1NmNWYThTZkdVWHRFcUhLVXpuWFRNQVY5Y1RGSlJGeHlFc3MzUWdnWFJ2dExZR245bmprbmJVSGxzNTZScmJpV1JO0gGmAUFVX3lxTE5ERVZGRWFTdzN5dDI1ZTlZZUg4SnFENUpSZ09Sd2dnM3ZMejBJa2ZfTE9VOGRNVkVzNGxEODJBdkhCNC12SkdNVzBNUHg0NnNneHdrYnFzVGpQbHJIYlVpRnB6Wmk0T0FzVnZBSHBrY1ExTHpDNmtBVzRjOFZsdXJPdjhkQUV5YzJERldpM2RFa2hPWmRaNTI2Q1dmNUF4YXhlWTQwQlE?oc=5",
+          "time": "09/07 19:37"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "XRP Trades at $1.41 With a $1.43 Wall Overhead. Can It Break $1.50 Before the Fed Decides on September 16?",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdW9sSEEyeWxkeTItWmpVR3NUU0lVZ09JcnNkYmtBMk04dW5TYmFIcS1hUmY5dHN0NGxscGJicS03dlR5MFBCRjg5ZW8xV1FmamUwbUt1b05BLUtTLV8yYmFITDljZU9kSUt2OXdQOFZCemRKYXN6WVhrdTZFSkRjb0FrdEMxMTZzQjhoY2xhTnY2NVlsSllLQWx5WWgwTHpKT281QnNqeHNuUHhCVEJ4UE85QmNUaDNoZGhmeUlwREF5OWw2UTJWbzVaTkRCdFVQVGg2UWJMMnowV3BXQXhIWW5keHdrVExzdm5HY1V4a3owdw?oc=5",
-          "time": "09/07 06:56"
+          "t": "Strategy Is Down More Than 50% in 12 Months. One Analyst Thinks the Stock Is About to Triple",
+          "src": "247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGVpVWZzVEJIaTFOX1IyRkVSQ1VIS3dGN0owZFlyTHRrRXNzcVZzV19uM2ZvNGc3ajJDVmxsT2xYcGRhLXZhVG0tVGdNRThtZnlfLUxTc3RQM1dicFRkT2tWWUE0TGtNbDBZb05Hb1V3XzRMemdaNWZJMHc0ZGhYTWFrT29lbzE1N0FWMzAwVkVjbDdxWk9nWTJTaTY0clNfRW5waVF5N285Ymt4Q3FTUkgtRzdlRy1PMDlmYmNVbjMxa09yekQ4Q3RiaGdUc2M?oc=5",
+          "time": "09/07 21:36"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street futures mixed after jobs data lifts Sept Fed hike odds",
+          "src": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcU54UkpYZkViSVFLeVZZeUxORm5KMVlQNEN0LUhBUnZNZ1Q4aWo0LVpMdHpodGpKN3drRHlscnBtWUxuLURSMzVvekhieFZqUXI1X1NwVWZjTXRibV9qNnlTNmNFNE5SMWFFVWJEcEc3SUNNclR1ZkxKR3c3RGhOZkNBV0NjNURjRExGOVhzRE85ek5VdDl3cXlIazU2U1VOcktGWnZOSWhSdmRKNzUteVhzMHVOUE14aV9aOWJkRFE?oc=5",
+          "time": "09/07 17:15"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Why is the US stock market closed today? A crucial week awaits Wall Street",
+          "src": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0xTdW1uZy1lcV92aWlpZldkR3c3bmN3T1dIUUtTRDgxUnI0TG93ckJ0MmxtWUg1YkFVMkhpYmNVM1VzODA3aHY5Y0hTdVVuTWZXMGY2YWtwNGZiNEdYT2pXUHJoZ0hPZzNHTW1GYzd1aGVRSXk2b1VYZEkzbUgwb0xkTVZZTXA2QWs1SEpYMTJXY2NxQS1xQWlqbHE2RVZWSmJoVFZ0OGVsdkFsOFBRb2FYU1RJbEV3Y19MalZDN1LSAcYBQVVfeXFMTVo3Y2hYLWczUklJRnBZSllrMENocXo2MkNROGVPWVVJd1Y0QlVKNkJsV0tSRUJsNjFnTWY0NjU3NlQxWlAtZHI1VUxtT1BTdmtrS1htTkwzZ2JmWmVvcGhKRXRSbHM2NUV1RC1nbENqaWlaNWc1Mnd2SEVDbDNuQ0NZQkhXTnhOcnBJWWpVbjFNNzlUam5tSHVRdF9tTDJQSnVSU09jTjJfbXpqRUJrRGJLMkw2akNhWnlLZVVqZHFmSEdzWFZn?oc=5",
+          "time": "09/07 23:42"
         }
       ],
       "indices": [
