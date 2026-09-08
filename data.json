@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T17:48:08Z",
+  "updated": "2026-09-08T00:01:49Z",
   "markets": {
     "kr": {
       "news": [
@@ -7,7 +7,7 @@
           "cat": "macro",
           "catn": "시황",
           "t": "[이슈]“코스피목표 1만2천 유지” 골드만의 근거",
-          "src": "munhwa.com",
+          "src": "문화일보",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGZ183amVUdkV1ZXdnb2FrNkJ4QWpoWjNxa2g1OHBLWjRJVEJ3MlhmT1huOWhqckFZRlRNNWFYZmxQSDYtNjRaUGM1d25VX1Ey?oc=5",
           "time": "09/07 17:15"
         },
@@ -22,34 +22,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[코스피·코스닥 붐업이 남긴 것] ④지수는 올랐는데…투자자 ‘국장’ 지킬까",
-          "src": "스트레이트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45Q29UTldLZElBRk9YdC1RWEpZYXZzRE5oZWFaS2pJUVhzLU9YSXpvSjdURGlKNjNyWGdWekNGdGdLakFwcExiOEUyemlqNngyLWVqclVnSHk5VVEwTzR3WmRicl95YkhQMEdrRHZsdFFsd2PSAXdBVV95cUxQbWZNU3pPZXVYWlQzeFpKdlJyNXhZOW9JX3dMNTItVm1hWXVVa1FCLWhtWjlQU3dxSUhUZTlQTzVKOUp3dFhlVDNXRWI3T3JyMHRQZTFGQ056a194WVNDaWdGY0JSMTBYRDFRSmdyVC1jbEZIdXZ4Yw?oc=5",
-          "time": "09/07 11:32"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[마감시황] 외인·기관 쌍끌이에 코스피 4.61% 급등…6995선 마감",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mY1dtQ0g3cW02R0wwT0s2QnVoU3FYTEJYT2JTV2hnODR1V0ttZnpSdUZUQ2tuVVBBbHBhdnlpZVRhaExvakZVaDRuQXdrSmowNjVLOEg3NExLblEz?oc=5",
-          "time": "09/07 16:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "9월 10일, 코스피는 내릴까 오를까",
-          "src": "topclass.chosun.com",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93X0dTSHNGTFRQMG1jS2s0UVB0djRtcE1oZUNWUkEzbmF4ZGZTNk5UaTdiYjY5b2J3SjF4dTJFYklUaTA0eDFlX25fMl9tc2xaci1qWFlVXzUxQkRCT2Vadkd3QWZxcTcwemZEd2E1cGjSAXBBVV95cUxPd19HU0hzRkxUUDBtY0trNFFQdHY0bXBNaGVDVlJBM25heGRmUzZOVGk3YmI2OW9id0oxeHUyRWJJVGkwNHgxZV9uXzJfbXNsWnItalhZVV81MUJEQk9lWnZHd0FmcXE3MHpmRHdhNXBo?oc=5",
-          "time": "09/07 11:56"
+          "t": "코스피 7000선 다시 넘보는데…증권사는 ‘울상’[코주부]",
+          "src": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52VUtJVXhQMXE3VEgyYnRJeFFsX2lTVUl4WDNEM0JlSVVESXRkRTREV2VmQUFPSmpXQlY1VTIyb010WnlFVlFZMFBWVHJjRzVDdmfSAVNBVV95cUxNb2x0eFZka1VtaEJmSloxTHVsNDdfMW1NNXJlRmw1aEV5UEJ4WFlrLW45UUFvMFcwdlZVOWU0VVNGSW1yT25mNTc3V2pzMVJQSXhyUQ?oc=5",
+          "time": "09/08 06:01"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "반도체 랠리에 코스피 7,000 목전",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiLXdHVTZUV3N6RlBsV1dzVTVldmJQM1dqLUNiR2psdmNWN2xiV2xnV3VyeUtiZ3Zhb1pjT3NmYzBoNV91QjRSejE4TEdTbF9Hb2ZNWVhEMmRSZmhzOEVYTGhsQVdMMkMxbHJIQQ?oc=5",
-          "time": "09/07 16:08"
+          "t": "[박정식의 국내 주식시황] 오픈AI 훈풍으로 반도체 중심의 증시 상승 기조 유지 될 모습",
+          "src": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QZFlxdDNXSWluT2lDNXhOTktVQ1VndGNJRUppclh2SWpvMzZLOHlHOVcxTUkyT1N4UmFfTFNRRjNfdzNSRWJSaUdXREE3YUpjT1dLYWlfQ0FXNTluN0Yydy1RajJiNUdCUU5VZmx1cw?oc=5",
+          "time": "09/08 08:21"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "롤러코스피 시장에 공매도 비중 1년 내 최고…기관·외국인 쏠림 여전",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13Zy1pZmZzbEMwN0xHbXRrTV9uRGhTZHBYU0wtaG9hZHBMUUNDQU1BVzRJVTNocUNMak4xZXdaZWVnNGozTTdNWWhvN3QzZGdzMWhKZndESHY2SWw4?oc=5",
+          "time": "09/08 06:07"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"코스피 수익 기준으로 역사점 저점 지나고 있어, 연말 전 9300 뚫을 것\"",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkJIQ2x4ZzJsZG4xXzBtWmJBS1pGMEZVVmFaTGZPdnk5WVVGd3JHVTFIdDN2NU9qRUMwTUlCNmc4aXQtU1U5bnJadElMNDJtdWwyWmMzMUdkZE5IWXF3eHZJa0R0aHpGZzRaSGhJbDJvQ0hvLW1meWNBdzdjU3FiZQ?oc=5",
+          "time": "09/08 05:36"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1344.38,
-          "pct": -0.81
+          "value": 1341.38,
+          "pct": -0.27
         }
       ]
     },
@@ -78,34 +78,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Stock Funds Are Up 12.6% for Year So Far",
+          "t": "U.S. Stocks Fall as Oil Surges After New Middle East Strikes",
           "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ETjE5QXh6TFdtYnRqS1djZGt0TVp6NHRLTzFCejZnZTdobUc0SElMN2VkQ3lCNXRzZEV6cG9VamlfVVNYOXN3c09jYUo5cC1GUFBiaUpmRnBXQXM5b0dXYjIyTDVhbkFSdG00anRVQ01iOWtpejlzNk5UQQ?oc=5",
-          "time": "09/07 23:01"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o?oc=5",
+          "time": "09/08 06:35"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Is the stock market open on Labor Day?",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bGx0Rmt4V1FuMA?oc=5",
+          "time": "09/08 01:28"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMnYzNXZESjBqcnRtUEdTM3RSVUY2clJfMEgwZ3I4eTVDYjZEdXNEZHIyckdmdG9keGpZUVFGY2dibG9IYXIzN3BJX19Na0wwQ3VRcmdVU2dDR0xCYmlsRjFCc2dQb1dqOXhhT2lfeTUxUUZtTVUtYzEtcnh6T0Z1Mk5EcnJNWEZVNEFBbmxJZEM5Vi16Q3N5UjBCVks1R0ww?oc=5",
-          "time": "09/07 19:20"
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1BkRkRkc2V0TDcwVTJpZUswRGlpbE1NbWl5TE9JcS01dnpXaDgwQVYyV3BzaExPZmxsTEFOTzRETUNVT1RWSE1sMUNNT2dYUm5paVpsV1ZKNzlmUDlpYjN2akZxSVpDSjdTMWJocFZUeGxjSGJ3M293Ym52RUlEWC1xVWRSTHFkRG5NM1BBcHZiOUt2c3hQYg?oc=5",
+          "time": "09/07 20:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "Top Wall Street analysts like these 3 stocks for the long haul",
-          "src": "cnbc.com",
+          "src": "CNBC",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0JYWFZrYWw5V0tBSF9sU0QwU1JPVVJFR2pnZHZlbXUyLUJNdFh1ZFJfU1VzOS1xcFZTN2twSFFVWEFVbkVoMmhBRzNnajBfdG1hSDNUWFpzYVlsNGk1NmNWYThTZkdVWHRFcUhLVXpuWFRNQVY5Y1RGSlJGeHlFc3MzUWdnWFJ2dExZR245bmprbmJVSGxzNTZScmJpV1JO0gGmAUFVX3lxTE5ERVZGRWFTdzN5dDI1ZTlZZUg4SnFENUpSZ09Sd2dnM3ZMejBJa2ZfTE9VOGRNVkVzNGxEODJBdkhCNC12SkdNVzBNUHg0NnNneHdrYnFzVGpQbHJIYlVpRnB6Wmk0T0FzVnZBSHBrY1ExTHpDNmtBVzRjOFZsdXJPdjhkQUV5YzJERldpM2RFa2hPWmRaNTI2Q1dmNUF4YXhlWTQwQlE?oc=5",
           "time": "09/07 19:37"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Strategy Is Down More Than 50% in 12 Months. One Analyst Thinks the Stock Is About to Triple",
-          "src": "247wallst.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGVpVWZzVEJIaTFOX1IyRkVSQ1VIS3dGN0owZFlyTHRrRXNzcVZzV19uM2ZvNGc3ajJDVmxsT2xYcGRhLXZhVG0tVGdNRThtZnlfLUxTc3RQM1dicFRkT2tWWUE0TGtNbDBZb05Hb1V3XzRMemdaNWZJMHc0ZGhYTWFrT29lbzE1N0FWMzAwVkVjbDdxWk9nWTJTaTY0clNfRW5waVF5N285Ymt4Q3FTUkgtRzdlRy1PMDlmYmNVbjMxa09yekQ4Q3RiaGdUc2M?oc=5",
-          "time": "09/07 21:36"
         },
         {
           "cat": "macro",
@@ -116,12 +116,12 @@
           "time": "09/07 17:15"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Why is the US stock market closed today? A crucial week awaits Wall Street",
-          "src": "CNBC TV18",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0xTdW1uZy1lcV92aWlpZldkR3c3bmN3T1dIUUtTRDgxUnI0TG93ckJ0MmxtWUg1YkFVMkhpYmNVM1VzODA3aHY5Y0hTdVVuTWZXMGY2YWtwNGZiNEdYT2pXUHJoZ0hPZzNHTW1GYzd1aGVRSXk2b1VYZEkzbUgwb0xkTVZZTXA2QWs1SEpYMTJXY2NxQS1xQWlqbHE2RVZWSmJoVFZ0OGVsdkFsOFBRb2FYU1RJbEV3Y19MalZDN1LSAcYBQVVfeXFMTVo3Y2hYLWczUklJRnBZSllrMENocXo2MkNROGVPWVVJd1Y0QlVKNkJsV0tSRUJsNjFnTWY0NjU3NlQxWlAtZHI1VUxtT1BTdmtrS1htTkwzZ2JmWmVvcGhKRXRSbHM2NUV1RC1nbENqaWlaNWc1Mnd2SEVDbDNuQ0NZQkhXTnhOcnBJWWpVbjFNNzlUam5tSHVRdF9tTDJQSnVSU09jTjJfbXpqRUJrRGJLMkw2akNhWnlLZVVqZHFmSEdzWFZn?oc=5",
-          "time": "09/07 23:42"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Chartist Katie Stockton highlights emerging shifts in stock market activity",
+          "src": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWdHTWc4N0NQdkV0VC1JVEktNzBpZnFOaXBCZW9Gc2JPcWVqUHdJTVJQQVotLVFRZkw5cE51Q1ZKc0o1M29XOU56a3Z5a3hoVy1vWVNkNkhtbHlLLW1YYWlPdWVweEdXTklMYXRSVjgxYkhsVC1iLVJ0UFMxQm4zUA?oc=5",
+          "time": "09/08 02:59"
         }
       ],
       "indices": [
