@@ -1,75 +1,75 @@
 {
-  "updated": "2026-09-08T00:01:49Z",
+  "updated": "2026-09-08T16:46:12Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[이슈]“코스피목표 1만2천 유지” 골드만의 근거",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGZ183amVUdkV1ZXdnb2FrNkJ4QWpoWjNxa2g1OHBLWjRJVEJ3MlhmT1huOWhqckFZRlRNNWFYZmxQSDYtNjRaUGM1d25VX1Ey?oc=5",
-          "time": "09/07 17:15"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "알테오젠(196170)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlN2MDR2UUxGMmNIVDA2MFZoZGE0bFZWbjZOVy1rWHVlZGQwZ3J5MFk1OXRhWmVId3huaFlWTTJZT29xd3B4THJLRlRMcC1LN19yUGhCUmhYVkZPaHY3N3pVSGtrU2ZWU3FoUlA4QVphM0psWEdhbkhHeE9fMHpiSkY3NVRsSlZFRmJabHlLb0lSM0M3WnJF?oc=5",
-          "time": "09/08 00:51"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 7000선 다시 넘보는데…증권사는 ‘울상’[코주부]",
-          "src": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52VUtJVXhQMXE3VEgyYnRJeFFsX2lTVUl4WDNEM0JlSVVESXRkRTREV2VmQUFPSmpXQlY1VTIyb010WnlFVlFZMFBWVHJjRzVDdmfSAVNBVV95cUxNb2x0eFZka1VtaEJmSloxTHVsNDdfMW1NNXJlRmw1aEV5UEJ4WFlrLW45UUFvMFcwdlZVOWU0VVNGSW1yT25mNTc3V2pzMVJQSXhyUQ?oc=5",
-          "time": "09/08 06:01"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "[박정식의 국내 주식시황] 오픈AI 훈풍으로 반도체 중심의 증시 상승 기조 유지 될 모습",
-          "src": "뉴스퀘스트",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QZFlxdDNXSWluT2lDNXhOTktVQ1VndGNJRUppclh2SWpvMzZLOHlHOVcxTUkyT1N4UmFfTFNRRjNfdzNSRWJSaUdXREE3YUpjT1dLYWlfQ0FXNTluN0Yydy1RajJiNUdCUU5VZmx1cw?oc=5",
-          "time": "09/08 08:21"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "롤러코스피 시장에 공매도 비중 1년 내 최고…기관·외국인 쏠림 여전",
+          "t": "[마감시황] 코스피, 전일 급등 후 숨 고르기…7000선 아래로",
           "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13Zy1pZmZzbEMwN0xHbXRrTV9uRGhTZHBYU0wtaG9hZHBMUUNDQU1BVzRJVTNocUNMak4xZXdaZWVnNGozTTdNWWhvN3QzZGdzMWhKZndESHY2SWw4?oc=5",
-          "time": "09/08 06:07"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNTllU245T1Vud2o2QnFtZVl2UzMxbTdCY2I4V0ZETmpEa2ZYWm1uMG9EUER1UVR5bVQ2eEt4YnpuSUZ6M2pGS3Z1d0Q3Z3N5WVNVb1l3bXh0ampN?oc=5",
+          "time": "09/08 15:59"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"코스피 수익 기준으로 역사점 저점 지나고 있어, 연말 전 9300 뚫을 것\"",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkJIQ2x4ZzJsZG4xXzBtWmJBS1pGMEZVVmFaTGZPdnk5WVVGd3JHVTFIdDN2NU9qRUMwTUlCNmc4aXQtU1U5bnJadElMNDJtdWwyWmMzMUdkZE5IWXF3eHZJa0R0aHpGZzRaSGhJbDJvQ0hvLW1meWNBdzdjU3FiZQ?oc=5",
-          "time": "09/08 05:36"
+          "t": "\"본전 되면 판다\"…개미들 증시 탈출에 코스피 7000 탈환 실패",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkNUk1c25saGpwdkx5REF3czJUa194ZGlxZXV4MGY4Y3pmZkhCN1VRNXIxTk9yRWJ3RDhvT2FTTkEyQTV2aHBFVHpQdlE3ZGpoTUdVbDc5ZVJQdw?oc=5",
+          "time": "09/08 17:14"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "‘탈출한 개미가 옳았나’…7천피 회복했다 다시 고꾸라진 코스피",
+          "src": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WekhMeTlubF9nVmZDQy1pMXB0SzBLU3RPT0JUbW9XR2d3ZDEzTnI0X01GbU5qX294WFFTQUstejVlWFJrR1drdzBlREVjaEw4?oc=5",
+          "time": "09/08 17:09"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 ‘7000’ 턱밑서 주춤… 개미 이탈 지속",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95YlVBVFBJdGJBeHBYS1ZrYTRLYm5tLWp1MWdsaVhuZDhxWkR1RlFQZl8tN0R3ZWxjcGI1NGVBWkhTQWo2bzZpdDB0azdqWkk?oc=5",
+          "time": "09/08 20:03"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "조정 가능성 여전한데 … 코스피 3.4% 반등할때 빚투는 15% 급증",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GcEtmUmthc204TWNHejNicXJsdUtHY05PM01kSlRIZEh2RlRXdTlZb3VoenZBN051a0J2N3Z3Z2VhT3hoMkFpV3ZhQkxsMUVRU0E?oc=5",
+          "time": "09/08 17:49"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "7천피 뚫고 오르다 \"장 막판 미끌\"...유가 급등, 변수가 또 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4aTBodjBJamotRThEb3ZXVFVnbUMwZDYwTDNsNUhZNHFhQXRydjk3NjRYYnpLOUNrRmRjbUhfZ1I4VlluMUMyR25QQXFnQU9qRHo0QkE1MGkxamg4cExyVVBJN09hUklY0gFuQVVfeXFMT0loTjNWNGxXS18tVkFLSDNBWjE5MjhSVWlRRUYwbUJjQ0FWTWxBOTMzeGN0NGpZUnQ3MUlyUWtzQXdkWjRZSlpqRWdyYTFKcEIxNDdHMzZNdlJZZXg4eFJtYlpNajdWQjhHeWNkamc?oc=5",
+          "time": "09/08 15:52"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6687.21,
-          "pct": 1.64
+          "value": 6995.39,
+          "pct": 4.61
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 813.5,
-          "pct": 2.95
+          "value": 822.19,
+          "pct": 1.07
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1341.38,
-          "pct": -0.27
+          "value": 1341.53,
+          "pct": -0.26
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "U.S. Stocks Fall as Oil Surges After New Middle East Strikes",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o?oc=5",
-          "time": "09/08 06:35"
+          "t": "Oil prices keep rising and weigh on Wall Street",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblVweWsyMWhiUzh6SDJBQzBmc01MYlh3RjBUcXZyYTVvaENEcFUxakNIS3JUQlVUVFNNcW5jdzFWZlJJcm1NTnJnbDlTVzgzc3duYVBLVHNTSUZXMlVtVGNOU0FwLXhVWFFqSmRUamFDazdsdmFBTzNvLUdLaUZvXw?oc=5",
+          "time": "09/08 23:27"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Is the stock market open on Labor Day?",
+          "t": "Wall St slips as Gulf tensions send oil to over six-week high",
+          "src": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjZqc0tNY1VPMHZtRldqOUxwQzJYN0JtWEpoUVNoNGw4U3I5UnVCYXVjd0ZEUUw1SnZhc1JkWnFoTmFoYlVrZ0R3ZlFaQVQ3cmR6ZDVURG1vU1VoR09EcXI4Sl8wemY1RlU2WFJOQ1h6TXpSbUIzdS1WTDhXZnRONzFjRlI0UGIwQTVkeUxWN3YyMkhHeHd6ag?oc=5",
+          "time": "09/08 23:09"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Grounded and Falling: Why One Wall Street Pro Says Rocket Lab Will More Than Double Soon",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bGx0Rmt4V1FuMA?oc=5",
-          "time": "09/08 01:28"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWU1wR0pYQ2Y5d2s2RnJCcC13bkpSamQwX1RzMERXeHpVNnV1SnhBSzRjalFROW1PbUNqMllPNUpsMXAwMEJxMVdIY0NJcFRLSmNnZEZSZTBaUHVyMGsyZUR2R1BkelJ3bWd0VE1kb3pOOWp1YlUwaWktalhMeWRXUUpvMUlrbE9HNC1TTVVrdERHaUhHMmV0Sm9B?oc=5",
+          "time": "09/08 22:29"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street mixed in early trading while oil prices push higher yet again",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNjVfWE5UYVpZZGgtaVlLWVhNRUU3dFREYjMyWk1QWGpDZjlIb2pmVkhXcmVsSDJGNm1hNGxTMFpBYnl1MFBIOFFOU3hZcWdvd0swT01GSndGLVlXRDhVbnl0cnhPa3p3TVMwR1ZldUVIUlhtU1M4enRTTnc2czl4Zk55ZzZib2taYVNXWi1GRl9MeFFTZ3hEcQ?oc=5",
+          "time": "09/08 20:59"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1BkRkRkc2V0TDcwVTJpZUswRGlpbE1NbWl5TE9JcS01dnpXaDgwQVYyV3BzaExPZmxsTEFOTzRETUNVT1RWSE1sMUNNT2dYUm5paVpsV1ZKNzlmUDlpYjN2akZxSVpDSjdTMWJocFZUeGxjSGJ3M293Ym52RUlEWC1xVWRSTHFkRG5NM1BBcHZiOUt2c3hQYg?oc=5",
-          "time": "09/07 20:00"
+          "t": "A Not-So-Neighborly Trade War",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOWNGYXhSS2RtOGd6NzFoWkotTTAwMFRpNXJwTjlRcFJLQVllUzVxcWp0aFJ3WmpGOUNMOUNsTnlGZi1sQUhNeEVYQXJDaUNLZkZBTTN4bVVkREpQYmtISVhLb2U4SlVHMUU4VXRjaW9lYmUtOFo3VW1B?oc=5",
+          "time": "09/08 20:14"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Top Wall Street analysts like these 3 stocks for the long haul",
-          "src": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0JYWFZrYWw5V0tBSF9sU0QwU1JPVVJFR2pnZHZlbXUyLUJNdFh1ZFJfU1VzOS1xcFZTN2twSFFVWEFVbkVoMmhBRzNnajBfdG1hSDNUWFpzYVlsNGk1NmNWYThTZkdVWHRFcUhLVXpuWFRNQVY5Y1RGSlJGeHlFc3MzUWdnWFJ2dExZR245bmprbmJVSGxzNTZScmJpV1JO0gGmAUFVX3lxTE5ERVZGRWFTdzN5dDI1ZTlZZUg4SnFENUpSZ09Sd2dnM3ZMejBJa2ZfTE9VOGRNVkVzNGxEODJBdkhCNC12SkdNVzBNUHg0NnNneHdrYnFzVGpQbHJIYlVpRnB6Wmk0T0FzVnZBSHBrY1ExTHpDNmtBVzRjOFZsdXJPdjhkQUV5YzJERldpM2RFa2hPWmRaNTI2Q1dmNUF4YXhlWTQwQlE?oc=5",
-          "time": "09/07 19:37"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street futures mixed after jobs data lifts Sept Fed hike odds",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcU54UkpYZkViSVFLeVZZeUxORm5KMVlQNEN0LUhBUnZNZ1Q4aWo0LVpMdHpodGpKN3drRHlscnBtWUxuLURSMzVvekhieFZqUXI1X1NwVWZjTXRibV9qNnlTNmNFNE5SMWFFVWJEcEc3SUNNclR1ZkxKR3c3RGhOZkNBV0NjNURjRExGOVhzRE85ek5VdDl3cXlIazU2U1VOcktGWnZOSWhSdmRKNzUteVhzMHVOUE14aV9aOWJkRFE?oc=5",
-          "time": "09/07 17:15"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Chartist Katie Stockton highlights emerging shifts in stock market activity",
-          "src": "qz.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWdHTWc4N0NQdkV0VC1JVEktNzBpZnFOaXBCZW9Gc2JPcWVqUHdJTVJQQVotLVFRZkw5cE51Q1ZKc0o1M29XOU56a3Z5a3hoVy1vWVNkNkhtbHlLLW1YYWlPdWVweEdXTklMYXRSVjgxYkhsVC1iLVJ0UFMxQm4zUA?oc=5",
-          "time": "09/08 02:59"
+          "t": "A Chill Blows Through Wall Street",
+          "src": "pro.thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmM0Z2NPZ3UyM1lXY09BZERoMDFwUXU1YTdVY3FtaWc4YTZUeEhVWmFKbGEtaHBCQ3k1UWNDdkdpS1V6MG45TnZjdnhtZUw1VkRETndtUWktVFU3WW9sVy0wTXgzT2QzU0VwZi1kSzBHajNyOWtqQlFXRUtOb0RJUDZ1WQ?oc=5",
+          "time": "09/08 20:55"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7718.6,
-          "pct": -0.38
+          "value": 7685.18,
+          "pct": -0.43
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26506.99,
-          "pct": -0.29
+          "value": 26453.36,
+          "pct": -0.2
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53414.25,
-          "pct": -0.51
+          "value": 52814.02,
+          "pct": -1.12
         }
       ]
     }
