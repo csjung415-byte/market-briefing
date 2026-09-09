@@ -1,75 +1,75 @@
 {
-  "updated": "2026-09-08T23:54:07Z",
+  "updated": "2026-09-09T16:48:13Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "하이닉스 프리마켓 1%대 상승… 코스피, 7000선 안착 재도전 [이런국장 저런주식]",
-          "src": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BLUQwU0pfNjVodjhiOG4wN1NzMnByYVlSdVJPVlpjS29LNDBLSkFIU2k0b2kxX1NFRlFWSVNXX0k5R2Q4T3ZxbXo0WHRZS3R4aHfSAVNBVV95cUxNUkZXZFUyU1R4OWI5bGdOX05oM3g1QVBMcGRCRmcwUTZuVUxYd3IwZHpYc2s0NmRuWnplUjk4LXM1MWo1SHFzTDE0MUlzRzVpLUNyYw?oc=5",
-          "time": "09/09 08:36"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
+          "src": "주간조선",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CV2MtOXlseGpqenVpcTBXdHBjSHpjVmhOTURqODJHTFZCZlZwMFVQSXpuTnhNejhRWDNxUDFwaG1qZUJNTzlOVlFoUnFhdmt5X0h2cEl6X1lpLWFLX2ZWSHI3R3dld2hmQ2Rn0gFuQVVfeXFMUDZTYVBSRVh5Tk1LemlpYTNFU1VOak1KOVpCbHdRV0dGQjNkZC02Yk5HZjVkbUVrcFYtTVJPOE5XMm1VV1RmU1R3OFdIZkh0UGNkLW1ncnlVcTRkSlEzRWY2aGJ1RkZNdTZMX3g4U2c?oc=5",
+          "time": "09/09 23:06"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“레버리지때문에 한국 증시 바닥쳤다”…한달만에 39% 급락, 亞 곳곳서 문제",
+          "t": "14일부터 저녁 8시까지 '코스피·코스닥' 주식 매매...ETF·ETN 제외",
+          "src": "KBC광주방송",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oaEM0bVJKajZqM3N2cS0wclo0V1NMTEtYZmswTmJ5cUhFR2cxcmlhTUVfRk1HQWtfcXNMZUdjVXBESDBxUVpoVTd2LTN5UmFyb0lLb01aOGFiY05qbTJGQQ?oc=5",
+          "time": "09/09 16:34"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "기아(000270)",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NSlNhOGZXUUk0ZGgyVFVnRzZ1M1hoUTRFWE5rRU95VmVkUHE3OWsxNl91azVramxPREF2bzlwNWpZOFc1OFdSR21xNEg5WnJuZEE?oc=5",
-          "time": "09/09 07:50"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkhFcUFybVpkUWM4RnhJUGFMdmtoYkFBTl9ZSmJVOGNWUmw0N2xzMl9mQjBqSlZPU25qbW5fVnVRS1lMbVBnMGpaOTRJTERiaWdXWHFWdlU3R3hkaE5TN3d2Z1Zfc0JhUTZSU051eDVEcDlsbEhLLTBWWGJWZ3FoZ1EwWF9WdnBEM2NqSWtFSENfM1pvSHBJ?oc=5",
+          "time": "09/10 00:51"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마감시황] 코스피, 전일 급등 후 숨 고르기…7000선 아래로",
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[마감시황] 기관 9000억 순매수에 코스피 1.4%↑…7050선 회복",
           "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNTllU245T1Vud2o2QnFtZVl2UzMxbTdCY2I4V0ZETmpEa2ZYWm1uMG9EUER1UVR5bVQ2eEt4YnpuSUZ6M2pGS3Z1d0Q3Z3N5WVNVb1l3bXh0ampN?oc=5",
-          "time": "09/08 15:59"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81aFgtb1QtbXNvYWtYOGxSTXlHbGgzVU1rRjM1Rkl5QVV0TlhITjIzb0xGak9adkNsbk9yMDhkS0NaMTZINGlMbWFkSW5pbG11OVJWZkl6MzhsMnl4?oc=5",
+          "time": "09/09 15:56"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"주식 다 빼서 여기 넣는다\"…'연 10% 배당' 소식에 1200억 싸 들고 달려간 개미들",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4waTE2RGR4TGtlS0tHalhkcUVobWdHekhueDV4Z3N2djJadUdhZW9KSDk0MEZvN0VmWEtBUV9FU09ENG9hMl9xOXNHTksyQWM?oc=5",
-          "time": "09/09 07:18"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"본전 되면 판다\"…개미들 증시 탈출에 코스피 7000 탈환 실패",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkNUk1c25saGpwdkx5REF3czJUa194ZGlxZXV4MGY4Y3pmZkhCN1VRNXIxTk9yRWJ3RDhvT2FTTkEyQTV2aHBFVHpQdlE3ZGpoTUdVbDc5ZVJQdw?oc=5",
-          "time": "09/08 17:14"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "‘탈출한 개미가 옳았나’…7천피 회복했다 다시 고꾸라진 코스피",
+          "t": "[속보]‘드디어’ 코스피 종가 7000선 탈환…33거래일 만",
           "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WekhMeTlubF9nVmZDQy1pMXB0SzBLU3RPT0JUbW9XR2d3ZDEzTnI0X01GbU5qX294WFFTQUstejVlWFJrR1drdzBlREVjaEw4?oc=5",
-          "time": "09/08 17:09"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tX0NDelppaUU5UnFraVIzekpTalZIM3JnanRmdDZGQTRWVWNaM2dXMkpVQWJBTEk1azN1WGw3aWMteFVXRm1YUEx3OS1ndlhB?oc=5",
+          "time": "09/09 15:51"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "양 지수↑, 코스피 7,000 탈환",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TNktEVkJpMU05dWplMjBwa3hubzRaSUMwNENEdlYzcVMzWHJhSy1hT0w1X0t2QlM4c3F4NUZuZE1GNElzTGQza3puemFDa0IwWUZQVXBOa0ZrTUZ6Y2pBTnI4MllOVWdsU1haNg?oc=5",
+          "time": "09/09 15:53"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6995.39,
-          "pct": 4.61
+          "value": 6954.52,
+          "pct": -0.58
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 822.19,
-          "pct": 1.07
+          "value": 811.88,
+          "pct": -1.25
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1340.25,
-          "pct": -0.25
+          "value": 1339.3,
+          "pct": -0.32
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Oil prices keep rising and weigh on Wall Street",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ1p0QzdoZ3JOeGVLTl9qb1VCelVDMG51dS1CMWNSSEhmUU5ubW13a2hiZ0txS2ZzeHd3M2l3bndSZ2JTNGM0MzhFbFFzeWNPdU4zZmQtcG1aX1FrYTFmSU00TGQ3ZGNtRFlVRGY4Q0dMSk5DSnJZblpvbngyQnVKb1ZrMnV6WUlSMmRsM0Zna0doOWEtOXhOd0tDX1A4TWpzdmZFbzNaZzRvTEo3dFZTZlhqZmw3dDJTY3d4eDNHTXNCYnJfM1lWNWhJUV9SZV9pcUZaUDRoVHVDM08zQmdFUA?oc=5",
-          "time": "09/09 04:34"
+          "t": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIMVBkeWRvcFVlY3dJdlc0SWdDYmJxZnFINGxTNEFMMHkxZDhMa2hSNi1YdUE4cFVXNkRfaHFObU1nQ2lZSGtqZFFnYW9SSzZVUk8wSWo1Uk5ybjBMWU5ENE50Wlp5ek1BX1NlMnNR?oc=5",
+          "time": "09/10 00:55"
         },
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "U.S. Stocks Fall as Iran War Inflation Heats Up",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUVYWG9PbUEwbUxITHE3TFdtaGg3Q3lkaEl0U05DcEJENnEtOUo1SThLa200ZWRXSHJabTRiSElaTEdwcWtvbS04alVuTjRzRHR3M0htU09HUzJJQzZiTDJiTEVxTG5WTmNOQzE3WWs3dGx0N1ltdWJrUUZWb19ZUEZKaEItS1prMWF3Rk1xdGJKUWFf?oc=5",
-          "time": "09/09 07:48"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "S&P 500 falls as AI worries hit software makers",
+          "catn": "시황",
+          "t": "Fearless US stock market vulnerable to shocks as midterms loom",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjZqc0tNY1VPMHZtRldqOUxwQzJYN0JtWEpoUVNoNGw4U3I5UnVCYXVjd0ZEUUw1SnZhc1JkWnFoTmFoYlVrZ0R3ZlFaQVQ3cmR6ZDVURG1vU1VoR09EcXI4Sl8wemY1RlU2WFJOQ1h6TXpSbUIzdS1WTDhXZnRONzFjRlI0UGIwQTVkeUxWN3YyMkhHeHd6ag?oc=5",
-          "time": "09/09 07:35"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRiSTVzTlAwaTR4T2ItUGVHUDBTSDJvT2ZJZERDZ25sQVhlaWFhbFhIdkk0Mzh0RVJhTnpRQkhvUmkxOER5NHlQbGhTZDUyR0VQa0FkcWpvOWRDMzRRekFJQTZnSnpYdnRNY2NzcWFhaTFnLVRZYzNKZHhfVGFabmxiMkZzdzloc3RKRmM3ME9FbW5TN1RkOGdIRmdGUU1ablVTQTFGbTQ1N2tUZ1E?oc=5",
+          "time": "09/09 22:20"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "MEXC Launches \"Trade Wall Street Without Walls\" to Break Traditional Barriers to Stock Market Participation",
-          "src": "Macau Business",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ3A1SFNTUXNqXzVXX0phS19xQU52OHh5RTVkZE9SX045TXZZSHhSUmhiQ3ZfalRyZktLNFlNMDdKZnAtNHd4a2hSb0NfY0xwS3ZCVTNNNjhndU5KVnFjS2ZDeE5tb2NaaHFnbkxiRjJYZ1BuWk80czUxdE5UNjVWSGppdVNNbzlwZ3U1LWhIX0ZVdkdGZ0JMRjhoaVBNY05ScDRmNjBRbzVRMGpYc3pWZXJBWmRibXlfZ09yVVFGeThLOEpwaV9HcVpfYWpXVDU4?oc=5",
-          "time": "09/09 07:39"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "A Not-So-Neighborly Trade War",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mOWNGYXhSS2RtOGd6NzFoWkotTTAwMFRpNXJwTjlRcFJLQVllUzVxcWp0aFJ3WmpGOUNMOUNsTnlGZi1sQUhNeEVYQXJDaUNLZkZBTTN4bVVkREpQYmtISVhLb2U4SlVHMUU4VXRjaW9lYmUtOFo3VW1B?oc=5",
-          "time": "09/08 20:14"
+          "t": "India’s $5.2 Trillion Stock Market Has a Message for Wall Street: The Catch-Up Has Begun",
+          "src": "Substack",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGRWOWlrYWF3Q2Z6djJvMDJNTGxBb3JBb0YwalVZd1Jjcy1JR2FIM0llQU5QWUFxVnBBLW1RZTRnWGozRDQwOWdwV3RsN1U2aDVGY19YaFBtVHZlSkVuNDNkR1FzcHNxekktU1RxR1RFZFREdndXdllwbkNqVkZIV2JoRmk?oc=5",
+          "time": "09/09 22:06"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "This Could Be the AI Stock That Keeps Surprising Wall Street",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLWxKU3dYY2xUeDFZd3ExUTM0VmVkYlVQZ2t0eE8xVHExWXZKSXpISEZnbXZmRG9yTWh3el9JS01iSlVzZE9WSGZ3SjUzOGZpQmpSVV9FZnYyejBVRDZkclNVY1FTSm1KM011cjZHT3pQTG9pN0EwREt5N05IUDNZS2ppUHRBLUZhZkFuNndQenFlUGdkMlc5alVRRnZpMEFJUUxOcDZQVQ?oc=5",
-          "time": "09/09 01:30"
+          "t": "Meta stock surges with Wall Street bullish on new AI agent",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5",
+          "time": "09/09 23:09"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stock index futures fall the day after Wall Street closes lower (SPX:)",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1hjbGdpNmx2NWNGM3JvdGRuUkRfUGl1YkRSazRlWVZ0aGVyUE9fQWJSQ3I2bVVsSFotNUt1cWEtRXdwMlJNSy0zU210alh5UHE4NEV3SlVlZ21oWm9BaXNDSmdVLWctdXhuMFRmQ241QTU4dHZKM0F4YzZmdGg0dS0wRTJlSmht?oc=5",
+          "time": "09/09 21:33"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "JPMorgan, Jane Street Probes Show India Scrutinizing Traders",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmlHZmc3c1F0MTNobkl0bXp1S05BMFN0UllkRjlvUl84OGlIc0hpNVZ5a2xCTHFVY3k3VkFrZXJHcDlFX09YZHVWZEQydEFDWHBCbms4c3RROWc4V1c5bWJYZ2d1SDdEM000eXhrVGRTX1RJMFRPYkp6dkhZQVdUOURtdVRyQkFNdmhVVkQzRl9YQ191NVNyaDRyaG1hSWtfVV9sNTk1UnFzRmRlWkxjMW1aTmo?oc=5",
+          "time": "09/09 22:16"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7673.52,
-          "pct": -0.58
+          "value": 7638.88,
+          "pct": -0.45
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26421.41,
-          "pct": -0.32
+          "value": 26255.01,
+          "pct": -0.63
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52786.07,
-          "pct": -1.18
+          "value": 52437.92,
+          "pct": -0.66
         }
       ]
     }
