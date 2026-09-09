@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T16:48:13Z",
+  "updated": "2026-09-09T23:52:40Z",
   "markets": {
     "kr": {
       "news": [
@@ -8,7 +8,7 @@
           "catn": "시황",
           "t": "“퇴근하고도 주식 산다”…14일부터 코스피·코스닥 밤 8시까지 거래",
           "src": "주간조선",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CV2MtOXlseGpqenVpcTBXdHBjSHpjVmhOTURqODJHTFZCZlZwMFVQSXpuTnhNejhRWDNxUDFwaG1qZUJNTzlOVlFoUnFhdmt5X0h2cEl6X1lpLWFLX2ZWSHI3R3dld2hmQ2Rn0gFuQVVfeXFMUDZTYVBSRVh5Tk1LemlpYTNFU1VOak1KOVpCbHdRV0dGQjNkZC02Yk5HZjVkbUVrcFYtTVJPOE5XMm1VV1RmU1R3OFdIZkh0UGNkLW1ncnlVcTRkSlEzRWY2aGJ1RkZNdTZMX3g4U2c?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jc2dOel9hV0dNX2stVDNGQWRsOVk0aFVKQk53RFZ1WFVJdGpKcXlnSW1tNkhqSGVFdlN1SzRybUdKZktnV2tqb1doZHVOWkJQaVdhT25nZEtoTzZ2dUVyRVN5dEpBUm81bUHSAW5BVV95cUxQNlNhUFJFWHlOTUt6aWlhM0VTVU5qTUo5WkJsd1FXR0ZCM2RkLTZiTkdmNWRtRWtwVi1NUk84TlcybVVXVGZTVHc4V0hmSHRQY2QtbWdyeVVxNGRKUTNFZjZoYnVGRk11NkxfeDhTZw?oc=5",
           "time": "09/09 23:06"
         },
         {
@@ -22,10 +22,26 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "기아(000270)",
+          "t": "[코스피·코스닥 전 거래일(9일) 주요공시]",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkhFcUFybVpkUWM4RnhJUGFMdmtoYkFBTl9ZSmJVOGNWUmw0N2xzMl9mQjBqSlZPU25qbW5fVnVRS1lMbVBnMGpaOTRJTERiaWdXWHFWdlU3R3hkaE5TN3d2Z1Zfc0JhUTZSU051eDVEcDlsbEhLLTBWWGJWZ3FoZ1EwWF9WdnBEM2NqSWtFSENfM1pvSHBJ?oc=5",
-          "time": "09/10 00:51"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hQnBRaXYwbFNSQU1uaFRIT2l2VjFTbnBqYVd4dGtGOVRQWVcyUFNiZWU1Q0xBMDFwYnI5c3VPQXc5T0JhNlRJSWtWR1o5V21YcVE?oc=5",
+          "time": "09/10 06:05"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "증권사 2분기 순이익 5.2조원 ‘사상 최대’…증시 불장에 수수료 수익 급증",
+          "src": "intn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wa0g4Tm52VGZpZjJnNWFJRmQzVHFlcWxwckdZSFdiaG4wb1JOZVFONGJnTmU1dkhnZGhSWEVLSmZubmJpX1FiRm9PVFBwSmZfRUhDQnA3UDNoMEdZMHF5bjA2R3k4U1M2Vmc?oc=5",
+          "time": "09/10 07:54"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "2분기 증시 '불장'에…증권사 순이익 5조 돌파, 또 역대 최대",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Bd2Q1RngtS3ZzTTh4RnJPTXdfc3R1Ti12OGRmNjhmQnp3VUNFWXZibzRpRElhdHpfLWhwZGRkUjJDcEl0RjlheWt2c2d2cm53Y3otYVlhTGpFazjSAWBBVV95cUxPWkxpb0Q4dHRvRVI3aUQzdHlBdklZUmZ1ZkNtbzhZS1BmdnA4QW1wMDVVNVQwYmd1WDZNWTM5SF9NMGhGLVJmQjZtOFlRS1hfMFEtZjV2T3QxSnd3WW03QU0?oc=5",
+          "time": "09/10 06:00"
         },
         {
           "cat": "flow",
@@ -34,22 +50,6 @@
           "src": "뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81aFgtb1QtbXNvYWtYOGxSTXlHbGgzVU1rRjM1Rkl5QVV0TlhITjIzb0xGak9adkNsbk9yMDhkS0NaMTZINGlMbWFkSW5pbG11OVJWZkl6MzhsMnl4?oc=5",
           "time": "09/09 15:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[속보]‘드디어’ 코스피 종가 7000선 탈환…33거래일 만",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tX0NDelppaUU5UnFraVIzekpTalZIM3JnanRmdDZGQTRWVWNaM2dXMkpVQWJBTEk1azN1WGw3aWMteFVXRm1YUEx3OS1ndlhB?oc=5",
-          "time": "09/09 15:51"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "양 지수↑, 코스피 7,000 탈환",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TNktEVkJpMU05dWplMjBwa3hubzRaSUMwNENEdlYzcVMzWHJhSy1hT0w1X0t2QlM4c3F4NUZuZE1GNElzTGQza3puemFDa0IwWUZQVXBOa0ZrTUZ6Y2pBTnI4MllOVWdsU1haNg?oc=5",
-          "time": "09/09 15:53"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1339.3,
-          "pct": -0.32
+          "value": 1339.85,
+          "pct": 0.05
         }
       ]
     },
@@ -78,18 +78,18 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
-          "src": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIMVBkeWRvcFVlY3dJdlc0SWdDYmJxZnFINGxTNEFMMHkxZDhMa2hSNi1YdUE4cFVXNkRfaHFObU1nQ2lZSGtqZFFnYW9SSzZVUk8wSWo1Uk5ybjBMWU5ENE50Wlp5ek1BX1NlMnNR?oc=5",
-          "time": "09/10 00:55"
+          "t": "S&P 500 ends down as oil tops $100 per barrel",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZExkRWJ1dThFMjNOZWdHdkJuSFd4UENUUko1cUI2aWJNMkQzb3FtYm5kNWUza3hVRVQ2Qlk0WjFGRnlGZWRhbzVMckNacFc4NDRXbzRqTmdyWWxTdVZoQ3pYNjY2Nm9pNHJRTUo0dlhkNkFzN2NSZ3BYR2Rqb1dfYkFjWHI1eW5USFlQd200RzI1cVVYY0VsdEZMbDdNQnZrLThZ?oc=5",
+          "time": "09/10 08:06"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Fearless US stock market vulnerable to shocks as midterms loom",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRiSTVzTlAwaTR4T2ItUGVHUDBTSDJvT2ZJZERDZ25sQVhlaWFhbFhIdkk0Mzh0RVJhTnpRQkhvUmkxOER5NHlQbGhTZDUyR0VQa0FkcWpvOWRDMzRRekFJQTZnSnpYdnRNY2NzcWFhaTFnLVRZYzNKZHhfVGFabmxiMkZzdzloc3RKRmM3ME9FbW5TN1RkOGdIRmdGUU1ablVTQTFGbTQ1N2tUZ1E?oc=5",
-          "time": "09/09 22:20"
+          "t": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
+          "time": "09/10 05:59"
         },
         {
           "cat": "macro",
@@ -100,48 +100,48 @@
           "time": "09/09 22:06"
         },
         {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel",
+          "src": "toledoblade.com",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTWVHTWJUR1VuODJLNnd1R0xXaEpvcHRfWW1WT0tOTC1IeGx4LWtxRnE0M0dsQ3RITE1kMnBSVXVBNHFmUW1xWWN3LXdMYW9UblhiMjVFOUJaT3VwRlM5SzJmTVc0YTlnamluZVFPZC05UmpjRTlMRHJYYk8yMmRLanJLblJ1MWlna2xtNHMtN3lDWVFvVTNFSW1EbEFraE1pQUdUeGRlT21rVlVjMHhiczNmTXBVR0s0TkstdFhHcFBpZnRTNlg0VE94cEx2aWpxSmNJeFByeFUwU2p3eUlDSjVVd1ZwLWFra3lWWXBTTU5QMGctdW1ub0llcUwxUVFsVVpPNm9n?oc=5",
+          "time": "09/10 06:14"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Market calm masks risks as midterm elections approach",
+          "src": "journalrecord.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTm80Yk1HZ2tXZnBsTjlGazhmZnVXRTVLRzR0UmV4UXFtV2k3Ylk4dzF6enY2NzFwamJiZmJIazZrVVhsLWNUM21WWjlaM0pCb3hSRFJBZ1FWSXNEcmFzQXdRcFNKRmJUclZyRmY5ejZ4V2FHYnBQSTE4YVRNUWlObTF2Qm1PRlFRZVE?oc=5",
+          "time": "09/10 04:04"
+        },
+        {
           "cat": "earn",
           "catn": "빅테크",
           "t": "Meta stock surges with Wall Street bullish on new AI agent",
           "src": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5",
           "time": "09/09 23:09"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stock index futures fall the day after Wall Street closes lower (SPX:)",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1hjbGdpNmx2NWNGM3JvdGRuUkRfUGl1YkRSazRlWVZ0aGVyUE9fQWJSQ3I2bVVsSFotNUt1cWEtRXdwMlJNSy0zU210alh5UHE4NEV3SlVlZ21oWm9BaXNDSmdVLWctdXhuMFRmQ241QTU4dHZKM0F4YzZmdGg0dS0wRTJlSmht?oc=5",
-          "time": "09/09 21:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "JPMorgan, Jane Street Probes Show India Scrutinizing Traders",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmlHZmc3c1F0MTNobkl0bXp1S05BMFN0UllkRjlvUl84OGlIc0hpNVZ5a2xCTHFVY3k3VkFrZXJHcDlFX09YZHVWZEQydEFDWHBCbms4c3RROWc4V1c5bWJYZ2d1SDdEM000eXhrVGRTX1RJMFRPYkp6dkhZQVdUOURtdVRyQkFNdmhVVkQzRl9YQ191NVNyaDRyaG1hSWtfVV9sNTk1UnFzRmRlWkxjMW1aTmo?oc=5",
-          "time": "09/09 22:16"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7638.88,
-          "pct": -0.45
+          "value": 7636.36,
+          "pct": -0.48
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26255.01,
-          "pct": -0.63
+          "value": 26253.34,
+          "pct": -0.64
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52437.92,
-          "pct": -0.66
+          "value": 52380.66,
+          "pct": -0.77
         }
       ]
     }
