@@ -1,8 +1,16 @@
 {
-  "updated": "2026-09-10T16:34:07Z",
+  "updated": "2026-09-10T23:49:00Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 '7천피' 탈환에…증시 대기자금 100조 회복",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5obTRSV1FTWFhicTl0WEw5cWhOTzMwakdmNzFDVmxxZUM1ZkNrdUlHMHEzdjktYzVZdDJHeGVJV2VJckRjYzlUbnJrYTVpeEFpT3RvbnJDbUstS2dHdl8xaNIBYEFVX3lxTE5obTRSV1FTWFhicTl0WEw5cWhOTzMwakdmNzFDVmxxZUM1ZkNrdUlHMHEzdjktYzVZdDJHeGVJV2VJckRjYzlUbnJrYTVpeEFpT3RvbnJDbUstS2dHdl8xaA?oc=5",
+          "time": "09/10 15:39"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,18 +22,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "한화오션(042660)",
+          "t": "[코스피·코스닥 전 거래일(10일) 주요공시]",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUt3V0RmTnFkMlJIUUhraktJRUxWSkVzdDRBLW5fX0JGUlNLM1hYS2RuS2wtdC1Hd0JVTDRYNUVBOGRRSTM2RENVTWVLWjg3Qms2ajBoUy1KTVk4anFvSzhMRWxPd0RxbjJhZFY2S2lKV3RDODJuOG5zSEs3aTlfM0IxZURGN0hOQnBXdkl6a2dtMHpBb013?oc=5",
-          "time": "09/11 00:43"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "중동에 발목잡힌 코스피… 하루새 또 6000대로 후퇴",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FcFQzQzZYb2dPSFVlb1JWUFhNZXNqNXlBV3BDSGJYYTZKZko5RkdxZ0VvNzg3YVdJRzBEalJYMVUtZk84SGZOUHRpaGdGeC1O?oc=5",
-          "time": "09/10 12:09"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfbzR1Z2hpeEthaDdwOUJSWDVud0xPNmRONndpa0Y0Y01wZnpvbW96S0pJa0hTLWVtXzZKWk16OUx4WXpFZjFWaWRFbkF0alIyS3c?oc=5",
+          "time": "09/11 06:05"
         },
         {
           "cat": "flow",
@@ -38,18 +38,18 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "하루 새 5.8조 몰렸다…코스피 7000에 예탁금도 ‘100조’",
-          "src": "jnilbo.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIdnhyUDdIVDhuTmhjMi1hSmNCckhkUjJpWUxYZmxVOWZrdlhsWGx6Y2FxYmNhamljd1NNam13MkNQUGRJM3dtaGJkdDhndkVxSnNjUzlsd1Nic3IxTzNqcERIdHRvNWtZY2ZIdWhRSQ?oc=5",
-          "time": "09/10 15:43"
+          "t": "변동성 딛고 코스피 7,000선 사수",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Q2ZudnlxSG9HVHJnQ1ZkZjRhcWM4ZW1FdnYxbF9hTVotRXB6Z2NtSGlGbmFWa1BLSXVtalNKV29EWXpvRzNjcC0wWU4yeE9JaVJqSnNPc1RoeWNsaXFZT2E4aFpqUDE3ZjgtYw?oc=5",
+          "time": "09/10 16:05"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "'대어' 무신사, 내년 코스피 입성 추진…'10조 몸값' 가능할까 [분석+]",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Q1FzejNXNG5wZk84M0pta25lWDhhd21ZTG14My1ud3FOOVNqRnVma1M4UGlHRFAyeXFZa0piOTVTdFNwdG52eTVJYW5VWGM1YkRLNlU3REpUUQ?oc=5",
-          "time": "09/10 20:00"
+          "t": "중동에 발목잡힌 코스피… 하루새 또 6000대로 후퇴",
+          "src": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FcFQzQzZYb2dPSFVlb1JWUFhNZXNqNXlBV3BDSGJYYTZKZko5RkdxZ0VvNzg3YVdJRzBEalJYMVUtZk84SGZOUHRpaGdGeC1O?oc=5",
+          "time": "09/10 12:09"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1345.92,
-          "pct": 0.5
+          "value": 1349.0,
+          "pct": 0.73
         }
       ]
     },
@@ -86,62 +86,62 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Oil prices jump back to where they were in May and weigh on Wall Street",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQ0RocWtmb0NBdHFHRlNDYVh3NU0yV2tudWo0SWplQnNSQVFqY0draUoyWGJrcXlmUkNGMUFQYUNYdnRMU1VVcUFqRklxRDJoeHpNN244djlIMUkwX3N3MVRrUHpnTUJqYjRPWTFiU0dOSU04emM3OVZZNkVRanBkQjA3M3JtdTdEX0JNUDRKOWs2NlNEbVRNUlM0d1dlWmZmVU05SW5yS0FWMkR0WloxdHF4U0o4R29XS2hjSzAzcnFXOTZxODQ3UEl2clI3dHNNT2JabklveVdTYmJ6dlRVQkpCTmQ3WGtPb1FKT3pPZW40QURHX1hyZDFBdG5HU0dV?oc=5",
-          "time": "09/10 22:35"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall St slips after hotter-than-expected producer inflation data",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-          "time": "09/11 01:17"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Meta upgraded, Nvidia initiated: Wall Street's top analyst calls",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWpzVFk2Ny1KbllvNzZnVEpqVnBoU1M4UUFzazlHeXRxNGppYXFzNGZjQUxEVWd2REpzXzNHZmRseUtiV0dwZ2gwbDhCY1hOREFLMkgzeU5KeDVHemNYSjdjMHVTdTY3Rk5LakRZWnJxcmNXWmVCWk51aDhOcDdVMF9KdzZfZEFSaENWQ1MzQ2N4RlJsa0hDWkRHTzBfYjRIVC1BejlDSQ?oc=5",
-          "time": "09/10 22:52"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Chipping Away At The Dollar BRICS By BRICS",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3VxTWd6MHpqWlE4czVnUEMwZnJGeWNBVXdZNWlYX3VudEFFY3ZyeXVGUGpsb2pzN3pyaUtscFVGXzI3dGJyNkh1a2hYc0w5WXhvRERmdkZIdXJSbWc5QXlEM2s1cjlCRUlUYWNDU2lTalExeGdFNGJESm41TUJIbjVsaXJQNXdXd2lv?oc=5",
-          "time": "09/10 20:30"
+          "t": "Oil prices leap to their highest since May and drag Wall Street lower",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUViR0phNlptRGJIVGUxYVVLZmdUZFlDR2F5OTFNMzNEM1Y0ZU43YWhpM2MxZHRReU01Qm51bFhNcm1DeWxsUlBDWkxidlVnTXpZLUxHZ1RrUkVJTVVYMFpxMlJhMmNZcjlkZGlyV19zRWpVOW5aaWZCdEU2S0lNRw?oc=5",
+          "time": "09/11 04:59"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
-          "time": "09/10 05:59"
+          "t": "Wall Street Makes Midterm Bets: Stock Market Election Monitor",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVplVDNvYzZVeExlS0JNNHRfb2NDbElnbjJEVjVoODd2Tlg5V0c4ejNCRHl3RHozb0wyMGVGM2w2elIxLTFrM29ZRWd3QjhLMl9NZThVREQydDl1dTNJN2pjYU9IU082S21BNDlZUFhfeE8xTEhNeWFJNDlMNThWcmlyZmEzeDhCd29KeUJBRktsandxZDN4aTlEOE5tOF9nTEpiS0FuNDR0WmgtNVFScA?oc=5",
+          "time": "09/11 02:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Oil prices leap back to their highest since May and drag Wall Street lower",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQmlrQmQ2RS1PazRNaFJMal9QSDg5aDhFSDRzeE93Z1pTUjJ3dmNORm1zRG8xal81VGZhck5BNlZZNmRFU2tMamg2WEU0ank5a0liUlR3eHZWNVRWZkt5N0g5SWFOSUNhNDFqQzF6SmpOLWlGNFpNWG4yVnRVWnVaaGpLMGJiRzdvM0twVzAyaXdTazZVcWotbmhMX25fYjhXTGJTbGZRZUhVMktHQ3JnX0RWMGxwMHp5bkowQjdoMXRzSEMzdHNJVUM2UlpzQ01LSGJrMFJZd21vcWYxTnJ4MWZyZF84S2V0VkhmajRESVNHV0V1QkVjY2FURnQwYkJqWFV6Sg?oc=5",
+          "time": "09/11 04:11"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "OpenAI courts Wall Street with ChatGPT for financial services, developed with Morgan Stanley",
+          "src": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2tvSjZnM2g0ZFdQdWJqX3NKcXFKNC01RnYyM1d4NUtqUXRIOVJqZ0VLR3g1SlNvUkZ1ckxNTE5UdmoyTnJIMHJOYUZ6MTdwbjR2ZFJPWmlMVkN0VVI0bWdLZTFPR192OEd4eWtmYXZZS1dSUzloM1RaMWtuRUdiVHVYdjBCSTh5TU1LMTIyMy1hRm9xOUhVLUZZT1d2ZS0zODFadVZSSTVPRlAxNTVCdFVWb2VwemFPR0VrcEliZlk?oc=5",
+          "time": "09/11 02:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "U.S. equities closed in the red as Wall Street received the latest inflation data",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREZsZWUzLTM5YmQ0d0FlZGhGd3h2TWU5cWhRckpFNkc1ZmxnTHM2QjVjWFYzZHdxemp3RExjUE9vckFqeXJjcnZrdTE5YWV4cG1mZlFIU1VDUzRFd3E2Z2Z3d2VfaU5sLUZrSUJ4VWhoTURNMlNySWVlVjV5Z0F6QmNYTjVHY2pSZnlhYnptX185SE40blZySFJfOWtIeEdNRHc?oc=5",
+          "time": "09/11 05:11"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7595.25,
-          "pct": -0.54
+          "value": 7591.7,
+          "pct": -0.58
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26112.28,
-          "pct": -0.54
+          "value": 26081.72,
+          "pct": -0.65
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52071.05,
-          "pct": -0.59
+          "value": 52064.1,
+          "pct": -0.6
         }
       ]
     }
