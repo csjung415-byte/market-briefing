@@ -1,15 +1,47 @@
 {
-  "updated": "2026-09-12T15:40:54Z",
+  "updated": "2026-09-12T23:50:22Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
+          "catn": "금리",
+          "t": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jRThqM2pfYjB2MkNEMkRkTV9OelRabGpYZk5jX3JJMFl4RXVkMUwwVU85c29ZM2VVZXF6Y195UUloTWJOeHNTNkx0N1IwZDc5NjkzOXk4eVFhUlR3MmtsYtIBYEFVX3lxTE5jRThqM2pfYjB2MkNEMkRkTV9OelRabGpYZk5jX3JJMFl4RXVkMUwwVU85c29ZM2VVZXF6Y195UUloTWJOeHNTNkx0N1IwZDc5NjkzOXk4eVFhUlR3MmtsYg?oc=5",
+          "time": "09/13 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "(주간증시전망)코스피 7000선 턱밑서 숨고르기…FOMC·중동 리스크 촉각",
+          "src": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySnhTb0FFcC02ZTF5dVFWVW1xMVVJekZFUjdHTF9obUlSb05jQzR4X1NDSVlNYW5DYm9HMGxOUWdCamhfMll0bjB0dkM5X0FSblBma0o3US1abGFOdDVoeQ?oc=5",
+          "time": "09/13 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "\"금리 흔들려도 AI 성장 유효\"…코스피 7000선 안착할까 [주간전망]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoeUNiU0l2d0s2MHhsMld6VVI3RkFiUDhyN0ZmYkZaX0ttdnA3RWs2TWN6c2NMd3R0SjMtWDRpQTJMYW5HSkpsbVlVdWgyZnVNdnRRVFF3djlodw?oc=5",
+          "time": "09/13 08:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "돌아오던 외국인, 이틀 새 4.9조 팔았다…전쟁·유가·금리에 코스피 흔들",
+          "src": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ON05vQ2QtSGwwV0xVOWtWZmVqUFhjWTdYTVk2VllybkN2cy02SWZoYWtLVlZzal9yQ192Vzc0UnZ6X1BmVU9sZF9Kc2pWYmg2WTB5NDE5UzRmZw?oc=5",
+          "time": "09/13 07:36"
+        },
+        {
+          "cat": "macro",
           "catn": "시황",
-          "t": "한화오션(042660)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTQ4S3BTN3JoQUlEM3kyM3dBNW50cERycGVuZEVkbGhmMHJVVWVqNmx5VUg0OUtEcjRMYkZJR2NlRWdQMmdGVDdQaVRqUDNwTjFrMV9FclVNbU5aZUw5OWY0VmZlbFZ4VHFtekpsRnNBc0Q5Q05nZW95LUw1d3BUWTJRdFVRbmJrR0Jqa2FrOEYwN1VoZElR?oc=5",
-          "time": "09/13 00:03"
+          "t": "게임 소개와 FAQ를 연결하는 천명훈 도박 질문 안내",
+          "src": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNREpIWUtERzdadXlkSG9KMHNZZHRDVDFraGx2UE42NElaeUlNX2V0aGRlSXRyN0dWUjlxc3lMcXlUdlAwV0t1Q1NtUmg1MkpnUzc2d1V5LWt6SHBNT1VOR2Y1VlRRdnpEWkIzOVB5UGVZT3RsQ2VYcy1iaUd1VFY4cThWQ2NPNmFScllrNkcyWUR3WXA3V1g1Q093cEhxa19JaHFjMDZTVURpYlhDMjM4M1g5b0I0ampTUnNoLTN0YUpCSGI2dXpzVzgyNEdLUU1lQnlmbWdtVXJaaGx3NHlSX2xFMGZpRDB0bHJNMTdDQVZjODUwWDY1ZEFGbG5HMVpLa2hOQ1BB?oc=5",
+          "time": "09/12 23:53"
         },
         {
           "cat": "fx",
@@ -18,38 +50,6 @@
           "src": "연합인포맥스",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mM1pEZEZFc3JwZ2hMblR3ME9ycjUxb29HdENXeHBNM1c2VnBycU02ZjFGdHE5S045WFFLdC1fTnVGY1VfeWh4WW5wLURzTkRmVmktLXYzZkJBMmFaTG9xWmFCZE8tdWZpdk5hckZZMmY?oc=5",
           "time": "09/12 10:25"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "박스권 증시에 '파킹형' ETF로 일주일간 1.5조 유입",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2dzhyRzBFSHU5V0FwanVsQU9XUnpuYmYzc200eVE2Sm5FcnUyZmFLSmhGT3NuUC1ld1NyX1BlWF9OMFZGb0E?oc=5",
-          "time": "09/12 08:02"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"퇴근 후 주식 거래\"…KRX-NXT, 저녁시장 경쟁 본격화",
-          "src": "서울경제TV",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IMGNHV3RlYXFaZVh6dzIwbWJjbkpyOFVjY1RLTW1MNmxJOU4tMWlrNl9SVHNMcXI1MHRIUDZyaVc1Z1lpN0wyZFpkVnhzTVBfMkJBRWNnWFR5MDUtTG1PZjRYM0Y?oc=5",
-          "time": "09/12 08:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 1.76% 하락 마감 뒤 미 CPI 공개…뉴욕증시 3대 지수는 일제히 반등",
-          "src": "CBC뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRenJNb1BCX1E4YjI3djM1eGV6bU5VWEZFUllyNnZnQnFtbERKNFh1bk5pdTJmYmN0Tks2OFAta1Y3eVZzVEJ6SEp4Z3dCM3liQk5oSE9UNlQyaTQwc01GVG1MMGtiRnFI?oc=5",
-          "time": "09/12 22:38"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "갈 곳 잃은 증시 자금, 파킹형 ETF로…일주일새 1.5조 몰렸다",
-          "src": "미디어펜",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zVDA1VDB4ejl4QTlOeGRSZXlNNkxGLXctYThoVVdfd1FZVm1KZnc3bGFTNFVQa0JTZ2xVUEk2RFRSZFBNdi03a1V3cmxfMkVWWDNFM1d4b0LSAVhBVV95cUxOM1QwNVQweHo5eEE5TnhkUmV5TTZMRi13LWE4aFVXX3dRWVZtSmZ3N2xhUzRVUGtCU2dsVVBJNkRUUmRQTXYtN2tVd3JsXzJFVlgzRTNXeG9C?oc=5",
-          "time": "09/12 13:54"
         }
       ],
       "indices": [
@@ -87,25 +87,17 @@
           "cat": "macro",
           "catn": "연준",
           "t": "Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update",
-          "src": "lancasteronline.com",
+          "src": "LancasterOnline",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWGdJYVhmZHg0LTY4U1lqNlJMeFVFRE9SbjRTWFE1TER6ZWk0R3pWaWNkOVZXWmFUTXd3T1ZVc1JfVzRCLTFGRVdBS0Yyek5uNm1aREE0eWFZdHZyZUdseTB3NmkxQXlwWUc0RlA5VVBPeWt2emRvSHhfb2NzZFdJMkNrd1JQLXNVZThtWWQ5SXlNUzRDOE01cVNVQlhfcjhBck04NzZHNWYyZUZ1QmpWS3dxT2t6TklRelRHd0lHcHdrbHhYcXc1YTlBM1BFUUF6bnVla3RHWmxzWVFwR01HVDJiM1NuSWZMNVRkUThzeERCY3ltZXcwMjdaUzVCQmE3VVFFM280Si1LTkZzcjlmTnBPZw?oc=5",
-          "time": "09/12 17:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ?oc=5",
-          "time": "09/12 03:54"
+          "time": "09/12 17:11"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Oil prices leap to their highest since May and drag Wall Street lower",
-          "src": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPejFhclhRaGhvOG9QYk83MkFLNldjUFNfNXNVRnpJU3FDUGFGRWlPazJmaTN5Qk5jS0l6enJfSW1yeFBJN2RjakZiMkpPcEV3ZW1Ed095aUpqTExwb3dFclU2MGNlZDJyOTFlQjh6Zi1ESi1OLUUwVFBQQWJqUDhOZFZyLXppUjdIMjBMTVNDVHdhOFozX01YX21Fa2RYRkZ4dWt3azJPemRsS1FlNGY4RC0tbVQ?oc=5",
-          "time": "09/12 21:14"
+          "t": "These 5 Boring Stocks Are Quietly Crushing the Market and Making Investors Rich",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0s2RTZqZDBGaWJRdWxXcXB4cy13LVZTcU1nT1k1S20zaEg2cl9maUpaaFl4NFA2SDdjQ2tsV1BUQ0pEVnJ0RTJxbjFHOGtSMDVsMXRqSXphMEc2UHFZSmFJWGZYdEJ4dmFfN3NGZ0pfTnFvYkJjOUtMRVcxTEZTdlBKb01BZXd3bUpvbnFpdjZFYWY5N1Uxeno1TEEwT05rZHFJa1FMcmJkTm1KUGZqODdPRXRMWEVfd1lGZGc0TnU?oc=5",
+          "time": "09/12 21:13"
         },
         {
           "cat": "macro",
@@ -118,10 +110,18 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "These 5 Boring Stocks Are Quietly Crushing the Market and Making Investors Rich",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0s2RTZqZDBGaWJRdWxXcXB4cy13LVZTcU1nT1k1S20zaEg2cl9maUpaaFl4NFA2SDdjQ2tsV1BUQ0pEVnJ0RTJxbjFHOGtSMDVsMXRqSXphMEc2UHFZSmFJWGZYdEJ4dmFfN3NGZ0pfTnFvYkJjOUtMRVcxTEZTdlBKb01BZXd3bUpvbnFpdjZFYWY5N1Uxeno1TEEwT05rZHFJa1FMcmJkTm1KUGZqODdPRXRMWEVfd1lGZGc0TnU?oc=5",
-          "time": "09/12 21:13"
+          "t": "SLB (SLB) Is Back In Focus, But What Is The Market Weighing?",
+          "src": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDVpN3dORmpvM2wzTzdvRUI3aGFFaG5takRVbmVYQTdSQk1iSEdYbXJEeHVSelFYNzhhWkdaaTE3c3ctbjJ0UzlSVEVoLU9NQzhvNmhnbTl2U0ZuRDJzU0cxTXdpdnkxU0k2c203TnlzX2tFb09wMVo2bkR4WVhYMk9fSTVmWTNGUF9mYUEycVhZNDlYakVpemFkLUNCQVhYMXpYc1kzT3o5cnFZMDhnSzQtSkI0RlNt0gG4AUFVX3lxTE9UNWk3d05Gam8zbDNPN29FQjdoYUVobm1qRFVuZVhBN1JCTWJIR1htckR4dVJ6UVg3OGFaR1ppMTdzdy1uMnRTOVJURWgtT01DOG82aGdtOXZTRm5EMnNTRzFNd2l2eTFTSTZzbTdOeXNfa0VvT3AxWjZuRHhZWFgyT19JNWZZM0ZQX2ZhQTJxWFk0OVhqRWl6YWQtQ0JBWFgxelhzWTNPejlycVkwOGdLNC1KQjRGU20?oc=5",
+          "time": "09/13 06:27"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Reportedly Places 85% Bet That Paramount, Warner Deal Gets Through",
+          "src": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN3F0Z09qNjBMMFg1S2s1NnRma3dnTmtpc1dUbU1adGpfRHFmNjdTVjhpZXl4TEVVdHl1QTFEMHhfbV9qZ3NyYUx0OVhsN2NuaHRXYmJWRllSYWE4Qi1WdlNCUkJjNDZBQVpxczZkYWQyV3IxY0VSSTNNdXV6Q3ZDOWR3ZXZ1amFXN1ZwaXFjNE1ybFFQNVl6aGNoeTM5WEEzWnB5dzJxZlpyV1RaeFNGbk11Z1dZTXN4UnVvZzk2Zlo3YkhvX1ZzTENVckViYnBQRjR3bGNkVQ?oc=5",
+          "time": "09/13 03:45"
         }
       ],
       "indices": [
