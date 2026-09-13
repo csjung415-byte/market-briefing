@@ -1,8 +1,48 @@
 {
-  "updated": "2026-09-13T16:31:38Z",
+  "updated": "2026-09-13T23:55:37Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓 프리뷰] 오늘부터 KRX 애프터마켓 개장…코스피, 7000선 지지력 시험",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsNlMxaG8wM003UnJxb0tiWTFQTzQ3alVfbjRRWllWNUs1WjEzdUJ1dkxaY2NKREg2WkxfdVEwdk5tTmVWcnJNZjlxX2hyMjA?oc=5",
+          "time": "09/14 08:41"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓뷰] 중동 악재 지속…코스피 하방 압력 계속되나",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUFpQODB6d29FSjlzUkRmS2FuSDNEZjg0bnBnRUFlRjBnTzRlbGhQQXlYeFd0Vm5NeWRkWnZrVzBtYnVNVjBST2ZUWHM4d21rbFFRM3drcnVHT2PSAWBBVV95cUxOcjZjS3poa3g4RWQ5TTNodkVEQWxzWWtoTV9UM3NCcUl1R0FoSWp3QTlaWHZRNE9tWmFkTUp1NGtTNGZ5TVcwNnU1UVB2NmY0cmhsek9zdnp0WldpdUs2RE4?oc=5",
+          "time": "09/14 07:53"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[코스피·코스닥 전 거래일(11일) 주요공시]",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbDgxUE10cEJWbXM1WEc2U2dPdllEVU9TdXJUQXZ3czYtMjM4TWQ4UTFEZkRRZms5amM1dGluT292enlSeWE1SlV6OEtiWS1rRFE?oc=5",
+          "time": "09/14 06:05"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[AI MY 증시전망] 美 FOMC 앞둔 코스피…7000선 재탈환 시험대",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ENDk3Tkk3WUpZQ0ZUelBXQ3JjMmhZN0x0R2tJODc2SnM5WVhyNU5LT0h2UDZ0N2VRUWxpUXdCZ3VfS0V4SVU3cVdDcWpTTHBmYTl5RmtpSzAzM0lD?oc=5",
+          "time": "09/14 08:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[굿모닝 증시]단기 변동성 확대…\"일회성 금리인상\" vs \"긴축 돌입\"",
+          "src": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uQ2s0czNjbTh5SlBFVmZwTlZxamlQNTM0dnRNTER3dHJxbF9RcThCZ2FrQ2RfVVV4V3NsSVhUdnBvdm1tbEZ0TS1SUWVkd0VLODI2c1VKSzVsSkxOYXl6NWpR?oc=5",
+          "time": "09/14 08:12"
+        },
         {
           "cat": "sector",
           "catn": "업종",
@@ -10,46 +50,6 @@
           "src": "한국경제",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xc053bHZGbWFraGFId2k5bGRrU2llZ2ktdHZjcE1aR2p6UDRBVkdQWHVNVnVXN1M4SlJQaEx0SXpQQ0tWd1NGQkJaWEVjS0g0aWF6YVhHMFpQdw?oc=5",
           "time": "09/13 20:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[밤 8시 증시 시대] KRX 애프터마켓 출범…유동성 확대 시험대",
-          "src": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDNkb1RMbS14T2tTSm1aV3pHNWpZaUc5SnVxZlp4SnF3Qk5wbVhEQlkzSXdzaFJXMjl4Z0UwTzFjQk0xN210cF9VZGx5dw?oc=5",
-          "time": "09/13 15:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "KRX 퇴근 후 주식 ‘야시장’ 활짝…투자 선택지 넓어진다",
-          "src": "국제신문",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObF9kZDUza1E3TkVyRFF2bFhHbzBTemp6Rmw5RERsQUdmemlDdFNxZjJkbDNUUWdQcVQtaTBPTE04bDZfWWpFVUNoN3ZSQW9sVHpUWkNLXzQ1cHQ1akVkRzJMSjNYOEVKdmRQbUdxWEhUR2ZsZzRaRkFNTVZNU2R2b1F3eHJuNm9TeHpQRG5ac1QtUjA?oc=5",
-          "time": "09/13 19:05"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 7000선 복귀에 예탁금 100조 뚫었지만…개미는 ‘관망’",
-          "src": "직썰",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNOEEzMU9oZl9mRGNaZFl4NnlOV3VhNENQcTZ5T2NKcFBnbDRIMWFRREZfUW9OTEtwU2pUUUJMamJmYmtTdTBHdGR3c1lOVHdOV21VbWJHX1pqeXJrcVc4YURZR3RtUlB40gFsQVVfeXFMTm9DcG5jODE4NlZ3NW0xSDYxZWRyc3RweEVBUUZzT0h5N0tyLWNtT2JZR1VCb2ZOV3N6NVpyaWpSX09TMGtybHppdWxJYkFQT1BxNUtIRWJnckZ1Q2c1MDlQS0x0U2VHQnlmcV9V?oc=5",
-          "time": "09/14 00:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jRThqM2pfYjB2MkNEMkRkTV9OelRabGpYZk5jX3JJMFl4RXVkMUwwVU85c29ZM2VVZXF6Y195UUloTWJOeHNTNkx0N1IwZDc5NjkzOXk4eVFhUlR3MmtsYtIBYEFVX3lxTE5jRThqM2pfYjB2MkNEMkRkTV9OelRabGpYZk5jX3JJMFl4RXVkMUwwVU85c29ZM2VVZXF6Y195UUloTWJOeHNTNkx0N1IwZDc5NjkzOXk4eVFhUlR3MmtsYg?oc=5",
-          "time": "09/13 06:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "'월가의 해독제' 매튜 터틀 CEO \"코스피 1만 포인트, 2028년 유력…내년 매크로 리스크 주의\"",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0anZSaUhNUWRwY2JzRDFubHFodUZURDZOaGRRdWhqTmNQVmpRQjQxbHNDNFkySld4aHY3aTdYdVRCVE85a1lLaWZyWHFjMFk?oc=5",
-          "time": "09/13 18:01"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1342.4,
-          "pct": -0.43
+          "value": 1343.36,
+          "pct": -0.36
         }
       ]
     },
@@ -86,14 +86,6 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street Week Ahead",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0RE80SUcxMnJLY2xfNEdLWVFta2JnZFpiell5RnV2bUt5YjJiWW1Ga3lydEMwTEpJTG9tYWtRcWhvaVFmTmpfdklveTQxQWRUdXlodURlRVR3ay1QWkdsRFdvcllzSlJwQlFjNkp0U1U?oc=5",
-          "time": "09/13 19:07"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
           "t": "Wall Street says stay with stocks despite late ‘90s dot-com vibe",
           "src": "The Mercury News",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRl9pRGUxSnJuNzFkOWYyN0VLdXhNT214dEVYcnF5TC1Bc1hFSUpXanQzZzhNbUlzRWVrZEtuaXdNOHhXQTM0eXl3bnExU0Z5UzFOVUZIN3F5MTdhUVM2VzdzN3F4TE8tU21mUlR6TjFIb29CSmNDcmtiZGFxUFlNSHlSS3JRYXM3ZE1wc1Q3RnFNN1J4M2ZUbW9QVFRrZXBCTW9aU3JB0gGrAUFVX3lxTE5US0FQOVFiMW9BdVg4T3lzdXFXdnVfWUNrTE5IajMtNUpZQ3hpQm8zZVRWZHRzckRVTy0zNEZZNThhdTdJSHRESFJkYm1SVlNjYVdtMXIxYkZnS1ZITVI4Mmd1Q3pDZDZqSGJSMUlHMEk2UTVMaDlKU1JXSktTWUNCaHdmS0ZRdi1ic2pRbERWcHRjU3duNVFYVk1YQjJSV3c0bEZRQTFoYWRVUQ?oc=5",
@@ -102,26 +94,34 @@
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "Cathie Wood Sees an Economic Boom Wall Street Isn’t Pricing In",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEVETHBYQVBWSUp0SlRORDgtTllqYjZyS09DSG5DNnVpSnJRX0ltYmZ0dUFNMi01MGo5WG9pN05udnh6Q1ROcE5JN0E3emdrd2hxdi1EZWpqRWZrM3RQMjA4RzZ5ZnRBSjNvRE9XZi1aSHdkMHlFdm81dV9qWnVrTHpkRzBvMmFsbG9XM1Y5aFNUNnAxMTBuVDlKTm9Mb1hKeWhiemxVaE4?oc=5",
+          "time": "09/14 06:10"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1prbjFwdTFVNjA4bkhSR094Mm02dzBEeHc5TjRscXNZZkh4N09XQUY3N1A1SnNIVzZEN0FqM2VlR0hYbThTVU5Oa2UwN1RRVTB4RnlPdWktSWVGeE52NmtabGc1ejZSa004Q3lBcXY2dGFyanZtdjl4dGhOSkNLMTVMcTlGVl96VnBQT2VOOVNCZm1XTkRCbA?oc=5",
+          "time": "09/14 07:53"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Week Ahead",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0RE80SUcxMnJLY2xfNEdLWVFta2JnZFpiell5RnV2bUt5YjJiWW1Ga3lydEMwTEpJTG9tYWtRcWhvaVFmTmpfdklveTQxQWRUdXlodURlRVR3ay1QWkdsRFdvcllzSlJwQlFjNkp0U1U?oc=5",
+          "time": "09/13 19:07"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "Wall Street's Biggest Bubble May Be Bursting Before Our Eyes, and the Consequences for the Stock Market Are Nothing Short of Disastrous",
           "src": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOVEFQWlM1UW1wRzd3djh2dWlKcjV4SXQ3dkRMMmRqdjR6YVQ3ZHF0RzMyS1M5TWFqdmxmaDBiWVJhY3FBaUtKcnVfVEJSVFhNc3c4bFJiLUlSZkFHSVRJdU5QcDZtNmhqYW16U0xwaTFDODFHU1d1M2hjWEVjaUlsdG1mR0RWUlBzYmlkWVpEbW5FUXZzS1JGTkNzT3RtRjBSTXZObG54dFJrWWppVFJMUG96cDZSUXcxZGNsekFRZHIwRHlDR002aXN6T2ZyNDdzcXR5ZGFpUWhSRHk0Vi1qZWZyV0tMVUIweHp4eTI4aEY4Rmc1RV9EWW1ualdHcTFHdGxvUlM0Q1FQak50bFpZUG9qanR0YlFZRU1FU1BNckNTeUlkQTdpUjRvVjVXQmRUMjJMTWh6SEY4OXhvXzRZ?oc=5",
           "time": "09/13 19:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "How Market Exits Will Impact Prudential Financial Stock Investors",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMEVqa0J1Q1VIYk1odC1RNDVKVjRjb2FEbVE0aGJPU2s5dzlhTTAxb3lFY1dKUHNwM2I0SktxLXYwS1pEbE9aMFJaNlpkTmtwNnZNNHFXbVFSbTVNUVR6T29yVmh5NTljS1BEZjhhNFdCX2EzcFVZc3pndkdQa0hMdm5SbGY5WlBzZ3pfYUVlbnZlZ2VXY0paQVo3SFMway15Wml6STE4QUwzRXpBRGE3NHFYZ2luMnJqUjZJQWVlaE5zOUNtMVBfbXgwblViVHdkaHV6Vk5JdkvSAdgBQVVfeXFMTTBFamtCdUNVSGJNaHQtUTQ1SlY0Y29hRG1RNGhiT1NrOXc5YU0wMW95RWNXSlBzcDNiNEpLcS12MEtaRGxPWjBSWjZaZE5rcDZ2TTRxV21RUm01TVFUek9vclZoeTU5Y0tQRGY4YTRXQl9hM3BVWXN6Z3ZHUGtITHZuUmxmOVpQc2d6X2FFZW52ZWdlV2NKWkFaN0hTMGsteVppekkxOEFMM0V6QURhNzRxWGdpbjJyalI2SUFlZWhOczlDbTFQX214MG5VYlR3ZGh1elZOSXZL?oc=5",
-          "time": "09/13 22:43"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "On Second Thought, Never Mind: Here's Why ORCL's Larry Ellison Just Canceled $7.5 Billion Stock Sale",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2M3MVNka2hsM3VZSVNRM1pXOUtWZVdScjBUa29OeDNkM1dHUEdIaDlHOVMwVVZnSFRhbFFvVHpubFJXbEJZMUFVd3ZyMDNGUXBBMTVwbWJLTnF2R3RQV2ZGWWJWVDRzN0JMa3JhM2xXWTRjd3JlYllDNmozREw2MldRdkUwcm5kZ2hzc3lRR3ZaWldIWXZKRUZULUFIamY5Si1CWExXeFJRUmNCTFJoaUZYM3ljdk82ekNJNVhIODR5ZzRzTHdneWNvSmZpbVNIa2FUWEdn?oc=5",
-          "time": "09/13 23:53"
         }
       ],
       "indices": [
