@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-13T23:55:37Z",
+  "updated": "2026-09-14T18:07:12Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[마켓 프리뷰] 오늘부터 KRX 애프터마켓 개장…코스피, 7000선 지지력 시험",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsNlMxaG8wM003UnJxb0tiWTFQTzQ3alVfbjRRWllWNUs1WjEzdUJ1dkxaY2NKREg2WkxfdVEwdk5tTmVWcnJNZjlxX2hyMjA?oc=5",
-          "time": "09/14 08:41"
+          "t": "“퇴근하고도 주식 산다”…오늘부터 국내 증시 밤 8시까지 열린다",
+          "src": "경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90dC1jZU54SjZ3SDNxYXlmdlYxR2lkRGJpaENxaVFoMi1SdlBDQzI5RzBnRHlxR1RTNzhudDRyaEFNQnRBdElRUmF1a3gxQnJ3Y2hpZ0w2Tk1tNjQ?oc=5",
+          "time": "09/14 14:27"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마켓뷰] 중동 악재 지속…코스피 하방 압력 계속되나",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUFpQODB6d29FSjlzUkRmS2FuSDNEZjg0bnBnRUFlRjBnTzRlbGhQQXlYeFd0Vm5NeWRkWnZrVzBtYnVNVjBST2ZUWHM4d21rbFFRM3drcnVHT2PSAWBBVV95cUxOcjZjS3poa3g4RWQ5TTNodkVEQWxzWWtoTV9UM3NCcUl1R0FoSWp3QTlaWHZRNE9tWmFkTUp1NGtTNGZ5TVcwNnU1UVB2NmY0cmhsek9zdnp0WldpdUs2RE4?oc=5",
-          "time": "09/14 07:53"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[코스피·코스닥 전 거래일(11일) 주요공시]",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlbDgxUE10cEJWbXM1WEc2U2dPdllEVU9TdXJUQXZ3czYtMjM4TWQ4UTFEZkRRZms5amM1dGluT292enlSeWE1SlV6OEtiWS1rRFE?oc=5",
-          "time": "09/14 06:05"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[AI MY 증시전망] 美 FOMC 앞둔 코스피…7000선 재탈환 시험대",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ENDk3Tkk3WUpZQ0ZUelBXQ3JjMmhZN0x0R2tJODc2SnM5WVhyNU5LT0h2UDZ0N2VRUWxpUXdCZ3VfS0V4SVU3cVdDcWpTTHBmYTl5RmtpSzAzM0lD?oc=5",
-          "time": "09/14 08:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[굿모닝 증시]단기 변동성 확대…\"일회성 금리인상\" vs \"긴축 돌입\"",
-          "src": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uQ2s0czNjbTh5SlBFVmZwTlZxamlQNTM0dnRNTER3dHJxbF9RcThCZ2FrQ2RfVVV4V3NsSVhUdnBvdm1tbEZ0TS1SUWVkd0VLODI2c1VKSzVsSkxOYXl6NWpR?oc=5",
-          "time": "09/14 08:12"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "반도체 급락할 때 '이 주식' 담았더니…\"15%나 올랐다\" 환호 [한경우의 케이스스터디]",
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 외국인 3.2조 '팔자'에 6600선…삼전·하이닉스 급락",
           "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xc053bHZGbWFraGFId2k5bGRrU2llZ2ktdHZjcE1aR2p6UDRBVkdQWHVNVnVXN1M4SlJQaEx0SXpQQ0tWd1NGQkJaWEVjS0g0aWF6YVhHMFpQdw?oc=5",
-          "time": "09/13 20:00"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRkxoeDRSUy1HTjVZeHIyamFkUnNOc3RDMDlVOTBDcUlBMU1CTnVYRk5PM09xS2FnTGZsYWVKdFRwWldDSlRPSnJqWHRHUFRMWEhkRm15VnMtdw?oc=5",
+          "time": "09/14 15:41"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "9월14일 주식 시황 코스피 코스닥 거래대금 회전율 상위 10",
+          "src": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSmlQclYwS1FFMXRwMnNDeUV4cWtEcGpGeHI1MXl5YVJCSFdIYl9VQUpzcW9JVHJWR2J1eHJUTk52bUVzNWkxaGd3elpqcW1WMEhTbEdob0RBeXhZcXF6MXNaY3h5bC1ZSWpiR3JpdkNFSVVrMVJFYlYwMDZ5UmJVU0hhaVFUZnBMRUVtdA?oc=5",
+          "time": "09/14 19:07"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 3.26% 급락, 6,600대로 마감…외국인·기관 4.5조원 순매도",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43ektvOWZ5N3hpeDFUdjNOMDNrSUI4UURFVHY3X0VSS3pvRFJicE1VMW1HRE9KZG9MQ0NmbHc0VmQweWphdUJlZ1NnZXhWcURIQ0ZOYWJ2Tnc1dVhpZ3ZWbUdKLWFjZHFoYTExT05FYmbSAXRBVV95cUxNWUZQV2dIam1feE9tLTk3NlEwR0tqUHRBMkI1M1lISng0cm9Ua3B6RVpPRDNfTGtpVG9JQ2ZTaGllckM3a1gwQXV2bktjdUl4NWcwOTZCN2dWRXo4OHZNMkpUQy15aExVcVRIbGR1LW5URG1kOA?oc=5",
+          "time": "09/14 17:08"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 3%대 하락 출발...외국인·기관 매도세",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qNGd2QjVfUGNMRVJ3TXVKSVVvOVpZLUpkN1RhSzNkOWZKdm13ZEY0Vk1YcWpEZ3g4TWt1cTA3VExJQzB0eUNzeFVHUnBxdU40U0ZmT3B2VnFCdEs5MkE?oc=5",
+          "time": "09/14 14:55"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "기아(000270)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnlOdng3UWNIZ1FTUERQb2lpWmcyWlNaekFwNC1JWF9Vb0ZpbWVBSXh4MzdCam9NWklNWDBBWUNpRnVBRmhTc2phOGFEUjVxUHhOTXRFTVhLZVBrRXl0QmZZbWI0WWN4bVlQTG91Ym5GLUk4YXlOMmV1TktRLUx0bkxCMTNrVXpZcHo3Wm4tV0NPQTQ1czBz?oc=5",
+          "time": "09/15 00:19"
         }
       ],
       "indices": [
@@ -68,80 +68,80 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1343.36,
-          "pct": -0.36
+          "value": 1345.72,
+          "pct": -0.18
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Says Stay With Stocks Despite Late ‘90s Dot-Com Vibe",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHhaWGt3VWhmWUtiWDBHQkV3N1pkaklaOVN4SmhNZzBhbXBEQ000R0VNVWlfZWtocFZrVFZmSWxKcjh0X295REZDc3Zna0FIeHVoOE16dHlmdlZ5aHMwMjk0OUVFWk5wMU9maHVhd3l2RTV4ZmkxaHpBZm9TSW1tcXlxN3FsbnRZOElhdjJCaDl1Nl9kRmZCVnIxQmZNSFlmdjNyYzctNlFUNkp1dUVOVngtOEY?oc=5",
-          "time": "09/13 22:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street says stay with stocks despite late ‘90s dot-com vibe",
-          "src": "The Mercury News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRl9pRGUxSnJuNzFkOWYyN0VLdXhNT214dEVYcnF5TC1Bc1hFSUpXanQzZzhNbUlzRWVrZEtuaXdNOHhXQTM0eXl3bnExU0Z5UzFOVUZIN3F5MTdhUVM2VzdzN3F4TE8tU21mUlR6TjFIb29CSmNDcmtiZGFxUFlNSHlSS3JRYXM3ZE1wc1Q3RnFNN1J4M2ZUbW9QVFRrZXBCTW9aU3JB0gGrAUFVX3lxTE5US0FQOVFiMW9BdVg4T3lzdXFXdnVfWUNrTE5IajMtNUpZQ3hpQm8zZVRWZHRzckRVTy0zNEZZNThhdTdJSHRESFJkYm1SVlNjYVdtMXIxYkZnS1ZITVI4Mmd1Q3pDZDZqSGJSMUlHMEk2UTVMaDlKU1JXSktTWUNCaHdmS0ZRdi1ic2pRbERWcHRjU3duNVFYVk1YQjJSV3c0bEZRQTFoYWRVUQ?oc=5",
-          "time": "09/13 22:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Cathie Wood Sees an Economic Boom Wall Street Isn’t Pricing In",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEVETHBYQVBWSUp0SlRORDgtTllqYjZyS09DSG5DNnVpSnJRX0ltYmZ0dUFNMi01MGo5WG9pN05udnh6Q1ROcE5JN0E3emdrd2hxdi1EZWpqRWZrM3RQMjA4RzZ5ZnRBSjNvRE9XZi1aSHdkMHlFdm81dV9qWnVrTHpkRzBvMmFsbG9XM1Y5aFNUNnAxMTBuVDlKTm9Mb1hKeWhiemxVaE4?oc=5",
-          "time": "09/14 06:10"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall St falls as AI anxiety batters Nvidia, chipmakers",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
+          "time": "09/15 01:18"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1prbjFwdTFVNjA4bkhSR094Mm02dzBEeHc5TjRscXNZZkh4N09XQUY3N1A1SnNIVzZEN0FqM2VlR0hYbThTVU5Oa2UwN1RRVTB4RnlPdWktSWVGeE52NmtabGc1ejZSa004Q3lBcXY2dGFyanZtdjl4dGhOSkNLMTVMcTlGVl96VnBQT2VOOVNCZm1XTkRCbA?oc=5",
-          "time": "09/14 07:53"
+          "t": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+          "src": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdjEzeFg3ME1GMExWR1JXLWpocjNJZ3NGX3R2dmRPVi1oTElMSmY2TEcyWmFKUmx2M0FKTXd3c0ZsMUtzNkt0OHYwUmRPbkNMNUJKTkE4NG9EVU8xa2g0NDVwMVFsOVpjUWZXa1N6UHBDSE5yVGdPUGJmN1ByVTdNcUxwVGk0ZnhBSngyMDVDTDdqTTZKYmlUZ21Uckd0VHV1LVZqcDJlV0kxYjV5dTJUd2VkYkxaT0otM3VCbjlqTjJzaGhldXdJTFhFUXRWaE1mWFplNDZSV2FCNEJf?oc=5",
+          "time": "09/14 21:11"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street’s AI doomsday trade is here: chipmakers sink while hyperscalers gain",
+          "src": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUV1J5T2U0Z0tvMUhwSm1haHVXcE9tTUtFbURkWlJ1eTk3cjZ3Z0l1QUlZQlFtSHJrV1RBblNudU50MTBGLUExZzVmbFBtSUFYRlUtRW1wQktjaV9uVjliQmtTWjBTMUdabnZiWmlOaw?oc=5",
+          "time": "09/15 00:26"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AMD Just Raised the Top of the Company's 2030 Market to $3 Trillion",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkNpQnZLV0Jnc0g0ekYyV1AxamdtZmtFSmtyT1MxMzB2eGVmeW9qS29PaFVXS001Umw4MHYwVm8walVtQ3F4TWtjM1RadWYwR29GMEFRUGtVd3BhTDJVYzVUQjdDbEZDR3VYSDQ5SWFaRks0aXZ2ZGpJYlQ0bmljYWpSNk5valNmZS0yLWtBbDRsWVVzUUJj?oc=5",
+          "time": "09/15 00:02"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Doomsday fears are coming at exactly the wrong time for the AI-led bull market",
+          "src": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRi1VRkJXM19TbUcySE9XNG5OM1p2MUFndFJwcXhzeTJjaXE4SXcyTk1yWUlSNW9SUDg3Q1Q4a1VQbkJBdVJBdEk0Y1hQUGxLeklmSU1Pay1GOUdSbDhRZUVrWVlZcldIdE8wbFZ3VklXRkxWZVlVY05ZMF8tb2VWYW1BM2U0bWhFUkhfY1h5VG9Fd0poTWgwWWRsamstRDcy?oc=5",
+          "time": "09/14 23:15"
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Week Ahead",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0RE80SUcxMnJLY2xfNEdLWVFta2JnZFpiell5RnV2bUt5YjJiWW1Ga3lydEMwTEpJTG9tYWtRcWhvaVFmTmpfdklveTQxQWRUdXlodURlRVR3ay1QWkdsRFdvcllzSlJwQlFjNkp0U1U?oc=5",
-          "time": "09/13 19:07"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street's Biggest Bubble May Be Bursting Before Our Eyes, and the Consequences for the Stock Market Are Nothing Short of Disastrous",
-          "src": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOVEFQWlM1UW1wRzd3djh2dWlKcjV4SXQ3dkRMMmRqdjR6YVQ3ZHF0RzMyS1M5TWFqdmxmaDBiWVJhY3FBaUtKcnVfVEJSVFhNc3c4bFJiLUlSZkFHSVRJdU5QcDZtNmhqYW16U0xwaTFDODFHU1d1M2hjWEVjaUlsdG1mR0RWUlBzYmlkWVpEbW5FUXZzS1JGTkNzT3RtRjBSTXZObG54dFJrWWppVFJMUG96cDZSUXcxZGNsekFRZHIwRHlDR002aXN6T2ZyNDdzcXR5ZGFpUWhSRHk0Vi1qZWZyV0tMVUIweHp4eTI4aEY4Rmc1RV9EWW1ualdHcTFHdGxvUlM0Q1FQak50bFpZUG9qanR0YlFZRU1FU1BNckNTeUlkQTdpUjRvVjVXQmRUMjJMTWh6SEY4OXhvXzRZ?oc=5",
-          "time": "09/13 19:56"
+          "catn": "연준",
+          "t": "Wall Street Strategists See Stock Rally Surviving Fed Rate Hike",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWRXZjYwaG9vRndPTHdRNkI5a2x3QlJYbkt5a3RZd0R6ZFk4SDBEM0g1UkZMU2ZSYjBpZHg0MHNud1J5M1A5ZUV2bV9OX2FGU280Vm1LRFB4Qk03eHZzX2tXcDA3bEVpOWtFbDdKVmlFT21KYktkUjBKa0t1bmowVkRXdHhrNThDMEFkWjNXOTZ5akU4ZTdEZGIxZG1nZlpXaWZMSTJHNEE2UXFTZzYyMTRhTEg?oc=5",
+          "time": "09/14 17:40"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7656.98,
-          "pct": 0.86
+          "value": 7635.36,
+          "pct": -0.28
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26333.04,
-          "pct": 0.96
+          "value": 26304.19,
+          "pct": -0.11
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52573.29,
-          "pct": 0.98
+          "value": 52432.73,
+          "pct": -0.27
         }
       ]
     }
