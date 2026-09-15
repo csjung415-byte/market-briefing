@@ -1,8 +1,24 @@
 {
-  "updated": "2026-09-14T18:07:12Z",
+  "updated": "2026-09-15T00:22:19Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "‘퇴근 후 8시까지 주식거래’, 첫날부터 ‘어질어질’…29%급등 뒤 22% 급락",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ybW5vbWF1WDAzdEM2TmhBTEx5bkI5alc3ZGpJQ1Z5MFBkbWhsNE40Z1FxUUlOOHdNUGZFcGI0cVBBTWhyX2pDbVIyWTBmc0hRb0E?oc=5",
+          "time": "09/15 08:30"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 기관·외국인 매도에 장 초반 약세",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3aVJXWk9lXzl3MFl1Y2huOW5URXR3ZXdXRG5FMXY4UjQzVHdTWnN6ekFMSnZRU1B4V3I3RVZFRGUtZUthVnZKLXZnSXFqV1FuX0VLOEpVOWZiUQ?oc=5",
+          "time": "09/15 09:14"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -10,14 +26,6 @@
           "src": "경기일보",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90dC1jZU54SjZ3SDNxYXlmdlYxR2lkRGJpaENxaVFoMi1SdlBDQzI5RzBnRHlxR1RTNzhudDRyaEFNQnRBdElRUmF1a3gxQnJ3Y2hpZ0w2Tk1tNjQ?oc=5",
           "time": "09/14 14:27"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피, 외국인 3.2조 '팔자'에 6600선…삼전·하이닉스 급락",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRkxoeDRSUy1HTjVZeHIyamFkUnNOc3RDMDlVOTBDcUlBMU1CTnVYRk5PM09xS2FnTGZsYWVKdFRwWldDSlRPSnJqWHRHUFRMWEhkRm15VnMtdw?oc=5",
-          "time": "09/14 15:41"
         },
         {
           "cat": "macro",
@@ -36,52 +44,68 @@
           "time": "09/14 17:08"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 3%대 하락 출발...외국인·기관 매도세",
-          "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qNGd2QjVfUGNMRVJ3TXVKSVVvOVpZLUpkN1RhSzNkOWZKdm13ZEY0Vk1YcWpEZ3g4TWt1cTA3VExJQzB0eUNzeFVHUnBxdU40U0ZmT3B2VnFCdEs5MkE?oc=5",
-          "time": "09/14 14:55"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "기아(000270)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnlOdng3UWNIZ1FTUERQb2lpWmcyWlNaekFwNC1JWF9Vb0ZpbWVBSXh4MzdCam9NWklNWDBBWUNpRnVBRmhTc2phOGFEUjVxUHhOTXRFTVhLZVBrRXl0QmZZbWI0WWN4bVlQTG91Ym5GLUk4YXlOMmV1TktRLUx0bkxCMTNrVXpZcHo3Wm4tV0NPQTQ1czBz?oc=5",
-          "time": "09/15 00:19"
+          "t": "퇴근 후에도 주식 산다…KRX 애프터마켓 첫날 1.8조 몰렸다",
+          "src": "지이코노미",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Z0dZYUptNmFxa2pocTdQVUp5ckhGV0lKb3FTZTFmVFJGTGNxV1lkVHdGUVlxYTJjX0N5YjRyS0F3d1ZTU3FuVlI3SzdWUGJSZld2Zk8tUlFlMGZwMzN4U3VaeVJhTkU?oc=5",
+          "time": "09/15 04:25"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6909.91,
-          "pct": -1.76
+          "value": 6659.86,
+          "pct": -3.62
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 820.64,
-          "pct": -1.95
+          "value": 809.72,
+          "pct": -1.33
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1345.72,
-          "pct": -0.18
+          "value": 1348.68,
+          "pct": 0.3
         }
       ]
     },
     "us": {
       "news": [
         {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "The stock market could do something strange this week after the Fed decision",
+          "src": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUhkdHZiUktsdjZjY3FfajRSb0hGa2NWbDNNY1I3NWtja2JIZThIVUFtbXFibTk3WUVDOElvUnJjQjRXWnFsdkJBaTBvdUctSVU3bEdsOHJRTGFsSldDbkhMaVFoeGVGamdsTTRnX0JlRjljYkJUclZuZ1RXWFktNURCRElHOXVfRkJwNzVUcHBWRm1pSDRLVjgtXzVqcXZGVUNRYW9zUGltWmtPakxHSVlQNNIBuAFBVV95cUxQeHYzcFk4dHBpdjJOWnNLdWYySy1RZGV1T3RXSWlhZC1uaS1WQlZkRDBpdGxJUGJCRnFtaWFUYWdMZkhQSFBNWmtSeTNOemE1VEppNnJ1WktjMjdJdWt3OUhRYkltSGV3anI1RFNSRXlCaXlwZmVTUTc3dHpiYXZBb3paZUZiamRmbVd4UGZEOTBTOVY5bzZOYkppR25uZXpfRUh4MHZXRUl2RFBSTWU2bm00NUp0dUlV?oc=5",
+          "time": "09/15 02:16"
+        },
+        {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall St falls as AI anxiety batters Nvidia, chipmakers",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-          "time": "09/15 01:18"
+          "t": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUFFaDBPNXQyQ3J4aUp3M3NsenNDMWU2SFRVQUhseDZTcHdMVTZSLVZ1dFBXZUNDcnROWHdxM2c0N0N5QW9xbVVWUWZ4ZnV0R1hVWmhWd0xyMWpWRUxpWHVYR093bVRERmlIb2pFYWJ5NzNxcU1kNzVReDFiOWZWcnVad01fS0xMSlZWRWhkVm1MUmR0Uk5VUHRQOGw?oc=5",
+          "time": "09/15 05:00"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+          "time": "09/15 06:01"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AI safety concerns send tech stocks lower on Wall Street",
+          "src": "The Journal Record",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRlpESktvbW9ycXRhSG9jR1VHSVp4RzhyQndsWXdWUUNzaGV0Wl9UeGlhLUNvMjJzSXpIUl9UQWlpNGNrSUNpci1sNTlnVmpoX3BjeWdScHFra1JlcERkMUpvWGh4UVN0RndCMGZvVE9fTjBHbWo3TWZjY3A1dTdOZWhsX3NodmxNOWRBTVREQ194cmM?oc=5",
+          "time": "09/15 04:52"
         },
         {
           "cat": "earn",
@@ -94,54 +118,30 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street’s AI doomsday trade is here: chipmakers sink while hyperscalers gain",
-          "src": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUV1J5T2U0Z0tvMUhwSm1haHVXcE9tTUtFbURkWlJ1eTk3cjZ3Z0l1QUlZQlFtSHJrV1RBblNudU50MTBGLUExZzVmbFBtSUFYRlUtRW1wQktjaV9uVjliQmtTWjBTMUdabnZiWmlOaw?oc=5",
-          "time": "09/15 00:26"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "AMD Just Raised the Top of the Company's 2030 Market to $3 Trillion",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQkNpQnZLV0Jnc0g0ekYyV1AxamdtZmtFSmtyT1MxMzB2eGVmeW9qS29PaFVXS001Umw4MHYwVm8walVtQ3F4TWtjM1RadWYwR29GMEFRUGtVd3BhTDJVYzVUQjdDbEZDR3VYSDQ5SWFaRks0aXZ2ZGpJYlQ0bmljYWpSNk5valNmZS0yLWtBbDRsWVVzUUJj?oc=5",
-          "time": "09/15 00:02"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Doomsday fears are coming at exactly the wrong time for the AI-led bull market",
-          "src": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRi1VRkJXM19TbUcySE9XNG5OM1p2MUFndFJwcXhzeTJjaXE4SXcyTk1yWUlSNW9SUDg3Q1Q4a1VQbkJBdVJBdEk0Y1hQUGxLeklmSU1Pay1GOUdSbDhRZUVrWVlZcldIdE8wbFZ3VklXRkxWZVlVY05ZMF8tb2VWYW1BM2U0bWhFUkhfY1h5VG9Fd0poTWgwWWRsamstRDcy?oc=5",
-          "time": "09/14 23:15"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street Strategists See Stock Rally Surviving Fed Rate Hike",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWRXZjYwaG9vRndPTHdRNkI5a2x3QlJYbkt5a3RZd0R6ZFk4SDBEM0g1UkZMU2ZSYjBpZHg0MHNud1J5M1A5ZUV2bV9OX2FGU280Vm1LRFB4Qk03eHZzX2tXcDA3bEVpOWtFbDdKVmlFT21KYktkUjBKa0t1bmowVkRXdHhrNThDMEFkWjNXOTZ5akU4ZTdEZGIxZG1nZlpXaWZMSTJHNEE2UXFTZzYyMTRhTEg?oc=5",
-          "time": "09/14 17:40"
+          "t": "The AI bubble is leaking air, some economists say. Should investors worry?",
+          "src": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03T0pQLVlRVXZ3RUlobkVOWlBCZ3NhYXBrdERqU08wUnllWjk1WFg4aE0xd3NHUWlSVnBjTUZ1ZDNTZUJxVGhfeXZ1VnlIajZJN2JXX2E4RmluN3pNdHVFaUNCeVZzXzg?oc=5",
+          "time": "09/15 03:58"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7635.36,
-          "pct": -0.28
+          "value": 7619.98,
+          "pct": -0.48
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26304.19,
-          "pct": -0.11
+          "value": 26186.41,
+          "pct": -0.56
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52432.73,
-          "pct": -0.27
+          "value": 52421.2,
+          "pct": -0.29
         }
       ]
     }
