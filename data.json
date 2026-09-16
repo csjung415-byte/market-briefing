@@ -1,15 +1,31 @@
 {
-  "updated": "2026-09-15T17:10:20Z",
+  "updated": "2026-09-16T00:01:50Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "SK스퀘어(402340)",
+          "t": "[코스피·코스닥 전 거래일(15일) 주요공시]",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa1NLcTBqZklDdHctb2FBVXpzemMzT1NXX3g0SlN5U2hza0NWMFhDUW9Wd0l3WnoxT1hOLURuTzRVS0ExZGcydlpNUXMySzVhVkUyTmw2dWgydl9ET3NmY2ZGSU5na2lBNVNFZzVtVENhRzBtbWJubzlGWUJ6ckwzZjRDS3pTXzJ0cUI4eTZBUW9HTklsLXRN?oc=5",
-          "time": "09/16 01:05"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oRUdLeU5kLWFTWlNiZjhoT043TXdxSHFTSExMLTVZZnZDclg0MjRnb3RUTmpxOVpITXN2RVZ5akdtczZZdFdLWWhYb1pweGUybHc?oc=5",
+          "time": "09/16 06:05"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[박정식의 국내 주식시황] 글로벌 증시 약세에도 박스권 흐름 안정적으로 유지 될 모습",
+          "src": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nNnc1Qklmc2VNcDZCc0VaNExRbC1lQVg2RVRjSi1XeGNsaU93YUVqc1VQUHFPalNiMWZraXp4NHJlcV82M0cwejRqaGwweDBFcDZ2NExuYnF3Uk1OYkp0b0hZZkFhRmljczlxWWVLaw?oc=5",
+          "time": "09/16 08:21"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "[AI MY 증시전망] 美 국채금리 5%…코스피 하락 출발 전망",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aRXczektJOWRLYUhRXzZCZDZIRXVIRDF0cm80RFlTS3hWTVFCNEVPWFNIYkxlRE0xLUFhUDZhZ2RPdHhrWHNoNVZKbXNYZFNSUzhyTzU4cDBxTi05?oc=5",
+          "time": "09/16 08:27"
         },
         {
           "cat": "macro",
@@ -20,36 +36,20 @@
           "time": "09/15 15:55"
         },
         {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[증시-마감] 코스피 美금리 5% 쇼크에 하락…외인 닷새 10조 매도 |",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVS3F5NWVsQzFvdlhjVER3dHBKZlN1aGhMMnNmWmRUX2RSbkNYTWY1S1NHeW9RRVd3NmdOWnlHb0FzQ2EtUldLcFNKcVA3NElQbWN2cFpZRnhvcDdyeFdyanBpZ2FKVTllanNEOEViM24xYmJ1?oc=5",
-          "time": "09/15 16:04"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "금투세, ‘시장 안정 뒤’라는 말로는 부족하다",
-          "src": "스트레이트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HZTJaQ3gxTHVTY2k4NHl5VzU3V3djTUxXcnVJaEtRRklMRGt5V21kd0tUc245RHNhMk16UnpfeWNSVkcxSjBIdWE3M041NWZ4M1p4OXkwWmdaVGJNcXRCTng2NWdzTzlMTmFZejlxNl9EWHfSAXdBVV95cUxPS1gtRDN3cTVWbEFQWUJzRVdyX2xVcTEtdWN2OWYxSWo2Z2NvSlEtTFJkdG1sYnJqLV9aWHpiTnkxSE0tVkg2MWROSm1lYnZucXhKaXJIc3FhRUpxTEFEN3ZLNFhIZkVzUVY2MWhORTllTkRDNEZTWQ?oc=5",
-          "time": "09/15 12:41"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[0915마감체크] 코스피, 고금리·고유가에 4거래일 연속 하락... 코스닥은 상승",
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[0916개장체크] 美 증시, 저가 매수세 유입에 따른 반도체주 반등",
           "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jRDFSdU1YZDE2czVqcXQ2MWxmN1RDNmU5NVFvVDJRYklXNUFUTEVCWWE3NEptZDR5azZjSk5LYnFWX2pTN2VXdFctV0pCellmaEw4bVBDT29iOHpxMUNpNFgxYjJrTFl5RGRYdEJwNXE4SXdTTVE?oc=5",
-          "time": "09/15 17:13"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Udk1rb0lja2pIWi1heWY3ZHd2eTkwN01HeXdBWUNrSllDYTZ0Y2xUcnRjeWNhQlNiOGs2alpfTHZKRXlpRVNmR1hSMENRWkstNk9jVmJfcE9ad2xOeG9CekJ2R0pDdXdOZGVoaC1jWHZmcS1iWHc?oc=5",
+          "time": "09/16 08:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 4일 연속 하락, 코스닥 소폭↑",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1UXJNb3VpUzB6QlZYV1htMmE4eE1nMzBscFNDQUZicFJuV1J4Rmg4ZTlLR0F1TEFqdmVHalZtcU1qUjlJV1otMEd0RWdhdnAxLTZvODNxc2lIMWxudDNIN2tDbTUyQ1RQVUtySg?oc=5",
-          "time": "09/15 15:59"
+          "t": "'박스피'에 개미들 피말리는데…'뭉칫돈' 몰린 뜻밖의 종목",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xa29NVDRYVFNJcmtyNTJUdldHZXpNLXpMOXFwR0VHSFVldmpEMmVEMzBEc05GNUlaSk5vX0ZucGZJemJFOF9MUjJkeFRLVy1RZzkwOFIzZ21xQQ?oc=5",
+          "time": "09/16 06:01"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1361.11,
-          "pct": 1.22
+          "value": 1364.88,
+          "pct": 1.43
         }
       ]
     },
@@ -85,63 +85,63 @@
         },
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street points to more losses as oil, bond yields rise and odds of a Fed rate hike increase",
-          "src": "lancasteronline.com",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTTVvLTJiSHpVaVAwVmFxby1WUjZlOGgwaV95WkEzQVZTWkRfOGNIbjVuR3laUk05NFJiX3JsY2ZuX3ZnRHQxWVJWXzFlODdyMTdURmFuNG5UVG15ZHVOM0xRR09GSU5MLTNCZFJmZ25rdkNvVk9WZmJFemFzbVZGcXNsLW9WM2tKZnFXR1M2eDZQRE1CVE9UVGtPdUFQYV9iWlJRWUlhV1VFSDU2X0YtLXNEdlpuOEltMWtsUU1sSG8tTGswdXhDZWJsQURBVGtJR2Y5Q0JhSnB1SV9FMFN1X3BXMzRZWXFOSXhVWG9EUGFPMWRNcXkweW9rMA?oc=5",
-          "time": "09/15 18:51"
-        },
-        {
-          "cat": "macro",
           "catn": "시황",
           "t": "Why one Wall Street firm thinks this year’s stock-market rally is running out of road",
-          "src": "MarketWatch",
+          "src": "marketwatch.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWx6TGZVYWI1RXlLeEpfalctRzZKWnAxSThPdW9DekRpdjhnSWg5b2NEeHUwdFRZNXVEMVdIWEZlVFVaTlZhWEN1V3F5Y2UtUzMwZlM1RXNhZS1yQVpaQndodEVUeXpTNi01Wmp3cVdZNmk1MHBORVRUcEItQlpPaUhRTmFSWDBrOXI1ZGo3UmZjZWN6cHQ3VE9EVGpqRHFsWUVYS1BXNWFKcW1H?oc=5",
           "time": "09/15 23:14"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Here's what 5% bond yields mean for the stock market — and which stocks to buy",
-          "src": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFZVU2Y5VExrc2tCUDQ0VUR3WUgta1FvOUxYeXpkQVdXT0xqTnZwYU5GcHlXVVd0WEEyNlBQc3VPd1FuOG5Ja1lhekxnNmJfcDJmYm4xUUlXOHVnVVprNUw2RWZKQTZidHdTajR0ZXprUFNtd3I0QW1qTnFNaVRZX3dZZmYtdnR3WVhqUzlIMHIya1pZYks3ekh1a24wOHd3d1pmaGZILS1pSHlFWk1iV1hzNjEydFVZRkE?oc=5",
-          "time": "09/15 23:55"
+          "t": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
+          "time": "09/16 06:09"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "If the Fed hikes rates, here's how the stock market might respond",
+          "src": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalk3SWFmSEdzc2JaS3hMeFBsQk1sUy1BeWNsb0ttcWhPeFJsQnBDa19JUlk0ajFTbktnWFhVdXVRcHE3VE93bTMtTlBSRjlPMVBBdFlBSDNfY04zUy1wS0VVSXU3c3dVc1dyNXZzemxtemZwczhSczZtZWxXLTNWaUw5TXNTZF8zcjFhNXF0R3Exb1EwUmc?oc=5",
+          "time": "09/16 06:15"
         },
         {
           "cat": "fx",
           "catn": "환율",
           "t": "US stocks slip after oil prices and the bond market crank up the pressure",
-          "src": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52MDU5Y0pyQ3FiSldPYm5scXlCcnYxekJrZER1VHdzM3hwWHhpSmotc3RHV0dUWmR1bGpzYXVtOUZCdEw0Q3NxZ0l3eGxOcFJQdWlmcWRXYmRUV3NFUDRqNDJfYnRSTFlXSUlCV3JhNE8xLVctc1hr?oc=5",
-          "time": "09/15 23:03"
+          "src": "nhregister.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0tQTnlfXzU2d3k2R3Z5dTBTNG5NZWc4Y1g2LWU4cmRkZ0sxVEpEVEVJMzlGZ2hpR2dRWWxfV2JDSUZtVy02cFVqQmtjQmg2Y0YxWGdtWmNoOS1yOThPckxmYzVjZEVnRFRTdXpTMU9WNVZiTTlNZXZteml5UXJ1Z2EwbG5ZZGZfbVZSYk1jaVlRZm5XR2FrTHRIcktoX2NfMUVxVk1wQ3ZQZw?oc=5",
+          "time": "09/16 05:03"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Energy Emerges As The Latest Market Shock",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbU1ObndJcDBZS2l5UEp2LXZiNm44UzFRd21SeTRRbno2QVZjQjFmdDdJUGJsSVVyOWx5RC1fSGdFUWlvTVN4Tm13d2RqNnl5VVVjcm9FWkRQT25zQ1ZTNWZwVU9KTTV3RWl4QnU4bmtBeDlxQndrbFl4Q0h4VFY2cE8tRWhjVThYS2c?oc=5",
-          "time": "09/15 20:25"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "'We are overdue for a dip': Warnings from Wall Street pile up as rising yields rattle stocks",
+          "src": "businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzNmOW82YUpad1FpTjU2QmpXaTBGU0JBTnZQSzhva1NXTjk3NGhQdVhNOC1LZDFtNmFEVnkwdkZ5VFljaFlyVndiWV9YT0lWRGpHd2dHOVBteDNka3pLd2Z4bjZmQnY1aUg2cmpVbG5UWmNaeXNxTjFRRGVjMExfaEdadkxsOTNMX2ZyVEZVczlTU1ZKU3BrS2NmWGJTNGV1MHpPME83UQ?oc=5",
+          "time": "09/16 02:57"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7584.52,
-          "pct": -0.47
+          "value": 7585.73,
+          "pct": -0.45
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25989.44,
-          "pct": -0.75
+          "value": 25981.57,
+          "pct": -0.78
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52005.76,
-          "pct": -0.79
+          "value": 52093.11,
+          "pct": -0.63
         }
       ]
     }
