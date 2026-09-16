@@ -1,75 +1,75 @@
 {
-  "updated": "2026-09-16T00:01:50Z",
+  "updated": "2026-09-16T17:10:51Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[코스피·코스닥 전 거래일(15일) 주요공시]",
+          "t": "기아(000270)",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oRUdLeU5kLWFTWlNiZjhoT043TXdxSHFTSExMLTVZZnZDclg0MjRnb3RUTmpxOVpITXN2RVZ5akdtczZZdFdLWWhYb1pweGUybHc?oc=5",
-          "time": "09/16 06:05"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR01tOVhkdHBjUm8tVkt4NkJUX1Y0aV81S09UTHFOc0hNWk1LTFZ6VlFYbmQ4TjdGTGcwQ3ZhYWFXVlVXNlJtU1pzVTZUNTVvR1E4OTMzNFltZ0hjMF9GdHZNZUJlRmNjXzdDQTJXWm5uRnhxZGNSanNMOVhiVGc3UDlsUVpfTEVITGx2V0RIMUJKX2g0cFNJ?oc=5",
+          "time": "09/17 00:56"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[박정식의 국내 주식시황] 글로벌 증시 약세에도 박스권 흐름 안정적으로 유지 될 모습",
-          "src": "뉴스퀘스트",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nNnc1Qklmc2VNcDZCc0VaNExRbC1lQVg2RVRjSi1XeGNsaU93YUVqc1VQUHFPalNiMWZraXp4NHJlcV82M0cwejRqaGwweDBFcDZ2NExuYnF3Uk1OYkp0b0hZZkFhRmljczlxWWVLaw?oc=5",
-          "time": "09/16 08:21"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[AI MY 증시전망] 美 국채금리 5%…코스피 하락 출발 전망",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aRXczektJOWRLYUhRXzZCZDZIRXVIRDF0cm80RFlTS3hWTVFCNEVPWFNIYkxlRE0xLUFhUDZhZ2RPdHhrWHNoNVZKbXNYZFNSUzhyTzU4cDBxTi05?oc=5",
-          "time": "09/16 08:27"
+          "t": "\"다신 주식 안 해\"…삼전닉스 물린 개미들 돌변하더니 결국 [분석+]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KbTJJaGVqTHJJOTRrQ2NCaXBFWUltYXp0SENrUjNMbmM0dHhrUXRPNHR4SVppbHlrZE80c0tFRUhqcmlYcmJIS2dGUHgwcUQ0STBla1lwbHJ1QQ?oc=5",
+          "time": "09/16 22:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[오후장 체크포인트] 코스피 하단이 단단해졌다 반등의 주인공은 소부장?",
+          "t": "\"코스피 아직 바닥 아니다\"…김영익 교수가 경고한 증시 시나리오",
+          "src": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdk0tVXBvLXAtTHMweElSR0E0X0NmN1JORExTWHUzVTExM2xxNlZ1b1NHMjBrZWxmWndZSkNPN05VdnJiV09tN3p1NmdXR2ttODRHMElVaG9nSXdCWTBUONIBeEFVX3lxTE1sZjlTTDR2TXY0M2lDNnZPYkQ3cU1USWVKUWlyNmczU1k2c1dRR1dOYUJDU2RoRTZ5WnRLNjEzRUI1VzJkUHBFcF83anFoYTYzNUFLSnpyQVJJbF82cnFzZ1oyTzhtTWpwZlktbnZfcnFFaUlYd2hHZQ?oc=5",
+          "time": "09/17 00:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[경제읽기] 코스피, 보합권서 등락…미성년 '주식 부자' 급증",
           "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00Q2tvMWdaYWVWMklrNEZ2Z2QyOU52QURhVV9uQXIwaHAzLUVad2Q0dEk2cFpZNmlUSkZfMDhOQmljR1BCU0E?oc=5",
-          "time": "09/15 15:55"
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ORU1HNFR4LXlVQ3huZDJuT3IzNmRTYkVlS2dWTFZpZVNXbk9uNU8zYnU1a1B6UzdiMUc0a19xa2pqVHVmRjVsZ05XblJ3Z00?oc=5",
+          "time": "09/16 13:40"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "‘뜨거웠던 증시 어디로’ 널뛰기 장세에 개미들 주식거래 연중 최저",
+          "src": "전북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JZG5NRWhYaHlGZFlYTWhXQ2ZIeW13a0wtTkZ2VTdTWGZiYzktNkE0Z2ZGOGt5bDVzTUd6WGJvUUJ4QlZyaDh1eGZ0dW5ZTFlkWktiUWQxakZ4U3UxNzZZX09rYWRTRDdVNHc?oc=5",
+          "time": "09/16 17:31"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "[0916개장체크] 美 증시, 저가 매수세 유입에 따른 반도체주 반등",
+          "t": "[0916마감체크] 코스피, 반도체주 강세에 5거래일만 상승... 6700선 회복",
           "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Udk1rb0lja2pIWi1heWY3ZHd2eTkwN01HeXdBWUNrSllDYTZ0Y2xUcnRjeWNhQlNiOGs2alpfTHZKRXlpRVNmR1hSMENRWkstNk9jVmJfcE9ad2xOeG9CekJ2R0pDdXdOZGVoaC1jWHZmcS1iWHc?oc=5",
-          "time": "09/16 08:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "'박스피'에 개미들 피말리는데…'뭉칫돈' 몰린 뜻밖의 종목",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xa29NVDRYVFNJcmtyNTJUdldHZXpNLXpMOXFwR0VHSFVldmpEMmVEMzBEc05GNUlaSk5vX0ZucGZJemJFOF9MUjJkeFRLVy1RZzkwOFIzZ21xQQ?oc=5",
-          "time": "09/16 06:01"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1weUREOVM2LWhEZlU1c1hTRTVPRTZ0aWJmTWE0Um1HY05PWmpNSkZKaHdkOGhjdG5FbTlLWWRDX0d5ejNVVmNXYVB5bzdiUG1Fb3BzT2lrNEJKc09PQkhLLWRCVDYtbXpFT0ZvWkVRQWt4SU93SEE?oc=5",
+          "time": "09/16 17:19"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6684.37,
-          "pct": -3.26
+          "value": 6627.26,
+          "pct": -0.85
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 806.79,
-          "pct": -1.69
+          "value": 812.41,
+          "pct": 0.7
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1364.88,
-          "pct": 1.43
+          "value": 1367.94,
+          "pct": 1.66
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Stock Market Could Be in for an Autumn Fall. Why Wall Street is Getting Nervous.",
+          "t": "Ed Yardeni, Wall Street’s Biggest Stock Market Bull, Takes a Cautious Turn",
           "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbXlEU1dVSlU0eUpKd1dtQU53SHNsclVhcTZMcDVLN3ZncDFvWUZLZVcwd0ZJa084Y21YcGFYVkZyRFp5X0p6RzF5czdtMVJvUDM1c0NkdUFUXzlndUpHSWp2QVpodU45TzFhUERzclFpZDExa0RUMzFybFNRcWNlZHQtd2d4dkJqTXpPLURLWlU1TjhTcDg1SVlPeDBlRmN4Y19XTE5IeGQtMFJNUjY3b3BocnZ6aXlrUjhTdTJjQWVUZw?oc=5",
-          "time": "09/16 00:19"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUd0T3pnMXVWcFpSc0VYLUVkcTNDRlBnZktobUFjdl9fYkZDTVNuOU9vdVhkbVZHTzJncXdWNTBNR2FWVDU4dnB2YnNXaWRDb1AyS0YxRF9ram51ZUhaVjAyV2RILXQwa19GOVV6QWV5UFI0WGZrV29hLTFhT1NxUGVfZEU4dw?oc=5",
+          "time": "09/17 01:39"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Why one Wall Street firm thinks this year’s stock-market rally is running out of road",
-          "src": "marketwatch.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWx6TGZVYWI1RXlLeEpfalctRzZKWnAxSThPdW9DekRpdjhnSWg5b2NEeHUwdFRZNXVEMVdIWEZlVFVaTlZhWEN1V3F5Y2UtUzMwZlM1RXNhZS1yQVpaQndodEVUeXpTNi01Wmp3cVdZNmk1MHBORVRUcEItQlpPaUhRTmFSWDBrOXI1ZGo3UmZjZWN6cHQ3VE9EVGpqRHFsWUVYS1BXNWFKcW1H?oc=5",
-          "time": "09/15 23:14"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+          "t": "COMMENTARY: Move over real estate, Wall St now drives US spending",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
-          "time": "09/16 06:09"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "If the Fed hikes rates, here's how the stock market might respond",
-          "src": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalk3SWFmSEdzc2JaS3hMeFBsQk1sUy1BeWNsb0ttcWhPeFJsQnBDa19JUlk0ajFTbktnWFhVdXVRcHE3VE93bTMtTlBSRjlPMVBBdFlBSDNfY04zUy1wS0VVSXU3c3dVc1dyNXZzemxtemZwczhSczZtZWxXLTNWaUw5TXNTZF8zcjFhNXF0R3Exb1EwUmc?oc=5",
-          "time": "09/16 06:15"
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejBWbExkNUxPb2NCMTJYbkZpVjJVZVIzZnBwMS1LQWk0d3NITkVKSmdKdVJFYkF3ZlRkcG1lR2xRYzZJZnFVQ2RCdnFYNUdpNVF5bUVfOFNTZjEwYXBRM2kyeE1aTi1fSFJsLUdzVnY1R1RiN0E5M2JvcnNXSFo1N0dpNjJPR2ZPVXdiMkVLeVEyYlF6LTV3X1ByWG9DR25uYXFaMXFIbmhFeXRfT3FQTVVaZ0lxUHdFUFdpdXF5dm5nTHZsbHRGZG5n?oc=5",
+          "time": "09/16 22:10"
         },
         {
           "cat": "fx",
           "catn": "환율",
           "t": "US stocks slip after oil prices and the bond market crank up the pressure",
-          "src": "nhregister.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0tQTnlfXzU2d3k2R3Z5dTBTNG5NZWc4Y1g2LWU4cmRkZ0sxVEpEVEVJMzlGZ2hpR2dRWWxfV2JDSUZtVy02cFVqQmtjQmg2Y0YxWGdtWmNoOS1yOThPckxmYzVjZEVnRFRTdXpTMU9WNVZiTTlNZXZteml5UXJ1Z2EwbG5ZZGZfbVZSYk1jaVlRZm5XR2FrTHRIcktoX2NfMUVxVk1wQ3ZQZw?oc=5",
-          "time": "09/16 05:03"
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV01GUmI4UWMzUkZyNWJkbnBucjJXZlo1anh0LW1LLUl0X0E1dFBUX3ZjOHJLZk5TcVFLTTRCQjNOYXJYRjhFOTBNdEc3OEIzd0tTLWtfVzY1NUVZWkFlQzNGeFgxbHY1TFBXcjRpNDlKVFZXU0poLTBtTmJWREh0UUttQ1RLYnpXU3hrZ3BIU09SM2tVcnd3d0V2dEo?oc=5",
+          "time": "09/16 06:03"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "'We are overdue for a dip': Warnings from Wall Street pile up as rising yields rattle stocks",
-          "src": "businessinsider.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzNmOW82YUpad1FpTjU2QmpXaTBGU0JBTnZQSzhva1NXTjk3NGhQdVhNOC1LZDFtNmFEVnkwdkZ5VFljaFlyVndiWV9YT0lWRGpHd2dHOVBteDNka3pLd2Z4bjZmQnY1aUg2cmpVbG5UWmNaeXNxTjFRRGVjMExfaEdadkxsOTNMX2ZyVEZVczlTU1ZKU3BrS2NmWGJTNGV1MHpPME83UQ?oc=5",
-          "time": "09/16 02:57"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "US Stock Futures Rise Ahead of Fed Decision as Oil Prices Ease and AI Developments Draw Attention: Dow Jones, S&P, Nasdaq, Wall Street",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHV5R2VTY2JtZGM2QWktVmRTQW96TjdBR012M1lzMW1sTHVydlhncDhOamg3ME5fWkJwZW1jbVpWS2sxZTE4Uy1IeFVWZ3hQQkdVdl8tdlQ1enQ2Y2QtakFRaGRGV0VqeUNsaWdKM2tzcEdkZDE2ZGljajhubTdvRUUzYWlzT0VrY0N5VkVoRnhZa29xTkJj?oc=5",
+          "time": "09/16 18:41"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street holds steady ahead of the Fed’s decision as oil prices and bond yields ease",
+          "src": "WJTV",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1cwT2lrT0NSd0JxOGxWa0U2dktYUVB3T0xMNGNrSE55eUloYlNfTm9vbGNYcXp2ZFJ4ZHBDQXBka1hjMVRPV1NpWVBPZjhXT2d1bEVOeDFfSV9tZ3VTQ1FPU3FrdVNPQ2xFRHpvSlJ3OVBUSzl5X1pJTTdpT3ZvYkhoYWhPZmV5bDFEX1VjdHZsQ0k4Zk5oZlVfVExGRHZROGNzUNIBqgFBVV95cUxOcm5ndWw3NlFabnc1SThxVnZTQ2JoRHFyQWNiU3N5SGtPUEt0anVmTXRRaUluYU1ncFlwOU42QVN2UDlCblVHNlR3LXdPWE0xa2Ryd1RXcmlKOWN5Q3B0VWlEZ0s2TUZBbzRPWWRBV1BWYWlIMVA0a1BmOEthXzhTV05VOHdxSGZUWTVZbnlYQnk2MlhiVUZOVVhPZEkyTFozbnc5Rk51QVNQZw?oc=5",
+          "time": "09/16 22:45"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Sees 56% Upside in Broadcom After Summer Selloff",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRC1xSmd4MUtUWks5UGhOSFRaRGI3eWtfSUNCWGRhdTBLVDVjVDJlckNhQTVnT2JHdHR0T2ZNd2dhR0w4RlJuaTVkRDlnUXVvVWNuQ2VJb2lBdlJSX0ZRRnVpOUt6bXhwMFRBUmEtb3FHMGQ4Y3dvU2MxblQyQWtIR2RLSHU1QlF5d1RWb0ZtMzVGTXNIai0tZnhXQmZtT20zdHZvM0Vn?oc=5",
+          "time": "09/16 22:35"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7585.73,
-          "pct": -0.45
+          "value": 7606.65,
+          "pct": 0.28
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25981.57,
-          "pct": -0.78
+          "value": 26151.93,
+          "pct": 0.66
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52093.11,
-          "pct": -0.63
+          "value": 52037.93,
+          "pct": -0.11
         }
       ]
     }
