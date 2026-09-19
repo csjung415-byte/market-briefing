@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-19T15:58:45Z",
+  "updated": "2026-09-19T23:56:32Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "No.1 경제·증권 채널 : @HKWOWTV",
-          "src": "한국경제TV",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GV1AtTXBUR0RTZUxtdHdYN1FvX1dKbVp4VFZvRTV2UXlIMjZYakRONW54TUl4cG9MQ1RCYjF2ejdEMmZQa0dRVm9kZVJwT0hyMjMwT2ViZ3Fwd1d2YWdXSnpjNE8yV3VIWTNQRFdLWlF1NVE?oc=5",
-          "time": "09/19 20:48"
+          "t": "삼성전기(009150)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWduMW1DZ3I5SUprSUlqWVlucHM5NEprYW93TWhZLWV1S0ZvOGliM2dxdDlZb0pnNTJLOC1YbEsteXExekxMc0FaQWRnYkhMZUM5cF9UM3lJLVBCNlBXaWFqOXRrZHY5V1FrdFdyTzJGUnB0UTZZcUZ1TnNUdEhzZEFGQWVsLWE1bGVQVjIyWGZLNHVtNE5v?oc=5",
+          "time": "09/20 05:03"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmJPR0dwVzF6NG1Uc1dmczhDZkpqVWFPb0tQVk5vd2Rmc05SUlFJdnhkb1liVm8xbGlKZEhQZU0zRmFwMVJhaXRQU1RraVp4ejRIX0hzN0RuU0HSAWBBVV95cUxObkZtUENxcldRdzBVSS1XTkk4R3A3YjNiUlBoZFI1OTJnSEVqd2tBQmFsUlF4d1lHdnl3bFJoMllUSjI5WXItb3BqTVpqaEM0WmVROW5OYUlMdGUtVUdzN2Q?oc=5",
+          "time": "09/20 06:00"
         },
         {
           "cat": "macro",
           "catn": "금리",
-          "t": "“주식은 무섭고 예금은 아쉬웠는데”…‘연 5.5%’ 파격 금리 준다는데",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xTExxdHo4ZEk4QlJyTER2cjNhbWU5UDNfRlNYUkpaNDV4X1lVOGthLUlqYmlsSkxkWE5yQkwyN2xkS2JqamdONjRqbVh1VHdWYUE?oc=5",
-          "time": "09/19 15:08"
+          "t": "(주간증시전망)FOMC 넘긴 코스피…다음 고비는 유가·연준",
+          "src": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fYWcybWQxRjhMdTJXRGNlWDFXSkVjTE01TmVTMzZmQ1dSbDc1dnJPY1JhdjdkZEVhNTF4NVBIYkZMTzRPc2ZZNDc5TWtYcjJjSjY2Qy16RnpvcTJsQjZ5eQ?oc=5",
+          "time": "09/20 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "미 기준금리 인상에 한은 추가 인상 불가피…코스피 어디로 [증시레이더]",
+          "src": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWEUwcG9WN2NJQTdxNkFNbW1tR3ZqYjI5NVJwWjZmQVhrSmU1WXRsZ3Y2bHdoWk50SWNucHM3d2MyOVlETjNYWG1lRmpmazhmYzE4WjBXbTJlVXhrRWhKbTRnTGY?oc=5",
+          "time": "09/20 07:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"9000 넘었던 코스피, 내년엔 5200 아래로 떨어진다\"…전문가 예측 배경은",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tZlNrZ3pIVV9FYndBVXluc1ozN3VaVTJ2WlJzZko1NmdaV01pVHlJeTZrSjRrNXFlNWh4d25VZjF0QW9fMWZOMWxjWQ?oc=5",
-          "time": "09/19 13:46"
+          "t": "연휴 앞두고 변동성 확대 가능성…\"하락 시 비중확대 기회\" [주간전망]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3NlladVN0cDczdE80Wmh1UXJuOVB0QXJLTjlKZnk2aE5QUkpHVGJrLUtaek9KdnpsZjA1U3lXVy1aQ2Q5ejZoNjlfZkJDNl9RRXpMMjUwYVBsZw?oc=5",
+          "time": "09/20 08:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“코스피 6900인데 내년엔 5200 아래로”…전문가가 경고한 세 가지 변수",
-          "src": "데일리25",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSlFyZndDWlBQRU1uODcwR2RBal9OcUIyOUJ6QTctVEJvaGNhZDhPMU1Gak1Qa3p2akxsLWRKN3RTUEI3bVBzYUNHUnc4d1V2UmFMOEd6dXJrLVUwXzB1SjR2b0V2YU9hX0ZQeg?oc=5",
-          "time": "09/19 22:41"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "주식 급락장에 ‘손절’한 당신 ‘전치 4주’만큼 아프다?",
-          "src": "DongA Science",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81S1RRdlJTSjJwaDJMRjUzNTdkeUhQaFFIWDQ4M0NLZTZ1R1lWOXRvTHhuWHZRdGU2a2o2bDc4NEs0c1NMTVZvcXlvY2t5Vk9KNm1xcA?oc=5",
-          "time": "09/19 08:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[현장] \"부동산 자금, 증시로 돌려야\"…'생산적 금융' 위한 세제 해법은?",
-          "src": "오늘경제",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90aHh1QnRER3BTTnNFZVIwanBkcDFpemZ2ZVhhNWJWOV84RXh1UUYzelhDNlQwdzlHNkRjNlZWbnhZTEFRcERmd1F6OFoyWTVKUE44Uk1rT2NmeXFzMWdoWFdjMWQ0Ul92aUdWbFdsZlk0Mms?oc=5",
-          "time": "09/19 11:10"
+          "t": "“코스피 내년에 5200 아래로 빠져”…김영익 교수의 경고",
+          "src": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxSk9FMUU3WDYzT2VhSmxTT1diVjRCdWxEQTdTS3dha0VwMWNINjNNTHBXMjNWU1hING95cVpBRTYzLUIwbVNnQjJMN0t5dFlpRXhJMUlR?oc=5",
+          "time": "09/20 08:13"
         }
       ],
       "indices": [
@@ -77,11 +77,11 @@
       "news": [
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "Stock Investors Should Root for a Rate Hike. Yeah, Really.",
+          "catn": "시황",
+          "t": "Stocks Have the Midterm Blues",
           "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW5TeWFIYWhGcHFyb2NKbFZGamZBTlZ3SjAzWlV0ZXlMZlVRNVBOaHJBM3RrRFpQWTdtVFlUVXRRcXNGdDBydWlaZGN5WWNqeHFwU3ZvWkducWJSTlA3RnMxemV4eG83T0RuaU9hMnV3dkpyaUJ5TXZRS0JCU29tYVZCcFBYZkstbUJJM1ZfZ1pyb185SlFaMmdEZzJXNmR3NWJFUA?oc=5",
-          "time": "09/19 22:28"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IREw3MUpVRnd0QnNZQmVMTnZxS2thRGdGNVJDOHBic3Y3TlU3ZjJoeTJpeTJqUWt5elBLRGRfTHBIUy02d2hCdk16Wkt4R21ieURlODFqMlZrbzBCakxfRUVSbHo5SHB0bEU2UmdEczc3TjNhSU1xb1FKcTh0UQ?oc=5",
+          "time": "09/19 17:17"
         },
         {
           "cat": "macro",
@@ -95,7 +95,7 @@
           "cat": "macro",
           "catn": "시황",
           "t": "Wall Street week ahead: housing market, unemployment updates",
-          "src": "lancasteronline.com",
+          "src": "LancasterOnline",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmxNOEFLYmhoeGt0MFd0Y2VpYTE4cERMZldrN3VMTWUyakZlX3laR2xpNlpwWFVkRkk5RFMyOE1wNlZzSkY5V3MtV2MwWmZCS1JrZ3Z4Y2FtSkV6b2REWHFDQ0V5UzctdGxEQVFibUg5a2ZXcm13cVBYQzhYamlPY3M5MkhnX0pxZjZheHpKRUZlaXJndDFrcWl2TlRJeXNrcHYzbGg0T0Z0emYwbWdkSDRXLWtfMEdjdmdwT1dzMFZQdWh6NDBUc2VxU0ZGVTZDTTFwLXBSejVvT2h0NjZvaE40c0JGS1BBT1dUTm5jOA?oc=5",
           "time": "09/19 17:00"
         },
@@ -110,18 +110,18 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street thinks the stock market can handle a few hikes",
-          "src": "axios.com",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSkFfeEZ6REdycVozNXB1Vnl6UmZHbkNqZ3BCbVpMU2hyTXM5bVlkT0UxRnVXdm9sM0dhYmNmYTVtb3V5WWxhdi14U29IMUFOSUlGNnRocG0yalJjYkVKdTk2ajRhOGpnWGFzYQ?oc=5",
-          "time": "09/19 01:21"
+          "t": "Investors Borrowed $1.45 Trillion to Buy Stocks. Is the Market One Correction Away From a Margin-Call Avalanche?",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNXzlJc2FKbERPSmpvMFZ0ZWpYaVJkZXFRaEl4djlQYVlFc012d0ptQlJIcXZDTWR1MWdidHowdktsODlzZWJBMHV6THpDYkFJM3V5ckQ3allfLVlOVVlxei1hYTc5SWdfeTZRbTl2ZVI3SFpRVjVWU3MyWEptc1dWdmhveXRNbFprS0JwRU5oNXBUVFJjWHlOSFptVG8xcXZTTHdQcWt2N21xcWJVQTZXX2t6d2NJbUp4WWhuTFVBSTY3cHFwZl9wMXNsanluQ0dDM2dtNUxvZ0Qzcl9xZGFhZjZuUnJfNi1s?oc=5",
+          "time": "09/20 00:54"
         },
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street Review: Stocks End Week Mixed as Fed Shifts Focus Back to Inflation",
-          "src": "mb.ntd.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkFvcjFnSjB6ZW43Zndac1F3N29rS2FGWmc1TW5zZnR6VVdFSmx6SHdHNW4wQ1p0d3F4MEdTcC1PMjlCY3VGVjd0MHhaNW4xZFdVdTBodjdHWWdoQmVtVnAxRHI3clp4eGgzQU9Gc3pvZXlCaTF2bmZLVlBPZk12alJBNENKMUlwTzhHZjlIS01ndXdPTDlGazR2bW83Z0llNnJfQkZqMVpUMjRvYlBz?oc=5",
-          "time": "09/19 23:44"
+          "catn": "시황",
+          "t": "Louisiana Pacific (LPX) Stock Looks About Right As Shares Fell 25%",
+          "src": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFVTeEY5aDRHa0g5OEdwSm52ckQyMmQtNUowT05idFdubUJtU2ZORTdSN3FQTG5UeUJndVhTSjZRcnVxVGdYRm4yQW9JZ3pZM1R0LThXY2hKcjhremNYc1hOTzFSZEduUkdOU3lGRWJEOGhjVG0yVGI3eE8zeWY4Q3A2NmNXVVBMamhlZ0xwMmNDYWZjUThXZ016WUx2SWx3OUZHRlJnMDFUZlVqRE14eUdNdTZiMmhyVkZNR0U0eDZwT1YxODhMQklVQ1pnQ1pLLTV3atIB2gFBVV95cUxQX1F4ZXQ0M2tLNUdzQUN1ZTBYYzdmZHZuU2tyY0VILU9CcUN2VURpRm1heXNZYlZqSTBqT2M0eVROSVp1c21tTWxTWFdqb1JVOWxVdUNHMU1hazNKZEdQR3p2aENYVk93WW5oc0hQQTNoazlrT0I1MHVLbDIxVzdFaWhmNTZza01XM0R4eFZaV0tjcjVfWnFULXQ2VURiUHRHRFkwa1dRR3Qxc2VyQkNUVFVwcmsyTTFuYVhEYzZvOVI0TjRDTEEtbWJSZldWNWpPRGxHcXBGZVZrdw?oc=5",
+          "time": "09/20 07:25"
         }
       ],
       "indices": [
