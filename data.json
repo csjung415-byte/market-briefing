@@ -1,127 +1,127 @@
 {
-  "updated": "2026-09-18T23:56:45Z",
+  "updated": "2026-09-19T15:58:45Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“호재는 모른 척, 악재엔 곱절로 반응하더니”…코스피, 요즘 달라졌습니다",
+          "t": "No.1 경제·증권 채널 : @HKWOWTV",
+          "src": "한국경제TV",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GV1AtTXBUR0RTZUxtdHdYN1FvX1dKbVp4VFZvRTV2UXlIMjZYakRONW54TUl4cG9MQ1RCYjF2ejdEMmZQa0dRVm9kZVJwT0hyMjMwT2ViZ3Fwd1d2YWdXSnpjNE8yV3VIWTNQRFdLWlF1NVE?oc=5",
+          "time": "09/19 20:48"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "“주식은 무섭고 예금은 아쉬웠는데”…‘연 5.5%’ 파격 금리 준다는데",
           "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FV05Ma2ZLWmdpODBOeHl2eXFiRDFXWUVQemw2ZlJ1b3lGN2IybGJEZFJ1emh2ZG4wTW9PcFpSSjdxc2gxX3lMWlF1VWZYS29XWmc?oc=5",
-          "time": "09/19 05:42"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "外人, 8개월만에 주식 순매수… 코스피 1.8조 사고 채권 4.7조 팔아",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HczlmRkhZNU5xak9pdTh5MktucmZOcXVuRW4tblh1SnJfR0JYXzBXUzcySWk5ZzRDM2dXem41ZUxMbXhHckJ6em9tdWNYWFJX?oc=5",
-          "time": "09/18 11:44"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xTExxdHo4ZEk4QlJyTER2cjNhbWU5UDNfRlNYUkpaNDV4X1lVOGthLUlqYmlsSkxkWE5yQkwyN2xkS2JqamdONjRqbVh1VHdWYUE?oc=5",
+          "time": "09/19 15:08"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "AI 모멘텀 회복에 코스피 2%대↑",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KdWRnLVJRaDhjR3UtVmdwTUxsX2JTczZXZmRJaU03NW9WMHpoQ1M0UUxlakliZzZLc1Brckdnb0V5eFB2a2JHVDI4WjB6MkVIZ0p3R0xDSlJCUDBoNTZJNXFxeHJmWlNHMWppWA?oc=5",
-          "time": "09/18 16:01"
+          "t": "\"9000 넘었던 코스피, 내년엔 5200 아래로 떨어진다\"…전문가 예측 배경은",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tZlNrZ3pIVV9FYndBVXluc1ozN3VaVTJ2WlJzZko1NmdaV01pVHlJeTZrSjRrNXFlNWh4d25VZjF0QW9fMWZOMWxjWQ?oc=5",
+          "time": "09/19 13:46"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "美 기술주 훈풍에 코스피·코스닥 동반 상승마감",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56dmw3dnJpNVI3ZGg1NHNmaF96TEhWSEdwZUd4M1R6c2xfb3dkVFZNOFBYbXQxMFUxNlNlS0YtaFVUZDFCZ3ZNR2lYeHJ1eWlBWUFLaUx0VWU1NnoyaElCVUdCSXRuR2lUckRwZQ?oc=5",
-          "time": "09/18 17:48"
+          "t": "“코스피 6900인데 내년엔 5200 아래로”…전문가가 경고한 세 가지 변수",
+          "src": "데일리25",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSlFyZndDWlBQRU1uODcwR2RBal9OcUIyOUJ6QTctVEJvaGNhZDhPMU1Gak1Qa3p2akxsLWRKN3RTUEI3bVBzYUNHUnc4d1V2UmFMOEd6dXJrLVUwXzB1SjR2b0V2YU9hX0ZQeg?oc=5",
+          "time": "09/19 22:41"
         },
         {
           "cat": "macro",
-          "catn": "금리",
-          "t": "\"불확실성 해소\" 오히려 좋다?…금리 올렸는데 코스피 ‘쑥’",
-          "src": "JTBC",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53UGJsclAwZGJ0eUFfMVR2c2oxOUlkYzVzaXRlb0hJZnBsYVNUUWdMbms1SmRqeWp1VVZZZy1iTGRPdFJ2dkswZEpKRDJya2JTY0E?oc=5",
-          "time": "09/18 20:15"
+          "catn": "시황",
+          "t": "주식 급락장에 ‘손절’한 당신 ‘전치 4주’만큼 아프다?",
+          "src": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81S1RRdlJTSjJwaDJMRjUzNTdkeUhQaFFIWDQ4M0NLZTZ1R1lWOXRvTHhuWHZRdGU2a2o2bDc4NEs0c1NMTVZvcXlvY2t5Vk9KNm1xcA?oc=5",
+          "time": "09/19 08:00"
         },
         {
           "cat": "macro",
-          "catn": "금리",
-          "t": "[증시-마감] FOMC 안도랠리에 코스피 2.66% 상승·6,900선 바짝",
-          "src": "news.einfomax.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRnJ6NXdjanM2WDRiVHBJU1U4WF9CQ2RCWEFBZlRXTFNhQlBqZENzMjBPYkVSSlZJWjdUU2FRLUJpOHlOQURZdUhKd2lCYThKSFJPbUVEQXJpdEdDWjYwUVhDbi05X0l0dFFTVGJ0X3c?oc=5",
-          "time": "09/18 16:02"
+          "catn": "시황",
+          "t": "[현장] \"부동산 자금, 증시로 돌려야\"…'생산적 금융' 위한 세제 해법은?",
+          "src": "오늘경제",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90aHh1QnRER3BTTnNFZVIwanBkcDFpemZ2ZVhhNWJWOV84RXh1UUYzelhDNlQwdzlHNkRjNlZWbnhZTEFRcERmd1F6OFoyWTVKUE44Uk1rT2NmeXFzMWdoWFdjMWQ0Ul92aUdWbFdsZlk0Mms?oc=5",
+          "time": "09/19 11:10"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6715.41,
-          "pct": -0.04
+          "value": 6894.23,
+          "pct": 2.66
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 822.18,
-          "pct": 0.76
+          "value": 827.12,
+          "pct": 0.6
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1385.95,
-          "pct": 0.47
+          "value": 1385.0,
+          "pct": 0.4
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Multibillion-Dollar Stock-Market Scandal Roils Erdogan’s Turkey",
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Stock Investors Should Root for a Rate Hike. Yeah, Really.",
           "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFZJNjlYdTAzcGlzSzFYVDdlRXNaWnk5Z3JKT0gyQWlWb1kyMDBWYUt1LXZRbEtGelNwNW44Ylp5OW9QSDZSU1VmbkJ6MUlWSVZFdXJYdTFRWEtHMTRCY3lodTVITmFkS0dQaDVTd3NZejl4cUpJWS1UTGdiX0VOd3BNckh4Z0otWjZib3NHWWFseXZjWF9aNVh4RlZkUQ?oc=5",
-          "time": "09/19 01:57"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW5TeWFIYWhGcHFyb2NKbFZGamZBTlZ3SjAzWlV0ZXlMZlVRNVBOaHJBM3RrRFpQWTdtVFlUVXRRcXNGdDBydWlaZGN5WWNqeHFwU3ZvWkducWJSTlA3RnMxemV4eG83T0RuaU9hMnV3dkpyaUJ5TXZRS0JCU29tYVZCcFBYZkstbUJJM1ZfZ1pyb185SlFaMmdEZzJXNmR3NWJFUA?oc=5",
+          "time": "09/19 22:28"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "What Moved Markets This Week",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5d180ODFCc1pzZGFkMWFJTHhiU0dKVXBJdHRuaXZNOXhpSG84Uy1Ba2k4SVp4TlJRd1JLMk4tWkxtSlBHUnA5UWlFcU5LOEhpTHJtdFUxel9MTzhXOEVrZTVLalg1S2RERzdVcG5SX0ctV09IMzBSeQ?oc=5",
+          "time": "09/19 19:44"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street week ahead: housing market, unemployment updates",
+          "src": "lancasteronline.com",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmxNOEFLYmhoeGt0MFd0Y2VpYTE4cERMZldrN3VMTWUyakZlX3laR2xpNlpwWFVkRkk5RFMyOE1wNlZzSkY5V3MtV2MwWmZCS1JrZ3Z4Y2FtSkV6b2REWHFDQ0V5UzctdGxEQVFibUg5a2ZXcm13cVBYQzhYamlPY3M5MkhnX0pxZjZheHpKRUZlaXJndDFrcWl2TlRJeXNrcHYzbGg0T0Z0emYwbWdkSDRXLWtfMEdjdmdwT1dzMFZQdWh6NDBUc2VxU0ZGVTZDTTFwLXBSejVvT2h0NjZvaE40c0JGS1BBT1dUTm5jOA?oc=5",
+          "time": "09/19 17:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "3 Stocks to Buy Before Wall Street Catches On Before September Ends",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNFNRUzJZUDZTUmN1d2ZhTGZJZVJHY1pTNEdla2dzRjREdkdFTVJjUEhuYWtteGhKek50UThFZnpkWUtTYndNaHpzQktxMVdYemlMSmo2M2RPOUhucHBqQ09lVTVTbG5jOFI3Wl94X3FYSGFFMXVLVUkyelhGS2VVUUpxTGhxeWQ3ZC1XeDBzUTVPak0?oc=5",
+          "time": "09/19 19:01"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "Wall Street thinks the stock market can handle a few hikes",
-          "src": "Axios",
+          "src": "axios.com",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSkFfeEZ6REdycVozNXB1Vnl6UmZHbkNqZ3BCbVpMU2hyTXM5bVlkT0UxRnVXdm9sM0dhYmNmYTVtb3V5WWxhdi14U29IMUFOSUlGNnRocG0yalJjYkVKdTk2ajRhOGpnWGFzYQ?oc=5",
-          "time": "09/18 20:21"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "S&P 500, Nasdaq advance, turning the page on a tumultuous week",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
-          "time": "09/19 05:21"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street drifts lower as bond yields rise and oil prices swing",
-          "src": "greenwichtime.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaE1wSDZZNnpxOE5QNlRYYVIyeU4xNEFHbTFlUFlxdHdnYkc3Qm9NODM1ZHNvUk9CRFdsVjVYeTVUdGFUbXM2WDJhWFNVekJGRG9wZ3A4ZU1CSmpSYWs1eXJSNWhweVVEeThyb0V2Y2lfUWhqTDBxU2RZaU1OcmhsS0hpYzk2cHVLTmlFSmdlWmM0ZXhNcUloZmdBN3hxdk9EWFMybkVHRnVnVzVG?oc=5",
-          "time": "09/19 05:37"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "2 of Wall Street’s Favorite Stocks to Consider Right Now and 1 Facing Challenges",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQME9jN0VETVFlUnlFRnZ4RmZmVTZuamx2TlpMclNYUHdsYXo3WlJ0bmdIWjd3bXNycjZNeGJxUFNVMzI1dmVWVkJiZjVsaTY1Y3hLTDc5c2hIVjZFem16Q3J2RUQwQkxZR3ZjVC1MZnA2V2ZkWGFyRzVMVExDblRDLVJNVEhuWVlnOXV5SC1VVGM1UEpUeHlPTVB3?oc=5",
-          "time": "09/19 06:44"
+          "time": "09/19 01:21"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Stock market mixed after Wall Street rally; Fed speakers in focus",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZTZHRWo3WmNPbExWRmt6NXRxbUhtYUpxNEVEdFFnQ09IRDgxdzFRYWljUkx1QzZDNk1pY1huMF9QWU1oOEdYSVMzcWd4RVhuemd5VFVPOFFuazNKWnNPdFVDZTA1d2lWVVJkcDkzb05fTkljYTU0WGhSM25IS3VfalV4UmYzX1Zp?oc=5",
-          "time": "09/18 22:31"
+          "t": "Wall Street Review: Stocks End Week Mixed as Fed Shifts Focus Back to Inflation",
+          "src": "mb.ntd.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkFvcjFnSjB6ZW43Zndac1F3N29rS2FGWmc1TW5zZnR6VVdFSmx6SHdHNW4wQ1p0d3F4MEdTcC1PMjlCY3VGVjd0MHhaNW4xZFdVdTBodjdHWWdoQmVtVnAxRHI3clp4eGgzQU9Gc3pvZXlCaTF2bmZLVlBPZk12alJBNENKMUlwTzhHZjlIS01ndXdPTDlGazR2bW83Z0llNnJfQkZqMVpUMjRvYlBz?oc=5",
+          "time": "09/19 23:44"
         }
       ],
       "indices": [
