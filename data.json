@@ -1,57 +1,8 @@
 {
-  "updated": "2026-09-20T16:20:21Z",
+  "updated": "2026-09-20T23:55:16Z",
   "markets": {
     "kr": {
-      "news": [
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "두산에너빌리티(034020)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0VnWmdxUDlMa2JLVUZnWlJGSXBzd2FVNXJjdlFKTVAwMVo4b3FvdndsLUtsQ0dhX1puQjJKQWIzMUExX1dkYktZVnV6Q2w0ZTJBMzJHTzVLWm5lQURmWmhXSENMZ3Bna0tLWXBKZk1GSmVrZ0dkQkV0ZlY4TzcxN0pJOThsOFV3azU2ckJWTmpOVGk4Wm40?oc=5",
-          "time": "09/21 00:36"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“어게인 9000? 내년 코스피 5200 밑돌 수도”…현금 늘리라는 경고 나왔다, 왜?",
-          "src": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HTDVHYzVhbkpPZFJjdkVzekNmNmlXWTkxelFxNjFQSE9JdmRGM3E4M3ZHcGtLaTBzTWxmd0paVjhKdUFPb2RaZ2NGTlVRZw?oc=5",
-          "time": "09/20 17:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[이번주 증시] 사흘만 여는 코스피…미중 정상회담·금리 '주목'",
-          "src": "newsian.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaZTVqUmxkNnFFSVdKWGQydTRZakVuSkMtZk1TZldKdlJhZ2RfRTNmcm0yS2Z4a1JfLVBKVE5HdTNhdlpRdURDYmxaYzUzbnVpS3Z6MF96OHIwMGVKT0hZRFdpMk1zZjFyZFHSAW5BVV95cUxPbG5pSXhxSkRZYlhtSERpNk5SRWltWmNvdWFpOTVESDV2OGFvbWR5LTkwX2JkdmVwTjVSdGVTWXZCbmJ1ZHBudVhRRmd6SjhOQVYwM2I4LXpUbkVmQVF4NXJFdl8tM0JtSFFKYWp6UQ?oc=5",
-          "time": "09/20 17:02"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmJPR0dwVzF6NG1Uc1dmczhDZkpqVWFPb0tQVk5vd2Rmc05SUlFJdnhkb1liVm8xbGlKZEhQZU0zRmFwMVJhaXRQU1RraVp4ejRIX0hzN0RuU0HSAWBBVV95cUxObkZtUENxcldRdzBVSS1XTkk4R3A3YjNiUlBoZFI1OTJnSEVqd2tBQmFsUlF4d1lHdnl3bFJoMllUSjI5WXItb3BqTVpqaEM0WmVROW5OYUlMdGUtVUdzN2Q?oc=5",
-          "time": "09/20 06:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[주간증시전망] 추석 앞둔 코스피, 흔들리면 사라?…증권가 \"FOMC 악재 선반영\"",
-          "src": "ebn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOc05ZZVhjNkpSQmg1Z1huU2toUW1ZYVh6cnVOaTNvSkdVTUE5bnRjR0JackFRb1pGNFJVNC0tUG1sZ0dRbzRzamdZNi15N3l1X3dtZHN3QVNmd2lmTHhzZmJlRDNQemVD?oc=5",
-          "time": "09/20 13:18"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "'리테일 강자' 키움증권 나홀로 주가 뒷걸음질…위탁매매 의존도 '발목'",
-          "src": "더팩트",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yV1JrV3I2bV9NTzN3OFlfb21KYUtqZkJZZ29qMkg0UlNQbEp2T3lpeFRkSGxxMm5xUDJDTEtnU1k4TWxrSDFhSEVMeVdsWk5aVzZKaXdjcVFhQdIBVEFVX3lxTE9hYy1KYmNsXzlhNTJ6MVRNeFFQZE52clJNLU1iV3BoVDhxS2hqWDNOLXZpX2d5SXNJMGNDYVdYbV85bFREUkZQY0VfTlBxUmlOTXZNUg?oc=5",
-          "time": "09/21 00:00"
-        }
-      ],
+      "news": [],
       "indices": [
         {
           "name": "코스피",
@@ -68,62 +19,13 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1385.95,
-          "pct": 0.47
+          "value": 1385.63,
+          "pct": 0.44
         }
       ]
     },
     "us": {
-      "news": [
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Top Wall Street analysts find these 3 stocks attractive as long-term investments",
-          "src": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWm9PalJIVkRaVUF4S0FSQUFnVGlicDZXT2V0bkROTDJFSTE2UVptN3lrRlU0SFBwUG00eWdJbE1rSWhmWEZZTmF6S3N2WXd4c284N2VobWNzLXpsUTVoRVlwTmpUYmJ0U3J6a1Y2NVJIQlZHMDNNVkk2QnQ5QTUzUmZ0VU4tUFBWV2FfdjZFWTZWY09pTjV1WXNhLU5XQTkwSnI1YkVHdVRYRk1MX1hZNldFSC1GVXg00gG-AUFVX3lxTE9ibldieVZKRHh6MjZfaFBNR1pWMTFNYlNteUlqQU02UUVVc09KeE5EVHIwck4zcVRCRXREdnlReWZwd3ZrMXNHVkJOZTRLYnpRYmVoQ1o3ZlQwc2RRUDRZYmk1VkhfMFFiUUVBXzJRTWZVaWFkUEFmMm9GOFQxV0NYTEt1ZGNRSkZzWjdyN0hTT2hMSlpaSS0yUE1iSUNXUXFCTV9KUTNTTXFvMzZKeGFFbTRWWjhheWJybEc2MUE?oc=5",
-          "time": "09/20 21:01"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "U.S. Stocks Down as Oil, Yield Shock Continues",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw?oc=5",
-          "time": "09/20 22:17"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Week Ahead",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96cmVteGxLUmNoZ1NKOTQ3Wktxc2pWQ19ZdFlNdlIwXzZIcTkySHV0WFBsaVpnZ3dKV3Rja3VBTUpSSW1JQWZ3TU02N2dNM3ZpZlpaQTdUd0tQUEdFTENZSGpGVzdwdzhOZVlJRHprSUM?oc=5",
-          "time": "09/20 18:38"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Since 1871, the Stock Market Has Accomplished This Feat 6 Times, Including the Present -- and the Previous 5 Occurrences All Ended in Disaster",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3pQZHo4RE8yT211dko0WUNMNXJmR2NrQ3piQ1dMSVZTa19CeUFMR1VfbGRFUmhWSndocWh2NkpTWGNuR3h4RTBSTEJhWWNhVDRBN3lncEJzOF8xSUZFZHlScG5VSGJ4TEs2dlVlbUUwaUJnNkEzQllfY19lT2Vmdmh1empFUHYxc0RPNVY3dGVRNTNjclhkSDFlZ2NDUGtIMUNF?oc=5",
-          "time": "09/20 19:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Strategy Is Up 53% in the Past Month. Here's the Bull and Bear Case for One of Wall Street's Most Polarizing Stocks.",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUl3UUZEU25GZkJEZ1FuTjBpQ2ZxNVRoWGN1czRBM2dZUk1QNDBaN29HYzZscHlJSU90Rlg4Y0JPRkxmWlZjUlpJdzZ3SmZzYlByOXRwVUJteWhqMW9PTXhIMEZoaFVQNHRMTkV6N1pWR2R6ZzlTRDRkZFNiNWZ6aG1xcHMycGN1V2FJNDBpbV9vU29iYzg0Yg?oc=5",
-          "time": "09/20 19:57"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Asian shares drop after plunge in Big Tech stocks gives Wall St its worst day in months",
-          "src": "朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KOGxPaGRrYzBDTjNRb3VpSkVLbVRHazl6UjNDNXZNdEM3WmxVeHVPR254SWZrNmJlZE9UUTIzUWRXbWVxUUdab3pTRlBIU18zYXpXQ1NQallHSDlKWmc?oc=5",
-          "time": "09/20 18:16"
-        }
-      ],
+      "news": [],
       "indices": [
         {
           "name": "S&P 500",
