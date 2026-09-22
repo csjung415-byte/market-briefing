@@ -1,8 +1,16 @@
 {
-  "updated": "2026-09-21T18:14:53Z",
+  "updated": "2026-09-22T00:38:15Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피, 2%대 올라 7100선…삼전·하이닉스 동반 강세",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaaEdNSEF3Wmh3WTNhWm9JNmFwbEExMzl2TTZoSEZBMHhFNkZCNXdwZnI3d0RRTDQ1SlpMOGhyZlVUY1A1NTAxZi0tbS1xbnQ4MVQwb1JJTUUyQQ?oc=5",
+          "time": "09/22 09:11"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,10 +22,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "추석 연휴, 소중한 내 주식 팔까? 말까?",
-          "src": "영남경제",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZQlFOaUo4bmRkVDBHelFtX3dHbzBPVkU2ZF9jZTF6aFZ0Qi1rN0c2Z3RLNkNfZmNTZjl6SzA0b1YwWHoxNElySXNWVjA0V3FMOWNjY3JaMVdQX3hqVnlTTDNKQk1hN2M?oc=5",
-          "time": "09/21 16:16"
+          "t": "연휴 앞둔 코스피, 종가 7천 선 회복...오늘 증시는?",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ULXlvdlUyYjJ0N21tQW5QYV9DTEI5UGU5bEw5ZlpjM1BVbVJzcWRFSmlRQ2hmcVRMZ3FWYUdXZF9kcm5GVHJjRXIwVzN4OFQxSm5OVHc0dDJRWklubHc?oc=5",
+          "time": "09/22 09:05"
         },
         {
           "cat": "macro",
@@ -28,48 +36,40 @@
           "time": "09/21 19:31"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "수출 호조에 코스피 7,000선 돌파",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JTmN2YTJpQkR6SHRfdGNFVXIxSDB0OW1lQllFRGxSZ09GSlkybzU1MFBtQ1J2T2F2TzJwc1paazFGcG1zMDc0ZnEzNjZHZnd3SkJyWWNFYlhPRERoTDNqdzJ4aVR0MTdJMDd2Yg?oc=5",
-          "time": "09/21 15:59"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[AI MY 증시전망] 코스피, 美 반도체 훈풍에 상승 전망…7000선 안착 시도",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQYWI3WXdfa1hINkc4OHFuTjZQVDFfVTd0ejNxVVgwSXpHUG5pY0Q0SWdMejQ5bXlGNk10LWdVb2o4TExrYXZUNGI3WU9xSzQtXzlMTjVGS2hrRm9l?oc=5",
+          "time": "09/22 08:51"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 변동성, 투자자 피해 넘어 국가 이미지 문제로…“브랜드 코리아 훼손”",
-          "src": "뉴시안",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BLUdXZjVPYTZldlowaGFqeXVYaUZKM2ZiR3puSGVhVVFmMWM4aU03aHZxTlBJZEFKQmRqUFFBMExVcHhhUEdBMFhZUHV1bmlDU3JKN054ZG00Z3JwemthTGFEWkNCbEJ4S3fSAW5BVV95cUxNTTNBWUswV1VBX1dwSWpXYmNvcVVDUG52WlE4X2xmMmJuWjVzVkV2cm1YUUJwWHpTY1kyYzNSMmw3VlM2Q0s4OHBranR2OUpJU1JkUHpwUl8wZENtaEQybzJSTXlEMHNnV05LVEJ1UQ?oc=5",
-          "time": "09/21 21:20"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“추석 전 주식 팔아야 하나?”…지난 5년 ‘명절 수익률’ 뜯어보니",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TWUUya3E5X2VRWHptams0QmtHNmhSM192bVJLTEFkSGk0cVk3enNFZUtVYkZnelpVeVNzWDFLWW4yemNBUUE?oc=5",
-          "time": "09/21 15:45"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "미국 반도체 호재에 코스피 급등, 투자자들 기대감 상승",
+          "src": "gokorea.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01NDdNbFBQOXZoRk1GVHh2YzlrRkwxaFpnNWxiZ3pQYU9haDBaMHFTeGhfUUVJci1yRXkxYlh3eTR5WEthV1pxMFVGZkVlV0NsZnBXSGVtZ1cwQlRCZ0lROFRNZWh3amk2?oc=5",
+          "time": "09/22 09:26"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6894.23,
-          "pct": 2.66
+          "value": 7157.65,
+          "pct": 3.82
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 827.12,
-          "pct": 0.6
+          "value": 843.2,
+          "pct": 1.94
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1374.42,
-          "pct": -0.37
+          "value": 1363.88,
+          "pct": -1.51
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Wall St rises on AI gains as oil slides, Treasury yields retreat",
+          "t": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-          "time": "09/22 00:57"
+          "time": "09/22 08:12"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The resilient stock market is flashing warning signs",
-          "src": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmxJUDJxWHRjMFhNUXVTenV5Ti0wcVZnZWp0ZXZTdDBUSGdqMHgtVTVMNmhSRFk3cFN3eTVUMVlhYlJYTnRpLWNxUFNPdmVVR1h1QWFrR1hUV1hkODBaR25pR3g3cVRjOVMxNHFTT3ROWXoyeG1ZdThvaWh1TU1OM1hwM0Q2bEI4WnBkN2w4VEpXR29PV2JZWGMyWGNKelVQWjlhVW9DdWk2M2JPSmc?oc=5",
-          "time": "09/21 22:02"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street marches higher ahead of Trump-Xi summit",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1M3U3BtVm1zbEIyTmFRdkNkcm5XNEpNVW1BcDhlYjBiSXFUNHJYb2RjVklSRlBCMXBVTEpacy05X0pnNTByNUN0dXVBNUt0LTJLWGdpRXdMNEUtSUd1R0RPeGhNQzhSdFJWY21pdTRlSlhranU4bkhROEF0RURpOXN2SThES1h2Yl9wYUFWWF9hQTg?oc=5",
-          "time": "09/22 01:12"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stock Market Today (Sept. 21, 2026): Dow futures climb as oil prices retreat",
-          "src": "Fresno Bee",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pNjQwSFZNY0licWpCTU5JSUdZbklURlRRbVUydlpsNW05YU9UcmJzOW40QVRjb1dHbzBTZW5HQlhGdlBVNk80anRfS1JGSTBuQ1dfQUxaOHlZaWUyQkVjUjZjeDlubjhtdUJibFF3?oc=5",
-          "time": "09/21 19:54"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Asian Stocks to Gain on Tech Optimism, Oil Falls: Markets Wrap",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmVxRzlDSS1YVllGMmZuY29YWDUxZzZnSnlxTm1leVV2Z1Y0LVA2NkZrWHJNN0JxWXo0ampuSGE4LWUxdm9XY1J4ZEhxSmRSdWFPTFZ1WVlJVkRFOF9rLWJ3ekdQQXJVSnUtRFYtQUhzc0ZGUzVYOGZiMjhpWERyWTV6d2tZaGFDbFpKNHBBRUFiaGYw?oc=5",
+          "time": "09/22 07:18"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Wall St rises on AI gains as oil slides, Treasury yields retreat By Reuters",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0QteUI1TjRudVhSRHJUb0FTUXZoNnZpSVptNlVyR0kzcWdIWXRFV2dIazVPd1phV0V3MU9LajY1Q2tqUzFDV25yRFFsN2xEbnVnZklKV0g1ZDRRb0JBZDRXMnBwQkpNOXRRbUc2ZHBibHRuVDRkTnBHWjY0YjMyQTJ4T3NUSGZ4QWNvdGRMblhvdndXSkgxRlRZYWNvR3M2RWhkYnFhZHdrOEhZbkV0aGhn?oc=5",
-          "time": "09/22 01:30"
+          "t": "Wall Street rallies within 0.4% of its record after oil prices and bond yields ease",
+          "src": "apnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDNDazNXMFFxamlNa0U3eGdIWUROLTlNZU5lSElwaXhMdEpQUm5yV3VLWnFlbi1RM0hNTHpKMHB4MXEweDZ6empja0c3cHE4dzlPWm4xek13QXZsMlF0MVZxYWNmZ3pRZ0oxQWFNZW9rSW9oM3hUNjJYUld4SURDclhxYkJETzhGYTNPdzl6SlVKOGtvM2lSaWplTDlBUXpmdXc?oc=5",
+          "time": "09/22 05:28"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Warning Of A Big Sell Off",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aNEFUX0hTVGNRVUQwYTRiWEQ5VDlJakpJampNRng5eHYxMWlJc2N3cjU5OXUzU2N3dENoM2NEYzk3d0drUGxvQzdhVUxFRzIyandTbEJRbV9SVHJqb2pISkZMZG5hVTVlWTZEZFZWTFB4cWNKaFM2dw?oc=5",
-          "time": "09/21 23:02"
+          "t": "Wall Street surged higher to start the week ahead of the Trump-Xi summit",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1M3U3BtVm1zbEIyTmFRdkNkcm5XNEpNVW1BcDhlYjBiSXFUNHJYb2RjVklSRlBCMXBVTEpacy05X0pnNTByNUN0dXVBNUt0LTJLWGdpRXdMNEUtSUd1R0RPeGhNQzhSdFJWY21pdTRlSlhranU4bkhROEF0RURpOXN2SThES1h2Yl9wYUFWWF9hQTg?oc=5",
+          "time": "09/22 05:08"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Is Growing Skeptical of the Data Center Boom",
+          "src": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vVjhPS25fUHJuTXZPSWJ1d09tMDlRZEI1SXppRkFjeHRrV3JXWWREUEx3cXZSSVliVG9qVmRDaUNiSlFfemVVd21zcmJ0ZHo4STNYNFVIRmtsR1RQcjNMVlpCbl9UV2dzcUFpMmR5ejc0SjhGQWlF?oc=5",
+          "time": "09/22 05:04"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stock Market Today: Nasdaq Hits Record as Oil Falls – Sept 21",
+          "src": "stl.news",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUUGRuR0xTNjViLW1PbEFHWWdNNFRQbHp4eWdXYm9LV2JwVjBueUZKMllJZGJWaHVYZzVWSzhyZFRIWEROckR2MFFReFFjVWNxZHVxRExFcU15RndpN2ZNZ2pRRFhFOWgzY1U5a0dJanpjYjdzSWc?oc=5",
+          "time": "09/22 06:27"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7763.07,
-          "pct": 1.47
+          "value": 7764.7,
+          "pct": 1.49
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 27088.96,
-          "pct": 2.14
+          "value": 27122.09,
+          "pct": 2.26
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52017.88,
-          "pct": 0.65
+          "value": 52048.83,
+          "pct": 0.71
         }
       ]
     }
