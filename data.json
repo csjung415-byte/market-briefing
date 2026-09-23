@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-22T17:06:49Z",
+  "updated": "2026-09-23T00:06:00Z",
   "markets": {
     "kr": {
       "news": [
         {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[굿모닝 증시]美 반도체주 강세…코스피 상승 출발 전망",
+          "src": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42dGtSTUl5cFdiQ29ianR2WktCaVEyVEZVMHZLdkJ3b0NLd0VQX1diWWVMOWlrODRJdmlCa2E3TlZhdnJsZXk1cUZ4VF92Qmt3bTRTeXNwMHU0NUtMdjZkOEd3?oc=5",
+          "time": "09/23 08:10"
+        },
+        {
           "cat": "macro",
           "catn": "시황",
-          "t": "알테오젠(196170)",
+          "t": "장 마감 뒤에도 개미들 ‘폭풍 매매’…애프터마켓 첫 주부터 하루 1조원 돌파",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjFmNF9GRWRuY1JHbm92OGVPS1ViVTBIOV9tUlVaRWJoZ0hkMWpTZlRHODY3UERkLTJzX0dOY3V4UUVXdEdjUEpIdldVdjlEWjJFc1lBMFZ1M1dFMXBJR3dtUVFvRmd1Tm05LWV6XzJ4d1JHZDF0a29paHdMTEtmdmwtOHBnYmlwd2VFRU5oT2NoZGlrZnI0?oc=5",
-          "time": "09/23 00:49"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoOU1OT2Y5WE1PenFsVExpaXNQOGk0dldMTEVWNDlTZmpBR09nMEpBcnVrR3dZOGpHam5YZ3ZTQWwzX0Q4REFYMmlvUGtUb0swZnc?oc=5",
+          "time": "09/23 08:22"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 장중 2.34% 급등 후 상승분 반납…7,017선 마감",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oeHJUdEFIRE5UNk9kYlBhdUJ6Q0tQdENNOEc5RTlOQkZudFlFV0NrRDFERi1JTFRwd25NNEpGd1RtZU05OEtzdkNRaXZoT01EUGttMFdJUUUzeElLT0xOaDFyM09qNXl3XzdxMkFsZFbSAXRBVV95cUxPNGpad3U2WEpRdWd2TEp0Tk9ib0VHRW9oQ1FFOWFvZ2Rsa0NsMkpmWVJBOFg4cHVBUEZIY3NDVUZOQ1NUVEVMajk2YldRMHdGNFpianJGbDhsS2Ixb0tFRFhpU1JNTmpzYVhFSTdfNm5qYVZEMg?oc=5",
-          "time": "09/22 16:33"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[박정식의 국내 주식시황] 美 반도체 관련주 강세 속... 국내증시도 반도체 중심의 견조한 흐름 가능성",
+          "src": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EeEJ6bWJia2FNc0pSWVRSZ2s0dVZkU05SNGJxdXJlWkdhM25VZGJMSjM4M2d3T1JFSXRRRXJSR1I3c3dXN24weFllNzU1YXgzOElSb1VvQWF6NTZOdlZIRWxVT1RuWEEwSFpEckVwbw?oc=5",
+          "time": "09/23 08:22"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[개장] 코스피, 美 훈풍에 7100선… 삼전·닉스 3% 올라",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPU01BdW94RUU1c1BHNjVELTE1MVVqZGhXeGIzNndsczhpNXlQVmJPTTdDeF9OVllBWVFLaTM0dzdHRkViZE44WllFa2pZWDZneVFZcE9BTWlWaFJKWmt1X1E5VThacko4UlpwRWU2TEPSAXRBVV95cUxNRTZzTTFCMGhCd3p0cFZRU0M2WFNhSXdTZVNaa1ZobzFLa09PWVp1bG9ha0x4SEpRNUJTazd5T3FaS0VIZUEyN2RvY1pCLTZQcGNMZ3BHRzlaOVJxbFE1NjNZOUJLRUY2TWVUYklaNUxYXzQ0Mg?oc=5",
-          "time": "09/22 09:34"
+          "cat": "flow",
+          "catn": "수급",
+          "t": "‘삼전닉스’ 자사주도 끝난다…또 외국인 눈치보는 코스피 - 조선비즈",
+          "src": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmFvQ1FDRWJQN0xmcmFfWjlGZGoxeldHRHJuR1lzcDFLMl9OcE9WRU5NTmNNZWtwYWg1VmNhTERCUlZIQXk4ck5vVDZiZWFNd1dlMDhvQV9jTXNsUEdKaThnNGJHSDAyQXJyU05mUTUtUjhfdWxJQUd5WW1oNlhjREtpUXpteU9Z0gGcAUFVX3lxTE9kUlQ2UnI3RHEybWFYYW9CSjFCT2Y5TWtuTDFSMjduX2N4UnVJMzIzaWdKN201RGY0c09nLV9Gd0VpdHdnS2dGVS1kUWNiclYydWs1NWpQNTdQRXRUX1c5aHZJRXcxYzN3bjlodDNjN0NhRGhlY2Q1MzFIVUQ4N0szdmJzRFhqNTZOZXVLczFLekxha0l5NTFyUENlUQ?oc=5",
+          "time": "09/23 06:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[증시-마감]＇자사주 매입 외엔 매수세 실종＇…코스피 7,000선 턱걸이 |",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aSVdZM3RRYk1KMENhVHJGNFBSY2VBblh2OElRbEVNYnNTeFFNT2NkY2I5VXIyY0ppZmRmd3RPZldPdW5wZnUyWmZpUkQ1eVo4TDhuSU11ajFqRmZIY2hxM3NzOTBUMHpUUDVRYVhyX1VnTjFJ?oc=5",
-          "time": "09/22 16:18"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "숨고르기 속 코스피 7,000선 유지",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfbEVoUEdhdDVHdXZ0dEtybmI3ZjRGMGhtZmtBTHRlY245bG1SZWxvVnJ1UUtMRlNZUU5PYm5qYlp4RzJsX0NETXBWeTFZYzV2T2dpWTM4S0wyaU1ZaWgyN2wybTRIU28xSGlPeQ?oc=5",
-          "time": "09/22 15:54"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[0922마감체크] 코스피, AI 훈풍에도 상승폭 반납하며 7000선 턱걸이",
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[0923개장체크] 美 증시, 반도체주 급등 속 나스닥 사상 최고치 경신",
           "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94WVljZ1A5djRROHk2dUR0TzlVV2luYzE0NzAta0hHUUxraXY0b3pILWJQMGFuR3V5aGFyaWh2ZUkxNENOSTRBYm5laDFaa2ZmVDhwVUlqRDRySWtwVWdjUExMTmd4dEVtVWx5QjdTUkE0bWdlMUE?oc=5",
-          "time": "09/22 17:13"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KampqSmN4d2M5YWctVEZlTGhXajgzYXc0R1lackRXRy14Ykh3eXN0ZW9TZlB4Umg5SWhpRVBOY2dyR3M4b2hYWHJ6UFZuUDBFcUdzS3ZRcTUyX2FVbWljek45QUpheXBONy1GaVJqb25ZR3lOWkE?oc=5",
+          "time": "09/23 08:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "지친 개미, 1.8조 던졌다…코스피, 다시 7000선으로 [이런국장 저런주식]",
+          "src": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5dVctVE9rYkl1NmM3dW1oSDNneHRKWDF3Q2hMakdhZUZEX2prXzFjd2lFZnF4bngxcG9Ib2h0VWlldnFWVFFHQlcxa3RJWVh0YVY4RWx3?oc=5",
+          "time": "09/22 13:53"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1357.95,
-          "pct": -1.94
+          "value": 1350.18,
+          "pct": -1.71
         }
       ]
     },
@@ -78,18 +78,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Global benchmarks mostly rise after Wall Street's rally",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYWk3RWU5VDc2eGh3VkZKbkJEMnBKb1pFZTFURVlHRUFrNjVaTXE2R2tWSFZURk1wTVI1dWh2OUlQMG80VS1Ja0pYZWVQcFN2S1lvMnFKVHpnckQyek5OMW15Rm9oSlpJSlptTFBFdTAwNm1vcVg1alFDamlwUkZTYzFHM2xRdURYdXkwMlZKX2FUVVBHSU93and2YnAwSzlCdEhRX1E5XzctUkxWSWprQ1ZKMS0wa01Cam1kZENDc3Z1RUptcFhiV0RFcWZaQ05kVzJ2T1VlVllOZ0l4dUhVaktObHZnWDBjb3c?oc=5",
-          "time": "09/22 19:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
           "t": "Wall Street ticks to the edge of its record as Brent oil falls toward $98 per barrel",
           "src": "spectrumlocalnews.com",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXdaM3hzYW9aVWVDRjVocjVHcXFKeDJ6dmF3M1k5ZXdZM0VLVFJvVFcwTGwzOU94Z3lDNk1NTF9wc2pGTVBzOFpmQnE1RjZqblZyZkNkbjNkdDN5Qll3U2kyMUpxNVNhbkd1aHhWX1dIaFlEeXBEWWw4Nk9hN1huVGlMVU5PYjhYNzRKX1A5RTQ0VjQ?oc=5",
           "time": "09/22 23:31"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street holds near its record after Brent oil falls below $100 per barrel | National News | 2news.com",
+          "src": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNHNLZHlGVnhGeVVMbGxueXNBZ0ZLU2xmWXQ3V3J5cGw2OERzTVRsTktsQTdLX0w4VGdUaFlfMEtlakNsNDF3ZzgyWUU0ZWJ1LUk4a2I0YUNreEx6M1NfdzJTSkJlOUZVSVZUbE1YdWFyaEVGcGZ4UlBya2RmLUVYSzVKTXktaFowX0RzeldzWXAwNEdZN3VjWGxzQkVFTHZQNW9GbzFxbUxOYTNldXI5a2VJUzA3QVNwbGFwYkk0Ri00SHFoU3AtYnZVVm5IVGVjWm5CZUFWQ2lnNkRORWs5ZzFQNjEwVTdVaEdRamZaeWFvQQ?oc=5",
+          "time": "09/23 05:16"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stock Market Today: Dow Skids But Apple Eyes A Buy Point; Filing Says Trump Makes These Trades",
+          "src": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVi00VHJKeFBfYkxlRjhxWWwwMHY3NVJuZ1pGWS02cFJNYXVDVmpqbUpsb1JscXNyQWUtSHlYZGU5ZGR4cjczVnFQTkhxVWpPUWdkVGtSejFXYVEydVR0eVFKOTZ0ZHMybmVDc2d3TlFnVnhuUEtzMEkzcDF0VlZZUU9Lb1d4d1FLaTMtNzZjVERjdXpBazlXRmVtR0FrcE1VNjR0anBISERoYnZtNXpMTk5YNWN6cVRrMVJnXzZLY2FZdUtCbVRN?oc=5",
+          "time": "09/23 05:40"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Global benchmarks mostly rise after Wall Street's rally",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYWk3RWU5VDc2eGh3VkZKbkJEMnBKb1pFZTFURVlHRUFrNjVaTXE2R2tWSFZURk1wTVI1dWh2OUlQMG80VS1Ja0pYZWVQcFN2S1lvMnFKVHpnckQyek5OMW15Rm9oSlpJSlptTFBFdTAwNm1vcVg1alFDamlwUkZTYzFHM2xRdURYdXkwMlZKX2FUVVBHSU93and2YnAwSzlCdEhRX1E5XzctUkxWSWprQ1ZKMS0wa01Cam1kZENDc3Z1RUptcFhiV0RFcWZaQ05kVzJ2T1VlVllOZ0l4dUhVaktObHZnWDBjb3c?oc=5",
+          "time": "09/22 19:00"
         },
         {
           "cat": "earn",
@@ -102,46 +118,30 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street rally nears record high - Northwest Arkansas Democrat-Gazette",
-          "src": "Northwest Arkansas Democrat-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSE04YmpsQjlZMGp1U0dJRFFtR1VVV1ItNXotVjRzTF9palQ4LWlRWXJXOVg4Y0FLRFJZYjA1QU1vd2lnN2c1aXg1YjhKdFBrQWFiN1dmdW5jTzR4NWJNY2FuMDZSTFk4cWc5dTFEeUp5TklsNUtKRFoxc1k2UzNKcG5xRlVOUQ?oc=5",
-          "time": "09/22 16:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Investors Snub Wall Street, Build $5.1 Trillion Cash Fortress as Fed Pushes Rates Toward 4.75%",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0xWVnlqajhScWxsTW85d2dTd2NsVzB3U3o0R256aDluR2tLd25pVnpYUnNJLW9HMWVxcnhQVmlGUmF4R3Iyc3I0Z2ttcUlEQllxa1lHOEVkdkZoSzVNN0NDUUUyU1NTOEJ1ajVNQXJtazJMR19aWVQyREJCWTdrMVFrY1ZpdkxqS2xDQVVfenRTeXcyVmxMcFNLXzJFSkJ6c0s4blFkeTFFajFPdUc1el81ekEyaXVIUVBHRFFoZHc5TGlIckl1U083bWhjWWRK?oc=5",
-          "time": "09/23 00:09"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Asian benchmarks mostly rise after Wall Street's rally",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlM1MDNoak85TUh2SGliaHczNERUaXN4TzVGeW9YZnhUWEpqVVdNM3pUa1IwRHpIQlRlSjE5bVBJemxUbmxITlI1clNOUlFoQTF2bW8yd2VsZkRoZThxYVRsWDRIYVE5LWktbFk5Q24xc0dDTlhxeUZMNXRkRjBiZUl0dTZxRV9aSFNnZ3NrX1hjU0pWVGZjVWx4ZGVpenQ4d2tyRXR3Nnk?oc=5",
-          "time": "09/22 12:31"
+          "t": "Wall Street Thinks Rocket Lab Is a Buy. Here's Why I'm Not So Sure.",
+          "src": "fool.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEc0V0t0NGcxTlhwUnZ1VHVZMUhvc1N1TUNZYUg0dEdOWExuLWx3aXloOVA1XzBFRWVEYUMxUXRiUGxaVTVlUFVOMnVzRWRuUVUwVU14U1VuNDFyTG9OZm16NFBTRXdnN1pySjZXTDJhUDRVN29lV0Uwd21IVWgxT0NVd05SWlJmMTVtUEN3VUVZVUZTNTQ2TA?oc=5",
+          "time": "09/23 03:30"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7766.21,
-          "pct": 0.02
+          "value": 7764.64,
+          "pct": -0.0
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 27219.33,
-          "pct": 0.36
+          "value": 27244.28,
+          "pct": 0.45
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51831.0,
-          "pct": -0.42
+          "value": 51863.69,
+          "pct": -0.36
         }
       ]
     }
