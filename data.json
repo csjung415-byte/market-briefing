@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-24T17:24:42Z",
+  "updated": "2026-09-25T00:19:30Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "추석에 되돌아 본 ‘올 한해 주식시장’ 흐름은",
-          "src": "스트레이트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xM19za1dWTkJib190SHJONDNzTGpVMDFBLUtSYWdRRVhoeTdUNHVwLW5IUGQxT2Y4Ukl0cFhKdnZWTUNuamVhanBTM3JnbUpiSnVfblVLMXcwQ3M4eFpNcHF2SWpFUlhERlFhRk43NDFuSnfSAXdBVV95cUxOcUc1TnJlanNWcjM0dnZld2tnSXc4M0xtOXVVRG4zSHBXb2owWDl2bTQydDNuNkg5UVpjWjVTLVNBaUxmNUdKanJobHB3TTFmT1VuNjVSZlRoUEhLS3hkQUJCZkNTS3lIZEZVbG9IanItd1JIVUlrMA?oc=5",
-          "time": "09/24 08:01"
+          "t": "[추석 이후 증시] 장문수 센터장 \"10월까진 투심 부진, 코스피 연말 8400 목표\"",
+          "src": "paxetv.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ILTBIMnFuWHowYUdJcnBmdFVNUHpiU19jZUNkLW5NeGp1SmJDR2tXOTFjakdOcmdFRTZmNUVKMzAyeXJuYS05a3otNVhVYVhZR1hJdnBCTjhQbU1hY0EtWHd3MkRHWWc?oc=5",
+          "time": "09/25 09:10"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 7000인데 개미는 울었다…27년 만에 최악의 투자 성적",
+          "t": "'사팔사팔'로 손실본 개미들…1주씩 차곡차곡 '주식 모으기' 늘었다",
+          "src": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0Qm5uY0U4UjZTdnd3Mjd5dkpHbFlkWVBnQzRyU1lPT1VLLWRGNVBZclNnLUI3cmZlZkhoVU5nTnVxeXgzOWRrUzdSSjRjNDJoczF1UFZOTHdTX29JaWhfYWV6VmvSAWRBVV95cUxQdEJubmNFOFI2U3Z3dzI3eXZKR2xZZFlQZ0M0clNZT09VSy1kRjVQWXJTZy1CN3JmZWZIaFVOZ051cXl4Mzlka1M3Uko0YzQyaHMxdVBWTkx3U19vSWloX2FlelZr?oc=5",
+          "time": "09/25 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "주식은 무섭고 예금은 아쉽다면…‘쉬는 돈’ 어디 둘까",
           "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAteDRmbUVuRmVuREZyZjFQN29oSExhN3JZeTY2S0VCdDhoSkdEQV82ZmtHVWk1SGFLa19KUGhvZVVvdnZaRXc?oc=5",
-          "time": "09/24 06:01"
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XVmpGcFhlbXdhNDliNFg0blIwVjJjN1hJNGJRQTUzVXJTSWJEalQzWjBaTmpta3lMVThHUkc3aVZtWmMwclNiTEFXdjRXQ3c?oc=5",
+          "time": "09/25 09:03"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[추석증시] ㊤ 코스피 고향 가도 뉴욕은 3연전···미·중 정상회담까지 겹쳤다",
-          "src": "여성경제신문",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMUEI2SzByaHljWDVtbS1NamZ1NEVTOW1Tam8wMGU2UG5UdnBfMTRYUmNaS1QyWnlvUzdQeDRXd1R4WlZtY3pQVm5rMW9Dd0d3UWU5RWFLV21JdmFVbEZpWGFwWHhOWk1lNmJRQ1laNWNhZ0XSAXdBVV95cUxOVmRTVGJpQjlzaXE3NUxRZTdyeUFLTlBiTGRVZmRaVFE5QkQ5anJNeXN1R3R5ZG54OVI5WFc4OGJvWHhpM0VYY09BMFVRRExrTmdfUWJZQjZ6TE1ZeG9EaHpUdHhUcGR5SGFPdU4xSW1wUzlLVWo2MA?oc=5",
-          "time": "09/24 15:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "국내 증시 추석 연휴 나흘간 멈춘다…해외주식 데스크는 ‘24시간’",
-          "src": "뉴시안",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45WFRhWlZ1YUxRZzdOMjk0TEVxdDNQRzk3Q2pqZUpPQ3hWdmk1V05MRy1DV2tOQWNHSndseXEzNWZ2My1XbXh1X1gxVUc1QXdUUDRpQXBJZjE0UmhJXzVzSU1ENUhndHVLMWdJcVZn0gFuQVVfeXFMTjlYVGFaVnVhTFFnN04yOTRMRXF0M1BHOTdDamplSk9DeFZ2aTVXTkxHLUNXa05BY0dKd2x5cTM1ZnYzLVdteHVfWDFVRzVBd1RQNGlBcElmMTRSaElfNXNJTUQ1SGd0dUsxZ0lxVmc?oc=5",
-          "time": "09/24 08:47"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[주식 고수] 윤석모 삼성증권 센터장 \"불마켓은 죽지 않는다…추측보다 '팩트풀'이 답\"",
+          "t": "추석에 멈춘 코스피…재개장 성적 결정할 국내 증시 변수는",
           "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BS251STVLdndPZ1FsRVFaRjVFZjdTNDY4MzFkX08xbEhsaktSZ3JFMDczTGR0aVVudjlXVEo3NGFMSGVPelhvb2c5aU15dWk4c2plbG5reXd0U3NQ?oc=5",
-          "time": "09/24 07:00"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10d3hlbEJ5TUVjdjRraTdlNHVlanUwYWJldkZYbDBxRUZ4b3BOVXkxU01DUzRUUTl1aTNRa2ZXM0p3MUdOMXJhUXl5QnZpenM5c1pUWm1ueFBIVDNM?oc=5",
+          "time": "09/25 07:00"
         },
         {
           "cat": "macro",
-          "catn": "금리",
-          "t": "금리 오르자 주식시장에서 은행으로···'역머니무브' 가속화하나",
-          "src": "서울파이낸스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fX2JRVjBKY1pJVW41cW5kZHJTUkRjS1NZZzY1NE1CTUFpM2d2UVc5WkJQdWV5U0R4NmJEUWQwdjZTUXN3VWdpN3QwVGVQRUNfMXhqRDROaTBHaGt4aFhCdW42TmNNaEdfS0E?oc=5",
-          "time": "09/24 12:00"
+          "catn": "시황",
+          "t": "미장이냐 국장이냐…S&P500 vs 코스피, 꼭 따져봐야 할 투자법 [주린이 1억 벌기 프로젝트]",
+          "src": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yWHN0cWc5aC1rakNvNlpKVzZ4dTF0bVVoTFRJa1ZKemNpVEZob1FkUElDSm1hLXVJYk1TbU5HTWMyMUtLdWowSUE0QzRMdlhOVmJCWjJn?oc=5",
+          "time": "09/25 07:40"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "7000피 올라타기 겁난다…단기채 ETF에 뭉칫돈 [코주부]",
+          "src": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02Q180SDRNeFZISjROZVM1RjJOTFJtd29KallQWHpnRmNyYmw3Z0U1UFVTUlZGelFDNlc3bXQ5bE9tUlk0R3dsSmlwb3gzNFozZGfSAVNBVV95cUxPZkhCMmg2RlcxMi1BUnJLWnk2TkkyQ2k5ZDJ2RDBObFpNT3U3NEdjazJUWUc4XzViUWc0dWNiNHJiNkVVYnU2am0wOGRRSVJMZ3c2RQ?oc=5",
+          "time": "09/25 08:00"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1366.38,
-          "pct": 1.19
+          "value": 1368.78,
+          "pct": 0.46
         }
       ]
     },
@@ -78,10 +78,34 @@
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Black Monday’s stock-market warning signal came from the bond market — and it’s back, says Wall Street veteran",
-          "src": "marketwatch.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX2FuNkZhUmV4VUZhOW5YcFk5SkRFTXFqMnYybmlsZWRERTI3QlNMa0RqTC1jSk1TcjJQNFVkV19jUDdKcnBINDdsbmdNUFk3dHVhZHNtN3FibmNyWWtOSkgyVnJlNm1tV203Z2FXQmtIbFlrazNxZENscnJKU212dV9YcEJ5dDhHeVR0ZXZGZ0U3a1lGRVJ2NHdVS0Fnc1NQeHJKNFFxVzNlYjl3VG5nU1RwTDhVVmNrb3pub2NzUkJfU2ZrbFJoblJTeE5HVjRFWlcwdnY1VUlEWm9SaXRJeWJR?oc=5",
-          "time": "09/24 19:01"
+          "t": "Wall Street ends nearly flat as yields rise",
+          "src": "thebusinessjournal.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YTEZmdWdnd0c0X2ZyOTVmSTEzZjVaTGtOd3dfcUV0SnVaQVR4ZGZVbUdlUkdQQ3BaWURKS3BGMmRIbjlIUGJJNUxOMXdIMXF2N3d0YUdCcFJxRXVtcVJPRWNRMXdpYXVFcFZNeG5nYzdUMmJh?oc=5",
+          "time": "09/25 07:17"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "The bond turmoil is ratcheting up calls for an imminent stock-market correction",
+          "src": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEJXaU5xYXltR0hudlAxV0FMdXZoZzFRYVFBdWJ3elFULXplZm0zUjBmVWRxR21QWTJ5bFZVTkItLUM1WnA5NDZ1UjVNSW12VXhxRzltNTk5M1FGQnJjY1l5eGJOMVh5ckpwUDkxU2lnQTFHVkRkLTNXZkZha1VTSWNhUGdUa0FjbnlVbUV5Z29TRndWMnNTTEljQXcxdzJNLVRz?oc=5",
+          "time": "09/25 02:41"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "US stocks end barely changed on a newly shaky Wall Street after a couple reversals",
+          "src": "goSkagit",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQS3RBcGhDSDRKSWc4cEx6ZFVxQ0E0X09hZW0yOW9KUl9pQVRGdVJUMl9QNDZ2YmhDLUZQeDhFMTlMdEt2a3RoOWg5SnlWX3ZzM3hCdFZQUmFXWTB2dE1jeEMwY1VXcl9ZWlRodmhMRFRsSFBSSVVaYTJEYVhIc0VRMUUzVXQyVkVBSEpDdlZCZk45V1FyZ21DOWVyMDNRY1F4bV9yYWVRbWlDelpIVnBoR3U4Nm1FUlliNFhqYzhtNWhCRlN2NDVKX0lFNXdUR0lVUVFUaUl6TVpjVUNFOU1JaFpmTWR5UWVCcEFONHluNTJmaWpGRktTdi1SQ09LbFlWUW9FVQ?oc=5",
+          "time": "09/25 05:08"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "US stocks swing as the bond market, oil prices keep up the pressure",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPY1RUVWxDYTh6dEFzOWNiZmlyRHVmeGJ2NlNyei1qV2hIbENuZTE2bklXQ0hqQkx6bVRvM3pLcjIwLVZXcDlEaTNQNTFIamRYTVhfYnN0dzEycjVNVkNiZEc2MFAzM2NZV0l2Qm91bzhvWms4bEtUUVJWVjliUWlXNTVUVWtkVi11YUxnWG9VMmUwN2VqTGxWU2tEbGRqUVJiQTRISnFtcmxmcnBTTlhDMGhLdU5YTWc3a2F4VDhNbmQ3NUJoVXdPbVNLeW5sX0o4elgwSGFKOC1USjc5S3BHbW1hVXBpQl83VXV6bHJEcEVBSkRpNDJXZmt3?oc=5",
+          "time": "09/25 03:26"
         },
         {
           "cat": "fx",
@@ -92,55 +116,31 @@
           "time": "09/24 22:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "40% of Your Wealth Hangs on the Stock Market. Congratulations-You’re One Correction Away from Disaster",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0puUjdmVEpReDRWUklGYk9zZjNDaVRVMGQ0ZWQwZ2pxbFhHdWU2cDJQcWN6bGNtYkU4ZUFGa3o1bHFiRXJ4TXo3dDE1RkhTTkllS0VLeGY4eW1XWGd1ZUc0MzJsdENWUFJkRk5aUGxHOTdpSG9TWm1KUEx4aHBHTWJ1Q1FKazFfcFNxdm95Ui1VTjI0Uy1NcnBtZVZ3dmRwRXJPX1k5dGFRQXAzVFcwVTB1b0dMVTd0eWNubjhBRjJzZjgzQVEzdkNFN0YtenJmNWxMSjRkTl9CVEE?oc=5",
-          "time": "09/24 23:52"
-        },
-        {
           "cat": "fx",
           "catn": "환율",
-          "t": "US stocks slip after the bond market keeps up the pressure and oil prices rise",
-          "src": "ABC Columbia",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMjFNTEdCdmlXeWxNa3huUVRha0VTSmx5Q1dxaVJxY2E1QU9YZVdlWG1pUzM5RTJpM3FlSVlOV0ZVeDlGNkZyb2t3elZDOTI0YWNFUHJBMGc2MEpVbjIzQmRhVDN5d0VzRnAtNGxBSldSd3dUb3FVc0xOcG5ONnYydTFGY19tQzhtZ3RxVTZQSzdHVDd5QVZteUhnN3N3Y2xRODA1bkItM0NkN3ZRR1VyN1ZHU2NKVHVkNGc?oc=5",
-          "time": "09/25 00:45"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street ends down as oil prices, Treasury yields rise",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
-          "time": "09/24 08:20"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stock Market News for Sep 24, 2026",
-          "src": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tVmphUm5zajBfNGxpZ3Y3b0VwMXRMR0E4YllETjFudENEUWROaGxkSDlhWkxLcVY3TnZrX0tVbmRGSFdUWFVRVDAtSzdUaVZhRXFWcmRSMExvcWQ4ekxVT1JnRUNRVEkzS09VUU9CbkNxUjFKUmxTY0Z2cmdJQQ?oc=5",
-          "time": "09/24 21:33"
+          "t": "Black Monday’s stock-market warning signal came from the bond market — and it’s back, says Wall Street veteran",
+          "src": "marketwatch.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX2FuNkZhUmV4VUZhOW5YcFk5SkRFTXFqMnYybmlsZWRERTI3QlNMa0RqTC1jSk1TcjJQNFVkV19jUDdKcnBINDdsbmdNUFk3dHVhZHNtN3FibmNyWWtOSkgyVnJlNm1tV203Z2FXQmtIbFlrazNxZENscnJKU212dV9YcEJ5dDhHeVR0ZXZGZ0U3a1lGRVJ2NHdVS0Fnc1NQeHJKNFFxVzNlYjl3VG5nU1RwTDhVVmNrb3pub2NzUkJfU2ZrbFJoblJTeE5HVjRFWlcwdnY1VUlEWm9SaXRJeWJR?oc=5",
+          "time": "09/24 19:01"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7705.17,
-          "pct": -0.01
+          "value": 7704.13,
+          "pct": -0.02
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26915.04,
-          "pct": -0.08
+          "value": 26939.37,
+          "pct": 0.01
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51351.18,
+          "value": 51349.98,
           "pct": -0.31
         }
       ]
