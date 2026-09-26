@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-26T00:24:36Z",
+  "updated": "2026-09-26T16:33:25Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 상승세 ‘지지부진한 이유’ 있었다…서학개미 미장 보유액 2천억 재진입",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OZ0pZdm9ranJ2X0RFVUtoZXNqc2FlbWlfTjNReXoybWFNRHYxRFVSSlZCVTdRTzdjUl9Nb0FKb0dxNy13TjZwRXJQbzJhNkQ1?oc=5",
-          "time": "09/26 00:48"
+          "t": "‘이젠 진짜 주식 접나?’ 9월에만 18조 팔더니…미국 ETF까지 매수 반토막 [투자360]",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jbWViVkprYi0zYldtYTJISWdTRXJTbzREODRaTHZhUzI0ZXQzM09xSWszUTg2cWpkRFJValU5V19ZUlN0bmc?oc=5",
+          "time": "09/26 20:41"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "주식 계좌 개설 건수 2배 이상 늘었다... 상반기 코스피 급등 영향 - 조선비즈",
+          "src": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmxra3hyTjBqaExna2ZCMzVRZ1lHX18wZjJSc0p1cVVwemJob01yY2hCdzd0eThPQUJkMnJFeTdjaUU3UnNGVkxtZFRFTno2QUpWRFFjQ3IxTU9jUDRYQ21SNWo1OVZXeF9mVzJHS1ZQMlNZSDZ2c0p0WEthUjFBWHpRWWtORTU20gGcAUFVX3lxTE1IV0hfMkV1MDY2U1BEa1FjZlJSRkNoMVlFQ1JTbUg0U3RYaXR4UnpGbThIeV8xNTBZLVlzYS1UdGdxdWVlSE5INjZIY2huSGVvY1JSTWpwSFNDMkhYZ0huZ05pd3RUUEgwSTJOMmM2M19wcXAwYVNFMHoxd1hXcEdsQk1tc2lVemY1Z3M4WlhiUEVMTG9aZ3p1RnJYeQ?oc=5",
+          "time": "09/26 06:18"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“시골 부모님이 지금 삼전 들어가신답니다”…명절 후 주가 실제 향방보니",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aTHhZblVOd0tmMDB5R0E3NkhuUldwbGVhbHJBNU5mZG9SU2FXemxvNG9Ra3dNaWZkcG9leFRlSGxBRjhjUl9PWENjZ1RlbHZGVlE?oc=5",
+          "time": "09/26 17:44"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승",
+          "src": "기호일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85X0JIS3RjSVJLaTcwbThXMDdjSEt0Z3Y1UXZHakV0bkM5aTUtcjVCM1NrM3Y3V0ZqRTgtbHJGMnBYbWp6eXFXX0p3OTZvekFMVmtpX21rUDZpYWVZTjJfbWtybzFDQnZwdlo1NUN6OA?oc=5",
+          "time": "09/26 09:50"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 7000인데 왜 재미없나…상한가·52주 신고가 급감 탓",
+          "src": "진일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZemxZQXVaR1huazl3cV9tYmVxNTNkcnk4ODQybThIQl9yajI0OW5DbDNZRTRocHdjWHlFUUlvTHhFdnRFck9kblFGSFQyaTNCc2swV2s1UlVUaEJCcmZ5b20wZUNMdG1sUWJHbTUxbw?oc=5",
+          "time": "09/26 09:35"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "\"코스피 시즌2 오나요?\"…증시 반등에 투자자예탁금 100조원 재돌파",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEZ21kQlF5VDB1TkNnYW9wQjlRRE91WTBHSTRNMlB0VzNMNFg4V1F5Z3U0WU93S29GQS1uZVdtSU1GVmhwUG83LV9rY0FFZ3M?oc=5",
-          "time": "09/26 07:32"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "＂코스피 7,000인데 내 종목은 왜＂…상한가 줄고 52주 신저가 속출",
-          "src": "한국경제TV",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NF9URTFUTDJzanZneEJXTTc5RWs3RnN5aFU0QUVJRFFrSGtRdmlUOWNQTVZIYWE3cXIzZ1g1OFpEbmF4S1lfXy0zQjhiVC1EYnVTaEpHX20wb1l4Tm5RekhSZnh5ekNFSnk3UFFfRndlNGxfUWY0?oc=5",
-          "time": "09/26 07:45"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "추석 지나면 주식시장 어떻게 될까",
-          "src": "톱클래스",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiWlEyOUhkNmxvT2Y0MzN5aFczTGh5aGtJRk9INTJScGozaWRLRDNSMTQ3dmt2N1R4Mk5weEVYSVlObFRYTmFCOHd6c2ZQelZmblpES3hLcG9oQTRlVTVVTFJab0VocnVVeE1WenVR0gFwQVVfeXFMT0piNHVhaU9rc0ZxZ0dCWTUyalFVUUt2bldLSHpDeEVuZjNDQ2tEV205d210cVJVUGdkZXNGalFpTU16Zk5QcXV5Vkt2LTdJcWZ0Rl8wSzJtNVdIUE9QTFU4bzRiVTZLUTZ3Q3F3V3lGYw?oc=5",
-          "time": "09/25 13:55"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "미국 증시 개장·한국 증시 휴장…추석날 엇갈린 주식시장 시계",
-          "src": "CBC뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zUlJ3aG5UVHNKcUx1SDdrdC1JRGdaMzV1bXRwX21TNXRkYlItN3hHYmExSmExLTVwek9GWXdVUkd1ek5xNTd4MFJIdnVyRG5tN1RTVDJUMGtXZUk4YWlIdDRzb1FGN3lq?oc=5",
-          "time": "09/26 00:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "‘코스피 7000 맞나요’ 개미 울리는 쏠림장세…상한가 ‘반토막’, 신저가만 속출 [투자360]",
-          "src": "헤럴드경제",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TOFB3bmc0NndUUmpqY2c1NUg5Tm14eGxkRmNzYnZOdzFLRmUzZGpEMHhTQlFfQXhlc2tvRFVaM0NCU3B1REhRZzdtQUg5a1RfV3lhTktR?oc=5",
-          "time": "09/26 08:41"
+          "src": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSN1laZFY1dnBNeDFSUTFJRWdYM2QyOEpWWU9nOUpfYUhMbUFQOEljTzVTa01rcjMwWmVJc3pzdHhUamFYek9PUWtjeGZhd2hwdU16a0EzUTFKdw?oc=5",
+          "time": "09/26 07:30"
         }
       ],
       "indices": [
@@ -68,13 +68,29 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1355.28,
-          "pct": -0.88
+          "value": 1354.4,
+          "pct": -0.95
         }
       ]
     },
     "us": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street week ahead: consumer confidence, inflation, employment updates",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORkhlT1dmTXBmOHdJWmRmdk9MZ1dOVjBoanFQMjM4di04TW1Bam9WS3RCYlI2czl3aklPZFRERlhNcjBqZEdGSG1Ga2RUV1c4U0ZRdlVLcUFtS2Jqb0N4MjIwRkZZSGEtcXBSU0lFZHhKWFpNVVlVTkJZemtMeVFRem1WcGZ0RTlyaUZFYWlQRVhZWWc5dEo2WHF3R2RkYl9uNnpsN0Fac3NLb0huN3hQTERfZjFBZWltSGVtQ2xoeFJlRDBzZWJOTC1TbTRoUkt1bjJaNlp0MUVEUnZfQWdCY3EtMDNyS0EtVndBQzNhbHRtbUZPWWsydFNkbUMxenFM?oc=5",
+          "time": "09/26 17:16"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "U.S. Stock Market personal finance tips: Wall Street investors may think over these key 5 points during we",
+          "src": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNM0xTQkRqTWtZM2JoV0EwQ1JUVWZucGxaZUUxemhQWGdFQmdFVkJYRms5N2Q2ZDUxYXJXUjhKeWkzSnJIVURwWmZqMS1MZWVsT2trX2p5NFJ4b3lrdkx2aUFjVGdsVTBkQ0syLVo5ejBCVzNXWGRLcTB0OW1DMWJTS19DMi1yY1JJUXpxbzB2QW81QWFzMTVDZGVJM19XRnVEV2RFZ2F6c2gyQVZlUGFQWkhkaVZkb0VwLTN6d1hFUnpXZ3VHa3A2MS1VeWlhLTByTWZnUzJqVkNENGFvaG90QzNHOTJfbFNWRDBGUHdJQTV3ME9qNGNUY2dRbUdkVlFCdUg3cFJwZ1hhNmUxdzdyTGJsNXZuSFdJRzViTzVzejVKazdPYUV5SDZwOC1KbC1k0gG2AkFVX3lxTE10TF85NGxvdTVXbHBwT0NLOXY5QmxRVV9pVU01RW9zbkQ2dWt2ZF9XWkFuenctRDZaSGMtajZxQ0tfSXkzeHBPVHFmOWliTGtlSG1RZTJFcEFRM1lzRDgzZHhzWVBSeWNvOXduc251SW5odEtXWEp2emNFUnY5b3FiSUNxejR0andtUjdUYnQzcEk5aGdPMGFpeHRGbDlIdWJjVDVhWGJsUm9VSkMxZWkwZ2RwZ1hFcE1NcUpHUmF1Y0F0SDRWWTdQZ1c3bHc0alBTYm1WaHlNaHR0Wm5OeDdOU0VFd1hrWms2b3RBcldUemtNc1RfYUp2TW50LVpSTXZKdXpnRFNMNjBLcUhMaFRxek80TWVBT3E1eHpHY3lSaXBTTGowRFIwTHc3a3YwM3pxRlJjcnc?oc=5",
+          "time": "09/26 22:16"
+        },
         {
           "cat": "macro",
           "catn": "연준",
@@ -86,42 +102,26 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "A reprieve from rising oil prices helps US stocks finish the week higher",
-          "src": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56bEZUdTVhX1cwSXZ5VFNSbkMwbXdMM0RxR0JIV01DZ3lYbFU0bXl6S0hhTlI5ZmRCUXA0Q3l6UUR5UktrWWRfT2RteW10Uy12SUdLbnpleWZWT1c5dWg0V05HaXhOTHExSHplTkFBZXlRb05zS3c?oc=5",
-          "time": "09/26 05:35"
+          "t": "Here's Exactly Why Wall Street Thinks Argenx Stock Could Soar 23% Over the Next 12 Months",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHRpTjJjay1JcTYtcHZIT1VtSTJGd05HVEppMm92Z2ZaWWdoVDlsNl8tWmwxcFVoZ2tmamRlRGJRUklNemVxSDF5eThRZjlVY19zeFNJYkQ5MVppNW5TVWpuYjEwcE1OTzhCWE84aHo2ZDJzellyOUdMeHdVaUIyUVgteWRwcEk0V1lwWlRKeFBBZFVQRTRB?oc=5",
+          "time": "09/26 18:44"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "Wall Street’s ‘80/20’ Shift Finds Fresh Fuel in Stock Bounceback",
-          "src": "bloomberg.com",
+          "src": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXdvQXdjem1jVGhhdlBMWGNwSUNZOVFsMUtUYVNBaUVVR21GTlYza0ZGdjQ3R0hQLWpiMS0zNTFZVTFXWnBtT0tYWXpFNjB6ZEJBOTVuQy1oWmNHR19tNGJGSEQ3NDNQdXBSTmswNFVBM1ZRT213N2dUMlRBeDM3bFlMR1h6NF9UUno2VUg0VkNnZjk4aEstcVViRjBldm8tVzN6d1pMek9nWEhqUEVzVVVYQQ?oc=5",
           "time": "09/26 05:48"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
-          "src": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHcxekllckNiQjFxYU9xci13SXgyU3ZhUnhNdTc4Zk5mQllJbkRQTHljVEZoMk42V19zWVREWHRuTEUyR296LW1GazNIclNESUZESFpqc2VDZFd0Y2VaeGhfQVNVSERDdU9ldkhjU2duVUV0MEZkcG1FZjNqbWJLbkphY2QxYjN0UXduVS03TzN6dw?oc=5",
-          "time": "09/26 05:00"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "A reprieve from rising oil prices helps U.S. stocks finish the week higher",
-          "src": "Toledo Blade",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNazRrNWV1anR4SnFjVExUT1U3ZmJfRTdoUHpja19UYzNPWDBnYVdJYS1NVzN1dkJtZFl5SFgya0Y3QUpuS3pma0hSZEdBS1VYdVNZZDhvMTBoYS16SmxqM3RaY1daSVJMQmFqWVE4WFU1U0tPQkVpRmZnbzFUcklxMHVQT3JzSk5CdjhNbFJQaHZwZ1pqazBCOGNRRE5WcGZ6QUpQOTV6TjI5Ykp2TnI5RldiWFp6ZTA5TXZFVmZLdWdGSGlDUTA4NFplelYtNmR0ajhsMXptbnhCUQ?oc=5",
-          "time": "09/26 05:49"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "US stocks drift toward the finish of a winning week",
-          "src": "ABC Columbia",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3NaU0Rza2tHdmN5QzBRUFphTmw0dlpLWldDTmltLXFzVUs4Mm5yS3EwUEdKNGpUcEJFRTh6cDJWajVzVE1oSW9NU3c4OHhUVTFQLS1nLWRpdWRXUTZXc3pta29wem9WUFdqRjJ4cmVoREd5N295akZrRmFsV1lqdG9VWFdhc09SS0ZBaHdhN0VJcVBtQ1E?oc=5",
-          "time": "09/26 01:14"
+          "t": "3 Elite Dividend Stocks Hiding in the Nasdaq-100",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdXJsVnEwMnhLWHRnaHczR1p5SEtHLWdKdlFUcklFMGQxM3p6aWxLSkRhcG82Q3J5RDZqcEFYaVFLbFpzbkpJYy0zVnJ5elRXNERDR2FieURtMTFMNzlPQlVuN0lTM0R5NDlkNWhUTGpjNWs3b1FwRWNjYW4yWDg3QkdtSFFWbWNpMWFLSC1lNTNmM0RkNXRn?oc=5",
+          "time": "09/27 00:58"
         }
       ],
       "indices": [
