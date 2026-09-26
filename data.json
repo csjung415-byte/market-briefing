@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:23:50Z",
+  "updated": "2026-09-26T00:24:36Z",
   "markets": {
     "kr": {
       "news": [
@@ -7,9 +7,25 @@
           "cat": "macro",
           "catn": "시황",
           "t": "코스피 상승세 ‘지지부진한 이유’ 있었다…서학개미 미장 보유액 2천억 재진입",
-          "src": "munhwa.com",
+          "src": "문화일보",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OZ0pZdm9ranJ2X0RFVUtoZXNqc2FlbWlfTjNReXoybWFNRHYxRFVSSlZCVTdRTzdjUl9Nb0FKb0dxNy13TjZwRXJQbzJhNkQ1?oc=5",
           "time": "09/26 00:48"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"코스피 시즌2 오나요?\"…증시 반등에 투자자예탁금 100조원 재돌파",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEZ21kQlF5VDB1TkNnYW9wQjlRRE91WTBHSTRNMlB0VzNMNFg4V1F5Z3U0WU93S29GQS1uZVdtSU1GVmhwUG83LV9rY0FFZ3M?oc=5",
+          "time": "09/26 07:32"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "＂코스피 7,000인데 내 종목은 왜＂…상한가 줄고 52주 신저가 속출",
+          "src": "한국경제TV",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NF9URTFUTDJzanZneEJXTTc5RWs3RnN5aFU0QUVJRFFrSGtRdmlUOWNQTVZIYWE3cXIzZ1g1OFpEbmF4S1lfXy0zQjhiVC1EYnVTaEpHX20wb1l4Tm5RekhSZnh5ekNFSnk3UFFfRndlNGxfUWY0?oc=5",
+          "time": "09/26 07:45"
         },
         {
           "cat": "macro",
@@ -22,14 +38,6 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[추석 이후 증시] 장문수 센터장 \"10월까진 투심 부진, 코스피 연말 8400 목표\"",
-          "src": "팍스경제TV",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53ZVNCMm52STUwVng0NC1vbTFGd25jLTJTcFZnWjFCZkZWSVhhckZINkppYWpzaDVaZzNjQTcxVWpXS0tfX0V5eTRLaW9hbnNfdUhiRjU1ZjFzNnhVci15VE93MTVYbmpH?oc=5",
-          "time": "09/25 09:10"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
           "t": "미국 증시 개장·한국 증시 휴장…추석날 엇갈린 주식시장 시계",
           "src": "CBC뉴스",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zUlJ3aG5UVHNKcUx1SDdrdC1JRGdaMzV1bXRwX21TNXRkYlItN3hHYmExSmExLTVwek9GWXdVUkd1ek5xNTd4MFJIdnVyRG5tN1RTVDJUMGtXZUk4YWlIdDRzb1FGN3lq?oc=5",
@@ -38,18 +46,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "석달새 138조→56조 급감…'날벼락'맞은 이 주식 [주末머니]",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04QlBwVUtkenRDYWhDS2RlSUNHWWEwNlZPWjFqNXFWb3kybDZKcUVpb1ZTb2VjVnRMNE15NGdHWFFnQVp4MVRUV3Rldw?oc=5",
-          "time": "09/25 14:20"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "번 만큼 세금 낸다? 추석 이후 금투세 도입 다시 달궈지나",
-          "src": "더팩트",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93NUwwRlNiTmFldzR4ZG9CY1FXTWlDUlBPX1NPLVlnUmtsdVF1c252SllqSjdYQkJUVUxfWS1KYm1hVk1SR3NtemxqdG5MSjkwMlRxNVRIclpXZ9IBVEFVX3lxTE84LUEtOEZYbXNITy1kX2RPZEs0NzliR3h1V3VsMXpmVWU2VVk5ZFp4dVB5OE1oanZSbG85MFpuVlZ6OFFkcUVMWEJxcWVvX1lHbzNCVw?oc=5",
-          "time": "09/26 00:00"
+          "t": "‘코스피 7000 맞나요’ 개미 울리는 쏠림장세…상한가 ‘반토막’, 신저가만 속출 [투자360]",
+          "src": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TOFB3bmc0NndUUmpqY2c1NUg5Tm14eGxkRmNzYnZOdzFLRmUzZGpEMHhTQlFfQXhlc2tvRFVaM0NCU3B1REhRZzdtQUg5a1RfV3lhTktR?oc=5",
+          "time": "09/26 08:41"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1356.86,
-          "pct": -0.41
+          "value": 1355.28,
+          "pct": -0.88
         }
       ]
     },
@@ -77,71 +77,71 @@
       "news": [
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "1 of Wall Street’s Favorite Stocks to Target This Week and 2 That Underwhelm",
-          "src": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFNyWHlFVExqRWoxOG9ocUNRT3UtVEY2a1lWampfcmw0X2RnTjdPUWVBdzdRTmd2U3hlS2d1RkFPN2RGd3BwODJXMUs4SVVhdWdNa2NuZjctd2s2dGpwSXNsRnZtb1lNYTRRbEJudWhWbWdkMVFUbjJfM19vaTUzQ2lfcW1NazdaVDNBaDZkSGxDQ1o4V1BUeTNn?oc=5",
-          "time": "09/26 01:48"
-        },
-        {
-          "cat": "macro",
           "catn": "연준",
-          "t": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength",
-          "src": "reuters.com",
+          "t": "Wall St Week Ahead: Jobs report, inflation data to test US rate path, economic strength",
+          "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
-          "time": "09/25 22:05"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "US stocks are mixed after oil prices ease and bond yields rise",
-          "src": "WRAL",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTzNxamtacnJZaXVrRGRhTXRoRE5DbmluNlpjNGRIRnRfTWI0WFBoZTRxWkxMcmxnakxtdHU3VEVJNWhZaDlQMDNuMHdISTRqN1VJTVJoaldxLVllLU1Kb2RzQnlKWFRoaGFHM1VkdmtGZjVMLTRMTU9DZ2RuX2RlaXhYS1p0MlJrNktCM1ZTcFVNTlVzYW9jZnNXSWpzOHM4RlY0YmVraTJsYTBV?oc=5",
-          "time": "09/26 00:59"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "A reprieve from rising oil prices helps steady the US stock and bond markets",
-          "src": "WGAU Radio | Athens, GA",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQm5DczJ4SzdsOVlDbHk1eS1oTWxPX29BaFNMWjZRVlN5TU82SGZkRXBITlpKVEEwTjNoalBaZ2drZG9TUVAzR0ZzZVRqQkVxdGplTkYzckJFREx2MlRSUVp1R1h6dFZEeWhQeDlvZFVkX2NfUnhybDMtUUp2N1B2YkpLZXYtVUVKMHRqM0tVM1pUdVVrcnYyLWJuR1l2bDFr0gGgAUFVX3lxTE9CbkNzMnhLN2w5WUNseTV5LWhNbE9fb0FoU0xaNlFWU3lNTzZIZmRFcEhOWkpUQTBOM2hqUFpnZ2tkb1NRUDNHRnNlVGpCRXF0amVORjNyQkVETHYyVFJRWnVHWHp0VkR5aFB4OW9kVWRfY19SeHJsMy1RSnY3UHZiSktldi1VRUowdGozS1UzWlR1VWtydjItYm5HWXZsMWs?oc=5",
-          "time": "09/25 22:46"
+          "time": "09/26 06:35"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "US Stock Market Today: Dow Jones, Nasdaq, S&P 500 In Green As Cooler Oil Soothes Wall Street",
-          "src": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2xGSlpaQVBnVjVRS1BFNTZGQ0V3NXB6TVhnd0ZYV3d1dkdJSGZuUWloRjhEOERucDlFUVBjQ2kxdU9EenhxX2lkMmNMa0F5U0c2Mm5mTUwxRnZiWHlIRm1fQmJrWlA1a0p4eUduTHpyUnJFODJLRWpDblV5LXp1NzNKOFFRMXNVa2pZU3ZpaDFGcDhRV2ZEM0laMVNydWN5d0FoUVNxRjhOWTVhMDF0ZWpGUGcxUTlxdk5veU9CNm1mWVhIZDM3QUhRc0RrUdIB1gFBVV95cUxNcUVXXzFYUWNLYk51d3ZJR1VCQ005aDAtanB2N3Y3cUZ4cDBkOXJsOWg1d2hFcy00YlM1dG1laFZLRXpPOXNndUdfT2NnaTNXdU9JZ0xWMHgwWEhrUDlpS2piVnlTbUVCQ2Z2bk9nUTVncm9mOTN4UDVndFJXSC1wRDVRVUpLV0FYWHN3SG5PazBLek1XV0F0aW9nOWxHMlN6blNJRklIUjVwc3ZCd1RuOWdkQjh5V2lLNXk3LTdlcHlOLWNhM3VYcDlUMENuaUNGWHQ3MjlR?oc=5",
-          "time": "09/25 22:39"
+          "t": "A reprieve from rising oil prices helps US stocks finish the week higher",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56bEZUdTVhX1cwSXZ5VFNSbkMwbXdMM0RxR0JIV01DZ3lYbFU0bXl6S0hhTlI5ZmRCUXA0Q3l6UUR5UktrWWRfT2RteW10Uy12SUdLbnpleWZWT1c5dWg0V05HaXhOTHExSHplTkFBZXlRb05zS3c?oc=5",
+          "time": "09/26 05:35"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The S&P 500’s Best Dividend Stocks Share One Powerful Advantage",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRTVWOGgxNmE5UEZCU3NHcWdndTJwMTdDTFhNc3VkVXNfRHo4M1liQXZyNTdsT19Yb25CeDM2alBMYkdyREhWTFUxSTNNSG1uZ2hLbUJSclVaS2Y1cFBkaFhxcEEtRUdBdEg5VUVFSGp6SkdQc3NjTktzRC1UWExiRUI0Zmt3WERRVVh2ZUd4dEdKT0RIRzNDeHhrVmZKVVNFeHdnREdZM2M?oc=5",
-          "time": "09/25 21:51"
+          "t": "Wall Street’s ‘80/20’ Shift Finds Fresh Fuel in Stock Bounceback",
+          "src": "bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXdvQXdjem1jVGhhdlBMWGNwSUNZOVFsMUtUYVNBaUVVR21GTlYza0ZGdjQ3R0hQLWpiMS0zNTFZVTFXWnBtT0tYWXpFNjB6ZEJBOTVuQy1oWmNHR19tNGJGSEQ3NDNQdXBSTmswNFVBM1ZRT213N2dUMlRBeDM3bFlMR1h6NF9UUno2VUg0VkNnZjk4aEstcVViRjBldm8tVzN6d1pMek9nWEhqUEVzVVVYQQ?oc=5",
+          "time": "09/26 05:48"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
+          "src": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHcxekllckNiQjFxYU9xci13SXgyU3ZhUnhNdTc4Zk5mQllJbkRQTHljVEZoMk42V19zWVREWHRuTEUyR296LW1GazNIclNESUZESFpqc2VDZFd0Y2VaeGhfQVNVSERDdU9ldkhjU2duVUV0MEZkcG1FZjNqbWJLbkphY2QxYjN0UXduVS03TzN6dw?oc=5",
+          "time": "09/26 05:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "A reprieve from rising oil prices helps U.S. stocks finish the week higher",
+          "src": "Toledo Blade",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNazRrNWV1anR4SnFjVExUT1U3ZmJfRTdoUHpja19UYzNPWDBnYVdJYS1NVzN1dkJtZFl5SFgya0Y3QUpuS3pma0hSZEdBS1VYdVNZZDhvMTBoYS16SmxqM3RaY1daSVJMQmFqWVE4WFU1U0tPQkVpRmZnbzFUcklxMHVQT3JzSk5CdjhNbFJQaHZwZ1pqazBCOGNRRE5WcGZ6QUpQOTV6TjI5Ykp2TnI5RldiWFp6ZTA5TXZFVmZLdWdGSGlDUTA4NFplelYtNmR0ajhsMXptbnhCUQ?oc=5",
+          "time": "09/26 05:49"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "US stocks drift toward the finish of a winning week",
+          "src": "ABC Columbia",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV3NaU0Rza2tHdmN5QzBRUFphTmw0dlpLWldDTmltLXFzVUs4Mm5yS3EwUEdKNGpUcEJFRTh6cDJWajVzVE1oSW9NU3c4OHhUVTFQLS1nLWRpdWRXUTZXc3pta29wem9WUFdqRjJ4cmVoREd5N295akZrRmFsV1lqdG9VWFdhc09SS0ZBaHdhN0VJcVBtQ1E?oc=5",
+          "time": "09/26 01:14"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7740.71,
-          "pct": 0.47
+          "value": 7743.41,
+          "pct": 0.51
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 27092.51,
-          "pct": 0.57
+          "value": 27068.72,
+          "pct": 0.48
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51747.95,
-          "pct": 0.78
+          "value": 51828.62,
+          "pct": 0.93
         }
       ]
     }
