@@ -1,55 +1,55 @@
 {
-  "updated": "2026-09-27T00:19:27Z",
+  "updated": "2026-09-27T17:06:47Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "코스피 7000 되찾았는데…내 주식도 오를까, 반도체만 또 웃을까",
-          "src": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XNHRGX3ROZml0MHB5Vmk4emExNXhWM1Y5X1I4Tnk4UEF2YmtWeE8zYzdHNFZYSi10WDh5dFdkd2pZTmd0aFlDNFhMN3BwRUU1dzAxdUhGYTVaUQ?oc=5",
-          "time": "09/27 06:00"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "[추석 이후 증시] 양지환 센터장 \"4분기 코스피 6000~9300 제시, 반도체·은행 유망\"",
-          "src": "paxetv.com",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ta1FVTHRoeDBaVmI3SHdNN0VDbS13cFFtWnJQbnA5Z2ZmUE9FUkhVaUNSUGI2aXBlT2pUdFVDQS1RaFBmSnlHSGV4LUd5Z3B6bVhRcG56Wll3OThkU1lIdzhqcVJZOVU?oc=5",
-          "time": "09/27 09:10"
+          "cat": "earn",
+          "catn": "실적",
+          "t": "7천선 안착 코스피...미 국채 금리·마이크론 실적 주목",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41ZXNIaUhKTkZWbUMtTUgwVDMzMDFBN0xfQWZiams2b1JYXzZYMDVmUUR3TVRLMTVYVVhyR09kRGNyWFJJRUxXU2c1NExzOVVQY3F3M2tpZTFrb04tWEE?oc=5",
+          "time": "09/27 22:59"
         },
         {
           "cat": "macro",
-          "catn": "금리",
-          "t": "7000선 되찾은 코스피, 연휴 뒤에도 오를까…유가·美금리·반도체 ‘변수’",
-          "src": "경북매일",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91eXE2V0N1c2lkclBkRVpUWjZWRDhTZ3J0ejlEVWxDU09KNlB4ZE1CeTZBY0V1WTV3TGpUclowM3hJU0FPZUN1bmp3aWNCUXRSV3BrVjVKYmV2dw?oc=5",
-          "time": "09/27 07:04"
+          "catn": "시황",
+          "t": "\"코스피 4분기 7700 예상…국내보다 미국 주식 유망\"",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UDFCejdxR2M4WUxhbkp3MXFrT2VZaEcwZGRPM1VNY2x2OG9tWktEbWQ2d05pOUNSZXBxNVIzamZCaGxWV1ZkVHZqSEtxZkNCeFR4MzdXeWFlZw?oc=5",
+          "time": "09/27 17:06"
         },
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "한 손엔 국채, 다른 손엔 반도체 3배…‘칠천피’ 속 가팔라진 미국행 [선데이 머니카페]",
-          "src": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1laXNNOTUzS1ZqUmNab0dXT1hlYnNRS1AydGNIU09kYVpxcnZWa0Q4RDR3dklVOHZlRWZJblJfUnh1T1E4eGxNUkUwaXI4Wjd3WkhV0gFTQVVfeXFMTWVpc005NTNLVmpSY1pvR1dPWGVic1FLUDJ0Y0hTT2RhWnFydlZrRDhENHd2SVU4dmVFZkluUl9SeHVPUTh4bE1SRTBpcjhaN3daSFU?oc=5",
-          "time": "09/27 07:00"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "추석 지난 월요일 내 주식은?…'이것' 중요하다는데 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90QmRJa19mU28xTnVJS29vbnJ5SUd1Ny1ZMW9JdjdtdkRsWVdZUnI2RXY3RXkxR1pnc2lmVUVGSDAxZmVnc19RMDZnTUQyYzlMblFkM2I1UWQ1TTlOZUl5R2FxdzlkYU030gFuQVVfeXFMUHlBdTl6MVZxdmdJYm5lcXpkRTlFMmIwcU5xbUVWelNZVWFyM3dIMXd1RDZ3NXJpQnNWZThDdmFkdFJ4YkVWdDA5dEJNZ3JRWlN5ZnRKSWhjcEVaMG1CSmttSWQ0MGdMVDJRek5wamc?oc=5",
+          "time": "09/27 11:34"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "[마켓인사이트] 추석 연휴서 돌아온 韓증시, 상승흐름 이어갈까",
-          "src": "한국경제TV",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15WmRGTXhBamJtX2lFX1BHX0prQlFFQjhYcVNaR01SV0hnWXBFazlySmdpYTBSdGJUeklHZkxZVXI0ckhUdTNiWnVuMzBMT2Y5enRld3ZCZjBLQUQ2aTk5TzZXamZnTlZlMVNyNmI1dFYwb2N4NnJVV3lyMmo?oc=5",
+          "src": "yna.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uU1RRM202bDdTTmNNOFUtRWJwSWNjVHFBUmJBYllTNkJrWThCOWFDYzI0dl9wRjA1WTNVWlVOWWI1ZUxHclprY091bEF5Vm9tZmt1M213V0VvRFHSAWBBVV95cUxQSU5ZWVpHbjRHRlQtSTlNX3c0cjVtX0JQbEFCUUlPSU56S0lKcG5RSkEtN2pHS2lKcmxwV3NndVVBUUNrZFRBMVIwOFJrekIzMElvdDlfUDU0UV9hTExNajM?oc=5",
           "time": "09/27 07:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“시골 부모님이 지금 삼전 들어가신답니다”…명절 후 주가 실제 향방보니",
-          "src": "mk.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aTHhZblVOd0tmMDB5R0E3NkhuUldwbGVhbHJBNU5mZG9SU2FXemxvNG9Ra3dNaWZkcG9leFRlSGxBRjhjUl9PWENjZ1RlbHZGVlE?oc=5",
-          "time": "09/26 17:44"
+          "t": "코스피 7000의 두 얼굴... 내 주식은 떨어지고 개미 돈은 미국으로",
+          "src": "시장경제신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxSUZVN0F2NDZGRE1iRkw5Y1VqNHZ4Mnc3TWR2VXExRkZyUC1DZ29JNXJpVzRzSG1fbWNIZVM1V2EzanJxbmE2R21sQlRScjZpUjlNbkZHNTNTUDBCMDkzaE4wRkVfYjBReEFtb1BrX2Y?oc=5",
+          "time": "09/27 10:42"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "미 국채금리·마이크론 실적 발표 앞둔 韓 증시, 추석 이후 코스피 행방은?",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12RWx3bUNNSi1XNG1YRXd1cDgtQ012eEdHTy1nNnpwMFRlV2ptOFZFVXZ0ek9hREc4ZV9RNGhaLXNrVDNYMmlpUTF4Zw?oc=5",
+          "time": "09/27 16:11"
         }
       ],
       "indices": [
@@ -68,60 +68,60 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1354.4,
-          "pct": -0.95
+          "value": 1355.28,
+          "pct": -0.88
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2eVNmNXVqbVVESE8zMENLbUxnMUIzdFUxUEZXU09lU0h3WmR6eXp1c1R5bTQ0TmxwME56TGFCaF93LW9mNXRIdF85bURtaWxWTzRWNg?oc=5",
-          "time": "09/27 03:28"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street money takes back over from small investors as driving force of the stock market",
+          "src": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHBKUmRybGt2SXBxRE9PS21SR2RtYzdRcUtMWldYRmRrdXBFVWhZRDFIUTdaVzd4czRFZkxoQkpPcnYxMjItdVBIZ1dVc2Q0aEtyMFh4clFremphUWVoOGQtRVdSVzRtbkhrN2tTQzg4em43WnVocHd5UUFMRTl5bkZiN0NqcDZuRC01TURoRHpUX3RJLUHSAZsBQVVfeXFMUFN0NTBJc2dyX0ZhSmhFNjNETDBDNWVGNFBINnB5aUozdEhWbFBNQ3FjZWowZS1ha1pya3Y5M2hWTW9tSEN1NjA2T3RaOGlpTnowLWRWQlRmU2JjMlNnRm9keS1KRXozZFlBNkNpUUtvODFUUk9yVnFxUVE1NnJxdUZGSVlHMjVKRlcyZVlSdE5WcUY0TWNTdVJ2dHc?oc=5",
+          "time": "09/27 20:32"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Here's Where Wall Street Analysts See Eli Lilly's Share Price Going",
+          "t": "Look closer, and Wall Street’s rally is showing cracks",
+          "src": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWxyWmlfcFlHTGJ5VXR4SFlMaDFsdWg1QmVhRDN6dWs0N19VX3NNcERCbEE3bkQ2aWdoZEtSelhndjFBd1FqNnRPaHU0U3JXY2g0MWxObG95UjIxbXplTDgxNGRKWldBZ01VeGM5bWkzbEREa3BKdEhsNEZfNks1N1E0Z21DREx2QllJNmFWSEpHc3BIRkRZbHR6OA?oc=5",
+          "time": "09/27 22:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Trending stocks on Wall Street this week amid geopolitical developments",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcW9xdFUxUFZjVHAyTHRRUzRjUTdLU1JwN0VIUG5Qcm03aXFza25VdG1MRXpDdkVwR2l5WlJHU0dsazBYSXBWQVpkUVNHVGhJbXBOVkZvMkJQRkF5MWlYTDFkQ3dFRy12eVRabkxPTTcxZnZJX0ViVUtwZFJzbjRHNFdrV05ra0hqYVQ5WnZ1SDRDMFZTamhFMW1xbGlzc0tOWVRfaUozbzlhdDFnSGc?oc=5",
+          "time": "09/27 22:29"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "How to Know When the AI Boom Is About to Go Bust",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWNISkdYaFRyRmhUUXdQRnJJNUU5aFlHeXh4OWR2VVBNZDZGVkgyTzBLUFltSmhZazhRMXp4UVRHV1pSNUVLSlhaZnVUbEZrQlhZeF9ZV3I5RG1JWTBjajRmbW5UdTBldzJFQU00SWN4dVFaRmxWVXVCOE9yQnVlNDNvNkt3SGJ5djc1YURPMDRpVkUxOC04?oc=5",
+          "time": "09/27 18:30"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Medtronic's High Dividend Yield Gets Little Attention on Wall Street -- Should You Buy the Stock Anyway?",
           "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2VmVmJ6amxXck9ubFZzSEVrVnczcTVPWTZpX0dzSnlyZVV5WmZZbndIUGtWaE1BWG5KeEZpLW5RbndiYVQtcXIyQnptNzNnU3JHb1NBLUQ4VVBPNjQ3T3NLTE84TC1YNGxkbmpNNzREb1FyLWpmc0xDam9JTXdxU3pvQm5PcUJIMWNlTHd3?oc=5",
-          "time": "09/27 02:32"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street week ahead: consumer confidence, inflation, employment updates",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORkhlT1dmTXBmOHdJWmRmdk9MZ1dOVjBoanFQMjM4di04TW1Bam9WS3RCYlI2czl3aklPZFRERlhNcjBqZEdGSG1Ga2RUV1c4U0ZRdlVLcUFtS2Jqb0N4MjIwRkZZSGEtcXBSU0lFZHhKWFpNVVlVTkJZemtMeVFRem1WcGZ0RTlyaUZFYWlQRVhZWWc5dEo2WHF3R2RkYl9uNnpsN0Fac3NLb0huN3hQTERfZjFBZWltSGVtQ2xoeFJlRDBzZWJOTC1TbTRoUkt1bjJaNlp0MUVEUnZfQWdCY3EtMDNyS0EtVndBQzNhbHRtbUZPWWsydFNkbUMxenFM?oc=5",
-          "time": "09/26 17:16"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3Q5aVJjel95aE9EZ0FNX3RIQ0JaRE1iZzRBS1JDN2s3d0lsZkdZMTFJc2FKWjBNbXFGdmlvNkstbng5NmZqYmxaMHlRcm5aNFpXVUcxaXAxbFYySktZM3hraWdHYzVXQzdYMWpseEhtSExjd0RDY0tsRFlTbEFRUlRUZnZCQk5Hc09FQlY5OG1aTzZSdnpacw?oc=5",
+          "time": "09/27 22:21"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "U.S. Stock Market personal finance tips: Wall Street investors may think over these key 5 points during we",
-          "src": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNM0xTQkRqTWtZM2JoV0EwQ1JUVWZucGxaZUUxemhQWGdFQmdFVkJYRms5N2Q2ZDUxYXJXUjhKeWkzSnJIVURwWmZqMS1MZWVsT2trX2p5NFJ4b3lrdkx2aUFjVGdsVTBkQ0syLVo5ejBCVzNXWGRLcTB0OW1DMWJTS19DMi1yY1JJUXpxbzB2QW81QWFzMTVDZGVJM19XRnVEV2RFZ2F6c2gyQVZlUGFQWkhkaVZkb0VwLTN6d1hFUnpXZ3VHa3A2MS1VeWlhLTByTWZnUzJqVkNENGFvaG90QzNHOTJfbFNWRDBGUHdJQTV3ME9qNGNUY2dRbUdkVlFCdUg3cFJwZ1hhNmUxdzdyTGJsNXZuSFdJRzViTzVzejVKazdPYUV5SDZwOC1KbC1k0gG2AkFVX3lxTE10TF85NGxvdTVXbHBwT0NLOXY5QmxRVV9pVU01RW9zbkQ2dWt2ZF9XWkFuenctRDZaSGMtajZxQ0tfSXkzeHBPVHFmOWliTGtlSG1RZTJFcEFRM1lzRDgzZHhzWVBSeWNvOXduc251SW5odEtXWEp2emNFUnY5b3FiSUNxejR0andtUjdUYnQzcEk5aGdPMGFpeHRGbDlIdWJjVDVhWGJsUm9VSkMxZWkwZ2RwZ1hFcE1NcUpHUmF1Y0F0SDRWWTdQZ1c3bHc0alBTYm1WaHlNaHR0Wm5OeDdOU0VFd1hrWms2b3RBcldUemtNc1RfYUp2TW50LVpSTXZKdXpnRFNMNjBLcUhMaFRxek80TWVBT3E1eHpHY3lSaXBTTGowRFIwTHc3a3YwM3pxRlJjcnc?oc=5",
-          "time": "09/26 22:16"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "What Just Happened With Bloom Energy (BE)?",
-          "src": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVhxZUYyQmR3cVVDZzFkWDJ4eFBIaGIwVjRhT0k4T2NQajRkVXBQdmV5Vl9uQjlpN21vWWNYMUNZUmZPZm5aaU5RMXplSWs0WW81Wk1GNTA0Yk5XVjQwbFVJSTZWSFhOU202ZEtMY2lab3djRFNJcFRHVWVpZTI0Z3M3T3B5Vk1KSkxlSnhMUUlCRF9lckd6VnpFMnRKQ0lGaW9mVlFDVXVSQUh1c1IyVdIBtgFBVV95cUxOSmo0US1jcFhPenFLcFZ1LUJEN2JCSjN2aUlOT19CUklTWXBBRFFLS1Vaai0ydmc5eHpHN0hzX25OTWduZzdGSTNXV3ZpaTFsWnVqSEJFLVowVFpCbGQwMWZiNF9MQ05kTFMzRVhGRDF2M3ZxUlFGQWhjYlhZUzV4R2Q5U3VXSkVaTEZralNlbkZheU5PbjRZbjI2cVdZMkdDaUJhTnNjd1NVd2dsdVU0bUZIUmNlZw?oc=5",
-          "time": "09/27 05:25"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "META_TITLE_SECTORS",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDZi15OGs1LUJUaGNHQmdQOVlYazVMZ1lSbXduQTl5dFEyWVpYYk93dEROUEVGTXN5TkFMMlBEbGxkd1h0RFdJSUxPT3lDNG9yUkRmamhueUpzVzJJTEpQeWRKZw?oc=5",
-          "time": "09/27 00:23"
+          "t": "We're Witnessing the Stock Market Do Something for Only the 3rd Time in 156 Years, and History Is Crystal Clear About What's Next for Stocks",
+          "src": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQbTdhT3RBQ2FLNzhONUdlck51R0M5WVBES1c4am1UbnktU0JDQVBndV9taE9JaHhCWkoxaEJ2NXJMV1FRQnoyNlZWcEFuUzEzYnVjMEUxOFpkN1dBNEYyUU1wVHFnRjR5YVhUeFZrejJPd1FIU1Q3dTJQZmtraTlRRmRncVJoQ051VDRVY21rQUtsb3hDeU1YdlFIcktXeHlqWDJITmdYZ3FOOXhJU3JTdGVudThwc21PSkdRMG5rRHdjUExSN1dybU1SanRwcFRiaG52amk1RGpyTkNLcDNaOWsxUlVnaUVmVlU4Zi1JTWpXNFdpSF9oRFlfTGN4RERfRmZTUnluZnhTbzB2ZFlCUWN6eGRoTGk0a29XeTFWMDdmZGJqaHJWRFBiTjZIYU1semZLc2FGb1NJNnhEVmpr?oc=5",
+          "time": "09/27 19:57"
         }
       ],
       "indices": [
