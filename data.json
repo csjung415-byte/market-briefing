@@ -1,75 +1,75 @@
 {
-  "updated": "2026-09-27T17:06:47Z",
+  "updated": "2026-09-28T00:22:07Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "7천선 안착 코스피...미 국채 금리·마이크론 실적 주목",
-          "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41ZXNIaUhKTkZWbUMtTUgwVDMzMDFBN0xfQWZiams2b1JYXzZYMDVmUUR3TVRLMTVYVVhyR09kRGNyWFJJRUxXU2c1NExzOVVQY3F3M2tpZTFrb04tWEE?oc=5",
-          "time": "09/27 22:59"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓뷰] 연휴 끝낸 코스피, '7천피' 사수하며 상승 이어갈까",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ycFBuMnRKLVdJT01MeWgyODZJZGVKWGt6T0hfRDFSN1BDSWgwTDVwcUNFLWV0TW93c0pkNTVDLW9tcjZTR0h4bWhxVVpmZFAzS0E?oc=5",
+          "time": "09/28 08:10"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"코스피 4분기 7700 예상…국내보다 미국 주식 유망\"",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UDFCejdxR2M4WUxhbkp3MXFrT2VZaEcwZGRPM1VNY2x2OG9tWktEbWQ2d05pOUNSZXBxNVIzamZCaGxWV1ZkVHZqSEtxZkNCeFR4MzdXeWFlZw?oc=5",
-          "time": "09/27 17:06"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "추석 지난 월요일 내 주식은?…'이것' 중요하다는데 - 머니투데이",
+          "t": "\"내 주식 오를까\" 개미들 '두근두근'...7000피 안착 변수는 '이것' - 머니투데이",
           "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90QmRJa19mU28xTnVJS29vbnJ5SUd1Ny1ZMW9JdjdtdkRsWVdZUnI2RXY3RXkxR1pnc2lmVUVGSDAxZmVnc19RMDZnTUQyYzlMblFkM2I1UWQ1TTlOZUl5R2FxdzlkYU030gFuQVVfeXFMUHlBdTl6MVZxdmdJYm5lcXpkRTlFMmIwcU5xbUVWelNZVWFyM3dIMXd1RDZ3NXJpQnNWZThDdmFkdFJ4YkVWdDA5dEJNZ3JRWlN5ZnRKSWhjcEVaMG1CSmttSWQ0MGdMVDJRek5wamc?oc=5",
-          "time": "09/27 11:34"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ObW9qWGpDcllzaW55bHVEbmFxdFJNbVIzM2NRcVI1R1BCMTQxRWhkcEI5UEMzaFNqcFRjOF9WZ3ExNHpicnVuWmhkLUNKanZGUkN4dHY0TkN3azRwWTlEVjdOR1JteWlRUzQzZ0pn0gFuQVVfeXFMT05tb2pYakNyWXNpbnlsdURuYXF0Uk1tUjMzY1FxUjVHUEIxNDFFaGRwQjlQQzNoU2pwVGM4X1ZncTE0emJydW5aaGQtQ0pqdkZSQ3h0djROQ3drNHBZOURWN05HUm15aVFTNDNnSmc?oc=5",
+          "time": "09/28 04:05"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[마켓인사이트] 추석 연휴서 돌아온 韓증시, 상승흐름 이어갈까",
-          "src": "yna.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uU1RRM202bDdTTmNNOFUtRWJwSWNjVHFBUmJBYllTNkJrWThCOWFDYzI0dl9wRjA1WTNVWlVOWWI1ZUxHclprY091bEF5Vm9tZmt1M213V0VvRFHSAWBBVV95cUxQSU5ZWVpHbjRHRlQtSTlNX3c0cjVtX0JQbEFCUUlPSU56S0lKcG5RSkEtN2pHS2lKcmxwV3NndVVBUUNrZFRBMVIwOFJrekIzMElvdDlfUDU0UV9hTExNajM?oc=5",
-          "time": "09/27 07:00"
+          "t": "\"예금보다 40배 벌었다\"…코스피200 ETF ‘수익률 독주’",
+          "src": "joseilbo.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UandlREVKRU9RQmhsN2o4eF9oTWhIWkZid0xIdXROUkxPakQ0TktmcmFPeHQwUmNTS080V1RJbDRWenU3OWVKek1zUkpyUl95bWFlZzhlem5XWDhXUTNtVm1MMjhlMEJsZ3RBWmg1OA?oc=5",
+          "time": "09/28 09:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 7000의 두 얼굴... 내 주식은 떨어지고 개미 돈은 미국으로",
-          "src": "시장경제신문",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxSUZVN0F2NDZGRE1iRkw5Y1VqNHZ4Mnc3TWR2VXExRkZyUC1DZ29JNXJpVzRzSG1fbWNIZVM1V2EzanJxbmE2R21sQlRScjZpUjlNbkZHNTNTUDBCMDkzaE4wRkVfYjBReEFtb1BrX2Y?oc=5",
-          "time": "09/27 10:42"
+          "t": "코스피, 0.33% 내린 7057.86 출발…코스닥 0.12% 오른 845.48",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zSlRBU0ozcGlpa1g1dGNGZVFGMm55dlVKVUFxVXA4eFZQTEctbTU2MnU1NDl4Y3FfVGJUellmNW5JU2UySExnT19kWGt5eHFRejBfWFY3RHRMUQ?oc=5",
+          "time": "09/28 09:04"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "미 국채금리·마이크론 실적 발표 앞둔 韓 증시, 추석 이후 코스피 행방은?",
+          "t": "“추석도 지났고, 내 주식은 어디로 가나?”…美 물가·마이크론 실적에 쏠린 눈",
           "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12RWx3bUNNSi1XNG1YRXd1cDgtQ012eEdHTy1nNnpwMFRlV2ptOFZFVXZ0ek9hREc4ZV9RNGhaLXNrVDNYMmlpUTF4Zw?oc=5",
-          "time": "09/27 16:11"
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HSVZyNGJNWnhuSTZZWk94STRxN1BlS3ZSZWNPUlI3SU1ySHA2X19kYmt0amRTd0hJclFpcG5zUlVVMFFPaDBvZWQzdzVnYkE?oc=5",
+          "time": "09/28 08:24"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[박정식의 국내 주식시황] 연휴 뒤엔 달라질까…박스권 증시, 반도체가 돌파구",
+          "src": "newsquest.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tMExnd2tsYzRwZ2pRV2NINVY1TFEwWUplc196Y3J5WWJDYjVDTWYteVUtajhZMEdYUGZ1Z2hoQ3lUTnF2VU5oRktCYnlYdnhNRG4xXzF1WDdUNnhvOGJWSVdjeElqZkphV08ySlBhNA?oc=5",
+          "time": "09/28 08:50"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 7080.92,
-          "pct": 0.9
+          "value": 7065.9,
+          "pct": -0.21
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 844.48,
-          "pct": 1.21
+          "value": 841.46,
+          "pct": -0.36
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1355.28,
-          "pct": -0.88
+          "value": 1358.68,
+          "pct": -0.63
         }
       ]
     },
@@ -94,34 +94,34 @@
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "Wall Street Thinks SpaceX Is a Buy. Here Are 2 Reasons I'm Not So Sure.",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZDg5eDVDOFpMbFdYSjZkNVc0bUZDU2hIRzI5SUdvV3lHbnhzZHAtU2xYTHJtbXBMWkdERXFZWDNEdGdzZzBKTG1CMjNEUndVZFBQRTVhYnVCZG1RUC05dUZ0amVEcDdJclNyaTVkUUtLSXpJMzM4WFBBdjNrYnQ1Q3FPdDVuQQ?oc=5",
+          "time": "09/28 04:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "Trending stocks on Wall Street this week amid geopolitical developments",
           "src": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcW9xdFUxUFZjVHAyTHRRUzRjUTdLU1JwN0VIUG5Qcm03aXFza25VdG1MRXpDdkVwR2l5WlJHU0dsazBYSXBWQVpkUVNHVGhJbXBOVkZvMkJQRkF5MWlYTDFkQ3dFRy12eVRabkxPTTcxZnZJX0ViVUtwZFJzbjRHNFdrV05ra0hqYVQ5WnZ1SDRDMFZTamhFMW1xbGlzc0tOWVRfaUozbzlhdDFnSGc?oc=5",
           "time": "09/27 22:29"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "How to Know When the AI Boom Is About to Go Bust",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWNISkdYaFRyRmhUUXdQRnJJNUU5aFlHeXh4OWR2VVBNZDZGVkgyTzBLUFltSmhZazhRMXp4UVRHV1pSNUVLSlhaZnVUbEZrQlhZeF9ZV3I5RG1JWTBjajRmbW5UdTBldzJFQU00SWN4dVFaRmxWVXVCOE9yQnVlNDNvNkt3SGJ5djc1YURPMDRpVkUxOC04?oc=5",
-          "time": "09/27 18:30"
-        },
-        {
           "cat": "fx",
           "catn": "환율",
-          "t": "Medtronic's High Dividend Yield Gets Little Attention on Wall Street -- Should You Buy the Stock Anyway?",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3Q5aVJjel95aE9EZ0FNX3RIQ0JaRE1iZzRBS1JDN2s3d0lsZkdZMTFJc2FKWjBNbXFGdmlvNkstbng5NmZqYmxaMHlRcm5aNFpXVUcxaXAxbFYySktZM3hraWdHYzVXQzdYMWpseEhtSExjd0RDY0tsRFlTbEFRUlRUZnZCQk5Hc09FQlY5OG1aTzZSdnpacw?oc=5",
-          "time": "09/27 22:21"
+          "t": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGsyMnMtM2JVOVBYLUh0VjV1NW54VWpDMGlRNXY2a2ljY0s4T1VtOVBVQzEzUHFoSFhwTlExSm1jNzZrQXpFRGpob090S2ItUWZBYUlXNURtMmVXTU85LTNEMktBX0FEdjRoellLYkRjU2paVkN6YXFOcmJnQmlNbl9qYjRVaGQ2c3pSWjdmcXgxemdOUklUMTg1ZFYzVHlPYkN3U3lhTlBPTkNDaVB5MlhzQUh6aUxtdTNhcA?oc=5",
+          "time": "09/28 04:15"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "We're Witnessing the Stock Market Do Something for Only the 3rd Time in 156 Years, and History Is Crystal Clear About What's Next for Stocks",
-          "src": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQbTdhT3RBQ2FLNzhONUdlck51R0M5WVBES1c4am1UbnktU0JDQVBndV9taE9JaHhCWkoxaEJ2NXJMV1FRQnoyNlZWcEFuUzEzYnVjMEUxOFpkN1dBNEYyUU1wVHFnRjR5YVhUeFZrejJPd1FIU1Q3dTJQZmtraTlRRmRncVJoQ051VDRVY21rQUtsb3hDeU1YdlFIcktXeHlqWDJITmdYZ3FOOXhJU3JTdGVudThwc21PSkdRMG5rRHdjUExSN1dybU1SanRwcFRiaG52amk1RGpyTkNLcDNaOWsxUlVnaUVmVlU4Zi1JTWpXNFdpSF9oRFlfTGN4RERfRmZTUnluZnhTbzB2ZFlCUWN6eGRoTGk0a29XeTFWMDdmZGJqaHJWRFBiTjZIYU1semZLc2FGb1NJNnhEVmpr?oc=5",
-          "time": "09/27 19:57"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Citi tells clients to buy the next stock market dip as AI trade gathers momentum ahead of midterms",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdTNNS2M5NldLX2MyNWVnU2lPVlhkb0xBZG5uZGJQb0pwcWR2ajUyOWlFTGdlR1NUcVhNZUlsNDV5QVdqNWw0X0dTaE03aHBVWmoyeFFyMnRFUXJONWk4NzBaYUVaRThOLVJWX2JwbEFRM055SExqbFFhcnBHR3AzOUlOSFhqSlpGU2hWNTJwUWRsWkNoTzlV?oc=5",
+          "time": "09/27 21:30"
         }
       ],
       "indices": [
