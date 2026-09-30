@@ -1,95 +1,119 @@
 {
-  "updated": "2026-09-29T18:10:16Z",
+  "updated": "2026-09-30T01:08:09Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "[마감시황] 코스피, 외인 3조 순매도에 6870선 후퇴",
-          "src": "newspim.com",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZOFktT01iaTJwLWl0SVgwSE1ndE1rZkYwa3R3SDhjMWNlUExmaUY0ZlNRaXR4NXVwbWNXWUxaeklVRlZLaVhDNDhyU2pvUjNlNVYxTTZMR0UyYmhP?oc=5",
-          "time": "09/29 15:57"
+          "t": "[개장시황] 코스피, 외인 순매수에 6926선 회복",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HdV9udHdFQjBwNUgxcGR6U2IwT0I2RTMzWGItSTBoU0pmMXNtd0ZVMEV4amYyUGNTTDB4VmdNMkE2UVVLWE9kdGgxdGZEOTVuNFY4NUR6RktrbHBq?oc=5",
+          "time": "09/30 09:58"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[개장] 美반도체주 반등에 코스피 1% 상승… 6900선 회복",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SU0t6bkphYzVRYUY2RFliSGJHdWpvN1VUXzlweUV2NWtHZkFjTl9NT2VESE5vQVMyYmlNQVQwSEI0dmJ5SUF1d25XVW9vSFFRdXNPYWxUTGQxUEdFbzlyNUNCdnNWdS1pVGZiXzJ3TG7SAXRBVV95cUxNeU5CY3J2N2x1WTFrYjZpdHVPVnRRY0dJdjROUWNyaDFhVXNCejg5MXRNWVQ0ZVp6RHNmTk9qYUM0cHdmWUo5S3FiRlpibFE5bFBjOTRza09CbXI0WVBvcWZCNjY4RTNqLXQtWXMyejNsQkN0cA?oc=5",
+          "time": "09/30 09:38"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "“코스피 6,500~7,000선 주식 비중 늘릴 때…반도체·조선·전력기기 주목”",
+          "src": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4bklBSTdUSThmd05nd2JpYTBtaGU4d2dkWGxNX2I5cjZUU1BRRWJKWEdqNnlQZzNQNmVvbHczYlV4d2xFa05wNGgtY3pNTnZESHNoUHlHNEdTOHZJWlE?oc=5",
+          "time": "09/30 09:22"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 추가 상승 '가능성 높다'",
-          "src": "매일일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41aUViNVdGZmdmZ1FNNUdfZkZ6Nks5Ty13QlFlTjRBOU05cjAxbkdfaEdySERQQy14UUNlZVlqLTBJaGxwekNRU3dmaUo3RERjNncweE1CUFVKWmYtcURRRHpaZkM?oc=5",
-          "time": "09/29 14:36"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "7월 국내증시 급락 후폭풍 … 국민연금, 182조원 줄었다",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EMDJlcGI1aGFiV2hacnE3WHJ5b1lTcGdLN3dRSHFDN0kxNVoxSC1KX1lac2s3U0d0R0hzTTI5V2JDWWpFNmJRcnp1VG9yc3hUUFE?oc=5",
-          "time": "09/29 19:22"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[증시-마감] 코스피, 호르무즈 난항에 0.27% 하락…외국인 또 3조 매도",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JWWRIVnhOY0FpV1JCSDhWV3JrSjBfQ3dxUmJQZUlKQnhNLVdUMjBSMTZwUDZIZmNFS25NU0Fyb2RKbHNjdzBXZFZhMUlzVm1VWk54WWVsaHIwc1N0cEFYVmpHRG13UnE1ZzE3T2h0Rzc?oc=5",
-          "time": "09/29 15:55"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "거래 식은 코스피…오른 주식 아닌 배당주가 버텼다",
+          "t": "코스피, 1%대 상승 출발해 7000선 탈환 시도…삼전닉스↑",
           "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMGhJQUd4OURaNTZ6U3BOUHhDd3liREdVOWNnNm1EZUVudkZyNG1VdVFIcGpGMUZvSngtaVhoY1ViN3MzUDRSNDkxSV96MnBhV21Ia2o5Y1p0QQ?oc=5",
-          "time": "09/29 08:00"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fVnhhX0cyd3BmaDM2Q2xiSl9lUzhLaXBIdU81TWtXZk5sVlBlRUZQcGtZeXFkMXlXcVQxcEd3WmtuWDZXV1UzMDk2SGtDdDFvWkJaU0RWYW9xZw?oc=5",
+          "time": "09/30 09:09"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피, 美 반도체 훈풍에 장초반 6900선",
+          "src": "스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EQnF0cnI4emx0TlpDY000c1QzdlQtb0Vsem1nUm5qeFZPbUcyRFJMaERialprYUNDY2xwcDdXT091S1ZLNENWajlrNlg4U3VpNVdxdVhyMlRxSmhqQzJXT0ozbElIRHdPTHEwag?oc=5",
+          "time": "09/30 09:40"
         },
         {
           "cat": "macro",
           "catn": "금리",
-          "t": "[마감] 코스피, 유가·금리 부담 6800선 후퇴… 외인 2.9조 순매도",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JcTNxVUZCQlNnR01jMVE1M0ZTdUlIUllITXlxcVQ2TUxieHZ2bzIzTmxSdTJ2b1hRd2xnS3dhMWQ5aXN3SHBuX01uMWxVd0poLWlvVnVWRkdWQXJWejJVOExBTWJSMWNDZGFpc3VHQlrSAXRBVV95cUxNRlB1SmM1dFVXU0FzT1Mxd3AtVU1lMmVXNl9MZENoVklIb3RXSFZiZGVnU0NBQmhfTlg1b2ZfWmo4dDhfSzNBUzJGQnVWQTBXajZHbHlTNldwTFN3M0s5dVFEMFNLZmk2U3BBTk1VZjJFSnBwdg?oc=5",
-          "time": "09/29 16:00"
+          "t": "美국채금리 상승 압박에도…코스피 외인 매수세에 칠천피 목전 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDdEpnVUE4cEFYWEEwbzROU3ZBOGZkWER1Skc2cGJxM0t2WGhxVWdLQmk4VjBFR082a2lXeTc1YkVDdmpZREc2TFZyVm1SWERmQUFiRUpnYjZkVld5aEh5c3FJNzNEcDRsSGpJSk1KYUVhMFplOWfSAXtBVV95cUxPSGpvRXlVMkd3dnJ4VUNTSmFNa3h1alRKZFJFVXdibFl1bW5ibl9EZ3dGdUlJZUFJV1hsSEpFa2NqWDNRMm5pM1BPYWVQdnFWQzFMRGFwbXRKclR1OVdjbWRfb2NDY1ZhSzlOOHp3eHBVTnFZZnBYb2xucUE?oc=5",
+          "time": "09/30 09:35"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6889.74,
-          "pct": -2.7
+          "value": 6923.44,
+          "pct": 0.49
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 846.58,
-          "pct": 0.25
+          "value": 858.81,
+          "pct": 1.44
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1354.58,
-          "pct": 0.01
+          "value": 1358.78,
+          "pct": -0.06
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Stocks slip on Wall Street as rising Treasury yields pressure the market | National News | 2news.com",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcWE3Szl0SllmTWFZOGZPWnlUVTRIazhSemxneTZtSnVQMmdBdFV4akRfbkZ5NWFmNl90VjYtcXBNTjVCZWhQdzBGTUZtaHdWaXp4MnFhdXVubWVFVGVCSWdIQ09MNnhuMnI2WXFTVGpicGJMdTlQTlNmd0NRb0NiZkVMdExjLWtIbUZSVEp0UU5sRGZSWVNfS0NDT0hmYW1VM0w4TWpSUDhLQmRTNWVEZDZ2cTh1YzI3THBOd3ByWEVTYWE5M2tiT1dRa1VuVHVfV0JkUlZ6RmRvcE1QbkplMWw3d3Q1ekgyd2c1OQ?oc=5",
-          "time": "09/30 01:19"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "When Wall Street drifts from Main Street: Consumption as an anchor for stock prices",
+          "src": "CEPR",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3dENzRRSlNRelJsNmFRZV9Id3FhdW5kc0g4WWZJcDdzVzJaQlhwN3E3OHdsZHg1a2poZUQyZU4tZUpLTWc2QTlOblJGOHlrWGI1c2d2V1VQSzFmU3JINUFjVFZ5T2xPNzlRQkFjWmVoUXphVzZYdHpDdlgwTXI5ZXAxa2I1WjdEbnFrNTN6dnFma1d6S3ZzMDdtQUVBbFE?oc=5",
+          "time": "09/30 08:48"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Wall St falls as bond yields test multi-decade highs",
+          "t": "Equities end slightly lower as bond yields hold near multi-decade highs",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
-          "time": "09/30 01:37"
+          "time": "09/30 07:55"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Stocks slip on Wall Street as rising Treasury yields pressure the market",
+          "src": "Bozeman Daily Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUkxWSTlnekMxS1JHZTR2bzBxMkIzMkFpUVh0dDNPVWpya1RKZjFhM2lORGRxSWo0QzhvRzBrT3JwMFZTMl9nZGlyMV9mNWY3b1h4blRJNG90enpKSWMyejI4cEExdmRpOXRrcndxTkpydGpvWHJ1aDVkUk9lMzgyaDBzcm0zT05PS2JQdGtzX3pnM2NJMlN3a3VXZmZTV1Y0eExrQWZDOGxMX1h5TnJmZWJsQVNyd3NHRXdjUGlYVlMtdmZGRTRWTWMwcFlUWEtNelFfZk1Jb00wY2FaOTJTM1JBQzJfRUkyV3ZucnlySDJxd2htc3hJanN3Y2JEaTIyNlIyYg?oc=5",
+          "time": "09/30 05:54"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Update: Wall Street Drifts Lower Despite Retreat in Oil Prices",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWRtMWt6eG1DVnZzVk1CYmprQ0g5MjdBdTU2clY2Y3lJeXhrekQwMk9faGkybFp4VWs0ZFlCcVFsQU1YdE9YV1RiSl91RVNfeE0tME1LSEZva1NlbHQ3NFRKc1J3Wk82RndKd3Z3STVDWGllQ0ktT0UwRUkzTzl4QU9ld09hYVRGelFkdWM1eDZ6R001NTF0X2pnOXp3UQ?oc=5",
+          "time": "09/30 06:04"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEdVVjZrQUYxODVCRnlNM21CNEQyOVVnUHRiTG83dDZ1MEwwbHFXRlJqR293dTc3WFdMRTBlR3oyTjZKaGMyaHdGM3ZfSTRCcm1jS1ZTSWdQdnJpZ0VwNDRlNEFpcFgzOEZiVDVrUzV2dWdIU1VsQ0E4UW4xdnZwdEhreXNMT3NYVEZGOXc5cXZEWTd6TTdJemRpdUdsX0JqdFVSQ0tRVDVuTHpDdUo4UXlTSkVDaVpIcEpzY3h4ODdnRmFXLUk2aWdTbw?oc=5",
+          "time": "09/30 08:01"
         },
         {
           "cat": "macro",
@@ -98,50 +122,26 @@
           "src": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZGs3UnFURDUwZjR4eUhFUFJnaXRsRFp1MHVwWGtwOEhKQldxSHdJXzFlQkprd2RpcXBJaTFkd05aQVQxby11YVVqNlZSbXVxRENQcXI3RTVPVEtNemxmdFYyRGxYS05kazdKcDFQVWlMTlkxZGpfMTRIZVZ6SVh2VV81aWowZFZMRjl6NmtBaXRYOFlaaUtN?oc=5",
           "time": "09/30 00:42"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "US indexes hold steady in morning trading on Wall Street",
-          "src": "Northeast Mississippi Daily Journal",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY3NuUENKdXVsS2FBNG9qamtZNktHLXpKSGxNWXVKN29aMy1rbl9BbHE5N2NXdmoxWTFWUW9WLUFvZnc5d0lJaU12NFVBWlVmMGs2M1FtN0wyc0p0VEZzQ3Z6ZHhkNU1RV1hpaEtYcVZaT19IampJMVp3MTZSSDRvVHBmV1ZuZkkwR3V0bWEwX0wtcG1jZ3h4VWNNSHd1NXBqRzd0T3g3N3ZkTHR0RFVLajY3bXFJR1ktNG5idENXRU5faWM0VGJna29wRHdqbWUtSVBlVWYyQnd0X3Nvc0haWlZyQQ?oc=5",
-          "time": "09/29 23:01"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Stocks slip on Wall Street as rising Treasury yields pressure the market",
-          "src": "Ottumwa Courier",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOR2JPOERiVWNROW82NzVQTWgxanNodzZrZjVkVl90ZmEtVmNEMGtOYzhJbm1uTUNScUk2aXNqREZZWlNOa1N5cGxuZ0RmUDgwLWJxYk55OWlEY1A5VWQ3OFA3Vkt6N2NhdGd0eUsyLS12N093a2hPNnhINFFMZlkwd1NfejZEbnhNOWxTMzRIaDBvY3lvYVpScmtBTVJ6aW1icDlKWjVfVWh4VXd4VWNqeWZCd0dJLWpyYzJiUWtWZTh4YWtmbmZ3LVRqMV95WHc0SGxMQnR0aHNLMk15N2szaXdsaTVLRzBJc0VzSjMxS1ZJNzEyQ2tZTkVfYw?oc=5",
-          "time": "09/30 01:19"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street rises as investors digest housing data",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVkY1QzVCN3NxWjNIeDR3Wlpad3l3S0Zfd0VvbEVDWlNfNWRldGJuOFFRdW41cGd1Z3RsUkhuQ3BaOUxFTmFQTVl1anNSYjNFT3Rmd1lyYU5kSkxhWl9YOGxKdk15UFVqbUZFWFNvZ0hoa0NST3dnS0lQVTBHWGRPWDU1RGdqWmJz?oc=5",
-          "time": "09/29 22:33"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7661.37,
-          "pct": -0.29
+          "value": 7670.84,
+          "pct": -0.17
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26760.37,
-          "pct": -0.22
+          "value": 26797.54,
+          "pct": -0.09
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51230.97,
-          "pct": -0.49
+          "value": 51349.92,
+          "pct": -0.26
         }
       ]
     }
