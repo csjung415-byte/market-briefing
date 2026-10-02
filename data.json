@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-01T18:29:39Z",
+  "updated": "2026-10-02T01:21:49Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "“코스피 6971선·코스닥 4.48% 급등”…반도체 훈풍에 증시 동반 상승",
-          "src": "진일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41RE5KSi1EdWMybk1kNWptYkVuQkgyaUJqMlFJRXVnUzZKdV8zWG9LV3NwVmFkbm5LUjVWSWw5dnpJS2REQ1pHbXpaNGRUTXVRMzlBNy0yb0RLU2xzNF9iMG82dFJsSHF6bWtraVVGVQ?oc=5",
-          "time": "10/01 16:45"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "KB證 “코스피 8500 간다”…10월엔 주식 다시 사볼까?",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOU1IOTRTb0txNndrd2Y4cDJLcUFrdl9VNjMxSlAyX1BjSWU1R1IyR1FsOTlEOHhqSWtkamRablBSaGs0dk1weEdMc2VZdktsSDNMeg?oc=5",
-          "time": "10/01 11:26"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피와 KOSDAQ 거래대금 비율로 본 증시 : 무언가 변하고 있다?",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjQWRFVldTWnlSOEdWVjM4RFRDTUtLOGlYT2FaYTFpQ2VyZzZEYWdBSjIyRlBkelJFNDdnWWJscGQ4RlJCc0ZacTlvUThHSXJyRkFyZVFEU2h4dl9RM0hUQg?oc=5",
-          "time": "10/01 17:18"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "코스피 4거래일 만에 반등…반도체 훈풍에 7,000선 눈앞",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvVlA2RTVEbVZTRGJveEF1VlJ4SXNIa3RTeDlYOEQ4bHN2Ri1xbjdXWko2Uk42WlQwRXVGTC1fTkNBNHlMTG1JTVREUmFndm5oZGJUcDJwMjBYMVdMSFJJQ2tWVFJJdWFvX09OZW5ocFLSAXRBVV95cUxQLUlodU96VmllSjRkazZvT3FWRk1UNTk2Z2h6U0NTMXpFcmN3VzhJRTBBQld1QWFYNUR4cm81M1FRV25FOFFCd3hPRDJPMmUyajVmSC1GMm9EZXRsa1hETFZrd0t0SlZHMFRuWnFKaDVFQnA1TQ?oc=5",
-          "time": "10/01 16:20"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마감시황] 코스피, 마이크론 훈풍에 1.95%↑…6900선 회복",
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[개장시황] 코스피, 외인·기관 매도에 0.42%↓…코스닥 900선 눈앞",
           "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15VEk3cmE4bUNMRE5aUHZKZ3hSNTFFaVpsRk5STUZsdF9iNU03MGZ4MG9OYmxaQklKMFhBSmZfYVRkT0J4YjlKNEJqMG9nWnVROHR1Nm81TDF5c2dS?oc=5",
-          "time": "10/01 16:01"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FWEluT2dxbDN2ekZTdm90Rmx5Rm1GNFBRNm5IWC1MUDJjQlk0YS02dlN6S1Zqakd2ODIxU0pDSTdiRTNPODNNNTlUTmI4MlVlU3JPTkZwaGxaRHhG?oc=5",
+          "time": "10/02 09:32"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[마감] 코스피, 삼전닉스 반등에 6900선 회복",
+          "t": "[개장] 코스피, 美 반등에도 보합… 고용지표 앞두고 ‘관망’",
           "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5URjNPNHR2a2VEdUpTSnRJUmNOTTdleTF0LUJIOHNRY1l2RW93YlVwSGR6ZGhOVHI5RW5idzcyV2JHQ1ZpN09UVnN0OHROZXd6clZDa0dfVGZoWDJCUUJueXpvYU8tZjZRMENKN2haOGTSAXRBVV95cUxObFpfYm5MUmxwbWR1dnBUZHctV1BubjFiMlJKbjdPQnE4SEpQRkhfTVkzbnFNTlIzTlA5SXJnUG14RHFCOE1ySDJ6UG9NbmtfWVhKNEl1eXdNZmdPV1l2VjhZMkNPSEpaMEVyZU1XbF9JTzQxYw?oc=5",
-          "time": "10/01 16:28"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRU9KckU5Y0FpSXZ4YlVOd3A3VHlGblJmYkhtZGhMNXNtQ05YNnhvMENTaXZYOWVJejItQWpFaEI5cGhIUjIxQklXQWZIcHZ4WEZtbWpRWXU5LVJJY21zeWh1d3U0T2pkMW82YzVtdGU?oc=5",
+          "time": "10/02 09:50"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피, 0.47% 내린 약보합 출발…코스닥 반등해 장중 900선 회복",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fSGVrNnNCbjJPY3pvaDNFQ05aR1NVQXhLSzFiVVowRWtuVklwMU1MMTRuenRKUkNmbjJ5R0paNEVKTVJ1YzJCNFBVZFBvRExDeC1hYkh3Y2FLXzZjcUJ4aERpTC1JTU1RbGpSdW5EdXo?oc=5",
+          "time": "10/02 09:22"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[박정식의 국내 주식시황] 코스피는 아직 박스권, 코스닥은 박스권 돌파.. 반도체 소부장 상승 랠리 본격화",
+          "src": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGY3BfQ1JYcEowY3JUM0NjLVFBZlpzYU52WjdmMGswbDFCd2daRGVQblYyd2dpN2lETnQ2N0FKVGFaaVFGSVZvV29tbmtOdWpTTnpvbm83MGhnaktLcW9PNXV1Y0twb1RNR3lFcXVJdw?oc=5",
+          "time": "10/02 08:24"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "지수는 버티는데 돈이 안 돈다…거래대금 반토막·증시자금도 ‘멈춤’",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6N2FsbVBPanNnNnZ5UWQyUDZ1YkJBZV9JbldiYWxqSGk2QjBpdmw0c01XVHp4SkgzeDB0X25xMVZmMUhtTUVQRUFtS0tqdzg?oc=5",
+          "time": "10/02 06:01"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[개장시황] 코스피, 외인·기관 ‘팔자’에 6940선으로 하락⋯코스닥은 0.8% 올라",
+          "src": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rNlI2Sm5BOExFdU5LQkw2bmMtaERVWjFXM1dVRzE4b2U1ckF0SUpVVnd2b0NXTlIzSk9ZSVN0d1BWM2dTZEhPV3otTXY5WVN1QW1icnZ2TjBfZw?oc=5",
+          "time": "10/02 09:19"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6838.04,
-          "pct": -0.48
+          "value": 6985.92,
+          "pct": 2.16
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 855.91,
-          "pct": 0.72
+          "value": 902.78,
+          "pct": 5.48
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1358.18,
-          "pct": 0.57
+          "value": 1362.58,
+          "pct": 0.42
         }
       ]
     },
@@ -78,34 +78,34 @@
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Wall Street dips as rising Treasury yields outweigh software gains",
+          "t": "Equities rebound to close higher as surging Treasury yields recede",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1NWcmpRdnNhV0szWEh4QVRhcF83OVVJSy1jY1BoOFZDb2ZGanhFd3VtQWp5bFJxa2kwRUZJaWExeXF0UmE0NS1vUVpjdWpoc1N4dUUzZ1AtT0ZyNkZBTjU2bmVSSTVjZVRUMmg3YmR2V3FVWXAwWk5lUWlNLVdSSUVRc1NoZEc3R1RrUVpxcnlEOHRmaHRlUjA4ZkVfekc2UGowc2J5T1AxanRxNUNieWw5cS00U3lEaGVN?oc=5",
-          "time": "10/02 01:49"
+          "time": "10/02 08:30"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Wall Street dips as surging Treasury yields outweigh software gains",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnk4Mlh4eUlVWkFMRF9fWmlKS2hacmlVZVExa09xVk5nMHllSzRCaS1rbkp4MWZPdkRMTTJSbjd1c0RCeHp4c1ROMlZCSURETU9mYWF5SXZ4c3RUSTVZY3Y2R25DRWY5VDdCM2dpQkJXZkFhcHlSVXQ0VEtLcUprSF91YlFtZTYwMEtiWjljcUwwazI5QUVF?oc=5",
-          "time": "10/01 23:58"
+          "t": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5",
+          "time": "10/02 06:36"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "More swings for bond yields shake up Wall Street, rattle financial markets worldwide",
-          "src": "WKBN.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaW9pS1B4YmZ3UDVOR3llbGt3aG1oOFZSZUQ2aXdXeUE2eGlMZ2h5YkZBc0RkZVdrTExaOVFlbW5IY1Ixd2JpYUhVdldmWXpRZkdUbGhqZDkyd2luNjB6RFRseXVoVXpyVVk0cDF4MFA3R2RrcTktcDNvUDczdndGZDlWTlVhdmpTRG84UlVfSkVfSXo4N3UyT2VGZDBZX3poVU1kUVdzSjB1T0o3ZTlpTGgyVVlzbVhmeWZlNNIBwgFBVV95cUxNNWw2a2xuZnM5ajRXYVJpTE9JVUZ6UkhEU3BnY2ZrZDRQRkI4RjFSa3g2bWVUcnprSFNzT1ZpVkpBWTUwMnM3WTc2UjYwOW5wcGlCb09rN1czNkpBVFRyN1Y4cjhaWHZ0bHcyWk9EQWJYbWROM0xwMFFkZjdlVldxZ2RscThnaU8td3BIdG5VbS1nY2I3THluZkg1Qld0RzRQS0RLeUtWYzdNUmxvZi01bVdGSDBWWS1TUkxDeTFxTXNsQQ?oc=5",
-          "time": "10/02 02:58"
+          "t": "More swings for bond yields rattle financial markets worldwide",
+          "src": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjVnUHRMT1hta0t4WHB0RzAzWFEyQUxQTVE3VW9SWVpEZEo5TURhQWRpNXlZR0M1VWhnVUxNWDZtV0pEajQyekQ4dzVQdUF5WDNQWHBCZTd1VlZlalRNMHdPT2FFS3A1VWN4c01qVHQ5U1NPelhTS0d3S1NmY1lvSTU1OTFzZXdCMDBxM1I1RVhhWk1iNGV1c3lfSUFCbGh20gGmAUFVX3lxTE9lcFBsc051bnpGQ0o1QjVuTEtySko2ZW1DOXRNQWlYVG1sQ2d3RDZaSU1rZUdRMVp3TTB6WUtzaEdzRWhEQ1FzM3piYWJEVWhPazlmcFEzWlVGSFZBVFJVQ2Q2UmxGY1IwV2dJTGhxU0w2NU9Yckp2bGFvSDZhdGh6MnlhY0V3VzNTLUxwM2ppUVZuYjRreWJ3ajJPNlZ5dm1rNkJTaWc?oc=5",
+          "time": "10/02 02:28"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "Gains for tech stocks shore up Wall Street even as pressure continues from high bond yields - the-journal.com",
-          "src": "the-journal.com",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMEl4T1Bza0lrbndaWC1WZjQzWWR3ZVlXUVhsazI2OC1faUZWczhZelktbUJ3VHRHNUt0VC1VX3pGOFo4alI1UjVjLWN2NUkybHVxNHZTSV9ETHBTVGZRS2owVFZlX0NHNlVTa0ZPclRQcHdvZ0JnX1d6a25zNDQ2SllvUWlodGxHUmVNZzVnTG9VdHV6bnFUX1lhOUdlR1RMMzJhdWhITnFMclcwYkV1ZXY0bUltUVRELTNHT0VBcmNYa3RvQkZ6Uk9oZUc0ZGpvMFlUcEdvYVlQZUZzaDlz?oc=5",
-          "time": "10/01 22:37"
+          "t": "U.S. Stocks Rise After Bond Market Flips In Choppy Trading",
+          "src": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWUzT3B2YUgzOWRuZzVxTE92aHA4V09fX3dWU2I0RWxfTzFkMjhJNjhrcFZRbGZWd09OYUk1ekxXaEVESTNCcmNteDRZMmVjaFNickROcHU4LXlMdjJZclRJeFJudVI3c2pBbXc0dFV0ZFdUNElJS1ZMV0hBTjdGTlJxU1l5cnRIOW5GVW56VDBHYndxd2Jsbk1KbkdTX1JqWWdj?oc=5",
+          "time": "10/02 06:46"
         },
         {
           "cat": "fx",
@@ -113,35 +113,35 @@
           "t": "Wall Street advances at the start of Q4 as yields remain in focus",
           "src": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2NBN044bi1NeHNsTWc1R1E1X05HRHFEUnVaaThaUjNkNnVjelExLUFGbXN6MmxCbkQ5ZEt2OGxVTzFjZFBDSHZTZ3drQnljU3JBYXBNM1NjWUc2aVVGNHRyREZPWldxdldFV25US2lPMzdhRW9kMldNZzh0VUMtM29JcWRBT2JaUnJNV3ZhVXB0SzRWcldodFkzNFBsRmJncFRZ?oc=5",
-          "time": "10/02 02:30"
+          "time": "10/02 05:01"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Tech stocks support Wall Street as pressure from rising bond yields rattles markets worldwide",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5",
-          "time": "10/01 22:46"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "COMMENTARY: If a bruising third quarter can’t halt Wall Street, what can?",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTdTWnNjVWE5NzlTSVc0aXVRa2hJNFNUaWRVTEpWSUo0WVRZbWNGYjFXTkJ3cEpsbk1oN0FmY01WeWZyN1htb183RlE5U1VmX3lnV0xnYzZTZmctWERDZ3VuZnVVbTJkTTM1NURodU52NVhEcVJXbkQtUXA0Z2ktTFVEdm9uY1p1NkJsUnVJS0VLR2RlUThZVDdvOWdrcDdCdjJRWTlaeFh0ZXJfRUJj?oc=5",
+          "time": "10/01 22:10"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7670.04,
-          "pct": 0.24
+          "value": 7666.45,
+          "pct": 0.19
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26930.63,
-          "pct": 0.26
+          "value": 26871.6,
+          "pct": 0.04
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 50900.76,
-          "pct": -0.01
+          "value": 50926.56,
+          "pct": 0.04
         }
       ]
     }
