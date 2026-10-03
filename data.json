@@ -1,16 +1,8 @@
 {
-  "updated": "2026-10-02T17:56:42Z",
+  "updated": "2026-10-03T00:58:48Z",
   "markets": {
     "kr": {
       "news": [
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"7천피서 꼼짝 못하네\"…증시 발목 잡힌 이유 있었다",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41R0lqaHVQUUhyVVVYbnBXMDI4WkZmMWx2eDZkWElOeGViTDM3eXBVVGNuUHljUFR4NE8xTjJpVEhZV3dpYUNSM1ozZmJYNnVXM1dkZVZWcU5XQQ?oc=5",
-          "time": "10/03 02:25"
-        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -18,6 +10,14 @@
           "src": "연합인포맥스",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IUGYzejR0eXNfT2J3MjRLRVdLN3lRR0hla2x6MFVpc3JkV1JGSDVfU3Bxc0FrZGcwSklFSnVORDE3WjNiNEkwVG5BWEFERzJPTDUzcEFqLXo4NW1GRDlvZEptejgxMHRYY0tXSUtVMUQ?oc=5",
           "time": "10/02 16:07"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"7천피서 꼼짝 못하네\"…증시 발목 잡힌 이유 있었다",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41R0lqaHVQUUhyVVVYbnBXMDI4WkZmMWx2eDZkWElOeGViTDM3eXBVVGNuUHljUFR4NE8xTjJpVEhZV3dpYUNSM1ozZmJYNnVXM1dkZVZWcU5XQQ?oc=5",
+          "time": "10/02 17:52"
         },
         {
           "cat": "flow",
@@ -36,18 +36,18 @@
           "time": "10/02 16:04"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "“9월에 20조 팔아치운 외국인”…10월엔 돌아올까",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRzBhQklwQjdSS1AtdDVSVGJPNHE2V2tLZFBjb1lFeFh1cHVoXzF1UkdqQlhEQ1hLbGYxYnRSS2JIY0ZpVUhfRzhrX1pkWE5Ic3c?oc=5",
-          "time": "10/02 15:24"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“7000이라고 아무거나 사면 안돼”…지금 담아야 할 주식은",
+          "src": "edaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdGlNYWR3dURiRF9XQkZXeFZiTVk2eThkQ3VPbFd5b3d4QnowbkhLMVZabGgzOUR1Q1UzQVY1ejhWVVEzcVJZbjNFVFlrc0l2SHU4SkVPVjE1dGhXQzliU3p0WlNEV2dCZUlCaThoakUxbVU0bXBIT2FsTGpYNEJFVA?oc=5",
+          "time": "10/02 18:29"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "[마감] 삼전닉스 자사주 매입이 구세주… 코스피, 7천선 회복",
-          "src": "IT조선",
+          "src": "it.chosun.com",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WnNYekZLbGYweHJCZDZVVlZTZDJEajhkek9IREJDMHBtMlhqNGc1UHRneDlob29QdlR4YnpJX19qM3RJQTVPSnVDQ3ItbzZNTTIzVUkxM3VJNDFseUtQY044RUh3MVlFMUNMWlFYSDbSAXRBVV95cUxOV0dzMHprQXZoTHJuQUdoaHp1RkZ0Z3ZpOTgtb205Vk1NLWlsUVlPVnZNTjVMeWRTSFVkOHRzNkNWbmYxaEpFZUpBclNtUmZ1MUxxSjNoalJ2Qmh6eVVDNm1Zb05QdW83cEpLSXJrTFFCS1J6WQ?oc=5",
           "time": "10/02 16:07"
         }
@@ -68,20 +68,36 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1346.03,
-          "pct": -0.8
+          "value": 1342.51,
+          "pct": -1.33
         }
       ]
     },
     "us": {
       "news": [
         {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AI Is Squeezing Out the Rest of the Stock Market",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnpIZVhVTnV4Ung1cnczNTlVREtiRGFaUEpzUUw3cGg2T2Vaa1I3MHNJTi1kR0tjaGpVQ2dVamtab25vN3dtSWZmYnpTS242TjQwbHJiM1lmSmMxRER2ZXpBbkw1Njg1YnYzeGs3RDNnWUk3OTJ3bjhSNjhzeG9SUTE0c2kycTl4V0lSVGNQblc1NDllVmpUWDNPSQ?oc=5",
+          "time": "10/03 08:00"
+        },
+        {
           "cat": "macro",
           "catn": "연준",
-          "t": "Nasdaq hits record high after softer jobs data tempers rate-hike bets",
+          "t": "Equities close higher as softer jobs data quiets rate-hike expectations",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
-          "time": "10/03 01:09"
+          "time": "10/03 07:44"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
+          "src": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5",
+          "time": "10/03 05:36"
         },
         {
           "cat": "macro",
@@ -95,53 +111,37 @@
           "cat": "macro",
           "catn": "시황",
           "t": "Sleepless on Wall Street: All-Night Stock Exchanges Coming Soon",
-          "src": "Bloomberg.com",
+          "src": "bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUtzY2RScHZfZFFySmFPdW94eHREbUw2OVBjWFVNbUtMUExjNDNLRWJfNjFfUTB5LWFqYlhTcy14UjhURG9fTkhQWUJVcDExYndaTTltSTBMTEVFeThiMmRtOEx2bmNubVFrR01fZlIxQzhhMGVuRkdJMHM3Q1dQSlY1b090SlpISXp5MW4wTWdaa2RKblowQ1BmMUw3VXN2aHBLVTB2M1owSnZJMzZfRkZaYw?oc=5",
           "time": "10/02 23:08"
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "Is The Labor Market Still Resilient?",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTS1qVXlLdmdFckJOMnZYUE5OSXdtLUFUbEUzMFU4YzFjVTNPTTJncjlvM2dJQk5MeWs2SW9wSTR5ZDdMRTZLaG1JbHBpZmViN3dDQmc2aXdrbVVjVDJTckplYnpEU1NKVXZzbTBsVnNIeW9lNkVBdTY5a2Jsc1QzNGV3?oc=5",
-          "time": "10/02 20:18"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The Stock Market Has Done This Only Once Before in the Last 156 Years. What Happens Next Gets Ugly Fast.",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdS14bDgzcy0wcFpXUnRyQkIxVUpHN0ZHMjZHeF9wbG5DT3N2dUJQYTZPVkZuZ0dXYlpJc09TSzNjdGVKR0c3R2dJYzVxMGZrT2lYY2VJeWlSajB4VHBkbGNLMGt4ejdfWDFUVHR0bFU5VHgxTmFtaGJzalE2R1ItcFQ3NERmaURzWWpZa21QNTVwUWQtNDlRVnpkOGZVZDVWMzgwZzFncERnakVSRUVmVm0wbGhsSm1QUEVKRzlfNFdSVkc2WjRhczNJSEpKMGNHWmtEX2dVYjR6UXI5SzR3?oc=5",
-          "time": "10/03 00:54"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "1 of Wall Street’s Favorite Stocks to Keep an Eye On and 2 We Ignore",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVVSdVJUWmNzMkJCOVVxY25uTzZtZmktenlCUndHNjNFNkxXdkt6anVZVUxfbVV2QlpkS1dmUnRrdVhfSUtFQXBNQmFNQnp6dmp3LXhfYnhYQmdzdE5ZLXVfelh0SzJ2MjJHbTFxbEZoNVV3VU04LXp0aXA1SXAyZDJ4Rmp6WXNKWmZBV1NnNUlWWlRzUTAyZm5n?oc=5",
-          "time": "10/02 20:42"
+          "catn": "연준",
+          "t": "U.S. stocks rise near their record after the latest jobs report eases worries about inflation - Pittsburgh Post-Gazette",
+          "src": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckE2Y1Rsa3lOWFdfbm5PdGFvTHN3UTJaNG43dkFDdXZRX09zeW1ITUNrYnFybDJ0a2xKMTNXd01TQ3VWeExEZGhBLS1yNlhrWDBJWVFNaEhOMHJoSHNaUGF4YUsyOS1pbVFTdUNkZTZ3bzJLTTFDVHR3ZFZFRWpyZjkyTUlxQ21xU0ZfdGVlNUdqa1VGQ2plUHdXSFllbnM0b2VtZDQyVjczVGJHdFNuZ2J3?oc=5",
+          "time": "10/03 09:38"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7721.13,
-          "pct": 0.71
+          "value": 7722.72,
+          "pct": 0.73
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 27183.03,
-          "pct": 1.16
+          "value": 27190.86,
+          "pct": 1.19
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51164.59,
-          "pct": 0.47
+          "value": 51176.96,
+          "pct": 0.49
         }
       ]
     }
