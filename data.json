@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T00:23:06Z",
+  "updated": "2026-10-04T16:55:04Z",
   "markets": {
     "kr": {
       "news": [
@@ -13,43 +13,43 @@
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크",
-          "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aWNRZ05aWHI2LXRlVTJvWHNtODhEMElZVHJEVURfVWJ1V2V5OXpxTE94akxpM1o3LUNfMU1TcHJ3NGE2S29VMGkxNGdKUUFVbncxUG5FTGFZRHNqaXJpbktZMl9BWFhRdHkyV1Q5VQ?oc=5",
-          "time": "10/04 05:24"
+          "catn": "금리",
+          "t": "금리 무섭다고 주식 팔면 안 돼…염승환 “코스피 여전히 싸다, 반도체·전력·조선주” [투자360]",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VNDhVc0ltXzBBdlZ1Q2JsMWZHSl83TmFhdllCa2JNM3lKRTBrRmdrNlZwSTdiYzB5MFRtV2tOaGp2aUZXZWc?oc=5",
+          "time": "10/04 15:14"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“사라 해서 샀는데, 내 주식 왜 이래?”…증권사 ‘매수’ 리포트만 내놓는 이유",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUFSTHdfOWtmRHpIenE5MGpmdzRfUzR5dXNnWnV1S2dOR3YyWlFfZW54Q2xNUC1URVhXNDduQjdZR0twWDlQenRPTnJiZldrSFE?oc=5",
-          "time": "10/04 06:09"
+          "t": "기본 조작은 몇 단계로 이뤄질까? 이더 리움 etf",
+          "src": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xOTdtTzViQ2lzN29FaXhycDFaX1R2NVJTdXFMXzVmcFRrcDFfQXJLWlVBT1NRaWR4eHpMNWZWM0I2YktCb3FsVmxLd3Q0VkN3cVlIYUVtWUpJRFpwT0syWm9WM3hXYUJ1NXpzY3Vn?oc=5",
+          "time": "10/04 16:59"
         },
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "\"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업]",
+          "cat": "flow",
+          "catn": "수급",
+          "t": "“삼전닉스 잘먹고 갑니다” 한달새 17조 던진 외국인…보유율 최저",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qQmNyZko0dnppenFIT0NUY2UyNWotY044SGNaYXlzeDRXMXZtMWFRNlRyYl9rZXlYSjdEcjR1RUZiNEV1MG8teFhmMy1CTjFGU2c?oc=5",
+          "time": "10/04 13:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0aGIzYnVCUjZSNFp3aWZ4VFdscU10d0NPX0JsNmhhQlV0VVBUMmdOODJ4bktST3hSMXFjRlhSTGEyT3RxMGFjLUFmd0xKRnhmUU5nVUw4c3RPSzVGeGNnM0Z3eE9Ndk9qbTRPWEZLYnBKbUxCcnc?oc=5",
+          "time": "10/04 05:24"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외국인 한달새 코스피 20조 팔아…삼전닉스에 매도 집중",
           "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
-          "time": "10/04 09:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "10월 코스피 최대 변수는 '반도체 실적', '고금리' 악재 딛고 박스피 탈출할까",
-          "src": "businesspost.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ScDJEV3FBT3cxRjRkOVpyVTltY0ZlTjd0bjFQYkctVnhGUGNrQndTd0E3OEtnLVEtQlJSd2d3UDk0dE5vaHdsODh6TlgxbmhTLTNhSWVWRnFGZTJ6eGRmR2tTLXJxRklOMEJTMGxXSkFTQVE?oc=5",
-          "time": "10/04 06:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "삼전 실적과 고금리의 줄다리기…코스피 6500~7500 [주간 증시 전망]",
-          "src": "데일리안",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQemI3MndxSFBSV1duMGY1Ry1RM1pjRjZXUk5nTERjNlZJNk5MQkNuMzUtSHpCUjhPRHFqLXNxa19jLUFrRHVXMUx3eFphcEZPejZXWkEwck1rR25NYk5Qd2k4SmZKSE5GZ0N4QTd2OFZfUGd3V1VCcXZ2YnRmN3lYbXltcUhKcERCcHlmSm5aSzlsZ3lSZnhVeDFmZFFfSDRGSjE5a0xBZElZUVZUelc5Nnl0Z00wbU5QMW0xM1AzSWFldVpZOXdQMGREX2UzQV9xLXF5b0c1NzdEVjVRMnZHU2phd014bm1qZWlTUjRTVjE1c2MzMnR1Ukw4dnM3MXVLaEgwZGtfc1NxLVV2dF9iWFNWQkM4YTdX?oc=5",
-          "time": "10/04 00:10"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVk9PZ0NweXdVZGFKOVpWejBuc0xWR05qSkdLdVlPVmJZYjQ3ZjN3ZWt3c1loX2ZQSEdldFRjRkNFRm5hRXNHdEV2T3EyQl9vcmp6aUNPYzBfdw?oc=5",
+          "time": "10/04 10:49"
         }
       ],
       "indices": [
@@ -78,50 +78,50 @@
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "US stocks drop after oil prices and bond yields crank higher - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2piTFJ1bW1yTGdBVE5INmctNktaTnRLQlhScnVSbEZpdnlrcFVrc3NiZ05mU29JU0RpelRUYWdYbWM1RWo2dGlIN1RpU1YtMUlvVlV0c041Vk9HTGE1WmxCSDh6ampUam9BODdkWVEwUlB0YUE4WjVGOHhsTmQzTllpQ1NVYTZtak1QZW5kOGZ0d2vSAZgBQVVfeXFMTldoUFJaVjZUdUEyVm45OVBiN1o0U1ZIR0FyeHVMQmtWa2wtZFNrekFMWWNValg1OU9sbWV0ZVk4XzhOWFB6MWxKb1ZzTzU3bHBqU3kybzcxcG5BT04tbm9QeUdONWtUQ3Z3a3FxNXQ4cV9sOEpOcm9Pd1ZNTER3Ujh6b25kZUF4NFQwaU1xSEMyQkdRVktGRXY?oc=5",
-          "time": "10/04 07:33"
+          "t": "U.S. Stocks Slide as Treasury Selloff Deepens",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVdEelVnRHVuNVBsSHBaWGtkcjUzdGw1TmstZGNXQWxRN2EyYTdaU3RFR0RXV1J2SDVRNy1QbWFEWjE0OTlsQzVkdktITVlvVEp2ZzFjMFlsZ1drOExwMkFVRlNwcDZleFppX0Qzc2ZFMm03Rkt0ODVCYlhrdlB2d3hLV3FSSVdSYm9XcDNaaFgwUQ?oc=5",
+          "time": "10/04 23:04"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Week Ahead",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XenFJYUNKTlVkOTk0WDdNbV8yUjhrVF9malZsTFdnQndXNzRxaG9aTUhZRHNVQUFGSVJ0RGJ4NW9mLXlQODdTNGlPZmhaU3M5RzNlbW8yQ1dQYnkwVWFnb3ptNW1xR0JUQkZwbmF5M2k?oc=5",
+          "time": "10/04 20:47"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Most US stocks fall after the bond market cranks the pressure higher",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
+          "time": "10/04 18:53"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Days Before Black Monday In 1987, A Lehman Analyst Correctly Predicted The Stock Market Crash On National TV. She Became A Wall Street Legend Over Night And Investors Handed Elaine Garzarelli $700 Million To Manage. The Next Year Her Fund Had",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPMkFtSDI5end6aGpvTTJ5UU5RNHc1b01RZGQxdUZrZE9tUG0xYzdjNmhmQnl4NFNZN2ZkZUkxMlZPTGczYnBzS19qWi1TTDByU0ZHMm8yLU9rT1pReldVQXUyM1ZHYzRXUEQ0TEplRjFKbVh4Vl8yNzRpMFVIc1RTdXBCdU5PVTRodTdOTWVQOS05aUlZMkZxVm5HU091MTIzT0ItN1FTVjhmdVRjQjRpMVc1VElNMmxmQTBVZmMzRnN1TmJvZGV0ZFFWYTd2MDRxS3VXZEV4SmtLTWhTUXZoSUtOaXhNaDRKZEVXSUR4VVlWa2lDd19FczhoUVlRSWdnTk4zTU9UZHZ5VjBkUkpNbGMwR3NQMTdGalpTWTJSLWRuYUVsNnREY0h5Y2xDeDA4aThkMklfclJwMHBieDhfUGRpQU00ZUhiOURaSzE5cGdfcTRZZ0lRYUwwaHRiQQ?oc=5",
-          "time": "10/04 06:17"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street Is Bracing for the Fed's Next Move on Rates. These 3 Stocks Win Either Way.",
+          "t": "Wall Street Thought Artificial Intelligence (AI) Would Decimate Software Stocks, but This One Has Tripled From Its 52-Week Low",
           "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenNfYllhZjdaR3d4eXZlN2U2Qk5pTXNSY2lkXzZSMkRWUWRaTHNvSmM1ZHg5YjNFbDF3Qk5TcGJqU0tMYVNaUU1MOGV0emVsRVJlQ2UwWUJKVk1ET010bS02aTNUVC1hVDgxZnZJeXFpS2hwRnhxREljZzlFS1B6Nmx5QXRiMEJvcmZ1R0ZxRGd5S0N1YkNwSg?oc=5",
-          "time": "10/04 08:30"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2c0RFM4YXlyVWxFQzNLTFlzUVpENGFROG5RWUY2X3gxNGZGMEM4VU1jMzNtV3pkX3NYLUNhbGlRekk1emo3WXoxdW1LY2kzSWo5a3NfUndtUXMtYmt2UzNWRl9VZEZ5RXN0UjRfd01oTGFBNlVtT1NWR3JuSHRmRTRTR1ZuRGFwR0JHVUR0NWdjSV9YOF9iLQ?oc=5",
+          "time": "10/04 20:57"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ELWZ1SHVfTHFSUVVSdnJWVUdCSHJ1YWZpbnNFUEJfdERSSXdGSDJaZzVkQzBXaW9JWXU1OTlMcU1wMkhjT0pTWk5QLWdNcWRtZk0tbmhNZFRGcnM2QkJoZ0o4cVlEdjlaS0xyeEZDaEFDWHYybGp4VDFpSQ?oc=5",
-          "time": "10/03 18:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street week ahead: Fed minutes, unemployment data, consumer sentiment update",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYzZoZ0JKWjJ1OU8tbDAzaURSU3J4X1Y5bVdhY2VqZVFPMWI5UEZGbzZydTJDV2c4Q3k3aFZHTERsbzkzZWg5a2M1bVhPeDBNMWZxSUdUT3R0QjhpNUstQXg1NUpFV01fRmJfaEVzUEh4XzlDTG9qb2lxcWh5OWhaZHExb2dXb0NoLVBlN1FCQWg0d2ZKUHBXUEhHZHQ5MWNkQzA1a2FvN0tmaERZWE5YWnM1akVjYnoyY0kwZnVFX2hCcXN1ajVkd1VuOWd2SWQwQXRVOUpsWkZuQlMtWmRNQ05lT1BXdDUweGJ3Q05vd0l5VEY3RVd0YURSSUdSZUozNV9ERC1HeXgzQQ?oc=5",
-          "time": "10/03 17:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Why Intercontinental Exchange Stock Stands Out As Regulation Favors Market Infrastructure",
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUdHLTZ5N0RlOTB6Qkg0alNYVkZYOVRBT3lHMWt5SVZILVVkUHFtaWhGU2FZWjB3ZnBfZ1I0dEJkS0hYTnhIaEtkbzZCU0ljOERfdjhOLTVxRW54Y05HYmViZXpNZjZ1bUVEejJ2NndJWmdtWDlYZnFlX3NHSlhpMllvT25OZ3RmNDFmODlGRVF1LTNLbVpvV2k0RFlTTl9RZUhBRWEwcE8wcHc?oc=5",
-          "time": "10/03 23:06"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRm1GRjN4MWVRMW9RbktJb2NTR0NYU3pESHhrTFI3U1RqVjd5UEcwVGNIdHgwQl9Xa05tN25IaTlxN2tBaUFrcWZVUElrYmtjREFwQkNSdS1DSEdaVC1wT1RGaXM3TktVZGFSN0lxbktSeEJjMkgzaC1IRG5uTnFWdjNWQTFIbnlJOXBNVmM1UXZDS0k?oc=5",
+          "time": "10/04 22:00"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Pay Me While I Wait: 3 Turnaround Stocks That Keep Paying Investors Through the Rebuild",
+          "src": "247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTE9xZTRteFNJU09ZRkp4Ny1PNVkwTExadVBJWS00Y1EtT3VtWFpoUGdtTVdiOXMtdzQzekZVSVR4Vk1kejlyTl9udWZIMXQwQ1pzNDNmMm5GTEJhNEtRaUxSVkhIaEZDVDdHUHdTMGJKWjJEVDJGd1Z6SUlNTk5KR0tQWkpRWllmYTRrZTlwRm9zOS1hMi1lcW1DLUY4SW1wY1ppdlRUX0F5NUcwSjZJbjJ4RXdsZmhkSnR4QWM5ckxheEo4NEdUZTlR?oc=5",
+          "time": "10/05 01:15"
         }
       ],
       "indices": [
