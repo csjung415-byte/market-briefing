@@ -1,15 +1,47 @@
 {
-  "updated": "2026-10-03T16:34:36Z",
+  "updated": "2026-10-04T00:23:06Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "마이크론 깜짝 실적에 삼전닉스 반등했지만…‘7천피’의 그림자 [주간 증시해설서]",
-          "src": "더스쿠프",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFalYzMWRfVG5WWDdlMHRfZ2RQY3ZfT2M5MG1NN1l1QW9mVjdYS3QwcWNhOGsxTTNNMUdKZDV1UERLSzZ5NjRqODRoWnZQT2FiUEJFdk5YSTNDb3EzT0hBVDU3THdWYm9sdlpleHR3?oc=5",
-          "time": "10/03 10:15"
+          "t": "[마켓인사이트] 삼전 실적발표 앞둔 韓증시…'7천피' 지켜낼까",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTTBCWnRVZzZPVFRFbXA4SlFoVEtKMWV6d3Y2S1h6ZW80ZnlzTkVKWkxIRUpYRUVONHhnMlZxbXRMXzh2QU5hV05OVjE3Z0pkVGpoRXl2RTdNVXFQbU9GV9IBYEFVX3lxTE1tTTBCWnRVZzZPVFRFbXA4SlFoVEtKMWV6d3Y2S1h6ZW80ZnlzTkVKWkxIRUpYRUVONHhnMlZxbXRMXzh2QU5hV05OVjE3Z0pkVGpoRXl2RTdNVXFQbU9GVw?oc=5",
+          "time": "10/04 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82aWNRZ05aWHI2LXRlVTJvWHNtODhEMElZVHJEVURfVWJ1V2V5OXpxTE94akxpM1o3LUNfMU1TcHJ3NGE2S29VMGkxNGdKUUFVbncxUG5FTGFZRHNqaXJpbktZMl9BWFhRdHkyV1Q5VQ?oc=5",
+          "time": "10/04 05:24"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“사라 해서 샀는데, 내 주식 왜 이래?”…증권사 ‘매수’ 리포트만 내놓는 이유",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQUFSTHdfOWtmRHpIenE5MGpmdzRfUzR5dXNnWnV1S2dOR3YyWlFfZW54Q2xNUC1URVhXNDduQjdZR0twWDlQenRPTnJiZldrSFE?oc=5",
+          "time": "10/04 06:09"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "\"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
+          "time": "10/04 09:00"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "10월 코스피 최대 변수는 '반도체 실적', '고금리' 악재 딛고 박스피 탈출할까",
+          "src": "businesspost.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ScDJEV3FBT3cxRjRkOVpyVTltY0ZlTjd0bjFQYkctVnhGUGNrQndTd0E3OEtnLVEtQlJSd2d3UDk0dE5vaHdsODh6TlgxbmhTLTNhSWVWRnFGZTJ6eGRmR2tTLXJxRklOMEJTMGxXSkFTQVE?oc=5",
+          "time": "10/04 06:00"
         },
         {
           "cat": "earn",
@@ -18,38 +50,6 @@
           "src": "데일리안",
           "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQemI3MndxSFBSV1duMGY1Ry1RM1pjRjZXUk5nTERjNlZJNk5MQkNuMzUtSHpCUjhPRHFqLXNxa19jLUFrRHVXMUx3eFphcEZPejZXWkEwck1rR25NYk5Qd2k4SmZKSE5GZ0N4QTd2OFZfUGd3V1VCcXZ2YnRmN3lYbXltcUhKcERCcHlmSm5aSzlsZ3lSZnhVeDFmZFFfSDRGSjE5a0xBZElZUVZUelc5Nnl0Z00wbU5QMW0xM1AzSWFldVpZOXdQMGREX2UzQV9xLXF5b0c1NzdEVjVRMnZHU2phd014bm1qZWlTUjRTVjE1c2MzMnR1Ukw4dnM3MXVLaEgwZGtfc1NxLVV2dF9iWFNWQkM4YTdX?oc=5",
           "time": "10/04 00:10"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 22% 폭락에도...증권사 리포트 95%는 ‘매수’",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGWlNpVzZoSFJFb2RHbkEwbnBRVU45SjhFeGM1QWFsYnpaVFRONTgzcFdWcTVUVDloNVVzTElhbXM2ZEJ4Z1ZLMllNTjg0NVU?oc=5",
-          "time": "10/03 09:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 지지부진 '박스피' 갇혔는데...\"27% 뛰었다\" 이 종목 급등[김근희의 증시 랩업] - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWGlOMDIxam1JMmE1VWlNLWhpRnVjS3F1S2c0eV9VZFFGbkRkOTRMZ1l4VzAtbmg0Y0o3YzdYRVVPVW5tOURpWHdhNjc3QzI3YUtBTHRWSEtJaDYzTjVrZlF3cG1UQVJqSW9iWTloZHMzaUNNRWfSAXtBVV95cUxNTjRfTVN6ZkRPM2s3R2pSZTBPMnh0ejJ2eW1FcnVvSWI3cnpGVHNIRkdqUGZ2ejFLVEdGNUhrTmpZX3RiQl9LTERBRVVCUkZNZ0F0ZkFUTW0tUVVIMlJnNHZaUlFSbjBCbG9wYm9RY3JSNkl5aDQxMjVsLUU?oc=5",
-          "time": "10/03 08:00"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[증시 마감] 개미·외인 1.8조 던졌지만 기관·기타법인이 받았다…'7천피' 힘겨운 방어전",
-          "src": "CBC뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00ZzdBZ1BXMmhFTmxQQlo1WUZGRGpyaWtsQXJRUDJzdUFfVy00eTY0b3R6TmRFS0JkTUpldEtzcy1EdmdNNVFLVzl5Y01zNDd5dFowMlhiektGVkk2bHZyNlU4bUhLRG9m?oc=5",
-          "time": "10/03 17:28"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "금리 급등에 주식 매력 '흔들'…구원투수는 '실적'[금리 쇼크①]",
-          "src": "newsis.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KcmtnZUpCZlEyb1ZVSUJpR1hrNmFIVFA4OHJUZ1VwWl9ZRm9ybWxuSUVhTE5yay1vN3BGcTR0X05vdTIxcTdkTUx1R2k4bFVPMjRabk1IdkF4aV9HcE5hR0pPOEdoSzVMUFRCYWR0aUV0QWY2d1NJbdIBeEFVX3lxTE9KcmtnZUpCZlEyb1ZVSUJpR1hrNmFIVFA4OHJUZ1VwWl9ZRm9ybWxuSUVhTE5yay1vN3BGcTR0X05vdTIxcTdkTUx1R2k4bFVPMjRabk1IdkF4aV9HcE5hR0pPOEdoSzVMUFRCYWR0aUV0QWY2d1NJbQ?oc=5",
-          "time": "10/03 08:00"
         }
       ],
       "indices": [
@@ -76,12 +76,36 @@
     "us": {
       "news": [
         {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "US stocks drop after oil prices and bond yields crank higher - ABC News",
+          "src": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ2piTFJ1bW1yTGdBVE5INmctNktaTnRLQlhScnVSbEZpdnlrcFVrc3NiZ05mU29JU0RpelRUYWdYbWM1RWo2dGlIN1RpU1YtMUlvVlV0c041Vk9HTGE1WmxCSDh6ampUam9BODdkWVEwUlB0YUE4WjVGOHhsTmQzTllpQ1NVYTZtak1QZW5kOGZ0d2vSAZgBQVVfeXFMTldoUFJaVjZUdUEyVm45OVBiN1o0U1ZIR0FyeHVMQmtWa2wtZFNrekFMWWNValg1OU9sbWV0ZVk4XzhOWFB6MWxKb1ZzTzU3bHBqU3kybzcxcG5BT04tbm9QeUdONWtUQ3Z3a3FxNXQ4cV9sOEpOcm9Pd1ZNTER3Ujh6b25kZUF4NFQwaU1xSEMyQkdRVktGRXY?oc=5",
+          "time": "10/04 07:33"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Days Before Black Monday In 1987, A Lehman Analyst Correctly Predicted The Stock Market Crash On National TV. She Became A Wall Street Legend Over Night And Investors Handed Elaine Garzarelli $700 Million To Manage. The Next Year Her Fund Had",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPMkFtSDI5end6aGpvTTJ5UU5RNHc1b01RZGQxdUZrZE9tUG0xYzdjNmhmQnl4NFNZN2ZkZUkxMlZPTGczYnBzS19qWi1TTDByU0ZHMm8yLU9rT1pReldVQXUyM1ZHYzRXUEQ0TEplRjFKbVh4Vl8yNzRpMFVIc1RTdXBCdU5PVTRodTdOTWVQOS05aUlZMkZxVm5HU091MTIzT0ItN1FTVjhmdVRjQjRpMVc1VElNMmxmQTBVZmMzRnN1TmJvZGV0ZFFWYTd2MDRxS3VXZEV4SmtLTWhTUXZoSUtOaXhNaDRKZEVXSUR4VVlWa2lDd19FczhoUVlRSWdnTk4zTU9UZHZ5VjBkUkpNbGMwR3NQMTdGalpTWTJSLWRuYUVsNnREY0h5Y2xDeDA4aThkMklfclJwMHBieDhfUGRpQU00ZUhiOURaSzE5cGdfcTRZZ0lRYUwwaHRiQQ?oc=5",
+          "time": "10/04 06:17"
+        },
+        {
           "cat": "macro",
           "catn": "연준",
-          "t": "Equities close higher as softer jobs data quiets rate-hike expectations",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
-          "time": "10/03 07:44"
+          "t": "Wall Street Is Bracing for the Fed's Next Move on Rates. These 3 Stocks Win Either Way.",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenNfYllhZjdaR3d4eXZlN2U2Qk5pTXNSY2lkXzZSMkRWUWRaTHNvSmM1ZHg5YjNFbDF3Qk5TcGJqU0tMYVNaUU1MOGV0emVsRVJlQ2UwWUJKVk1ET010bS02aTNUVC1hVDgxZnZJeXFpS2hwRnhxREljZzlFS1B6Nmx5QXRiMEJvcmZ1R0ZxRGd5S0N1YkNwSg?oc=5",
+          "time": "10/04 08:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Meet the Gen-Z High Rollers Dominating the Prediction Markets",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ELWZ1SHVfTHFSUVVSdnJWVUdCSHJ1YWZpbnNFUEJfdERSSXdGSDJaZzVkQzBXaW9JWXU1OTlMcU1wMkhjT0pTWk5QLWdNcWRtZk0tbmhNZFRGcnM2QkJoZ0o4cVlEdjlaS0xyeEZDaEFDWHYybGp4VDFpSQ?oc=5",
+          "time": "10/03 18:30"
         },
         {
           "cat": "macro",
@@ -94,34 +118,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
-          "src": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5",
-          "time": "10/03 05:36"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
           "t": "Why Intercontinental Exchange Stock Stands Out As Regulation Favors Market Infrastructure",
           "src": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUdHLTZ5N0RlOTB6Qkg0alNYVkZYOVRBT3lHMWt5SVZILVVkUHFtaWhGU2FZWjB3ZnBfZ1I0dEJkS0hYTnhIaEtkbzZCU0ljOERfdjhOLTVxRW54Y05HYmViZXpNZjZ1bUVEejJ2NndJWmdtWDlYZnFlX3NHSlhpMllvT25OZ3RmNDFmODlGRVF1LTNLbVpvV2k0RFlTTl9RZUhBRWEwcE8wcHc?oc=5",
           "time": "10/03 23:06"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Braces for Sleepless Nights! Countdown to the \"23/5\" Trading Model for US Stocks: Can Global Capital Relay Strengthen the Path of a Long-Term Bull Market?",
-          "src": "moomoo.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDlKaVE2cUpPNWt2N1RCR1c5SVgzY01Kdm5ENEZQM3V2LXdmUFJ1T2draUw5MHhETFlMVmRmZW8xZ3dnbkFRWE5scFF3Q2ZXSWp0T1Zwdm5xM285MDU0V1REZ0FSNkNiTW9FQWxjZEg2eWVvbUtaeWpoZk9mbmRfV1V1UW5zcUNTTDhMNGhhMVNtVGEzcE96YWlibXItZTBqWkZ5VHpR?oc=5",
-          "time": "10/03 13:42"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "ADP Warns of Cooling Labor Market While Its Own Business Feels the Chill",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWFlEbm9pd0tGUzNhdGNBNGo4WHZxNDNYZU5HaDJFb19pdnlSTUdTVndVbzNzVWdraEJRQk56d3pETFZiZVY1X3Q2Rmlyb2RLQThCRTNVLXZNVGVtQk02Qy1Ma1U4MnktQnU5bjhiRE4tbVN1T1dGM1RsSDAtQXYwZGJtVGgwOFl5Um9HN21EbVE5YTN3b0pjRW1MUGxoemdwenFaNEFTeVY5RDhpMWZfcjZyTnBYVzQ?oc=5",
-          "time": "10/04 01:15"
         }
       ],
       "indices": [
