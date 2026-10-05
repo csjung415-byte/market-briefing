@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-04T16:55:04Z",
+  "updated": "2026-10-05T00:31:02Z",
   "markets": {
     "kr": {
       "news": [
         {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "역대 미국 중간선거 전후 코스피 향방 어땠나?",
+          "src": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zcnNTUUc5bVpDYk5XMG1QT1BjaG85UWRUWXNQZFRmYURXd1RfNWtVVXdPX1F4LTRYSFlZSko2Z2Z2UXZnSmxiUmhzdF9lcjA?oc=5",
+          "time": "10/05 06:03"
+        },
+        {
           "cat": "earn",
           "catn": "실적",
-          "t": "[마켓인사이트] 삼전 실적발표 앞둔 韓증시…'7천피' 지켜낼까",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tTTBCWnRVZzZPVFRFbXA4SlFoVEtKMWV6d3Y2S1h6ZW80ZnlzTkVKWkxIRUpYRUVONHhnMlZxbXRMXzh2QU5hV05OVjE3Z0pkVGpoRXl2RTdNVXFQbU9GV9IBYEFVX3lxTE1tTTBCWnRVZzZPVFRFbXA4SlFoVEtKMWV6d3Y2S1h6ZW80ZnlzTkVKWkxIRUpYRUVONHhnMlZxbXRMXzh2QU5hV05OVjE3Z0pkVGpoRXl2RTdNVXFQbU9GVw?oc=5",
-          "time": "10/04 06:00"
+          "t": "[주간증시전망] 방향성 탐색하는 코스피, '삼성전자 실적'에 쏠린 눈",
+          "src": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFlScDN4VGgxNUNNSXVjUTFaS00yaFg3SVo5LVl4eDlUZnJrbGdwanR5LXFCYUxrT3pPZG16LWV5YkFFbU5sdGFtdWVjUVJ5RGZ1NjBxaVJ0RFU5U3JLb0NndWxHM2FiYzFrbzFmVl9xbzJYdGRyY3JYNGs1ME5aXzdMWEdRZmppZkxJVkVybDBVTXZ1Y1Ew?oc=5",
+          "time": "10/05 09:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "금리",
+          "t": "금리에 발목 잡힌 코스피…삼성전자 '100조 영업익' 구원투수",
+          "src": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZMlR4d1lGSWhLQTkwMFFtekROV1VfOEctRE1HU0ZqSW9vUWJCTjBRY05CLThsZjZGMktSV1ZJNHEtQV9Yb2pCMTdzQllBeHhvb3BiWHJQeVZoUEU5NU1rStIBYEFVX3lxTFBZMlR4d1lGSWhLQTkwMFFtekROV1VfOEctRE1HU0ZqSW9vUWJCTjBRY05CLThsZjZGMktSV1ZJNHEtQV9Yb2pCMTdzQllBeHhvb3BiWHJQeVZoUEU5NU1rSg?oc=5",
+          "time": "10/05 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[국내 증시] 한국 주식 5일장 휴장 왜?…재개는 언제",
+          "src": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ya3NMNzh6RG90NGdMWWtrYVdQRm9yNFVPYVJ6SmRXQlU2cjhfcGdiT1NEWDVzOHFGZTJKN3pEeUVGMURuRlQ4YWNvMVRhRU00cUozNkVZVl9nMHp0WUNmSjBydVYyWXM?oc=5",
+          "time": "10/05 07:50"
         },
         {
           "cat": "macro",
           "catn": "금리",
           "t": "금리 무섭다고 주식 팔면 안 돼…염승환 “코스피 여전히 싸다, 반도체·전력·조선주” [투자360]",
-          "src": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VNDhVc0ltXzBBdlZ1Q2JsMWZHSl83TmFhdllCa2JNM3lKRTBrRmdrNlZwSTdiYzB5MFRtV2tOaGp2aUZXZWc?oc=5",
-          "time": "10/04 15:14"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "기본 조작은 몇 단계로 이뤄질까? 이더 리움 etf",
-          "src": "Calgary Roughnecks",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xOTdtTzViQ2lzN29FaXhycDFaX1R2NVJTdXFMXzVmcFRrcDFfQXJLWlVBT1NRaWR4eHpMNWZWM0I2YktCb3FsVmxLd3Q0VkN3cVlIYUVtWUpJRFpwT0syWm9WM3hXYUJ1NXpzY3Vn?oc=5",
-          "time": "10/04 16:59"
+          "src": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Y09rVWlKaGtoMWhFb2VsX3JnSWRiNlZJVm10WXpsTVhaeWVVQXd6Y1BnOU9JZlNWS29xZUNjZDdrc0ZwWlFqcF9BZHdobmVmOTh4LU13?oc=5",
+          "time": "10/04 15:12"
         },
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "“삼전닉스 잘먹고 갑니다” 한달새 17조 던진 외국인…보유율 최저",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qQmNyZko0dnppenFIT0NUY2UyNWotY044SGNaYXlzeDRXMXZtMWFRNlRyYl9rZXlYSjdEcjR1RUZiNEV1MG8teFhmMy1CTjFGU2c?oc=5",
-          "time": "10/04 13:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "역대급 폭락에 국민연금도 울상...'롤러코스피' 리스크",
-          "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0aGIzYnVCUjZSNFp3aWZ4VFdscU10d0NPX0JsNmhhQlV0VVBUMmdOODJ4bktST3hSMXFjRlhSTGEyT3RxMGFjLUFmd0xKRnhmUU5nVUw4c3RPSzVGeGNnM0Z3eE9Ndk9qbTRPWEZLYnBKbUxCcnc?oc=5",
-          "time": "10/04 05:24"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외국인 한달새 코스피 20조 팔아…삼전닉스에 매도 집중",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yVk9PZ0NweXdVZGFKOVpWejBuc0xWR05qSkdLdVlPVmJZYjQ3ZjN3ZWt3c1loX2ZQSEdldFRjRkNFRm5hRXNHdEV2T3EyQl9vcmp6aUNPYzBfdw?oc=5",
-          "time": "10/04 10:49"
+          "t": "외국인 '엑소더스'…코스피 수익률 주요국 '꼴찌'",
+          "src": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oUHNXSHJWMEpzbVhJMjBSUzRBOHBCSUFLQnA1TTJEYm1RakJCTG1xUTZLZWJYR3BsNDVqMDJaanFvY0RIMWw1djNYQm8yUS1PY3lN?oc=5",
+          "time": "10/05 06:04"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1342.51,
-          "pct": -1.33
+          "value": 1344.65,
+          "pct": -1.17
         }
       ]
     },
@@ -86,18 +86,26 @@
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+          "src": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWt1eVM2N2hzdTRfemxDRGhwZFdXSUpDQktQcFRmT3lLWlVzQ3pYRnRsamlka3B6bXJrbUdsTEpxd1JGZnUtQVMxd2dXR21qei02UnJQZlNuSzdSdEhCWXItZ29vWHVKd2d3Y3FOUzg1T09YMXBGMzVSc3htVUpLZDF0Nzc0a3g0c2RNemF5SVNlNTVmV25YRVAxRnBCMl9W0gGmAUFVX3lxTE9pX0NpZEhJWHlXckZ5WjA2RUx0Mm9LWTZvbEtWSUFOYVNkNlk2Xy1yZ201UlRiTFpvZ0VfZTloTDRWZkNscGFDNWNRYXdUT210cEN4V01EcmdlWU1NclZHTC1VVENzVmN4cllIRk1BVFh5RWxtLVJHOUx5WnVhZUppblV1Q2o1RHItQzdZX0hrNXE4bkRlS3RDRDNkcHZCU3BwQ2FfUUE?oc=5",
+          "time": "10/04 22:24"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street Strategists Steer Investors to Cross-Asset Hedges",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTGhPakQyb05QaC1FUHowbWdmeTlyZVFYQTE5LWRuaXRPeGZYT0NxdWZsSDNaUU5YTGlaZ2tua3I2dk04RzRoVzBqYVRTOXhnNV9tTFpEYnI3VDdYcEljU1lTU1Rja3Rpa2swdmt5bDFBZHNLZW85dWxKb1FTWFhvQjlRTWNNMi1GQzhNYnE1YnhqcDNfUVowLWt1LVhCU1pSV1hvZ21YQndrWjlPMjlKVjRB?oc=5",
+          "time": "10/04 23:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "Wall Street Week Ahead",
           "src": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XenFJYUNKTlVkOTk0WDdNbV8yUjhrVF9malZsTFdnQndXNzRxaG9aTUhZRHNVQUFGSVJ0RGJ4NW9mLXlQODdTNGlPZmhaU3M5RzNlbW8yQ1dQYnkwVWFnb3ptNW1xR0JUQkZwbmF5M2k?oc=5",
           "time": "10/04 20:47"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Most US stocks fall after the bond market cranks the pressure higher",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmtnVHpEa0ZTdzJYcHhrUTlwRURkX2tJVVgwTHgxeTFLY3FHeTRKal9wdmVYREZueVZnclVhTnloU0pRZHp1ZEtnT3BhX0pud3NuMlVQWG4xOV9yZUJVbjY1X1RZSlp1TlVVQUZDaHB6TXotdmx6akpNdFBDUklLcU81WEt0bXNLV0xwVE4taGxYMHNqQkZUaVFUWmM?oc=5",
-          "time": "10/04 18:53"
         },
         {
           "cat": "earn",
@@ -108,20 +116,12 @@
           "time": "10/04 20:57"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street’s AI Party Is on Edge as Soaring Yields Raise Risks",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRm1GRjN4MWVRMW9RbktJb2NTR0NYU3pESHhrTFI3U1RqVjd5UEcwVGNIdHgwQl9Xa05tN25IaTlxN2tBaUFrcWZVUElrYmtjREFwQkNSdS1DSEdaVC1wT1RGaXM3TktVZGFSN0lxbktSeEJjMkgzaC1IRG5uTnFWdjNWQTFIbnlJOXBNVmM1UXZDS0k?oc=5",
-          "time": "10/04 22:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Pay Me While I Wait: 3 Turnaround Stocks That Keep Paying Investors Through the Rebuild",
-          "src": "247wallst.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTE9xZTRteFNJU09ZRkp4Ny1PNVkwTExadVBJWS00Y1EtT3VtWFpoUGdtTVdiOXMtdzQzekZVSVR4Vk1kejlyTl9udWZIMXQwQ1pzNDNmMm5GTEJhNEtRaUxSVkhIaEZDVDdHUHdTMGJKWjJEVDJGd1Z6SUlNTk5KR0tQWkpRWllmYTRrZTlwRm9zOS1hMi1lcW1DLUY4SW1wY1ppdlRUX0F5NUcwSjZJbjJ4RXdsZmhkSnR4QWM5ckxheEo4NEdUZTlR?oc=5",
-          "time": "10/05 01:15"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Roblox Corporation (RBLX) Stock Price, News, Quote & History",
+          "src": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DTnJNUXgySnkxUG9SQ1Qya3NhQ2ZmY2RONERWMzRwNDRKMklwUHNpVjhvTEpUeFZ2VGo0azQxSVpmdlowNGphb3J1OUVheGphbVE?oc=5",
+          "time": "10/05 06:47"
         }
       ],
       "indices": [
