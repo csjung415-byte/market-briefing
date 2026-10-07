@@ -1,16 +1,8 @@
 {
-  "updated": "2026-10-07T01:14:44Z",
+  "updated": "2026-10-07T19:00:48Z",
   "markets": {
     "kr": {
       "news": [
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피, 미 증시 훈풍에도 하락 출발…외인·기관 동반 매도",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qS3pRQVVQUDI0LUtkeVVoUlVQckRidVluRks5ZURpanZJTGF6R20wdG41OEIwTjFINXN1OVVNZ05MRkZ3ekRFa2NNNzZTRldQN253QTBVckg1NmRCNXFZRXhzSHhDRkxxLWs4eDQyVHA?oc=5",
-          "time": "10/07 09:16"
-        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -22,126 +14,134 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“코스피도?” AI 기대에 S&P·나스닥 또 사상 최고치",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tYUtGS1ZOLWlYYXM4Z2k3YThoZklpNHBjZnZ6SFdzZklGWTRsbnlKQXdCMWlrRHdJNVg5Nm9nSHZWMWk2c0NKejJjYmRQb2pz?oc=5",
-          "time": "10/07 06:10"
+          "t": "코스피, 6,800선 턱걸이 마감…외인 2조 6천억 매도 폭탄에 1.98% ↓",
+          "src": "프리진경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ORTB3ZjBOc3JqdVdTQWUzUGlKV2FOR0JCdktYNGhHcFFMM3ZFNFVTX3pjSDg4eXpld1lBMlM2SXMxNEItX1pRRGNkZmI3Y2lzTHZYSmp1bnIyUElkRy1vMjRIRG9BT0J3Zk12OQ?oc=5",
+          "time": "10/07 18:32"
         },
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "삼성전자 실적 발표 앞두고 경계심리…코스피, 1%대 하락 출발",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQZm9CMUpoQVRiak9vWEgwWV9wc0xKN01IMmw4ZmVjVXhSdkY4cHNFX0QxODdXRGdMNnpJdHhKYUpEWEU3d2trTVB1SXdZUjBjOF9hb2lmVmtJQQ?oc=5",
-          "time": "10/07 09:35"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[주요공시]",
+          "src": "데일리경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yMlZRODdEdDJjc0tVeFJWeU8yMld6M2hTNXBZV05vcVR6VV9ldENNMDEyLXYxaVVZeDZWNzZpb04xbUp1UjFFUHhWaEZKbVdsTkJmc0Z1RDczRjhXZTExbVJVSVJvbTNXUElndg?oc=5",
+          "time": "10/07 23:17"
         },
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "[오늘의 증시]실적 앞두고 美증시 강세…코스피, 반도체 훈풍에 반등 전망",
-          "src": "뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Ny1qWlptR0hvblVvdDkyX0otUjZjZkZhc3J4ejB2ZmViVEg5elZvNXhkN3BUMEdGY1Y3NjFRM0xpc2MxVEJQbUo1bldmSURRenlnZ0c4LU9JWDhPZkY2Y9IBeEFVX3lxTFBHWTBCbG5wZjEtOTlENDFfWUpfMUhsQU5WT05nWURLUUx5ellMazB1MTRSQzd5MnBXUGFhb08yUGR0ZUJqczBLenNLUGZUel9FZGhPTUhzOWpVZGRodG54ek5xdEE4RTFxU0s5Qm1XRTRFekRXR29MbQ?oc=5",
-          "time": "10/07 08:01"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“이제 8거래일쯤 남았다” 예견된 공포…‘삼전닉스’ 넘어 코스피까지 걱정 [투자360]",
+          "src": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWkdvWFYyU3U5YVBTVmV1NGhHNnFoT1NKTnBrX2FZUDlPSHR6VzFVT1gwSFFOR002dE5Ga21jLV8tSUk4dUV5LW5LUFBEeDN0cVdFc3R3?oc=5",
+          "time": "10/07 20:40"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "美증시 최고치에도 코스피 ‘긴장’…하이닉스 ADR 6.39% 급락",
-          "src": "경북매일",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMDY2Rzd4SWVpMEFKQnlWTzZvNENrbE9FM2dYTy1LODBfbDBKT1lrdkZhVUQwQkdSNWYtNUVScG1URklybDZKaDNOdXBUZ2NFYkhycVh5UXpVUQ?oc=5",
-          "time": "10/07 08:24"
+          "t": "코스피, 1%대 하락 출발 뒤 반등…삼성전자 강세에 6950선 회복",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91V3BPcDA3Q1FtVmgxYXVkZUNlcVlSYWpFYWROaXBWUUhXdDZXOHVjNkNGc2YxMkpPWGhNcUNQS2dtSXUwbEExbUd4NEFGVG5KYXRENHlJSkE4WWhGWTNuU1VJazZKLVVFTUZoREp6ZVjSAXRBVV95cUxNTE4wLTd4cGQ5WnA2ZmtfbUpiTGgzMU9GVzBLQ2kxNzR5cGZmLTdKclNYaWx4dXZiTllPYjRtb2VDWWZfdkRCN3NEYUZ0cDZUSUVvWnIzU2JEV2pjdGtFdndqR2U0RWtTSVhjcndRX0xYb08xRQ?oc=5",
+          "time": "10/07 10:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓뷰] 연일 최고치 경신 美증시…코스피, 반등 탄력 삼나",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GVHlFa3Jqb1JpNGlra25iTm1sX2hYRjVhN2plY1F0TDcxM1B5TlpLYUhrTHdfZmk4RVoyMFIwMURYSkR1cVBxRThEZk5uMmtTU05QT3lnR3VuOVXSAWBBVV95cUxPaWR0Sk1DRkRtTHhVNm5xbEhHN0ROTUpqNkI1Qm1lTFVXaDdfbm9Fajd3VWUtYWZVV0hXa0gwVHU3c1FsbUhrWkpoOHg1T3h5UDdkOGlpbGtEOXJYbTZJVEI?oc=5",
+          "time": "10/07 08:07"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6958.48,
-          "pct": 0.25
+          "value": 6941.39,
+          "pct": -0.89
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 908.71,
-          "pct": 1.73
+          "value": 919.92,
+          "pct": 2.98
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1337.98,
-          "pct": -0.43
+          "value": 1337.9,
+          "pct": -0.44
         }
       ]
     },
     "us": {
       "news": [
         {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street retreats from its record as stocks fall worldwide",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSUFjSW44Z2Zvc09QMXl6UjVjazg0T1NnMHV4a0xjVmN0QzFvLTVaOS1ZRjJ4Tm5BaE1FYldaamw2ZWZqUGNOT1FiQmphTFpJQVVWTzNQQ1lqa1RPaWtUWVNVdzFaTEZRR1ZlSHN2VTJwNGNwS1BtaEpYTHVkRi00UG1lWTZBci0wcnBFeFl6dk1qRHBYQmZaUWlXNmd6NXBUbXUwcTJFbHVpLVQtOXJxNzhPcmxXU1MzaFZZSzVhUG81WHJuX1F4OUlvX0M0NzJGd0wwemt4YTRmMnJNMmhwSUVJNkhjQXU2YzZub2xEc2k2NGc?oc=5",
+          "time": "10/07 22:52"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street retreats from its record as stocks fall worldwide - Pittsburgh Post-Gazette",
+          "src": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczJneWQ3UkhBTlJiTVhYWnMtZV82RzliV0Y2VWFjMmgtWGtDTWJRM0xabFQ1QWp5T0FrYkUtWVB6eHdlV0pSa2dQa3ZjdlJuaTd1TldCNVV0NmhrTDlfZkRFbFZhNGY3N1k0eUxKdkdFT2VjaXIwa19MNVpTUFcyaFM5bUduZHZKclB4OWJUWkxnY3lFRzJWczBLNGRQaDZPV2c4SzI5NmVwdEo5OXc?oc=5",
+          "time": "10/08 03:13"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Why is the stock market down today? Surging bond yields, oil prices, and Fed anxiety halt Wall Street's record rally",
+          "src": "Clarin.com",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTVRRTnZ0bFRmVnVpM0RXYkk2ak1NOTR2MDVsM21xNTVfMTBSVzVmaGU1WFdKYmtSOGxtQlFONHhOLU5OX0RsdlZSWWVOWUxMQ25jM0xTSmFpcEExRk5ScEM1NjhCLUZDVzVZdmMwcW1PUERpeVN2aWE4SThad1JfRHpCLXNOTWNRRU1qM3V4Q215d3BKNks2am1hMUxzLWxuREFZSm5kSllBYldtYXBRNmExcU93UmlYOG84bVRqX3JDcjBZamJLS19Fc1BxTGZOOEl0TzZsRXRTbmpvMkNfN0syZ1pqdndSWlpGX1RicURxNG_SAfgBQVVfeXFMTnp5QU9xQS1xWkE0Wms5V1hzTWlfYy1oQ19yb0FISHJ0NFdTMnJMSDZsaG5aeW9kNGFzS3RRaHpGcU5BYzVxdXRrSW9IWXYzZjlKWjVaMDNaZnJTZkVGRXlRekdtWE1od3FXbDVaM00zSmZGZXY5VjVONWhocTlzcU5jTC12dVp3RGJsbkVnRFBRZUtpYVZPU3lfRUoza2VodjVZRVpRaTlfdVBYTkU3TlZfNHhMLTV6MU1yMXRGaHZCbXNhOFlURmpSdm5Bbkxwdmw0TjhBVWRkYzZZSTFKVnFpRFR0OTBBc1pTX0M3eURiZW1wRm05RGc?oc=5",
+          "time": "10/07 23:34"
+        },
+        {
           "cat": "fx",
           "catn": "환율",
-          "t": "Wall Street is booming. Surging yields could shake things up",
-          "src": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yMnBjbS1KbThGY05xQ2RJSkp0NWxNSDh6VlJYdzlSTTVkUFJZdzhDMHk3NVF5UHJKSk5oT2d1UlI0c1Z1TTJYcEhvMGZ0R2s5eVB3R3hPWkNucHhEaDN0dzM1RGtBQ0t0VzNKZ1YycTJzVW5xN2c?oc=5",
-          "time": "10/06 18:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street profits soar to $45.9 billion in first half of 2026, report shows",
+          "t": "S&P 500, Nasdaq retreat from record highs as yields and oil climb",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNck9pV1h3YnBLeFhISkNESWZSblVLaGdCT1RjOXJQd0toV19DM3JGQ2Q1cEJfZnBJbEMtaDB2b3VKVU5QaXRiRkFha3ZIOEZxd2UtT2FDcGJ5bW5QLW45VVlyNXJUa29ScmxrbGRXMWh2cDZGblBJYVB3YW1rdDJMbHpWUlZHRWg1US1KUmZQQ1Zva1RUenJXY1ZuY2RncXg1RkxReVhPVzRuQlBlVnQxMDRzTDFpSWxTVHZZOFln?oc=5",
-          "time": "10/07 02:03"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "US stocks rise to a record on expectations companies will make even fatter profits",
-          "src": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUFEaV8zRXdKTGFNY1kwU0xtMTZDdVNDUUpoZ0c4dlJRY3R5UFZ1d01oV1RnLWlTTEtHRHZORmVoOS1LOE9kZHVESVVMSjl1MFRSNkxfNmRCNk9SaWYtOXpqNERwZFNUN2lmVHdRbDVfT1BoR1I1eUxBTUwxc2ctSXNqN0paRGdqeHh1c3hOcmsxdXhCUmlzQjRXYWlUS3haUjBLSkw5OWladjFFQlNWZmQxSDNOR0lDWkQ3bVNSeDhKREpH?oc=5",
-          "time": "10/07 07:34"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street points toward gains, oil prices fall as markets await next week’s earnings ramp-up - The Press-Enterprise",
-          "src": "The Press-Enterprise",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMERlZkh6U284QlhMc1FJZFkteTJIdDFoMG9oY0hKVVdvVzNaYTVxZE5xOTVraDZya0JxVWFqZWtBc2h6SlhSeld0UDFVNW1WaERYRlpGbU1Icll0eXBZVngwVmt5UQ?oc=5",
-          "time": "10/06 21:53"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
+          "time": "10/08 00:55"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street rallies toward an all-time high",
-          "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEZRQUhHaDd0dGRVR19kQmdULUhnUEw4UHJlQmYzS2thcXZuam0wc0JaRGFjRzJvRWVveURscVdyaGIycU5lVGZjMFUyY1NPNzBlbGlPVWYzNTlrWDNOZ3RZRks4akZVNnljb205ZUNaRHlDV3YtdGpFVTNLeFU2QlhpTUdYU0ZVYjU0aFA5X3dJWmw5ckgzYkdIY3d4TVJkVzBEekd4a2xubWJyRFRXc0JfQ283dlhYTE8xX0FLdHozSnhTOURaUnNoWS1SaHJGMDFSOGRsbDIyVkY1RkdBTXMzZFY4Y0ctMUFIaVctMWI3MEZzTElBcXBibWxtbU91?oc=5",
-          "time": "10/06 18:54"
+          "t": "Stock Market Today: Stock Market News And Analysis",
+          "src": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+          "time": "10/07 23:46"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "New Financial Headache In Europe",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42RmFrcTNaQ29RN284cHlEZWdiYk9iTUpUMTNYeTJSdXZPRmV5YmN2czA2Y0l5RmdaSmNMQVJwU0ZkZWtEX3FmdVhtdDhYTFJRbDA0UkxuamdpY2s4Ty1CVjdoRXJwNDdRYkVmNVRrbllkZ3dXVG5GRnRyRUEyUQ?oc=5",
-          "time": "10/06 20:30"
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall Street's AI earnings excitement spills into 2027 but risks market 'air pocket'",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVIxQzdDMkd5ZkxMczRLZjlTZ3lDczRHc09ReTJlWm1OTjdma1ZkYzBxdC10elEzNjNnaUFXVWZ3cnZrYUk5bGFaVUtwa2JxcHhSMUNVYWcyNGwteU5YM1EtWDNGX25PcW1nbVNEbWVyMlQxOEI1cFdJQy1yWWMtcGRWR2I5RVZZeFp4dDcyTERzY1Q0UXR1VGlFeWxTYTJpSjNRamlmQ252S1h0UFNnaUpFR0lMTkxLZnM1T2dFS3Z1THh5YTRMR2ZRY0dMOW9BTXdN?oc=5",
+          "time": "10/07 23:43"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7818.93,
-          "pct": 0.58
+          "value": 7805.66,
+          "pct": -0.17
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 27599.89,
-          "pct": 0.45
+          "value": 27525.91,
+          "pct": -0.27
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51521.28,
-          "pct": 0.49
+          "value": 51229.17,
+          "pct": -0.57
         }
       ]
     }
