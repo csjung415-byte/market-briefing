@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-06T18:30:55Z",
+  "updated": "2026-10-07T01:14:44Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스닥 +2%대↑, 코스피 7천선 하회",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZRTRYQ2QxM2stcmZfWDJIUVd1dkNodGVUallqU1puNUE4blRTMWM2Y2ZWRGJKZGVKSGdpM2pWbTM4MjllWXZKUFMwWlpFU3hoMEJsc3JneGFmVXRlcFd4dlluQkVFMVIyMEtmeg?oc=5",
-          "time": "10/06 15:58"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[증시-마감] 7,000선 또 내준 코스피…코스닥 3개월만에 최고",
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 미 증시 훈풍에도 하락 출발…외인·기관 동반 매도",
           "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40OEpkNGxhTWhNVlYtRWg5OGJ6TWxFTERsaWNOZHFYYWU1ZW55NzFDQmVNcDFfV1lsalp3UTJ5ZU1OYS13V3hTSzcxUzExOWl1N2lVZHpTN1prTUd6R2tTQVlHRXZCbmY0NHBvS0ZYNkw?oc=5",
-          "time": "10/06 15:54"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[마감] 코스피, 외국인 1.7조 순매도 7천선 내줘… 코스닥 3% 상승",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qS0gzcUtJU0tMWlp5c21ySjdEMnB4WTFINjlGNVpPX0VSdm84eEtuaTZGS3R3NGtJd2VvdTZfMEZVVktMd1BRaGY3V2o5TW1XaXNpQ0ZNQkp6YWJDZ3BNWUxtcm5RSUFXLWxZWWVJSUzSAXRBVV95cUxPUHNCcm1Jd1lOSU9XcFRWbDJNYVVBMFdIVTlZOHVQOWo1TFE4MGdkUTlqUFRGa1phRG92M0xnR2ZaaEF0Y3c1NmJIbkd1RHpSd3A1UGZKR3Zzc1JjOEt5VTFiSXN2b09pQ0VQbnRXTjZ1M1prTQ?oc=5",
-          "time": "10/06 16:04"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qS3pRQVVQUDI0LUtkeVVoUlVQckRidVluRks5ZURpanZJTGF6R20wdG41OEIwTjFINXN1OVVNZ05MRkZ3ekRFa2NNNzZTRldQN253QTBVckg1NmRCNXFZRXhzSHhDRkxxLWs4eDQyVHA?oc=5",
+          "time": "10/07 09:16"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "삼전닉스 자사주 매입 끝난다…코스피 버팀목은?",
-          "src": "Daum",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBISXFwaGdmMUZBSTJDM2pqNzZ4YVRiUTZ2N1lyckQyaXprU1VBZW1VTDRsSEhMQk96ZzluSmlNRDdVN05qM2VzaUFYcDUtX1k?oc=5",
-          "time": "10/06 18:13"
+          "t": "[개장] 코스피, 美 사상최고에도 보합… 삼전닉스 엇갈려",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRlZLR3BLT3A2QTBCNm0yS1FjMzE0RkFxanlKS2Y2a1Vua3BEZEVIekdycmNVdXEyTnl4ZVBDbGJfVVFjdkJiODB4YXRVaDJnRy0ySFhPdEtlTXI0b2huRjVQVDVfbEM4bUo4MmVRY3HSAXRBVV95cUxQNW1uU19SWGJiQWVjaWR4dFNwM3JCLWQwZ1hVenRiQm5MZmIwcW1kNWdZUVhnUVdHSUN3dUhTd2ZYN3lwekRXRHBHN1E0Mk15OXczN1VWaUp3c2Z0SXJpM3Q5d0wwX0dlRTFDdkdSb1oxbGRtZw?oc=5",
+          "time": "10/07 10:00"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[1006마감체크] 코스피, 외국인 매도에 7000선 반납... 코스닥은 900선 회복",
-          "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MdmlCMUJ5V2Q5bXBZbWUwLWlfWWl3V0ZZbjdQVG5SMThJN2ZTQXE1ZWhRVUZKYkFRaVl4ODk2SFdTSnBmcVVKWVZQZE9JbGlncW9odFczdW5GU1pyWlVCcXN1UHNuUEFsajJvRGNIZjI1bXp2QlE?oc=5",
-          "time": "10/06 17:19"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“코스피도?” AI 기대에 S&P·나스닥 또 사상 최고치",
+          "src": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tYUtGS1ZOLWlYYXM4Z2k3YThoZklpNHBjZnZ6SFdzZklGWTRsbnlKQXdCMWlrRHdJNVg5Nm9nSHZWMWk2c0NKejJjYmRQb2pz?oc=5",
+          "time": "10/07 06:10"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "삼성전자 실적 발표 앞두고 경계심리…코스피, 1%대 하락 출발",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQZm9CMUpoQVRiak9vWEgwWV9wc0xKN01IMmw4ZmVjVXhSdkY4cHNFX0QxODdXRGdMNnpJdHhKYUpEWEU3d2trTVB1SXdZUjBjOF9hb2lmVmtJQQ?oc=5",
+          "time": "10/07 09:35"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "[오늘의 증시]실적 앞두고 美증시 강세…코스피, 반도체 훈풍에 반등 전망",
+          "src": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Ny1qWlptR0hvblVvdDkyX0otUjZjZkZhc3J4ejB2ZmViVEg5elZvNXhkN3BUMEdGY1Y3NjFRM0xpc2MxVEJQbUo1bldmSURRenlnZ0c4LU9JWDhPZkY2Y9IBeEFVX3lxTFBHWTBCbG5wZjEtOTlENDFfWUpfMUhsQU5WT05nWURLUUx5ellMazB1MTRSQzd5MnBXUGFhb08yUGR0ZUJqczBLenNLUGZUel9FZGhPTUhzOWpVZGRodG54ek5xdEE4RTFxU0s5Qm1XRTRFekRXR29MbQ?oc=5",
+          "time": "10/07 08:01"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "코스피, 연휴 끝 반도체 매물 압박에 6,940선 하락…코스닥, 910선 돌파",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZckhKZXFqQThmQnRlZVYySjVVWjhPN2pGZVdaWFdLMGo5bkx1XzlSSjlPQ3NaVWQyT1VGVFZTUnJwdU5tRlZXWUllY1lUZ2dDMlZCWjJJdDZvek1LakRsN2EwaHBBeGZIRWoyNA?oc=5",
-          "time": "10/06 17:00"
+          "t": "美증시 최고치에도 코스피 ‘긴장’…하이닉스 ADR 6.39% 급락",
+          "src": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMDY2Rzd4SWVpMEFKQnlWTzZvNENrbE9FM2dYTy1LODBfbDBKT1lrdkZhVUQwQkdSNWYtNUVScG1URklybDZKaDNOdXBUZ2NFYkhycVh5UXpVUQ?oc=5",
+          "time": "10/07 08:24"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 7003.74,
-          "pct": 0.46
+          "value": 6958.48,
+          "pct": 0.25
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 893.29,
-          "pct": -0.11
+          "value": 908.71,
+          "pct": 1.73
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1338.21,
-          "pct": -0.32
+          "value": 1337.98,
+          "pct": -0.43
         }
       ]
     },
@@ -92,56 +92,56 @@
           "time": "10/07 02:03"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street rallies toward an all-time high | National News | 2news.com",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcVpZMTZNLUNHY2QycC1Gb19PTm0wSmlHUmFiVE41WmxTZGRSelg5WWdzQWhXT3Z2dXRzTno2Zk51Vmh0Ujk2QVNicktDbHE0NTFYYXlpRGppREF0UHBIX25CSDJXa2wteTQ4OEItcXlTNTVsRTZkdG13N2hhd1psSGhaTEc3b0lhU2taVjFzRFdsUGt3aVJjVE5JU1dsR0o0MDBneWdKclF2bTAtYWNna1FkUnhnQmRpRUJod0NSUHU2TFRRemc?oc=5",
-          "time": "10/07 01:22"
+          "cat": "earn",
+          "catn": "실적",
+          "t": "US stocks rise to a record on expectations companies will make even fatter profits",
+          "src": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUFEaV8zRXdKTGFNY1kwU0xtMTZDdVNDUUpoZ0c4dlJRY3R5UFZ1d01oV1RnLWlTTEtHRHZORmVoOS1LOE9kZHVESVVMSjl1MFRSNkxfNmRCNk9SaWYtOXpqNERwZFNUN2lmVHdRbDVfT1BoR1I1eUxBTUwxc2ctSXNqN0paRGdqeHh1c3hOcmsxdXhCUmlzQjRXYWlUS3haUjBLSkw5OWladjFFQlNWZmQxSDNOR0lDWkQ3bVNSeDhKREpH?oc=5",
+          "time": "10/07 07:34"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "Wall Street points toward gains, oil prices fall as markets await next week’s earnings ramp-up - News-Herald",
-          "src": "News-Herald",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51R1hNbmY5cmxHZmxLRWM1aDFwSWxaVkE5eWJDX0doV01ESHVlOUdjalRXVElrbUUtRDY0TlFlUkNtdVRpRjBPU0hFdTJCQUItUDFJc2xJdHdSLU41Zkw5TA?oc=5",
-          "time": "10/06 21:54"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street Expects the S&P 500's Earnings Growth Rate to at Least Get Cut in Half in 2027. Should Investors Be Worried?",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR2FDV1JzTHRaek0tNWtqWENUaGFFLTBydFhKd0FybEpGbjUtblZfYUlqNlFtTzQ4WE9lSzQ1emJKTmtzLUN1R0JhQW1lX0FsQnlkVnVlRWFsd1J3V1ZEbW9lTjR2MzlJdzYxM0lZemRCdEhoR0ZQT0dpckhoRzgxVDA1LXN2UnlRdmNTMkJ5NzFuWnRRWXc?oc=5",
-          "time": "10/06 23:20"
+          "t": "Wall Street points toward gains, oil prices fall as markets await next week’s earnings ramp-up - The Press-Enterprise",
+          "src": "The Press-Enterprise",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMERlZkh6U284QlhMc1FJZFkteTJIdDFoMG9oY0hKVVdvVzNaYTVxZE5xOTVraDZya0JxVWFqZWtBc2h6SlhSeld0UDFVNW1WaERYRlpGbU1Icll0eXBZVngwVmt5UQ?oc=5",
+          "time": "10/06 21:53"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "US stocks rise toward an all-time high after oil prices ease",
+          "t": "Wall Street rallies toward an all-time high",
           "src": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQndSX3lSUllNWGplT3l6cnRVakNTYUdSaWJMbENmSEJFc1VVSktEeUN0cXVIeHFqWWZ4X0ItbWpxX09oRzFRSzRSQ1Rvc3dPbE5xNTQ0Q3kySThQSzFLX3ItSEJIZnAtZG9JT3Y1THZsaVFjREUwdTNhX01mVk56LTE1UDFfanJrdmRPaU5JV1RRdWlUZGJmOENKLVNRemtrM0pLQjZIOHdkYXVQY1g1NGh5MXFpXzBQQVBYX0NVMUJsblFzOUpqMGdoR0RVSjA1Nk1QejVIcFA5YWlEMUxWcWVCTXQxdlFrbXB0MnRXQlNDTlFUNm8tdFB4TUMxb3dSdXc?oc=5",
-          "time": "10/06 20:52"
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQOEZRQUhHaDd0dGRVR19kQmdULUhnUEw4UHJlQmYzS2thcXZuam0wc0JaRGFjRzJvRWVveURscVdyaGIycU5lVGZjMFUyY1NPNzBlbGlPVWYzNTlrWDNOZ3RZRks4akZVNnljb205ZUNaRHlDV3YtdGpFVTNLeFU2QlhpTUdYU0ZVYjU0aFA5X3dJWmw5ckgzYkdIY3d4TVJkVzBEekd4a2xubWJyRFRXc0JfQ283dlhYTE8xX0FLdHozSnhTOURaUnNoWS1SaHJGMDFSOGRsbDIyVkY1RkdBTXMzZFY4Y0ctMUFIaVctMWI3MEZzTElBcXBibWxtbU91?oc=5",
+          "time": "10/06 18:54"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "New Financial Headache In Europe",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42RmFrcTNaQ29RN284cHlEZWdiYk9iTUpUMTNYeTJSdXZPRmV5YmN2czA2Y0l5RmdaSmNMQVJwU0ZkZWtEX3FmdVhtdDhYTFJRbDA0UkxuamdpY2s4Ty1CVjdoRXJwNDdRYkVmNVRrbllkZ3dXVG5GRnRyRUEyUQ?oc=5",
+          "time": "10/06 20:30"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7825.21,
-          "pct": 0.66
+          "value": 7818.93,
+          "pct": 0.58
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 27645.79,
-          "pct": 0.61
+          "value": 27599.89,
+          "pct": 0.45
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51514.88,
-          "pct": 0.48
+          "value": 51521.28,
+          "pct": 0.49
         }
       ]
     }
