@@ -1,15 +1,23 @@
 {
-  "updated": "2026-10-10T01:33:35Z",
+  "updated": "2026-10-10T17:24:30Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
+          "catn": "금리",
+          "t": "코스피 주춤한 사이 코스닥 4%대 상승…고금리에 '천스닥' 회복은 난망",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01NFVLdHdyTHRaYnh3NFY3cVdFV21tTW9LbTlCaWhxcVNLelRtRk9lS1ZzZ1pQR1EzbU1UUkZldE5udlEtdDdIdTRBSDhWS09BazItOGdyWWRYcXRSd2ZjX1ByVGZGc3otOVg5VkFhakHSAXRBVV95cUxPVUZRRjZzeW1rLUVQWTBFbDVPS0txRkFCaGUyS3F3dXdMM3VCVnBrTFRaREZ2RG1GeTMxeW9sRnVSU2tvWmk1LVhRdG40T1RHMUVyT0FKM0xUeU8teXFLSFZ1VGRpbkFvZjI4WlZubzU2eEc0TQ?oc=5",
+          "time": "10/10 09:48"
+        },
+        {
+          "cat": "macro",
           "catn": "시황",
-          "t": "\"직접 굴리다 멘탈 털렸다\" 지친 개미…1억 맡겼더니 '반전'",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VcE41emZaTHdSejJHdUxpQ09kN3NpblJMRzVnd056ajU0RzJtUFlqcEpXZ3ZESk8tZ0NjNWdodldRM0ZkUlh6QXVXb3hmT2JFaFVaM3VVQU1uUQ?oc=5",
-          "time": "10/10 09:00"
+          "t": "“주가순자산비율 하위기업 공개”…상장사들 앞다퉈 ‘밸류업’ 나서는 이유",
+          "src": "진일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbGg2T3FlNk44ZGVXd3lKdkJPQmRuWThKd29HS0h4V3pJSEJ4RFVfZ0R3YVVXQnZsZjd6RzhjdDlQNVktdjhIaVRyQ09MRC1uS1FTTGVxcjI5LXdXWXhZblZnaG1STGUzbDVRZ1dNUQ?oc=5",
+          "time": "10/10 22:07"
         },
         {
           "cat": "earn",
@@ -20,36 +28,28 @@
           "time": "10/10 10:26"
         },
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "삼전닉스 대신 방산·반도체 테마형으로…변화하는 레버리지 ETF 판도",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nZHdXWHFJNFhQTjFQSWc1dlpLbTRMbFBCejdmUmk1c3U0TVRJbVE0VTdqeTNsdnFoRDlTbEl0bkZBcHJud1gtZU0yU0Z3Z0Y4SGc?oc=5",
-          "time": "10/10 09:05"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "뉴욕증시 반등에도 코스피 ‘제자리’…연휴 이후 반등할까",
+          "src": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsV3duNWdwQXZ5SG4zV1dJOHotNk1hUE50VTNFUmxBU2h4SkU2RklMLXI0SkVmd3dmbVlMQ0FFYlgzbVdaVnU3Q3dSeXA0b3FQQXFaUWVwYktPTlU?oc=5",
+          "time": "10/10 09:48"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“주가순자산비율 하위기업 공개”…상장사들 앞다퉈 ‘밸류업’ 나서는 이유",
-          "src": "진일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xbGg2T3FlNk44ZGVXd3lKdkJPQmRuWThKd29HS0h4V3pJSEJ4RFVfZ0R3YVVXQnZsZjd6RzhjdDlQNVktdjhIaVRyQ09MRC1uS1FTTGVxcjI5LXdXWXhZblZnaG1STGUzbDVRZ1dNUQ?oc=5",
-          "time": "10/10 07:31"
+          "t": "\"증시 덮칠 '진짜 공포' 따로 있다\"…증권가 '무서운 경고' [분석+]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45QkdqMWxXQ3RjRkxKSXYwbzIwOVFkc2doS18yaUt5bUlHS1J6Wm5VOG9GelhsMXZHTHNCc2RIQm1PZktuMXRld3hwdjUwX0pRMk40dl8xYkhaZw?oc=5",
+          "time": "10/10 11:11"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[10.10(토) 한국장 전망] 미 증시 전반 상승·코스피 소폭 강세 기대",
-          "src": "주달",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaXzFXNzNHVGw0aVVPMmt2Si1MSFdkaGlFNmF2a1NURWVWVjdGb2FrRzZIVGhLM3FaSFBSVTFtekRZaGoyZ0ZUVExEY0RHQUNua2s1d0R2RnAxbUVOMXJMNFdSZ1lqaW9qUlZtc1JwRXhqUjFkenRzWQ?oc=5",
-          "time": "10/10 05:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "넷마볼 대박맞고 설치|넷마블 고스톱 설치",
-          "src": "Calgary Roughnecks",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUNDRE9sdWxVMG9mWGNqQ0pzR01jZWotNkhqWDFxY0h0QUcxZEQ4RENHWjRmVzJqSHRzS083cV9xX084RHJsX1VkamUxZDFtSVRmc2FXNDAtbkF1bHBkbk1KaHhOZlJScTRJRWFSS0R1MGtZQW1aQkR6TUxvY0dLbFNad3dqbnNzLVA0U3lVWjZ1TElYbGsyWWRSdkdkOXVKOThUbDRFXzJ3SjF2aHJKUzVUY3dNVkVHelUxenFRSllEYkFOWkNPNUN3?oc=5",
-          "time": "10/10 03:21"
+          "t": "'파킹형' ETF 자금 유입 지속…증시 박스권 장세 영향",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZdIBYEFVX3lxTE9LZjJyQ1NqMDhXUDhXamZYaFJRS2w0dU1iWHljWGJZeXRvRUU0THRWZFdMRmFPTnFwcHNFYWZpTEdPektCR0JGRmJKYzUxb2p0OVdjSXJIQXBxZkFhUmFWZQ?oc=5",
+          "time": "10/10 08:00"
         }
       ],
       "indices": [
@@ -68,13 +68,21 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1340.02,
-          "pct": -0.22
+          "value": 1340.9,
+          "pct": -0.16
         }
       ]
     },
     "us": {
       "news": [
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "‘Some upside before year-end’: Why Wall Street is bullish on stocks despite higher bond yields",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMHB3TExBbEtHczN4QkNSVjVSSnROV1NlMmFZOUI5bkNuQ0poNVBRNDJ4RnNFQTJZUldxcXZFTm5iR1p2YlBrTHlaeFZZSHpXLWRtSF8wbGVNQjFYajV3Z3VUdWdpWVRKZ1JKTmxOY05FSjk2d3NpTHU1eDFaTXRQQ3M1VTRGRGZoVWhiTnpSN1VEYjBMRmFBNGZ6dkNCbWtiMTY2cDc1bi1hMmh5NVp1SlVsMVlhMjBMd3FOWEp5cUhQQ1hFQmNjdEN6Zw?oc=5",
+          "time": "10/10 20:59"
+        },
         {
           "cat": "earn",
           "catn": "실적",
@@ -84,44 +92,36 @@
           "time": "10/10 08:33"
         },
         {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "US stock market finishes out week on a high note - Northwest Arkansas Democrat-Gazette",
+          "src": "Northwest Arkansas Democrat-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUdPaXM0dm56elJ5Uk9RYk10QXkteWJFYkUzMHVwS2FKWUNRYkxzU3k0Y3ltaDBQVjh1cTl1QW0tb0MtQlVtc1QzemI2UDRUQzVzYzJRUW1uOWxlaHZPZ0xqR1VreWpscms2cGd3dHpvc3NaeWNUU3FNaFE4RWFZdXo3Y1Fmb05Fcm5OUTd4ZlA3QTNraU5n?oc=5",
+          "time": "10/10 15:47"
+        },
+        {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street finishes its record-setting week with gains | National News | 2news.com",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd3c5MndjZWE2Vmd4TzRvelZabHhiUm1IanVCY0NWUXlaa3ZZNEZrczg5SWE1Zm5pYjVOVXNmeXJkWWQ3RU55TlVCTW9heFFuUmJudGdqdHRPOWFCSVRXYk1iMlJUWnFBQjRmUkEtWnJNMVAtNjhTNzR0bGRxd2hlZmZTdVBaNWhpZDBDRTNxUUZmMVpDcXBUQUh3dnhrS0QzTk5TeUNFeEstX3pLS1Jxd3RyVU50dEtUMUVwOHpleXdfZWk4SXhMMi1kQV9HS1l0b21SQmF3?oc=5",
-          "time": "10/10 05:14"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street Futures Rise as Technology Stocks Look to Rebound Ahead of Inflation Data: Dow Jones, S&P, Nasdaq",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN2RZR2ZORnhyd0NXZktSWERRVHY2bW5xbEMyNkhRcGprVzIyWXVIUjlCOGd6WFRrZTZva3VoZEtCa255dVE5cDc5cFhrNnczaEpyZDBub2xGMHdtNHNaRDJWdWdGd2Q4MllxRE81djV5S0VIN250MURJTTFBb0c3Y3kyUW10RlBjUy1jVkowc01KWDU4OTBESmprMm1ONk1URFE?oc=5",
-          "time": "10/09 22:12"
+          "t": "Wall Street finishes its record-setting week with gains - The Frederick News-Post",
+          "src": "The Frederick News-Post",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVzZiVVVQZlQ1NWRKaUp1bktUNmFzc0FJbjVrTVF5WDR6MjdhTS1MVm9tVkM1aG5HcnFYMmRCc1hfYWF4dnBHV05yXzJzZUpNVm9iRDIwUm9MaDNkaVRiSmtLSlFFMmF5S0RnMXlfcEg5RThnWFVwMEgzVnJsY1loeU80MkQ4RFVpbHN4cmpfVXlBQVZMcHo0UTVCcEpyQXRDRG1HenM0ZEUxaWVOM1hYM1pmWVVJdjYxSmR0cDFOblllLW01YTlGc2tvc1pqc3ZxRTR0TmNrb2xROWE0RWhiclY4dw?oc=5",
+          "time": "10/10 12:45"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Why Wall Street Is Tokenizing Stocks and Everything Else",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMnJ4UU9UY3BDZ2VwYjExYl9zLVNLV1hueUttRVVCSGNRXzR6UTd1V1R3NWpFYTYtcGtPUVVxNnQ1bmRVWlRpU1RqZEg5eGYxeTlJcFQtb0dqbjY0MjFJLW4yWExudHFMNnA1QmMxUGtUZ29TNHVKQVR4MEIzVDBWUlVTTQ?oc=5",
-          "time": "10/09 22:56"
+          "t": "The stock market isn’t the economy — except when maybe it is?",
+          "src": "www.marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHNucXBvRzB3TVZWNzktWWVuVGVWVENzaXl6cVh0Q1U4ZFBSTTZIR21oelExNVFKUklfWVNKY3Z3eVdCZU9YMHFTSDJxRUFOOGFsc25XQUpEUlE4X2NWRHBRQ3ZiSUdYOUhxMG1Sa3BDN0Fwdl9JXzFkak55ZTlicVpBYmk5OGllYUdBVkZXam9jZlpTYXFRYzlsVHhWT2RpVFo5dw?oc=5",
+          "time": "10/10 07:25"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmtzT2tCeEoxY3FCVGNlellPVGlHVkdQX0lBT2dtTk1FUV9vQjJ2Z3hZNEZRamI1Z2VHRVc1bjdKM0w2YlFLYVdkZzhxV2Vfd2FhOXlNQWUtMUVJR0o0c2VHSktPNVpJcDFpTUMtUWpmOTRXaGlidGdZVFhqdVE0enhOYzlfYjRqYzRYX3J2cDdJXzVPME5CbDJoUjdiZW9IemxYM05hOTFaQQ?oc=5",
-          "time": "10/09 23:51"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street’s Rate Shock Spreads Beneath AI-Fueled Market Rally",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnFaNG93ZHlzb0F2b3F5MXNoQzEtLXhZOVVjV2xRSUJ6NmF6ZE81UGFqd2dmRnJNZUhncS04RTdsY042TVpabE1Va0lLMjc3aU9GVXV3cXZKdlpiZ1J3SHBqc0dfNmpCOFRCSWYxR05lWHBYcm01T21aRldaZl9tY1B0NFVxVU01VEN0aXF5dEFQMDFBRnp1X2hkSjRjZ3RQVE5QN0w4VmdmZzMtY1BwMjJJbVk?oc=5",
-          "time": "10/10 05:34"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled",
+          "src": "The Press Democrat",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3Y3drVlQ2VUFHYnBsYU4xUDZzaDNPY0xMOFlySFVFRW1ZMXZGeEJ3MkxGTWN0UmJ3UjZVbmFpWXlNR0d1X0t4MHIxdVNlRnV5U1RpS0NaT2tIcHhsaHhkWHdVVF9pOUx5SjVfXzhDM0FfeFpOTjBKcEl4eXo?oc=5",
+          "time": "10/10 06:10"
         }
       ],
       "indices": [
