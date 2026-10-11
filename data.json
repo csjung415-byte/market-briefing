@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-11T00:43:01Z",
+  "updated": "2026-10-11T17:43:44Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“코스피 부진 탓”…개인투자자, 3분기 국내 주식 5.6조 팔았다",
+          "src": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeURxaVBkSThId3RUQ05xTVZUUmgtWjFCZFhHbXNxdXJ3M2RBb3JRN3prc1JaVjRhWUVtcndWU2JuSDAyLWNjM0FWLW4zT1c5SEt0Q1YxVmFOLXlCZ09teUd5cw?oc=5",
+          "time": "10/11 10:54"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,42 +22,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"국장 팔고 미장 산다\"…개미들, 코스피 7000선 붕괴에 美증시로 '머니무브'",
-          "src": "조세일보",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90V3p6UkZSQWlsc1VwUnhhQ1IwYk92Z3V6M29IY0ZYT09NcExjamF0Vy1KQjJrY2h2OFJ6Yy1ERlhHelNpVENGU3dEWmZRY25MY2Z3dDZnMloyWnlnbWI0?oc=5",
-          "time": "10/11 09:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "[마켓인사이트] 삼성전자 역대급 실적에도 짓눌린 코스피, 반등 가능성은",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iNG5Ed1pGZlF2U0tqQS1GMHpJdnRhVHpqWjJqVE5MNWF1anY5VlB4cmdKYURvYktZQk5oQXlpdDRVWGowem82S3YwMG5pVDkzeTRoWmtqdFpjcEhaTVNfU9IBYEFVX3lxTE9iNG5Ed1pGZlF2U0tqQS1GMHpJdnRhVHpqWjJqVE5MNWF1anY5VlB4cmdKYURvYktZQk5oQXlpdDRVWGowem82S3YwMG5pVDkzeTRoWmtqdFpjcEhaTVNfUw?oc=5",
-          "time": "10/11 06:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "코스피 7000인데···증권사 실적은 마냥 웃을 수 없는 이유",
-          "src": "스마트비즈",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oWkZlQU5YaTh0VWt4VTl0S3AwS09kT194U2MtYW9xQ3dUdVhvNXBVZWMxTUJwbDhSeVNvU3lpT3lPUU53STFZeEFCczNpa0h0UXhxelNiQ3BiS2FseDMxUlhQMXBRLW9lVV9yVg?oc=5",
-          "time": "10/11 00:15"
+          "t": "개미들, 3분기 코스피 5.6조 팔고 美주식 10.2조 샀다",
+          "src": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wM00zVzByOENINHhCbXl0SDkyZW8zd2JUeUhYdkc4NklTSXUteUJvRTN3QWlSLVVwNXRyUTZGWnlURkRmV2d4SkhZVGU2aHJ1OUJraFJJVFNLSE1ad1J1dkpJVmFidWVpU0hMQjFfblg4Mk1XMHfSAWZBVV95cUxPQlctSVFfQ0gteDZKMHhZMGpHOGF4WFVOX2toWmhCb2tCVnRQdGZnM2JKMHZYWWdCSXY0ODVhNGZHTWI0MTlvRUo0OGdHckc5VXBMc0xlbFM2bmJyeUJrNF93RFhaYWc?oc=5",
+          "time": "10/11 17:04"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "중복해서 누르기 전 확인할 토토 api 제로 추천 진행 신호",
-          "src": "Calgary Roughnecks",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSzh6UGFzTXRoR0R0c3owNDJ3VFlPS0VXcFk3R0ZZLW01ZUdUdmZTSVozbHlFYWItUXlOQTRTUXBmNktTanhOMjkzNnIwZ2tDeTdGTGVTamw2VEZTYmF6dFN4NTExWUc3Wm1rcXYzdWVaeTZPcnJnMHBvWVFzbFdxMDg2LUFKUW01NnRhSEM1RzVORTdUdWFaYWJTSUJaNGhRZGQtRDNYMUdvNHg4WFgydDJrZzFzTUFFUGp5RWVySElHTjZBZjRNRVctOHh1NnFieENFLXFEdDZfNFhQSU11eEc0bVN6eXdYUGM1TUl2OWt5MUxvSzFWRS01ZVZiNkE?oc=5",
-          "time": "10/11 02:41"
+          "t": "\"코스피 5조 팔아 미장 10조 샀다\"…3분기 개미 '엑소더스'",
+          "src": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13MUxGQmxzWkd4RHlXekhmNU1WSElCNEFPNHc4Z2tWV1ZjNkM1MFd5SDFWTkpXVkZfLVFmd0NwdWJNSklvOHpGT1U3dXBoMTJleEpwN1pNNUxobzNmQmJMStIBeEFVX3lxTE94dGJZZXJJRWdUcmlXM2ZDVmUyQ2p2VTg3VkUxREMtd0RDZkE4SHVaTTJDZzVoOVZIY3hJamZyS2NHZUYtWHZuSGVrX256c25mV3ZNaFE5a0hOYzZsTWdvQlVONENqZGFBVmdueWwxdEFEakpLWERkLQ?oc=5",
+          "time": "10/11 13:11"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "삼전 ＇107조＇ 잔치에도 주가는 ＇주춤＇…코스피 반등 열쇠는",
-          "src": "한국경제TV",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfWFFSTV9mMUVJT0ExVGhQR3ZOM00zeHpyNGl3ZXVTdFYybXlNVDhCMjB0QXo5Um1CNzdpVlRxYTlITDc4Z05DUUNzeVFhalFpa3FYN09Ba0JhSDNIN1pIa1l0SWM3Um4zbjNfZ2xsUTJMeDFTa2VN?oc=5",
-          "time": "10/11 06:47"
+          "t": "“역시 주주환원은 뒷전입니까”…코스피 자사주 매입, 삼전닉스 뺐더니 줄었다",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zXzFYa0xGekFCVWtnODd6QVRIRmp1MnFLcXhBWWVadVdXQWZaY3lGcGg3WUl1dzY4M1R1cTBWV1h1a0JBbXdGV3Y0aC1KV25lRmc?oc=5",
+          "time": "10/11 20:51"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "국내 증시 외면하는 개미들 미국 주식으로 이동",
+          "src": "https://www.2news.co.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSWtTc1VjQzZaZXRSeFZmX0hZVGlwMmcxT2NVTVZYemhkUVNvNjBpY2FHZXRoVU1CMzEwMm5wcF91OWxCaXpfRG1qWjJGNHE0MWs4SU8wYVNpVjNRcDB4aGZPTlU0MnNF?oc=5",
+          "time": "10/11 14:07"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1340.9,
-          "pct": -0.16
+          "value": 1340.02,
+          "pct": -0.22
         }
       ]
     },
@@ -78,50 +78,50 @@
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "The S&P 500 Just Hit a Record High -- Here's How Much Higher It Can Climb, According to the Wall Street Consensus",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSm90RWIzdkZpQWRDMDJmbzc1QU9kSzV2ZkI0b0otQmg5SzZyRDBleGZZTmtBelB6OW1ReG9iR3hnc2p3SXh0cXM5MzJQNFFwYnZYY1JHVHBMLVRNNG1fSElZb2VxeEtzalljYzJhczJTalNiUHJ5dGE5R2lCc0UweUFma0loTmJvYzRZZnVaNA?oc=5",
+          "time": "10/12 02:04"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmtzT2tCeEoxY3FCVGNlellPVGlHVkdQX0lBT2dtTk1FUV9vQjJ2Z3hZNEZRamI1Z2VHRVc1bjdKM0w2YlFLYVdkZzhxV2Vfd2FhOXlNQWUtMUVJR0o0c2VHSktPNVpJcDFpTUMtUWpmOTRXaGlidGdZVFhqdVE0enhOYzlfYjRqYzRYX3J2cDdJXzVPME5CbDJoUjdiZW9IemxYM05hOTFaQQ?oc=5",
+          "time": "10/11 20:54"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "What happens when crypto trades stocks while Wall Street sleeps?",
+          "src": "CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmVsaHo1YmpfQllwbVZWYmpzSWlMZlJ4SG5jZk01VHluNG1SejhpUVNHMXdzQUFaMnVtNWpGY3hBNWc0bWVoZkg1Z0MxdFFrLU1nV0tLZXpseVp5Q2V6Zk5tb2RyWkdfd3ZZQk5KbUZyR296N3lnZ2pxazE3NjFyZk5taEdwZw?oc=5",
+          "time": "10/11 21:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "The Stock Market Is on the Verge of Doing Something for the First Time in 156 Years -- and if Historical Precedent Is Accurate, a Crash May Follow",
+          "src": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPai14WGpDbF9KM0ZYaXZzdXpPQjB4d1ljazItckdEcXowT3JfcHBnTjVPcmtwdDdiNHZjVHNNSkk2REp4ai1NYm9TSS1NN0xsTnpNSVhDamo5QmxlQzRMZUdkRDd6QlVNVVhCUkI1amVfQmdhc1hXMWhSbmpnSDVMYzZMbjBMTUlqRTNUVklDRk1CUmxRemVVNFdhOHNacmowSEIzWmhrekFrYVV0VWNrb0JmRmtTTldnc1l6TlAxUWdlSGd3TUhtbXlOTEZyTm5yV3ppSGVXWXhVZkdjYzJsOHJYRldHSE9xaUg3dHNnbFdDTUZrTm5ZZHdQMjRUQ2JKX3pqZElqX19hdnF1QmhiamUwTjZJU05TeXhIdlJyYmhhb25wdlFiQWYxUUlFNk41LTNoQjZ4d3k5bDF1aS1rZVp3VFJFVWJUSUtWVm1B?oc=5",
+          "time": "10/11 19:58"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Consumers Are Tapped and Wall Street Fears That’s a Rally Killer",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTNqeVp6SnlPeS1mSkdaWGs3bVYwcjhLWHM3YkxTbkp0a0xhbTY4S1BsRkRqdW9pWGE2cVB3NjJBWlowSGxydmloaWlBZ3k0SGQ4UmVkVlgwcnBXOVdQa1lZcXN0Zlo4aXJJc1pLR28xZ1NfamREZUFPNmFCb1hVNTl2SGVteGZ0VXZ5YWVhb0ZIM0M5Y3ExUnlkRnZWU3B3d2ZWaHpnNUdwbUR5YUYyb2w5QWhEdw?oc=5",
+          "time": "10/11 22:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "Why Wall Street Is Tokenizing Stocks and Everything Else",
           "src": "Barron's",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMnJ4UU9UY3BDZ2VwYjExYl9zLVNLV1hueUttRVVCSGNRXzR6UTd1V1R3NWpFYTYtcGtPUVVxNnQ1bmRVWlRpU1RqZEg5eGYxeTlJcFQtb0dqbjY0MjFJLW4yWExudHFMNnA1QmMxUGtUZ29TNHVKQVR4MEIzVDBWUlVTTQ?oc=5",
           "time": "10/11 03:44"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "‘Some upside before year-end’: Why Wall Street is bullish on stocks despite higher bond yields",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMHB3TExBbEtHczN4QkNSVjVSSnROV1NlMmFZOUI5bkNuQ0poNVBRNDJ4RnNFQTJZUldxcXZFTm5iR1p2YlBrTHlaeFZZSHpXLWRtSF8wbGVNQjFYajV3Z3VUdWdpWVRKZ1JKTmxOY05FSjk2d3NpTHU1eDFaTXRQQ3M1VTRGRGZoVWhiTnpSN1VEYjBMRmFBNGZ6dkNCbWtiMTY2cDc1bi1hMmh5NVp1SlVsMVlhMjBMd3FOWEp5cUhQQ1hFQmNjdEN6Zw?oc=5",
-          "time": "10/10 20:59"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "At Robinhood’s Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlBnc1JVN1doY1RvU3FTTnM5ZzBoTk1GTzJYX1VSNXBmQWtaT2NYNnFLNHdjbEN4WWlxWHBoWk1FX2xpcXBrd2FqT2lWZnA3R2R6N2dZZVpIb1NGbTNieFRORk5XTEJsUDI3cTc4T0RtUXJuSl9VNkFGY3M3c1JHZzUydTVmV1poZ2taWVNaZHh4Y3otTVAxRzVBMm1MWnA0b0c2SWlrN0p0SkhXVFhpU2lwaHFzWWc?oc=5",
-          "time": "10/10 23:31"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Moderna Now Trades 61% Above Wall Street's Average Price Target. Should You Sell?",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTFPWTVCSmM5RGNJeFdCVjA5MnZUTW1CZVVOZHk4UGRfSW5SMXBNWmJ2Rll3UW9FNmFJUTNaUmxMc1MwYTN4Y3JBZEtjZEVWYjBZRGVoOXUxZ1RTUDh0ekpJWDhKaTllZF8yT2ZxVmJ5eWdIS0x6bmVteDRWQ0EyaE8zdkVkbS1qWEwzS0M4SGVENjZreXc?oc=5",
-          "time": "10/11 07:21"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street finishes its record-setting week with gains",
-          "src": "Greenwich Time",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWlsS1UwUlp1eDVValpidkNNekNfWHlhcXVYaGRBaXg4VGxQNmlpLXhTbWJZbTB5VmJla1ZQMktpTEU2U29vVGk0anF2OXpfbFVHNC1MSnNrT0h6eTFFeFR5bmhQeURXM0RTdG12bTdyZEhoRDllT1YwVnoyVVBvNUNtTnV6cGtQN3VjMVNvUE5PVHN1UVRud3puM2xoVmJWTzYzbkJvUQ?oc=5",
-          "time": "10/10 16:59"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Is Sprouts Farmers Market (SFM) Trading At A Discount To Earnings?",
-          "src": "Simply Wall Street",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM3lyMUJ6QXpTVDV6MWF5dlB0NzUzR1Zvakc3SjRRaXJwTU5jTm8zTzc1akZRRDdjUGhodkJHRS1wb1EtX3ZFM2dDcU9zRHNhS2ZvX0pVYzZTV0FvZ0xkemZVZXd5QVZIMlp4dlV4b2NHdXA4X1hOZGQyc3gxUm1IN0NOcG1VZFZ0VjEtSTBrNU5ITTNMbFFGb285dmdRTnRqLVR3WGlQbjFJRGlZX2piMV9pemZDdVhOREkxeHptVjA5U3ZpQXlwaDhWYUJYY0Roam5MQl9rUDhpX0UtdW5QZVJUd2ctWHNUcVHSAeoBQVVfeXFMUDN5cjFCekF6U1Q1ejFheXZQdDc1M0dWb2pHN0o0UWlycE1OY05vM083NWpGUUQ3Y1BoaHZCR0UtcG9RLV92RTNnQ3FPc0RzYUtmb19KVWM2U1dBb2dMZHpmVWV3eUFWSDJaeHZVeG9jR3VwOF9YTmRkMnN4MVJtSDdDTnBtVWRWdFYxLUkwazVOSE0zTGxRRm9vOXZnUU50ai1Ud1hpUG4xSURpWV9qYjFfaXpmQ3VYTkRJMXh6bVYwOVN2aUF5cGg4VmFCWGNEaGpuTEJfa1A4aV9FLXVuUGVSVHdnLVhzVHFR?oc=5",
-          "time": "10/11 06:31"
         }
       ],
       "indices": [
