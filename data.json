@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-11T17:43:44Z",
+  "updated": "2026-10-12T01:04:05Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "“코스피 부진 탓”…개인투자자, 3분기 국내 주식 5.6조 팔았다",
-          "src": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeURxaVBkSThId3RUQ05xTVZUUmgtWjFCZFhHbXNxdXJ3M2RBb3JRN3prc1JaVjRhWUVtcndWU2JuSDAyLWNjM0FWLW4zT1c5SEt0Q1YxVmFOLXlCZ09teUd5cw?oc=5",
-          "time": "10/11 10:54"
+          "catn": "금리",
+          "t": "[개장] 美물가 발표 앞두고 경계감… 코스피 1% 하락",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42dkJtOXdBVm4tQk03dHRSMFJPa1RPZlFvOHlfLWw0bEFDN01hcE55UVpmdWE4RjBOdlllT2ZQV01JZEltRnFJNnlkYVNMWUdyY3p2UnBFRUxyOUJoM1FzMnFhcU04UlVHZm5fSmlIVmjSAXRBVV95cUxOZVdkQ3BpNU1qMXNIMEtjU0M1UzhkbWgwT01kVXZFeXNXWGFVVllFanhoelZuU3c4Y3FFUm5WSENxckZuQUx1ZWp3ZGkyeXJkZjNuOGtiV25yYXhGV0Vvei1hZnlweU9lWmowWWtCZFRmNmlTTw?oc=5",
+          "time": "10/12 09:44"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[박정식의 국내 주식시황] 코스피는 박스권 유지, 코스닥은 박스권 탈출로 반도체 소부장 및 2차전지 섹터 긍정적",
+          "src": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6RDVhOHRXVHBJMzVMUnYwZUVUM2FzcTZjc0hOQWdtUVBGdWM3OUE3SEdRakRMOGRIM3ExZXRrQTRZMVpIaGFMc1dSamQ1MTVYdDlvcEJBMExxb05lNGVGMDg1RWVDV2J5RkZnN0RYTQ?oc=5",
+          "time": "10/12 08:22"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "개인투자자, 하반기 국내 주식 5.5조 팔고 美 주식 10조 샀다",
+          "t": "[마켓뷰] 연휴서 돌아온 코스피, 중동정세 악화속 반등 시도하나",
           "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxN9IBYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxNw?oc=5",
-          "time": "10/11 06:02"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fUFhGLXRvUWp3amJnb1h2X1lIRXIyeHBnSXpBczYwUHBBTVpVTFFUT1daUTEzS096Q1AwSWEyQUN4NGE0UTlPUHJfTFVvLW95M2NjMFAyX2ZKQm9oQkFPQdIBYEFVX3lxTE1fUFhGLXRvUWp3amJnb1h2X1lIRXIyeHBnSXpBczYwUHBBTVpVTFFUT1daUTEzS096Q1AwSWEyQUN4NGE0UTlPUHJfTFVvLW95M2NjMFAyX2ZKQm9oQkFPQQ?oc=5",
+          "time": "10/12 08:11"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "실적은 폭증하는데 증시는 왜 주춤할까…韓증시 '감속의 시대'",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NU2NmdmhMTVBGSjFXdzFPRzdRNHl1YUUyNGQ5aklwZHZaZURnYUtxbm9xbTdBMjhlcWlIcS1aUFB3V1BpSWtRSzItWUJWZ3BDSHZSRkg1eWF5bm1sUS1zdFhLbGZ4T0F0VUQyX3dQVVRmUQ?oc=5",
+          "time": "10/12 08:12"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "개미들, 3분기 코스피 5.6조 팔고 美주식 10.2조 샀다",
-          "src": "동아일보",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wM00zVzByOENINHhCbXl0SDkyZW8zd2JUeUhYdkc4NklTSXUteUJvRTN3QWlSLVVwNXRyUTZGWnlURkRmV2d4SkhZVGU2aHJ1OUJraFJJVFNLSE1ad1J1dkpJVmFidWVpU0hMQjFfblg4Mk1XMHfSAWZBVV95cUxPQlctSVFfQ0gteDZKMHhZMGpHOGF4WFVOX2toWmhCb2tCVnRQdGZnM2JKMHZYWWdCSXY0ODVhNGZHTWI0MTlvRUo0OGdHckc5VXBMc0xlbFM2bmJyeUJrNF93RFhaYWc?oc=5",
-          "time": "10/11 17:04"
+          "t": "[AI MY 증시전망] 코스피, 낙폭 회복 시도 전망…6800선 회복 주목",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iY2hTWWxtNDI0S0pDekdnQ2JvbmhDUDc4S2pKUGtwSXJwUlR3NmFuNjBTakNlc2Q2RHFkS2I4Q04wTjhuSWlVdURWa0EzSVcyRDVHaER2WGE5Tl9C?oc=5",
+          "time": "10/12 09:12"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"코스피 5조 팔아 미장 10조 샀다\"…3분기 개미 '엑소더스'",
-          "src": "뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13MUxGQmxzWkd4RHlXekhmNU1WSElCNEFPNHc4Z2tWV1ZjNkM1MFd5SDFWTkpXVkZfLVFmd0NwdWJNSklvOHpGT1U3dXBoMTJleEpwN1pNNUxobzNmQmJMStIBeEFVX3lxTE94dGJZZXJJRWdUcmlXM2ZDVmUyQ2p2VTg3VkUxREMtd0RDZkE4SHVaTTJDZzVoOVZIY3hJamZyS2NHZUYtWHZuSGVrX256c25mV3ZNaFE5a0hOYzZsTWdvQlVONENqZGFBVmdueWwxdEFEakpLWERkLQ?oc=5",
-          "time": "10/11 13:11"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“역시 주주환원은 뒷전입니까”…코스피 자사주 매입, 삼전닉스 뺐더니 줄었다",
+          "t": "“긴축의 시대지만 예적금은 좀”…투자 대가 4인방, 포트폴리오 공통점은",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zXzFYa0xGekFCVWtnODd6QVRIRmp1MnFLcXhBWWVadVdXQWZaY3lGcGg3WUl1dzY4M1R1cTBWV1h1a0JBbXdGV3Y0aC1KV25lRmc?oc=5",
-          "time": "10/11 20:51"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "국내 증시 외면하는 개미들 미국 주식으로 이동",
-          "src": "https://www.2news.co.kr/",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSWtTc1VjQzZaZXRSeFZmX0hZVGlwMmcxT2NVTVZYemhkUVNvNjBpY2FHZXRoVU1CMzEwMm5wcF91OWxCaXpfRG1qWjJGNHE0MWs4SU8wYVNpVjNRcDB4aGZPTlU0MnNF?oc=5",
-          "time": "10/11 14:07"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WQXFwdkF1Z29hajZDTVJNdVJOcGh1aURqdGdmNkNvUFVDN3hrVFlvMlBrRjRuemlsQlJpVEVGa3FsRnJUYlZRelh4ZnBWbFAwa0E?oc=5",
+          "time": "10/12 06:09"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6625.93,
-          "pct": -2.62
+          "value": 6532.93,
+          "pct": -1.4
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 892.27,
-          "pct": -0.69
+          "value": 880.27,
+          "pct": -1.34
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1340.02,
-          "pct": -0.22
+          "value": 1334.48,
+          "pct": -0.63
         }
       ]
     },
@@ -86,6 +86,22 @@
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "Is the stock market open on Columbus Day, Indigenous Peoples' Day?",
+          "src": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3lQcGxYRDNCRGdkUHE0bk9QcXh1Vmt0NC1ETGhHUjJsb2JkcHF3TGw5Ti1tdTZQdWZ5LUw0bzV6RkRyUVlRcUVUSWd2VzBGLWx6U2NQSlJfVjJGTHZ3dklkUnFIN1pQSWpNQ1V0UDlnY0FVdUlSODd0UUdGTTRUZFZaemc1d3Y0dFRzUVNEdFFmZmNHSF8weU54a1FhUkJQd1BUWF80Rkt0WW5zS2R1STBjS3R6VG1HYWhaM1pPb0I5dzVmMVdhcHp3enpyZzA?oc=5",
+          "time": "10/12 04:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Week Ahead",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RMjNsYXN5TEJ6U3FYcW5tMkJmY3lpczZlRnZkU1A2VWRLZkt6VTJQVk4yckNQQS1LZ0pZNzlLbjFnQ1dRMGs0QUJ0NVZCMXFQeFJXUEVKYkNQZ0hRRDNjOXp0RUhZMXVHYkRxdXRqdmk?oc=5",
+          "time": "10/11 19:57"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
           "src": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmtzT2tCeEoxY3FCVGNlellPVGlHVkdQX0lBT2dtTk1FUV9vQjJ2Z3hZNEZRamI1Z2VHRVc1bjdKM0w2YlFLYVdkZzhxV2Vfd2FhOXlNQWUtMUVJR0o0c2VHSktPNVpJcDFpTUMtUWpmOTRXaGlidGdZVFhqdVE0enhOYzlfYjRqYzRYX3J2cDdJXzVPME5CbDJoUjdiZW9IemxYM05hOTFaQQ?oc=5",
@@ -94,34 +110,18 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "What happens when crypto trades stocks while Wall Street sleeps?",
-          "src": "CryptoSlate",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZmVsaHo1YmpfQllwbVZWYmpzSWlMZlJ4SG5jZk01VHluNG1SejhpUVNHMXdzQUFaMnVtNWpGY3hBNWc0bWVoZkg1Z0MxdFFrLU1nV0tLZXpseVp5Q2V6Zk5tb2RyWkdfd3ZZQk5KbUZyR296N3lnZ2pxazE3NjFyZk5taEdwZw?oc=5",
-          "time": "10/11 21:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "The Stock Market Is on the Verge of Doing Something for the First Time in 156 Years -- and if Historical Precedent Is Accurate, a Crash May Follow",
-          "src": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPai14WGpDbF9KM0ZYaXZzdXpPQjB4d1ljazItckdEcXowT3JfcHBnTjVPcmtwdDdiNHZjVHNNSkk2REp4ai1NYm9TSS1NN0xsTnpNSVhDamo5QmxlQzRMZUdkRDd6QlVNVVhCUkI1amVfQmdhc1hXMWhSbmpnSDVMYzZMbjBMTUlqRTNUVklDRk1CUmxRemVVNFdhOHNacmowSEIzWmhrekFrYVV0VWNrb0JmRmtTTldnc1l6TlAxUWdlSGd3TUhtbXlOTEZyTm5yV3ppSGVXWXhVZkdjYzJsOHJYRldHSE9xaUg3dHNnbFdDTUZrTm5ZZHdQMjRUQ2JKX3pqZElqX19hdnF1QmhiamUwTjZJU05TeXhIdlJyYmhhb25wdlFiQWYxUUlFNk41LTNoQjZ4d3k5bDF1aS1rZVp3VFJFVWJUSUtWVm1B?oc=5",
-          "time": "10/11 19:58"
+          "t": "Dow Jones, S&P 500, Nasdaq 100 Outlook: Top Stock Market News This Week - State Street SPDR S&P 500 ETF T",
+          "src": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFFUTVVKcDBXdHUxNFVHWlhnT0lPMzhva1F3TVFmdWE0WWljenJyd194enNnbk1ITDV3aWxvTW1MTFZqZ3d4aEhlY0JHLTFMazdEaEJFalFudWp5ZFZsLXFHeHJsS0pEbnBnRzNwblJRUkRFNGNTM21Yd2xaOVhIal9pcm1odklMVEJDWDZDQVppeVQwakNrVkdpZFVmVlRLTURUNXNrZzg3eWFFZEEzemhmRGZGSDZZaXpXalJ5RWZQUQ?oc=5",
+          "time": "10/12 03:45"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Consumers Are Tapped and Wall Street Fears That’s a Rally Killer",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbTNqeVp6SnlPeS1mSkdaWGs3bVYwcjhLWHM3YkxTbkp0a0xhbTY4S1BsRkRqdW9pWGE2cVB3NjJBWlowSGxydmloaWlBZ3k0SGQ4UmVkVlgwcnBXOVdQa1lZcXN0Zlo4aXJJc1pLR28xZ1NfamREZUFPNmFCb1hVNTl2SGVteGZ0VXZ5YWVhb0ZIM0M5Y3ExUnlkRnZWU3B3d2ZWaHpnNUdwbUR5YUYyb2w5QWhEdw?oc=5",
-          "time": "10/11 22:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Why Wall Street Is Tokenizing Stocks and Everything Else",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMnJ4UU9UY3BDZ2VwYjExYl9zLVNLV1hueUttRVVCSGNRXzR6UTd1V1R3NWpFYTYtcGtPUVVxNnQ1bmRVWlRpU1RqZEg5eGYxeTlJcFQtb0dqbjY0MjFJLW4yWExudHFMNnA1QmMxUGtUZ29TNHVKQVR4MEIzVDBWUlVTTQ?oc=5",
-          "time": "10/11 03:44"
+          "t": "Michael Moritz Says Most Investors Can’t Do the One Thing That Actually Makes Money",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXluTnJWSnpIWnoxOU42MWFBdUhNTVNmblNOOWg0VUxIbWJGX0k5ZFpmOUFhMkNLOC10SWFXSVBJVFdlZ25uSWdnWm16dW5FdmJGbmd1Q0o5TDVOcW13RzNpUldObzdHOXg3NGJmWFZIUWRqQWt4RUcwRTJ2XzJyRjM3LTVFUEo1TF9xbzBuejdwdXNsaFd0TzZoaEg1bFFRRTBMNEF5TlRCODhqdGRTWlVlZ041LW9TR2hXM3YzbDIxeENF?oc=5",
+          "time": "10/12 05:00"
         }
       ],
       "indices": [
