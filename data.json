@@ -1,129 +1,31 @@
 {
-  "updated": "2026-10-12T21:20:20Z",
+  "updated": "2026-10-13T02:53:16Z",
   "markets": {
     "kr": {
-      "news": [
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피만 왜 이러나…반도체 노이즈·수급 불안에 '나홀로 급락'",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wVEVJUWNIeFBoZGZhaXJWdkpSMjVZamJhQzBNbzlEN1hkU0tGWmFYcGNnZ0lPUk5hTndRRWxXRi1OQndzQkNia0tWenpLdzlzSVAxZmhLSGpNeTV3YmdwMkpKbmYzNHlRaTdBN3pUZTk?oc=5",
-          "time": "10/12 13:32"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[사설] 한 달 새 국민연금 181조 ‘증발’, 섣부른 주가 정책에 대한 경고",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPazRBekRZVzBWU1Q1bjFOUDNoSVFkQ2ZiX24xM2Z6MDZ3bjhLNXRwWUZobHQxbWU5cVcxTXlBa01OMGdOcGhELVNyMnpMT29Jb0dHVnNuakZydWQ5bTdXZkhMbE14Y2RnUEk0N1RRRkkxNjlmb1JKVk1GQTR4TFdDUWNjS2lLZw?oc=5",
-          "time": "10/13 00:10"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"주식창 못 보겠어\" 코스피 3.65% 급락...파랗게 질렸다 - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rMUtjZi1oTlAwN3hKTFh1eVRuUEJvTkItY2FqbG9lR2RVRGlZMEFHajBZR290Sk9NcDQ1UkMyY1NJdXU4TEZybktub21OR2h2ZlpmU2thZWRkWkFsS0pXUkE4WkFRSTZl0gFuQVVfeXFMTlJRSWZSR0o2TmVtd1p0RkpuTE4yTk9McjZYd0RGQjl1Q3IwYno3Q2x3aEY5ZXk3eFVmRnljZXFvY25qZ1BPYXh6MEFRbDc5bTdmR3ByVEtMWGJpQU1hMktRYjNmWDkxaTdFam5mbGc?oc=5",
-          "time": "10/12 15:45"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "“외국인은 왜 한국 주식만 파나”...삼성전자·하이닉스 ‘직격탄’",
-          "src": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qUmdMTkstOUdCQ2l5N01tWEhhbW1fMUx1MkFELXZDTC12dEktVnJobjBrU055SEtaRHE5NzdRM0dzcENtU3IyRnVaRmVpa1lkY2JNc1RzZVNsUDQ?oc=5",
-          "time": "10/12 17:34"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 두 달 만에 6400선 아래로…코스닥도 4% 넘게 '급락'",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wZmVKUEF2eHF2aGw2RzNVREc0ZU5OS1NYNnJLVUl5aXJ0Y1JUMEhtaGZyM0JpTDhJTmNMeFUwWm5BekZ2X3o5LXU4YzM3a0dwdmtKSE1HWHhGdw?oc=5",
-          "time": "10/12 15:38"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[1012마감체크] 코스피, AI 수익성 우려에 6400 붕괴... 외인 2조원대 매도",
-          "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vblVwQlJlRS1IOV93d2FtT3ZncW9GV2RmSHZVRHFROVpodmZ4djNYMWt0Rms2VE9hYWlOa1VuV3g3T1hBWUlTeEZMX2Ffb2xTa1h0aUI1a1ZYOEdHaGh1OUtPZnNvenpLTmRYc0lwRnE4Z3JGNmc?oc=5",
-          "time": "10/12 17:09"
-        }
-      ],
+      "news": [],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6625.93,
-          "pct": -2.62
+          "value": 5939.72,
+          "pct": -6.96
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 892.27,
-          "pct": -0.69
+          "value": 807.49,
+          "pct": -4.91
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1334.02,
-          "pct": -0.67
+          "value": 1341.0,
+          "pct": -0.15
         }
       ]
     },
     "us": {
-      "news": [
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "US stocks hover near their latest record in mixed trading on Wall Street; Dow Jones rose and Nasdaq composite slipped",
-          "src": "ABC7 Los Angeles",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUHloaG5ZY2ZSb2dKdEp0M1NMcWpYaHR3dWVwQ3hoRlR3SGgzT0UxM1hIUGRocmo5VTdTZUtvNHZjUzEweUh6TklqVXBZRkdROWxiVVFBMVNpRTh1cngyMnZvSTlzRzRydUFBUEVraTZhZTBKLUM5LUJQMWQ3YXNoc2lBdXZpU0szTzUtcm53dkNiZzhVTGNYZDUxcU1DQVVzVlB3VjRIbnVFbmxjbTM4aHFCcEN3WFgtUnc3TEZFWG1wMklQMEHSAcsBQVVfeXFMTUtUc2poeUtQRXRXcm5PeVh2TXM0dTdoZVh5b2lIQXBPT1BORWxPb3FpQ3BnZEVvVXhEdm13SlRQNWNfbS1IR2trTlNabXhxMGFXakdyVi04dlFHQzBCYWtfU0lDX0tQakJCaXFGcVVmSlZnVWk3eUFXc2ZaNzM1UkJIZ2F1M05kX0paNlJwaDUzRlBOV1NxaEtxVUdoYjAxNEVPTFFtRkdybDJUZlVpdGszNlVxQ2p3NEZWSU9RdWttTy1qMkl1cHhJUE0?oc=5",
-          "time": "10/12 23:33"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Nasdaq falls ahead of earnings, economic data while oil rallies",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
-          "time": "10/13 05:38"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "US stocks hover near their latest record in mixed trading on Wall Street",
-          "src": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFNZVVJhZmgybjhJTmx3MXVpZ3IzWjNTeTNlZDJRckxRbnVUeVpQeFotMVY2bFdOMVpGTUdleDZwWVVxSlBmX1ZzQ18tTWVLbmZZdFhLYjQ5d3dwNktqa2VGUWdqUWhTbWtTUk4tbnh3OXlTRkJyd0J5alZwdGl5OW5zeWtlVndDZWhBN1MyQ1M2ZTlUS0hidGRCTl9rWjBwVmwyZ0ZzdWJXblBTZk1RZy1ydnpfSjRObkEtMWRtQ1B3dEE0ZDN3ZEZfZ1k?oc=5",
-          "time": "10/13 06:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying.",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0h0Ry1NTHZnWDlpTC1NazVDb2ViNDlYbnpvMWpISGQwUUF2VmllVl9WTTBFbUplYUhZNk41Qkl5SGhsWGhhTk15RnMxazlmQVpuR3ZaeXRyWDFock5WVFBQSVZGcTE4azVUVUppcUo1Mll0T01VeENBR0J4X3dSNTY2cmhxTXcxdWZKWDlLd09iMmZWeEpyMXNibHg3NmVlckFRaHE5MF9uaEt4?oc=5",
-          "time": "10/12 19:44"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Stock Market Today: S&P 500 Futures Pause Near Record Highs as Oil Rises Ahead of Bank Earnings",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU1lWVVMzUWdHQktjc1UwMjdZQWJQWjcyd19ZU2NWcG41VWxRdHloaXEzMzRLX1FwSHJSNFNxYnhSemZkWFZDQzk5TlNCZDlVUjI4aWxaTlJDQ1dxU1N1T1Utd1pwaTR3Zk9ITm5qcWlIMEgzSGlrZUg4ZEFGZl9jWmszbVhiNVBmdUhiRTRPVGYzTmJ0dlJ6OHh2UjBWOGZkeE1vT1l2cmc3WDFJdjlqeFV4bG1EdE5XY3lYNTlrMEpJU0NaWldOZGVadHMtLXJhMTJR?oc=5",
-          "time": "10/12 22:44"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street's big but narrow rally: 4 in 10 S&P stocks are down this year",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHVFd3RKVURlTy1UV2FEeGZZTmZKT0RmYkxtM0EyTjdLTzhidVdqdVdMV05LX1R5WlpQVGpGMncwTGpPM1Q3amQwVmFSR1k0SmI0aGRIMW5iR21WMFZSbV83dGczZ3hhWURhSWVHMF95cXFGMVRZTmp4dl9hVlZYTGFmLW1ueS0xN21la3FtcHBLdXUwQ0hBSVFEb0Z3TWRLcVNoVjNTMWJnMEtY?oc=5",
-          "time": "10/12 18:01"
-        }
-      ],
+      "news": [],
       "indices": [
         {
           "name": "S&P 500",
