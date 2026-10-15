@@ -1,8 +1,40 @@
 {
-  "updated": "2026-10-14T17:24:43Z",
+  "updated": "2026-10-15T00:19:28Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 6000선 다시 시험대",
+          "src": "스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FVGc3TWpVLXNXd1dWOF9mV2d0VFpRWUZ5bXFJdGVtTGlvcE9fRlZaZTg3Q3hTdnhIbmxXYXJHaDk4eWE4N3RMTXFhN1pLVjlfY3B1M3IxS1lDN09nMXp5ZE9feHpvaXJMLUNGcFFKdm84QUXSAXdBVV95cUxORG9sU1o4eUJvSWtYT1p2dU9CSmg0bjRGeXBtY29VbllPeUJ0ZzhYQlFqeVY5cVNWLTA0V0RLaWoxbV9ZN0NXQXJJSVZpZ3Q0MVVwa0JWYlZwVG5BSjlGZ3AzM3E2Tm53VXN5VUt5NHZzbWtKWEFYcw?oc=5",
+          "time": "10/15 08:39"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "6천 뚫린 코스피에 사모펀드 셈법 갈렸다…'현금 확보'vs'반도체 줍자'",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDWUNYNDA1Znpfa1ZQVVpycl9td2prZS1aZThXUlpIcVk4Vmh1TW5XekJCdW83dmxJS095YnhoaHhZR3BWbVhreVJuaHRUUklleElqYmljdnZkbERfY0daOHd4Nm4xNUxiYnZQNnNjcTVmdw?oc=5",
+          "time": "10/15 07:53"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[박정식의 국내 주식시황] 반도체 차익 실현 출회에 양시장 약세 하지만 단기적으로 마무리 될 것",
+          "src": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wTGpuYUQzeG90UVB5cHZNWm16SGMzMWJFeGlIZ0FpSlk2WFVhem53dUhoOTlNZ0oxZDY3cTlSQXZoZVQxN3pEMlBndXMtazFPVjhKdnIzVDRvb1k3aXdITTdKMVBIVGlSelA3S1hKVQ?oc=5",
+          "time": "10/15 08:23"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피 6거래일 연속 하락…반도체 호황에도 증시는 왜 흔들리나",
+          "src": "지이코노미",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiR3QzNDZMWndieEtiek1KRlNaYndqV1JUOVBmVENqbXBORGxJTnpJdDFoNjByRm1QRWc4LS03aHhzTUJXdHdmRGl0NHdBOGxULXA2VUR0LWZJRDBkNWxRNFJmUWlVaGs?oc=5",
+          "time": "10/15 04:35"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -12,44 +44,12 @@
           "time": "10/14 16:56"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외국인 12거래일째 ‘팔자’…코스피, 수급비상 현실화되나",
-          "src": "한양경제",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50SXB5N2t6UlRBcjhOUGs0MzN4UFg0UnBWYnVUUE1iOFdIZXUyUVBtUUxsMU5uVUh3Uy1Ba1pldEMzUW5lWkRpVlVzU0wyVzdhWDRjSmg2NkFnaFFseHA2dV9RRW9qTnNCbGl5Q180TGZ4dw?oc=5",
-          "time": "10/14 17:27"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 급락한 '검은 화요일', 반대매매 두달여만에 최대로 증가",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5T09SNXVLbDZwT1lOTHM1eDFYc1pJeEwxY3Z5TG5jS0hsaEp5QXdpZUlMRUY3RHBsSnlWem90empSR2VFalBVbjZwc0cxU0M0ZHc?oc=5",
-          "time": "10/14 15:58"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"코스피 투자하느니 나이지리아 주식 산다\"...삼전닉스 쏠림 경계하는 글로벌 큰손",
-          "src": "스마트투데이",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aRExnNmZaWE91dGJSMVZpMGdPOXVnWHZ0ZHlBZXdwRmpNdUtFbmhfdTB6UUtvY01ueDNSREVTOW1BMktONGNOLU1raDhHX1FZTXpXdlNWWk5uTnppb3dz?oc=5",
-          "time": "10/14 10:57"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "약보합 코스피 6,000선 사수",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zZVZDdzAxNlgtbU95YjI3N1VxYWNlWl9SbFIyOVBIa01UbVZadkRHamVCSTEtcTNoRzlra0tjTldubzdQZVF6aVJnZFlXb0hVVlRHSkpBeHdHT2JxNnNDRDlSTlIwQ1ZlMFdPYw?oc=5",
-          "time": "10/14 16:02"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "출렁이는 코스피 속 ‘빚투’는 계속…반대매매 4배 급증",
-          "src": "시사저널",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yWXpzY2ZiUlotaWozbHlUOWhVYWxnTVp1UHBsZS1OSktGRU1BampTcUI4ZVpVU0d0Y0lyZkJoYTR1ajhYQzN1cnhuLVo0ZUI5N0VqRjNnXzJTN19kYTYxdFVtTnhQOUJWaElsSVpjY9IBc0FVX3lxTE9xYmdYOFFZdzg5NGpINW1VQ1NVVl9hcG8wZ1RQb21HLWQyR3lURlNKMF9leDM2c3lkTHNCaFJBekRUbTNETFR2d3RoN2ZWc21iZzZ2R2d3ZzJ4U2Jic0ZGMEJnVTBSMHRkVFpyR2k5WEVVTWs?oc=5",
-          "time": "10/14 16:23"
+          "t": "\"진입 기회인가 강제청산인가\"…코스피 급락에 엇갈린 개미 운명",
+          "src": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNM1JNNTR3dmhZTkJZVF9yYjBSMEk2WTFTVXF6YlM3T0FPVTBkajRRS1ppeHlXNF92X2MwQk13b3A2TFVHVnJlWDhjajdTZC1KUU1zZnRHR0lMd0c2UTA5Q3VrY3h1N3EyWl94ODdaNzFiaWdRS1V3cmVkdmxmNnk1TlJXVXdfTWs2ZFhWRnptT0FEUjh4bmQ5MU8wQVZoc2szcUt2S1pEUXcyT19OMXM2dnJhV0FiRndxZWZWNzFqc1FMdXplX1drT3k2aF9WbkRDeS1EYlYxbFpIRGpxd1RGWlVETVp5dm5JdTV1UmtVVk1Zam1ZQ2JCUFRSTEdhQjl6NkxfdXNuTXZEa0ZTRUdVSjhwbWpWMDZON252T2VRbjg2RnJUY01rNkg2SDQwQQ?oc=5",
+          "time": "10/15 07:21"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1343.24,
-          "pct": 0.68
+          "value": 1346.48,
+          "pct": 0.46
         }
       ]
     },
@@ -78,10 +78,34 @@
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Wall St slides as hot CPI data fuels rate-hike bets; chips, banks weigh",
+          "t": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
-          "time": "10/15 00:58"
+          "time": "10/15 08:33"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "These stocks offer some of the best risk-adjusted upside on Wall Street",
+          "src": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMDMyMzRWcFB0eEZDVF9rOWRiQU9qWEdOakFzajZyNDZsanZxWGgxZ2ctcnY2STk5eEdLRjJELUxiNU0yOXZEb0hRbDlBOWJmTHZFY3dEQ1A4UUFSb3doTFpMWEdWTWNlT05vY2s4S2tBYzFLbEZsTzFkNWhGdHhRRlNodnllcGFnLVhpUEhQZVpOTWpabnJyS3JkdE8wQjNvZ1g1NllhT1FicGdL?oc=5",
+          "time": "10/15 04:34"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "When Wall Street (almost) never sleeps | Newswise",
+          "src": "Newswise",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdHltTTJ4YUh6SjZoM0dJQWdyR0RRT0s4QmdQbzgtWEtMd1BZMl9SN2xzT1FsZ3g1NURqbVFNcVl2Qmg5ZU96cU9ja25xRXdSOHNWYlNDRHZsZE9qVXNVcTRDRGgwbXNyVE80aFhtb0RxRGVBUGdjNVByM1hmVXUzaWx2SGNsRlBDYkM2NU1xcThrUGvSAZMBQVVfeXFMUHR5bU0yeGFIeko2aDNHSUFnckdEUU9LOEJnUG84LVhLTHdQWTJfUjdsc09RbGd4NTVEam1RTXFZdkJoOWVPenFPY2tucUV3UjhzVmJTQ0R2bGRPalVzVXE0Q0RoMG1zclRPNGhYbW9EcURlQVBnYzVQcjNYZlV1M2lsdkhjbEZQQ2JDNjVNcXE4a1Br?oc=5",
+          "time": "10/15 04:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "US stocks drop to their worst day since July as inflation worsens",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5",
+          "time": "10/15 05:45"
         },
         {
           "cat": "macro",
@@ -90,30 +114,6 @@
           "src": "24/7 Wall St.",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmpNMXhBd3IzV2lBX21jMFhkRXpUcXlvUXdaTGhveHZZRFdhRk9XNTBxMnlBcVU0dUxnM01lYnFldm4ydzQyTUhVa3pRUzdoY3haSU5SVnBYSzc4MjRxNFdvSVQwM2E5dXBjLTRnZGJCbTUwbVlWbTZCS1RzZ0c4dnVFS1BxRWpzNXd1Tl8tNXZHQ0YzcldWR2FWSjQ5alVaVTlYMnFnQ2ZKN29RMVItS0lfcEI1X2NaZElfVTViMElwLUJwV25EMVZ4LVpOYWI2MU00?oc=5",
           "time": "10/14 22:27"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US stocks sink as inflation gets worse",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5",
-          "time": "10/15 01:02"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stock Market Today: Stock Market News And Analysis",
-          "src": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
-          "time": "10/14 23:25"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Hot US inflation data dents Wall Street stocks",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0VvLWxDekhuZGdSUjAzdUZUaUtqa2ZxQkNua01hZEVqVVJCbWtOM1l1RVI5LU9EdFdFT01GcTI0MVExa2JuRmt0NV9KTGIyMmRmbkhQNmZYeVpDNWw2MEY3akNSMVVfTlBLdEs3V2R6UzYyaGdDcG9Yb1gxd0taUXgtMzRVTFFoLWROeUlTNWgxNldrbDBsVkJjTnRWUjg4UUVSbw?oc=5",
-          "time": "10/14 22:50"
         },
         {
           "cat": "macro",
@@ -128,20 +128,20 @@
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7715.57,
-          "pct": -1.15
+          "value": 7718.94,
+          "pct": -1.11
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26731.31,
-          "pct": -1.74
+          "value": 26692.87,
+          "pct": -1.88
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51487.36,
-          "pct": -0.35
+          "value": 51621.48,
+          "pct": -0.09
         }
       ]
     }
