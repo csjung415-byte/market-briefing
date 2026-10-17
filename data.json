@@ -1,15 +1,31 @@
 {
-  "updated": "2026-10-16T16:49:49Z",
+  "updated": "2026-10-17T00:11:38Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 7천에서 5천대로…폭락 언제까지? [뉴스in뉴스]",
-          "src": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRk5SX2c1Z0s4UWdKcmxkaGgxMWtESVRSUDJtZlF1M2ZGeFBZcFRZS2U4UmNrenFqMG5vWEpkWDh2U3BUN2xvdHd6eWhFX1ZKd2NjbUxmandoelU?oc=5",
-          "time": "10/16 12:37"
+          "t": "폭락장에 반대매매 속출...완충재 없는 코스피",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIX0I0ZWpIdlNCQklqbzhFdFI2OHU0dy1FbFI4MkJ6MDVoZmhGcWVmQ2xMVVdoeEVmaXJXMGJnOWdPYmcyVXk5TURNMWZEbkNGLTBVeEQ5Yzl5MTVuX0E?oc=5",
+          "time": "10/17 05:28"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "'빚투' 부메랑…코스피 급락에 한주간 3천억원 강제청산",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MeFJQbXAweXlia1pFSXNQV25Cdmwza1k1UjVibXI1Mk1CYi1TbXF5MW1mcW5DMVJnb0ZCTHZET1NqdkZNb0RGX3A0cXR2MV9pSEE?oc=5",
+          "time": "10/17 08:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 급락에 반대매매 3000억원 육박…채권엔 매수세",
+          "src": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MVzNIVmlRSjJMQVRMVmZiT0hWSE9VRThfdkZmRy1kcHNKenZCV2dVSkhwUUwtTVFhbmxNUTFtTTYwQ2EzNVo0VzUtSkM5dEllT05lZVE1d0ZIQdIBX0FVX3lxTE5JZV9qeXpaeWlOZmZlc0VyRTlseUkyNnItbFlhS2lEaGFscW9DcnBNQ0kzRlVkbVM5c2x3YjJ6SFRpeFpoQmtMRzB5enk5eHAxUThpdDNHbEJUTGpmMmJj?oc=5",
+          "time": "10/17 08:29"
         },
         {
           "cat": "macro",
@@ -22,18 +38,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[마감] 코스피, 8거래일 만에 상승… 코스닥 4.5% 급등",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zUkl1Uk41dk8zNF9VY0dqZVo1X083b3lBU2FranFGQ2F0Z1ZYZ050NXVjTGJrd2ZsYUREQkFCSl9JNExPaEZNUmNRSG5hY2dhZGs4NFFxQXZIS3FSaDhjRGZuNlJFU1hYejRDSm54WnTSAXRBVV95cUxNeHYtSzJNeE0zLTFKamlRYWtqd2MxMXh0RERTM1dPZ2lNeFVrT2JpdFFkbFZOdE1DczFzUlFHQjVoSk5aa2xGTEVEWFJ5MnYtbU01aENRZDlvVGNyUkEyak0xQmhJMTdWdW5VMVlPaF92WF9nTg?oc=5",
-          "time": "10/16 16:13"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[1016마감체크] 코스피, 외국인 순매수에 2% 반등... 5600선 회복",
-          "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EcTNxNGtWbzFrRWFRUTRSVjE2RWZhVm5za2V0eUNUTkh0QndzNjJmQTlKVjA1WVc0MnZybVY5S2ZlUGM1ZXMyZ281TGVhWnFkLUJwc01sVlFURkljSXQ4Ynk3Rk4waW1SQTRYbU9NWkxsajhZdnc?oc=5",
-          "time": "10/16 17:12"
+          "t": "코스피 7천에서 5천대로…폭락 언제까지? [뉴스in뉴스]",
+          "src": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRk5SX2c1Z0s4UWdKcmxkaGgxMWtESVRSUDJtZlF1M2ZGeFBZcFRZS2U4UmNrenFqMG5vWEpkWDh2U3BUN2xvdHd6eWhFX1ZKd2NjbUxmandoelU?oc=5",
+          "time": "10/16 12:37"
         },
         {
           "cat": "macro",
@@ -42,14 +50,6 @@
           "src": "한국경제",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OdF9EdXlLR1IxdUZ0cklXWGRtTmFsaXZ6QjFIQVV5cE9JNFJ2ZGlVT2wwamN3SzBqcjZBXzNycmpuOTJoYmdzb0RJTzJPZzhWb3lQWlQ1ZGR3dw?oc=5",
           "time": "10/16 17:57"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 7% 폭락…34조 빚투가 더 무서운 이유",
-          "src": "시사저널e",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqYk1xTzhpNFBBalBBMG9YQ1NNRDUxQlBDaXZaOVdiVU1uc1dLd0txS1Ytck5UMTJnVjZYMjg5a0R5QjlLbElZNy00cFRiSEVRSFVDd3cwS0t4Nl9uV3pOa1ppdU4zbWk1S1Q4VXlNTnYxQdIBdkFVX3lxTE1XR0UxNmtaZ0dOaGRPQmJkckpWV3luQUZYVFBwS2NwU2hna3dPSDAyNF9iQ1hCUnFlV05YM0RPclVfcVh4QTRaTmowV2tOTlppOFNLaGdxZzZyTjdSTkFlTHRBeWdMYnM0bzBNb3JETy12ODdxWVE?oc=5",
-          "time": "10/16 14:11"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1334.06,
-          "pct": -0.39
+          "value": 1334.2,
+          "pct": -0.5
         }
       ]
     },
@@ -77,11 +77,27 @@
       "news": [
         {
           "cat": "earn",
-          "catn": "실적",
-          "t": "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
+          "catn": "빅테크",
+          "t": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5",
-          "time": "10/16 19:03"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
+          "time": "10/17 06:45"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Why Wall Street Is Tokenizing Stocks and Everything Else",
+          "src": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMnJ4UU9UY3BDZ2VwYjExYl9zLVNLV1hueUttRVVCSGNRXzR6UTd1V1R3NWpFYTYtcGtPUVVxNnQ1bmRVWlRpU1RqZEg5eGYxeTlJcFQtb0dqbjY0MjFJLW4yWExudHFMNnA1QmMxUGtUZ29TNHVKQVR4MEIzVDBWUlVTTQ?oc=5",
+          "time": "10/17 07:04"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Tech stocks tumble as AI debt fears rattle Wall Street",
+          "src": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySWZEMXlwOEkxNmZYX041ZFNpdjJlOS02em9wbHNpX2ZaMHZ2RzdCZTA2VktiY0htNDlVYng4NXlhUFF3cThuRHlfaWZ2OUVydEFzSlp2Ymd4anN2em1WdEl2bGxKcUExQXRYVmlQYTlUUQ?oc=5",
+          "time": "10/17 05:08"
         },
         {
           "cat": "macro",
@@ -92,56 +108,40 @@
           "time": "10/16 23:28"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Moderna stock sinks as Wall Street turns cautious following blistering rally",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGpKbm5BNnBxQ3lCVjZUYlFFWm1yZWJuWXZzcTZFSUZVRzd1UTNXUkVheTU4X2l5eVNaRU5sMjd3eHllS0NWSVJESXNlNDF1bXZ5ZTc3Rlc5Z2NDYVh6TFJSVUhHNUxOU2NCd2JGSC1UQ2h4b3liU2RLQTZIR3B0a3BmclotclpLSzRhZ0t6eTZvUU5jYVRtNERDRndjS1Jhc25Ed1RrdVdSMS0waFhxSTBnVHNKQml5ZWYtY2cxcm1zOXZ2SDM3TWROTzN1QQ?oc=5",
-          "time": "10/17 00:22"
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5",
+          "time": "10/17 06:23"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Stock Market Today: Wall Street Swaps Chips for Old Reliables as Producer Prices Spike",
-          "src": "ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2Z4Ql96WGRvVG5XSXBrV0VTWEhjVXd2dDBUalp6QkFMYlVYVkotR2FnVnJRZm1TR0gyQjhaSEc2UzdsQlZyaHEwMUpQcDNvcjVlNUppbS1KMmNfZW8ySVNjWFRGRFhYSktwRXVFSFZKWG9VVk41Qm5aMDVYVGFnT1BGU0R3TGtTRnQtS3c2NFh2Q3FTNDk3TTVISkRaQi02VnlrZnR1R1NrUmxMRFNIa3FkTQ?oc=5",
-          "time": "10/16 22:06"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "US stock indexes off to mixed start as tech sector weighs on market",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS19EcUFfNTB5a0FNdDdHNmdxdlQ2TENYMFJSdXNZVXRzVjdNdHlsQVhhWDhRRldVOWI4SE9qcm1EZXZuQ1AxSmlHVzdCSXBHcXRHNWNwWGlZSG13VXA4blVvWW0zMUlLVk9qMkdobUtJc0RLMTF3cmRQZ0VTbGJKcGlFdVpqa2s4bF9xVmdKR1pueFpGNTRNdjh2TmJoNElVOXM2OW9rYmRMSXpYVXlKS0Roc3NtVzVwWjBOdGl0dkhrY1hsNW1ySFY0Y1BYR09jb0ZkcDFDcFVReFlTclQ5V1RtWUg1WDBY?oc=5",
-          "time": "10/16 23:10"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US Stocks Set for Muted Open as Investors Assess Inflation Data and Technology Sector Volatility: Dow Jones, S&P, Nasdaq, Wall Street",
+          "t": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONE85bS1BQ0FaajVwTjM1akdrRUZicTNmOHlUYzFMenl2SXFST0gwUDNSVUZBOGw0b0xEdkxjTk14Vkx4d2dhNnJ5Vzd0aEYtdFAyYTRJMnZnUXpwdHVOTlRQTHlqSkdxTVFWalhpMEFZNWpXV2JRSnVjSDllNnMxQTR0ZWk1N0hsOHpIMENBWUpYeEk?oc=5",
-          "time": "10/16 22:13"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0xJZDhoTHdCbXFuWjRsZGlQVHlDbUgwNWNQbTNXamJDWmlqaEkxc2pRV1FjVzRWU2lwbGl0elNTY2YzcGNCTUtTTFhuOWl5ZngydHpNTHlpSDNaSzZ3ellNUDVELUd1Wkp5QkxLZHV5LVItMTR1bGlVdU9ZN0ZhalZ0VFRJeTRpMTVmNk9HMXpqT29tQ1E?oc=5",
+          "time": "10/17 05:32"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7684.64,
-          "pct": -0.77
+          "value": 7659.44,
+          "pct": -1.09
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26299.94,
-          "pct": -1.55
+          "value": 26140.03,
+          "pct": -2.15
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52042.96,
-          "pct": -0.26
+          "value": 52002.41,
+          "pct": -0.34
         }
       ]
     }
