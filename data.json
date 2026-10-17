@@ -1,15 +1,23 @@
 {
-  "updated": "2026-10-17T15:47:07Z",
+  "updated": "2026-10-17T23:50:08Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "빚투 3천억 강제청산…\"증시 무너져도 정부 '예의 주시' 말뿐\" [분석+]",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVlUtcUVRS2dpb2Y5eUtnZndkQmlHM2FHWk1wNjlzTHBWT1RpbUF2R1g2SjQzNDgteExPSzU4SEdLNXl3c0FxdlFNcTN2UmRVMmZoTHExVFZOQQ?oc=5",
-          "time": "10/17 23:03"
+          "t": "폭락장세 뒤 반등했지만 악재는 여전…이번주 코스피 향배는",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ydnlIamVzSWJSWkJhN1hyVTJDTWZtMGl0Ml9OSHpwR1k1R2E4YmMtX3dFdUJySElKQ1JUYmJQdGxuUUc0Sk5Ha0dsdlpGRUJXQ09oRVZoek9adDjSAWBBVV95cUxOSldGNUdJWm82MGhJVjNYN3FFREN4LVMyNU5aVEp2d0o0eXhNT2doSkQ1OFloOFAwS3JkeW5hSnZZODd2U0psWXM0blNWVVFEUlljNnQtYzl4S0FrcTZ5bmg?oc=5",
+          "time": "10/18 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "오랜만에 숨통 트인 코스피...88주 째 오르는 서울 아파트 가격 [뉴스와이드]",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTEJxTmhYSGRMRnpkWWhuMXhjcjZvNUpTYjZaYVVEYlhtbW41TnU1Y1lVa2pzYXhMQ1hnNzFEQ1g1OXd4SnVRV0VFS25Gc1B1ekNoa0NUdEZpdWE5T2c?oc=5",
+          "time": "10/17 18:46"
         },
         {
           "cat": "macro",
@@ -17,39 +25,31 @@
           "t": "‘빚투’ 부메랑…코스피 폭락에 1주일 새 3천억 강제청산",
           "src": "한겨레",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wUGpNSER0TGxPR2NiNWNmbndSNURyMW5fT25JUjV2QkhLRGczd2VpNDR4WVRGUnN6SUJlR0NNbDViZFZSQTdRYTBmVkFXN3pCSjdhUFBsUjV3Ylhucm1faG9ZbFg?oc=5",
-          "time": "10/17 20:45"
+          "time": "10/18 07:53"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[경제뭔데]분기에 100조 버는데 외국인은 왜 삼전닉스를 파는 걸까",
+          "src": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkR2VRZ0RFWkoycmt4TVZkN1BKTHluclphZ0kzVFBvSUFHeWdxS09PT29SSUVWUTlHcTFpOWU2aWprRXpVVjUyVG5LNVZtWW9RYmVHaXN5ZXBFQdIBX0FVX3lxTE9ibTJWVVFxRVFibjNXbGZRcDdwMjlzVnNzLTJ3RWE4eXZ2VDlDWTJIWTFQUnhuVGFoZldSWnl4SU1TTVgybC1KVzI0UHFsMUVEd0I2cXhucmpJMlBzS0x3?oc=5",
+          "time": "10/18 06:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“주식계좌 보고 흐뭇하면 1번”…‘상전벽해 경제’에 與 ‘노심초사’",
-          "src": "시사저널",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CVlBHNUFxTlZvZTBLYjR5UmhnUEFFLTZOUVRpc1pMVW9zcXl3MTNTaEV3TkhMOWNOU0ppYkpGellmNEJBeEUySmtJWS1MT1lpc05JRVdwb2UtWGxQMV9GY0o0ZzlQdjdOQmlpdXhhONIBc0FVX3lxTE9ycGxtM1J2a2tGVElvUGdXNGJ0OHN6MVV0NlNMb1p3a09BemQ2SVJ0TFBnM1dOVE9yM21nZVVHeWctdi1LM3dwS09HUWdlUjZOWkVNdzVpN19yOWRBaDdEVXh1TjFQSENGaXVlckwwY29pQzQ?oc=5",
-          "time": "10/17 15:12"
+          "t": "(주간증시전망)코스피 5300선도 안심 못해…바닥 확인 시험대",
+          "src": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URkVQMVNyTV9aSV84MmF1NDlfZkxKWnliZGdFT1RGVXlQVTRELWl0elhPMU9xV25XS0dJZjVJWlRicW9KMGZTZjVoclh0VUtMRTlmbUtsdEUwdGMyY2dF?oc=5",
+          "time": "10/18 06:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "빚내서 주식 샀다가 ’날벼락’…폭락장에 반대매매 3천억원",
-          "src": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMMDdtVFl6Q1VwcXVPLVNVTXRjbDFEeERHa2k5VDM1dWVwWnBGZG94R0hJV3dZNEc2NUlhUktYZ0tPbE5XYUNtMldaVnp0aTM0SFpjRlJjTXJQNjNMZEhldWJBcVkyb1k?oc=5",
-          "time": "10/17 10:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 급락에 반대매매 3000억…채권으로 돈 몰렸다",
-          "src": "서울경제TV",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GQlhGTHEtTzdNTmZBZ2loWTlhMDBqaWp6Yk9UaHR5dU9NV3A1RllTRWptWTI0NDRiaHNnWXJLcllUVll1R05iSlZFejY0VlNrUloxRjNJQTB5Y2gyMWdkb3ptUTI?oc=5",
-          "time": "10/17 11:16"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 반등에 개인 투심 ‘반짝’ 회복···신용공여 잔고 한때 34조원 돌파",
-          "src": "시사저널e",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZWU5xTnEtR0pOLXNjeW1SbTdSR2FwaWNpOXpISGJmcy1xNHdXZTFFSUNiM25oazc2ZFhyWW9idnRVZUwzV0Z5amkxMnhNQ0ZoMmhGNTBrRzlsT1lkUzJKMEpLamRwMUZucUZ5aENhWFYtRnJQaHfSAXZBVV95cUxOWVlOcU5xLUdKTi1zY3ltUm03UkdhcGljaTl6SEhiZnMtcTR3V2UxRUlDYjNuaGs3NmRYcllvYnZ0VWVMM1dGeWppMTJ4TUNGaDJoRjUwa0c5bE9ZZFMySjBKS2pkcDFGbnFGeWhDYVhWLUZyUGh3?oc=5",
-          "time": "10/17 13:06"
+          "t": "빚투 3천억 강제청산…\"증시 무너져도 정부 '예의 주시' 말뿐\" [분석+]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVlUtcUVRS2dpb2Y5eUtnZndkQmlHM2FHWk1wNjlzTHBWT1RpbUF2R1g2SjQzNDgteExPSzU4SEdLNXl3c0FxdlFNcTN2UmRVMmZoTHExVFZOQQ?oc=5",
+          "time": "10/17 23:03"
         }
       ],
       "indices": [
@@ -76,20 +76,12 @@
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall St Week Ahead As AI rally wobbles, stock market's spotlight turns to earnings",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0cyVkR4czJqcmtMVHU0c21pVnRHR1h1Q3VFRUdyX1FtSzg1alVJSFRqSmI0al95bGpvRkJpRG1EUy14djN1Y2xWXzlfVC04X2xIcUt4QkROSTR6V01la3plVWVhX202alJTYmhJSXIxQTJrM3VyTVZOVXhmWExqYVFWMVJQWUt3X3VUb0loWEp1SmphZ3E4MDVXS0ZZX3dkSThsTFAtMmEzRHpHMzFxTWhrblZQZFRoT1lFdXN5X3M5Y0dUQ0I5bzBR?oc=5",
-          "time": "10/17 06:23"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Narrow Stock-Market Rallies Aren’t Unusual. When to Start Worrying.",
           "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdS1CYUZ5Uk5sMm9mekYyaEtrTWJVWVFzeEVId2Y4MVBwcDdZYWg2THQyTW9USnJqRnZIdEFZcl80YTJFQkdTbHFPb1ZJck1IRnRlRXEtVHFxaEFrODdKUk96RTF4V0JoTmlKM3JINk1ZZVJMc1R3MUJtZGVsVXlRZTV3?oc=5",
-          "time": "10/17 07:43"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0h0Ry1NTHZnWDlpTC1NazVDb2ViNDlYbnpvMWpISGQwUUF2VmllVl9WTTBFbUplYUhZNk41Qkl5SGhsWGhhTk15RnMxazlmQVpuR3ZaeXRyWDFock5WVFBQSVZGcTE4azVUVUppcUo1Mll0T01VeENBR0J4X3dSNTY2cmhxTXcxdWZKWDlLd09iMmZWeEpyMXNibHg3NmVlckFRaHE5MF9uaEt4?oc=5",
+          "time": "10/18 05:48"
         },
         {
           "cat": "macro",
@@ -98,6 +90,14 @@
           "src": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQTRxT3NHaXFIWGE5Ymt0YlpFSHh0bHVMOHFhZVkyWlhfVEtHOTJSc0NnS3VMT3Q1eUFpdUxJazA0QUJyY19sLXFybi1UZ19HVFRhV0c3ZjhyX08wRzV5UUZmRzRCZ2JBNmFXSTFQT3hHbjBrRFJiNU51M2pNa2ZYTFlycF9Ma3R6ejNEWnE2a3Z6dTFncUVycnF0YjZsMzBpOTFQQVJ6NjB5Uk5Cd2sxTUVPNzB3STc3SURYUU9nbXdsMndUOGhxb3NOTXBRYUhucG9JZ3ZxdUZHbG5Y?oc=5",
           "time": "10/17 20:52"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June",
+          "src": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckZRUlh6V2VTd1BucUM2ZUp0U3pkQzdzaE4yYWdvT3M1UE5TdGcwaHNMcHBxa2ZpN090MklITTJjTVZnOU54V2xJNUYtV0ZCZi1vdzBJcUplSVlOUzZoMkxoRzd4N0x5SENPZ2FzcWtTdnZ3ZXV4RGxiMkhCM1M5YmdVajlVTUVDdUt6bTVGaG5TRURrOXNCY25DZjdlWm9ieC01OGZKbWtnUlNTN3U4U2lfZlUtZzA?oc=5",
+          "time": "10/18 04:49"
         },
         {
           "cat": "macro",
@@ -110,18 +110,18 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Tech stocks tumble as AI debt fears rattle Wall Street",
-          "src": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ySWZEMXlwOEkxNmZYX041ZFNpdjJlOS02em9wbHNpX2ZaMHZ2RzdCZTA2VktiY0htNDlVYng4NXlhUFF3cThuRHlfaWZ2OUVydEFzSlp2Ymd4anN2em1WdEl2bGxKcUExQXRYVmlQYTlUUQ?oc=5",
-          "time": "10/17 05:08"
+          "t": "'How many canaries have we killed in the coal mine?' — Wall Street debates if the latest AI bubble warnings are another head fake or the real thing",
+          "src": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRl9iOXhNbXZ3M1hkQlRfaXhlaG9yNmJhYm9TR0VRNjZNWlBLbGsteHNNV2xUbjJZLXVQcmVTYmlXRGZQS3JPUGhLckFiU3dPU0h6QXBhdnQwREhGS25HQXN1Z1N0MmNsOHJMTVNvZXZoczAxa3YwbnMycExVY0dpXzUyMzVYOW83MFlqa0JyLWpWWjV4Q3MwYTZpVmcwMDdTRGJraGhQSEQ?oc=5",
+          "time": "10/18 04:43"
         },
         {
           "cat": "earn",
-          "catn": "실적",
-          "t": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLTMwOU43MWxrVmtqcjAyOC1MbXp3RGJTekdPYkVzNktCMHhOcDU5UW9XR3VBYkt5NzhuVlZ0Rmc2NVJialJyVWVaUWNENzdwNFBzdENFdkF4RW5zS0lybGRTQnBQNXN6bUdGOFplaWJzODJESWRXUk5hSUZlLU5tLVd1eU1VbTJFbnViZU1VMnFFQXpQRXhxRHFkcGRzb2hId093R1NGMEpIRVhvRG5jMFpTbE15dmZJdHVSR09sSEZyOC1F?oc=5",
-          "time": "10/17 21:01"
+          "catn": "빅테크",
+          "t": "Wall Street’s AI bubble isn’t bursting. It’s being audited.",
+          "src": "The American Bazaar",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFVyNW9VbVk0T3Z3YUNJR0pJbm1TV3F3RE16a3BITnY3Qkl0dWNkaVR6NTFVQWJoU3hGMzNXa21HU0t5cDZaNzFxaTBwOUlFWmdnaTJZRE4xRC1qRHBfVS1XcHR6ZHh1b3pPWmZ1OXVvUUdoU2llX05fLUJEVUZ5YTRfTjJtNUtRcjFuQ3pyM3lRbFM0Ulpqay1tdllwelpIYVJuSlNMN0Y5dw?oc=5",
+          "time": "10/18 00:58"
         }
       ],
       "indices": [
