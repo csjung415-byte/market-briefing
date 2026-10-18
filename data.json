@@ -1,8 +1,16 @@
 {
-  "updated": "2026-10-18T16:01:47Z",
+  "updated": "2026-10-18T23:57:59Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓뷰] 코스피, 반등했지만 다시 시험대로…美 증시 동반 하락",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yaTlxQlBGMTM0b283UktQbDZhcWRKcVByM09YV2o5bXZKM25ucTM5QnZMbXZ6NEZMQWJTdXpIV0wyek9xVEtQZUc5ZE53WGNQSm5YSzZtanpxQmvSAWBBVV95cUxPeG0tTUNoZGZqWlJaZWtRQmFVNnF2dWdLcjZvVkc4R0YxMXczOXQxMzJaWEs4YUl3REFzWnRBbXp1Z0M4eWNCUjVqM3hvVmJpZmEyUXEwVnhHTV96YzMtcWc?oc=5",
+          "time": "10/19 07:57"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,42 +22,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“증시를 카지노로 만들었다”…폭락장에 野 맹공, ‘특검’까지 거론",
-          "src": "시사저널",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CeWg5em5xeEliT2FNb3lkX1FSLUdvYWg0UjBhM0dnSGVrREt3VVVWRE9nVGxqNVoyU1NGalBrYk81cjFsNWp0Nnl3YWg0Y1NvTWN1SWJXcTE0ZmZWanNHdXQtbU42ZERydEF2TkdhVdIBc0FVX3lxTE5XLXNiSnNkUkd0T2ZCa2ktY0dldEN6b0hCdHpUbk5HcDctSm03RkVVekNiZXRwVDBmRGU1R1V1dk84UjNabUNOTHNEMWZHUVpHWVRsM3lDdGlqODkyaF9mUlNUcjhHb3JhdGt4M21oTElUaGc?oc=5",
-          "time": "10/18 20:24"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피·코스닥 급락에 등 돌린 개미들…미국 주식 순매수 급증",
-          "src": "글로벌이코노믹",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcldZWEVOei00RlM4SkNzVS1RSS1WaVAzMWx3ZFNtQXJCRHVLaFpkYXZ1NmIxZjRUYTQtellCSndlOHJkd0VtM3N1SXRNZjJ1eXR1c2RvQ2lrRkdGRnFHZDczenpwRVVjZzZmVktvUmthTkZXemwxcV9JdW1acmpPaWN3MVQxMFND?oc=5",
-          "time": "10/18 11:07"
+          "t": "美 증시 신용 융자 사상 최고…월가 \"코스피도 이렇게 붕괴\"",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uYlpFSzkzYmpIT3VwZlRQdnN3ZjhlQk82QU1iOXZoRWE3X1RMdnQtZEhheUxsLTktX3AxQzJoamlteTRPeEstUGtwR1U1NmVYcnBNQzM3bDJTZTZpZ3pWUVdhcnRQUEJ2TmdQT0t0dEvSAXRBVV95cUxPbU9CWURDd1YxMlBYUHJOakZjRmR0WjRRejZpVmpzNUNteVFEN2EtOTJrNTA0cWJPMXRXYUVnYnY4MF9IQUNSNU0zNU5lN1lSWHFNMnFqeFVHRUxLTll1NV9TQ0tiOEdaZm9UWkl0Z3Y2Zk1lQQ?oc=5",
+          "time": "10/19 08:36"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "‘빚투’ 부메랑…코스피 폭락에 1주일 새 3천억 강제청산",
-          "src": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wUGpNSER0TGxPR2NiNWNmbndSNURyMW5fT25JUjV2QkhLRGczd2VpNDR4WVRGUnN6SUJlR0NNbDViZFZSQTdRYTBmVkFXN3pCSjdhUFBsUjV3Ylhucm1faG9ZbFg?oc=5",
-          "time": "10/18 18:43"
+          "t": "10월들어 20%빠진 코스피 ... 1년후 주가 전망은?",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yWGswMmlXblFlTTQyWFZFcXlBSG0wbTlBQm5zUnFrSHczb3N5aWFnTlpuend5QVk0bUpZVWxOaEJ1YTJFdHdGaEhEUDg4YXlHX3c?oc=5",
+          "time": "10/19 05:00"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "[외환-주간] 증시, 외국인 그리고 금통위…연저점 이후 어디로 |",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hMU9JaURYdXgyZmdzdFdqUjkzRGp0RFZfX0NKZkFaSUNaRDNWX1BZNTF1WHRQRTFocVJsRXdNSkpFRmt3bXo4cG1Rd3NIeWtvU2dSMWI1R29YTjREQW5ld0o0X293aktBRVozdVBraUhJMElo?oc=5",
-          "time": "10/18 15:05"
+          "t": "[신윤우의 외환분석] 증시 불안과 중력 가속도",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96T3VWakEteG1qN0JOa3RXZ3B3Z2lLQWJVTy1UMXlyVUhKOW1BQ2tJUUpQaXBsenlUNHZPRWJLdEFXREJzOXlRZGdaeFBhelEydzJHZFV2Q3VxSFdwM2JSVlpUR2ZJTmpEcVNkWFlFdlRwQQ?oc=5",
+          "time": "10/19 07:46"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"노후자금 어쩌나\"‥국민연금, 100일 만에 보유주식 182조 원 손실",
-          "src": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yQWFkZmdzZ3BxczJ2WFgyQ1JvNEw0cVo2ZFJKVXBybzFmVUdxQUVTRnpURlk2eUVpaXZfZnRRTTU2cjExSnBlX3VxdUtISVBhU1NETXFLbnlTUXFXTTNOc09wX2o4ZzlRU09ZMUdpR3VKeFhxOTFGatIBeEFVX3lxTE95c1I4Yjd4WVRkUmtZNjNYVWlOSU1LdS1PYXdFbW1qU2xPYlhubzZLWXZWUHExVGt3b2VFLURmNkdncktQZV9xRWY3QUh2QktOWTlQVXRGZUd3RDBvUjN0c2pxc0ZKY1VQbHIybjV3QUpoQ196VEdzbA?oc=5",
-          "time": "10/18 20:06"
+          "t": "코스피 급락에 ‘3천억 원’ 강제 청산…국민연금은 182조 증발 [잇슈 머니]",
+          "src": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WUXVYX3lHazZ0aDdXbU1vVk9LWG5ySHBJOHU0MTNHbFEybF8zelFrTjdKcEhEQ1hMT3RrdmlaejR4eThIMlpndGxxdVhEdTVDeFhjYUlEdk5tSlY0eU5aY296Qjk5dw?oc=5",
+          "time": "10/19 06:53"
         }
       ],
       "indices": [
@@ -68,13 +68,37 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1334.2,
+          "value": 1334.25,
           "pct": -0.5
         }
       ]
     },
     "us": {
       "news": [
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg?oc=5",
+          "time": "10/19 00:59"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpZb1lmS0hlZGYwTmtOTUg2elhLcGFNTWItNDVFWTBMcGRlMlhlM3E3ajdSVktKdlA3ZW1jZEk1cTJLMXZKSWRQSWVtNkJMSzdEbWFBNHk2LWUzU3AwZVRVTnl6ajFZUHhZbE9Mdk92UUlGaktGUXJuOEZoOUw2cTZZaWpYbHp1MFdEeXYzckNZallkVWY5V0RVeE1fZV9qLXNtSDhlRmp3bndMeFE?oc=5",
+          "time": "10/18 18:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "S&P 500, Nasdaq, Dow Forecast: Wall Street Split Widens Into Month-End",
+          "src": "StoneX",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcy04QTN2dUFjZ0V3MkxNNkhYSTZ4THBjNXpqbkczLTlJQkpEeHFXbERVOG90YUdDMFZTRk9iUUFzbnlzVW84TG5FQ19LaE5sWmp4WGNadmN5QmVwaWVKc3QxM1ZQTVI3Y01vZlpUWmJmeWd2R3k1UEwzTE1QUmFEc2hTOFlWVjRabkJYdGxXcjFVckhsUkJ2UmYwQjc5cm1JaGlqdzluUWNlWC1GWnc2bWJQMzZMNTdE?oc=5",
+          "time": "10/19 06:34"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -93,35 +117,11 @@
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "Michael Burry Warns of a Stock Market ‘Supervolcano’",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTJEQXBCeFBNT0YtRFJzaVZmdnAycXBOX0lRUVI3QTZ1N2FtRWFybGxNYTlpZUZ6TEdLQ2loYUpfMkpYME5hNFEwZmFQSUJOVlBua3d1TEg1azQ2d0w2MDllb08wUGZ1d2s1VGo5NXBLazQ3N3UzUWs4Q2xVNnB5a25NeXMyT05CaFNXNk54eUYwSDZpVlFmU2xOc0lQQQ?oc=5",
-          "time": "10/18 18:13"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street veteran cuts S&P 500 target but keeps huge bet",
-          "src": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1BWbzIzTV82RGVaeWVLMFMwOUE3ajZ0bGxwd2RVNkEwbHRWci03X2NjUXhpNnEtR0lDanFZSjYycmpldGV1VG9zM2l5V3BHYWpPUzF2M2ZCT1BVU1NSUktZMEo0bFJsWUJKSFl3RDdfVEt1WXZDcnlRdjUzUXYtdjFZR1A5V0NnaUZPNmxpV3FhZG9HSVo0X2QtTjZ5TC1zNEE?oc=5",
-          "time": "10/18 23:07"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June",
-          "src": "Eurasia Business News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckZRUlh6V2VTd1BucUM2ZUp0U3pkQzdzaE4yYWdvT3M1UE5TdGcwaHNMcHBxa2ZpN090MklITTJjTVZnOU54V2xJNUYtV0ZCZi1vdzBJcUplSVlOUzZoMkxoRzd4N0x5SENPZ2FzcWtTdnZ3ZXV4RGxiMkhCM1M5YmdVajlVTUVDdUt6bTVGaG5TRURrOXNCY25DZjdlWm9ieC01OGZKbWtnUlNTN3U4U2lfZlUtZzA?oc=5",
-          "time": "10/18 04:49"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "3 Bank Stocks For Investors Watching Bond Market Stress",
-          "src": "Simply Wall Street",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaklDYkZvaklxbEp6b2ZEb041Y0VXYTBEVDd3cmtrSkl2dUNHeVB2TEJZTU5uTU9RcUMzTGNRVmNIM2ZQcVlyRzdaSHpwTzN4UGhNM0dRZkZoYy0ySFNSLU8yUFJ1N00tNk13dUZ0dVo0Y2VVRWhic3MtYVNjcmo3cFVNVmFHQ1Ruc1ktZHJ4dDJabEY3LVg0cGdFOUowLXZTTUJpdkJGRXU4b1o5VHdrN1ZFYTc3VHNIVDBseXRVbkJlYzhDcmw3U180Skh0VHpOYUhPUHRBYUJJY1VIQ254WlBB0gHnAUFVX3lxTE5XZTM5WFFKS25JLU9mOE82S2J1Vm95ckRzcWZnbE45VTAtaXpROWpVU3FhZGNTYXg4Q2RoZkdaa0xhMG5CU0lySWVvUXhTYjJhUWRWaUJPNU1RNkI3WE40cEhWWTdyVDFoeEpFT0hlcm5VSThTTlY3OUhFemQzeVF4ZFl4WXRSd1R0dDJRZUJjTE9aVlNMc0wzeU0xdnMyRzRXYmZZa3VsTDVBNVZBSkluS18xdC1PWl91OUN1WnhESTZzd3BEMjF3b1lGN05vM2lPaEJJRUx0N01wSE11bm5EQXdjYk5KZw?oc=5",
-          "time": "10/18 21:41"
+          "catn": "연준",
+          "t": "WisdomTree Launches 2 ETFs on the Texas Stock Exchange, Bringing Hedge Fund-Style Long/Short Strategies to Everyday Investors",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaDBDR1FyaEs1OUNBU3dPVGlRSVVRY1djajJMeEY5RUsyQlppLW94ZEpDMElMdmo2czVaRmZhRTk0c1FqYlZNcmRYSmZsckRmM2ZtWHpYVjRsUl9KU1UtR2pzV3FMYXF4V0ZlV1NycERoRUx3NXg5NWdKdWxNVWpsZ3ZBdjktMEtBQ0phZDZmV0hieGJZZTNPOG9KTGpwdEhGZXBqVG5EVkR4djV3czRHcEd5Nzg0Y296U1F0b3FPMDNURU5kb3hjb0cteFlpS0JGeWVnTExMU0dBNzdYSXAxTWIzZnZSRTVFQmIwQ1YzcTdBdmlwZWtuU1VYRm4tQllhZ2c?oc=5",
+          "time": "10/19 05:03"
         }
       ],
       "indices": [
