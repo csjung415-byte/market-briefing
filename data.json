@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T18:46:27Z",
+  "updated": "2026-10-20T00:56:20Z",
   "markets": {
     "kr": {
       "news": [
@@ -9,7 +9,39 @@
           "t": "[주간증시전망] \"폭락장에 주식 팔지 마라\"…코스피 반등 이끌 ’세 가지 변수’는 By EBN",
           "src": "Investing.com 한국어",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nYVlOaEx1TE45VDFTczRINS1GWU1BQlBqYzNGMVl1WmRlQ2xUazlRaDdYVDVXUm5UTk9yRDQ0X1JtMktIT3hwZ21xeW1kVDZiRU1zZjVaaWxuYUtWN1hJdjdFN1hLeTk1ZGF4RkRTRzc?oc=5",
-          "time": "10/19 07:47"
+          "time": "10/19 10:47"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "해외 주식 순매수 한 달 새 4배…증권사 수수료 수익 반등 기대",
+          "src": "CEO스코어데일리",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9udnZhN1p6YVBVbTNwczJMd0RZSW8wLXY3dS00R2VwcGdHRVI4NVZDSFM2SUM0N1ZFQVNLcC1YYVcyVWlWc0wxcDZ2UVQzZlJnQnNKVGwwZHhsOTExQjd3d2ROcmVrdTZW?oc=5",
+          "time": "10/20 07:00"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[개장시황] 美 기술주 반등에도 코스피 약세…외인·기관 '팔자'",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zVXBOT3ZFZ2dGUUpDVW4zUXlxZlNTRmhyMENJdk9PdU5PNXBuRFVKTUdiQ3o5Q0h2T2ZaV1JPNmxyUHNMVkNGNU5hOEZVMWxKMFpBenQxX3VyUkxn?oc=5",
+          "time": "10/20 09:24"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "실적은 최고인데 주가는 급락… 지금 주식을 헐값에 던지면 안 되는 이유",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkN3SHFCZFc2UXhZaGM4dDdHM1JKUExGOFNKR09YbWtCYVZQYWxid2VxTUVhNmhEa1BYZXdVMVhPQlNpMlZnYzh0MVJ3U0tlem02TU9sV2gxb3U1QS1COTNIR29YX1VlX19Pd2ZkVHNHME42dEN0OUk3LWdueHlfbThuU2NNWHhkaENN?oc=5",
+          "time": "10/20 06:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "간밤 뉴욕증시 올랐길래 기대했는데…코스피 장 초반 2% 하락이라니",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56b0FXa0hqLV9XZDBWM1NTT1piMVNJb2ZVeVlKSkFDRXlYRzVOTEYxemVrVlRndXgwYzhOaVFkR3g4SU5VY2xyM1JFVVpCUXNueXc?oc=5",
+          "time": "10/20 09:40"
         },
         {
           "cat": "macro",
@@ -18,58 +50,26 @@
           "src": "연합뉴스TV",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DRE5HeDZJb2JUbUR4Qkh0NDFxWFRpSzYxdkhUdUNoVGRwTEZRUWRNakFZV01ES2xOUWFZM1J3enR1QnVvUTVGYVphVHR1LTlXWXNRVHBUUHhMSUFkcHpoc2ZNN2dXMnM?oc=5",
           "time": "10/19 22:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "황현희 \"주식 투자, 목에 칼 들어와도…\" 코스피 하락 속 발언 재조명, 왜?",
-          "src": "이코노미스트",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TRkxrVXkzcTMwUkN5U1FBcExBclFpMi1HYkJqTkxiSTJTTWVLZXFTMUtvMkZNWjdVZHFXNE5fbW4wWkNqR3RzTkZIekkxR3pPWUQ5anJDWTUwT0tpel82cm9R?oc=5",
-          "time": "10/19 13:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“결혼자금 다 날려, 미칠 지경”…코스피 급락에 ‘결혼 포기’ 선언",
-          "src": "중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaVFYMWxnbHVKb3plUEw4R01SUUpneXNPTC1JWkw0dl9lbFVkdXhjZG8yN1RwRmxuZy1iMDEwbGFBYzZWY2F0alpDLU1PdnhYTUpIZHFn?oc=5",
-          "time": "10/19 16:48"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 세계증시 중 '꼴찌'… 외국인 매도 낙폭 키웠다",
-          "src": "영남경제",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XNW5nZzExdXdUbUxKNHNQVjJKMGdrYVdmM1NJMmhsZkNpVzJ3cEZZQktfYnhOZTFKQzM5Z1RmNlV0cW8xSU01Mmg0UWhHbXFEMU1XbC1lT3R3YWRBdGs1Q3pGWF95amM?oc=5",
-          "time": "10/19 15:11"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[마감시황] 외국인 매도세 완화…코스피, 장 초반 3% 급락 딛고 1.8% 상승 마감",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnTWNwNU5yNmNuY181MTlGTHhMWG5yOXhEbHZLYkdWZkY5amlFOE94RXpEbDBlazNmcHRuRHFyV0o2Wi1XSU1mdDNIamtZRk53dXNKZXdqdkd1bUVX?oc=5",
-          "time": "10/19 16:01"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5668.05,
-          "pct": 2.05
+          "value": 5628.93,
+          "pct": -0.69
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 794.78,
-          "pct": 4.46
+          "value": 792.47,
+          "pct": -0.29
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1331.6,
-          "pct": -0.7
+          "value": 1325.27,
+          "pct": -0.61
         }
       ]
     },
@@ -77,11 +77,11 @@
       "news": [
         {
           "cat": "earn",
-          "catn": "실적",
-          "t": "Nasdaq climbs over 1% as AI-linked stocks recover ahead of key earnings",
+          "catn": "빅테크",
+          "t": "Nasdaq climbs as chip and AI-linked stocks bounce back",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21SVVhfUjZRQ255YlFzVWVEZ3BFMmt3aWlDdkVPVENFOExuRE9KOXZ6WjNqbzdHelUwdzZudy02TjlyNkxVZWcxQmFzZF9NaUE0SFZYaWI3dmxlYTBVdjdULWhLMkNQNnlMUXFaM1J5T1dPMEo3ajhkb0RQLUM3M0pkYlFqbHNKQ1U1c3k5WlUtdjR1UkNCV0JkdjJZTzdIa2c?oc=5",
-          "time": "10/20 01:17"
+          "time": "10/20 08:31"
         },
         {
           "cat": "earn",
@@ -102,46 +102,46 @@
         {
           "cat": "earn",
           "catn": "빅테크",
+          "t": "Palantir, Datadog and chip stocks bounce back as Amazon lifts Wall Street",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLTJxSmJCOU8tTF9wMHl1cEJ5eXlUQTJEcXhyRjUxQmZoZS1FM0pLd19pUllsQ2p5anZGMkgwU1F5bFFRMnFLUzJaY0RZWldfX0QySjhBWk93YWNSQWxLM3VBZWhwdFVOVVpfZk9YZktkYkVWdjE2WlJvVUFHZ2swYzZzZDcyT1Y5SXFoZExEUmRDXzBtaTlwQWJIMGVCM0pTaU5nRTBERjdTX3dSZkVTZlRoS3ZNVVh4dGlKM2tad2FhMkozc2d5Tg?oc=5",
+          "time": "10/20 05:40"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stock Futures Rise as Investors Make Cautious Return to Risk",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR09CMVhyVnJreGlYdlEwV1VlakQ4WV9SQ0d2Z251cmNZeWJQcDI3eDUxX2VIY0I2UzRpVk9zSkRfdDlsQVhEdkgtbHlWUmlMYlUxMElvVlZYa3pBSDVWaWhPMlBrOVRKVk5nZVNZZ1FEcnNvdEx5UmhLdzlDRUxjUnp4OUxoWnFNa2YyWlB6TDAwenV6ajRrRnczOHNGR3dncEpnbmJDQQ?oc=5",
+          "time": "10/19 21:31"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
           "t": "Investors are buying on Monday despite fear the AI trade nightmare scenario is far from over",
           "src": "CNBC",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5URm5yOE01QkxWQzVkd2gzX0xDSEVfdy1WYXVmNmhCZjdhNVlUdzktX0V6Ykw4S2JBMi1RcE9VWkNwc25hUzczLW9Qam5XeGJuUUo4VHI0UC1FcFFHNHh3V3lCZlQzQjM2eENpWGZ4eF83c190bUh1elk3WEx4Z9IBgwFBVV95cUxNT212QXdabDFacG90TmZPRk1EVkxuVlU3dmhZazBCZHMzeEZUUDdwTlRaQWlSX0lFWTVtd0d1S3hWZUcxTEY2ZzhDTHc4b3FsaXdVenB3ZHpFZC1MYlF0bHp4UU5HdklzanphMUFVR3g4ZXJQWGxHeVlwbExNTzVWRGM0aw?oc=5",
           "time": "10/19 21:00"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHBWeGMwNUtxVXF0U2d0WmdrMWtWN2RJWVZyOTRTSEl3NDNIU2ZOY2MxSWZ6c0JFQV9LY29yVDhTOFRxUTgycDU5MjJLcGFKT1Exck9HZ3NpeEhqd2YzSVVTbXBDYkMtZ1pZMUt2WGZ2Mkw5NmtFSGV2WkF3YXJSM2t1TzdzQ2JMQVVuRXMxQTlQcVhRTzJqSG5peDFMM1JQbGItYnlkWQ?oc=5",
-          "time": "10/19 20:30"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "2 charts show why Wall Street is right to worry about tech stocks",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlpWaU1DR0Z6NW1OdUoxQndFVEhOQ0JRM0FqLVhFNFhlLTdYYmdINVA3bDBiWG02Z2hBZm0zZTBTWXNFNjJGVG5lNWVoeGN3YnlldEUyR1RhLXREMDNob1JldjBYMmFOX1l0TjdiMGwwYlJfLV9aa2txZlNnZXoyX3F5LUx5M1daaDRQaVpCY283cEVwVGNnNmhDbHJKMkZEdW12SGdRRGxTYXlQZkpBd091SjFyQThSRmp3eXFadw?oc=5",
-          "time": "10/19 23:56"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7704.18,
-          "pct": 0.58
+          "value": 7690.73,
+          "pct": 0.41
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26469.71,
-          "pct": 1.26
+          "value": 26430.89,
+          "pct": 1.11
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52057.17,
-          "pct": 0.11
+          "value": 51966.03,
+          "pct": -0.07
         }
       ]
     }
