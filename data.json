@@ -1,8 +1,40 @@
 {
-  "updated": "2026-10-20T17:23:58Z",
+  "updated": "2026-10-21T00:24:45Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "[마켓뷰] 메타 실적발표 앞두고 뉴욕증시 혼조 마감…코스피 향방은",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cXlJaEVmM0V6Q2E4am1VSFlycTNFLVZseHltSlF3U21vZDZkZk5TbFV0dmoxSEJlRGV1ZFZPd0o2ZTh0NlZzTFVDaDUwbktQUVVteGhWTno0bWfSAWBBVV95cUxNenQxb0NpQmJZUUlQUzhMWE5hdjhoTWpxZmhmdk9fZk9VZnFRLV85T1IwLWpUNl9sSjZac042SkZFZlhmU1lSd1llQzBBTFltTlVVblA0ZmZPR2gyay1EUWo?oc=5",
+          "time": "10/21 08:08"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "4년전 급락장선 150조 증발…올 하반기 급락장, 지갑 얼마나 얇아지나",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wRlIwV1E1eTBNT1NlSDdhSm5iOHRUZER2MWVHV09EbUQzOU1RTGtMOG50M1ZsWlBQdGlEZWlPLTRtb1d6Zy14QlBPY29yZFNiM2c?oc=5",
+          "time": "10/21 06:03"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"코스피에 질렸다\"…서학개미 美주식 4.3배 더 샀다",
+          "src": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95SjVTOFJQSHBRb3NSby0zLTE4MXNlekdxQm5SY1RaSU94eUx1X2VNSXN2bnhLaTNuSVcwbXJ5RWR1YXV2NWNic0dySzBsZE0yLTdINQ?oc=5",
+          "time": "10/21 07:04"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[증시-마감] 亞증시에서 코스피만 '급락'…5,500선 후퇴",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PQVJ5cFd5R0hvZ3p4c2RzN2thVldMUHdRTWJKNDJOdWFNSFNxUmduV1JyM09lWlZjNmZLaFVqNS1sVVYzaks3ZzIwd3JlU0owT0c4VW5sdDVuYkphZENfd05KRHFQZWlMVzFjUGR3VjE?oc=5",
+          "time": "10/20 15:58"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,62 +46,30 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[증시-마감] 亞증시에서 코스피만 '급락'…5,500선 후퇴",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5UnB6OGtGdTJiX3dwNDQ1QmJmQmVpMGhWMzA5NXBYaFBwc3llYUtBeF9Hc25vSE9FV3pDemxFS0JnZllza0xEMHEzUXc1ZmpoeXlick9QT1k4aHlKeUtwRFAxdTJYclp6bGlzYVFHVE1VQQ?oc=5",
-          "time": "10/20 15:58"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "증시 대기자금 9개월래 최저…강제청산 주식 5일째 500억↑",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yMnRoQlRtSmlBVXEtbW0tOTU3QnZkZXRzcTkyZWJVX05qaXMxaW5oT0JDWUgxdkxOTFk5X0V6NnNva2RzajF4dm5zdFVHVG4yVVNmZkZUeWt5X0XSAWBBVV95cUxQWmk3X0hhcFpRd2szQi1vWTRzS1owWDk5dWZIODA3d19vdDlfdmNYZUVmbC1KZGtYUmN4RWJQWW9NaGVYaFJNNEhQdnl5dlpENjB0QWVnMVYxc01xSWJqVno?oc=5",
-          "time": "10/20 16:41"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "삼전닉스 실적도 역대급인데…\"한국 주식, 코로나 때보다 헐값\" 왜? - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01Y2RMck1PeG5vZHNmRXZad3ZjWWxEckt5MURmWWptZHhpNi05cEcwWkFrcHdEbWhuS3pjaEprTmpoeGxUeUp3QUpOWGNZSHkyY09fSUE0VEQyZWR0Z3FGMGtfNkl6UkhQ0gFuQVVfeXFMUHRIdDdwUE15TnhuUE9ybFEzbnd2cHdzNjRSdWZURm5xc1p6SENDME14alIxeFpOM0Y3Ymh3UUd0RHBmNng5dHRFZWVXWmtCOGRKQ0NPOVBGa0NLRW5HLUl3bmlOOTNzLVl3STh1WlE?oc=5",
-          "time": "10/20 16:13"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마감시황] 코스피 3.73% 급락해 5550선…코스닥도 3%대 하락",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zM2hjM09pWXJWOG9LdDBMR0NwU2tmbkRIR0xrUmFBMG5lOWhBMkpqaFZWYW44aVJEVDFYMUZtcmR5c1dOVXNZakxDX29sOGNKTXl6Z0NGWjFtcU0z?oc=5",
-          "time": "10/20 15:58"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "급락한 주가...이재명 대통령이 언급한 ‘증시 대책’에 쏠리는 시장 관심",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TZW4tTmdaMWRLWDlHR0QzVVFBMlI5azREeFNVT3BYZzliTGdkQ0hLekVoa2V0YTZDRjg4ZkljRDJEaDNLQWY5S01mUWdhYU5Hcnc?oc=5",
-          "time": "10/20 17:42"
+          "t": "폭락장에 계좌 열기 무섭네…부자들은 '이 상품' 갈아탔다는데",
+          "src": "비즈워치",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PZjFVb3FhQmhqbFluX1hLV2hyMjNKVVdCcHVMQnVjUEp2dHJsU1JhU24zNnRkWmZjQ1NFUGVzWHNYU2hpMGJaQXlJaW1MSEl2eUtOLWRFTEw4Q1ZNMF9vSy1jYnJJRFB4MlNz?oc=5",
+          "time": "10/21 08:00"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5768.01,
-          "pct": 1.76
+          "value": 5663.24,
+          "pct": -1.82
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 808.89,
-          "pct": 1.78
+          "value": 794.8,
+          "pct": -1.74
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1326.43,
-          "pct": -0.52
+          "value": 1324.58,
+          "pct": -0.41
         }
       ]
     },
@@ -78,26 +78,26 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street gains ground on healthcare stocks rally, oil retreat",
+          "t": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
-          "time": "10/21 01:39"
+          "time": "10/21 06:14"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Dow leads Wall Street higher, investors focus on healthcare stocks",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmMybVh5YTdzU09XVXBpYmoxOXlyUHhoMFJ1aDRzTENGRFVHQmc0OXpZZ0k5NjFBNmVxREJ6SWlQQk1tNDR3d0JTUzFObGpjWHBEYl94ZldLdjl2ODdiR1dqRzFTVGlCZFRKVEk2NUt1Vy01UTZZdlNXWjNpWWhoWER2dnBUaVNfb2syMzQtMGI?oc=5",
+          "time": "10/21 05:00"
         },
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "Most of Wall Street rises as AI stocks keep swinging | National News | 2news.com",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaEQ2Q3I3TjFzSlQ2Wk9VYjFFVzQtN0luOE9WV2h2ODA4YlNyOENiOXYtMmh6YjRIRVVJSGNhbFE2blkxcEJBbmVQRkh5RXV3eDMwU0FUaC1WZkF5M3l3OTVOd29lNy15ZzVVM3hqcDdfQ0RSZEY5eU0yMl95NjA4MDAyMkZNMUwxelJVUXNheVVseXh2RjdZSHI0T0ZQMm9aWjhZREQyR1Y2bWtUdWhIeDRROHFCWEx0bW82YVNGVktGVi1rTlY5dkp0SDV1Q01mNUE?oc=5",
-          "time": "10/20 23:32"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "The Best Trillion-Dollar Stock to Buy Right Now, According to Wall Street",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVlHSkktQ243bGxMYTFpNUozZ0Jka1M5QlpKZVF6U3hNU1lWM3ZzbGNtVmNvWWlNLVJCZG9HQjIxS0IwbW84QnMzdWJhOFM5WDFYTmc0akE1TENieFllUDNGSXdndXNycldoOFhBQzlIa3YxYzBWTmI3QjNZbTBNb01vNmI0MnZ2QVZsbjJ1cXBST050MmplSlp0UQ?oc=5",
-          "time": "10/20 18:08"
+          "catn": "실적",
+          "t": "U.S. stocks rise after companies deliver strong profits and oil prices retreat - Pittsburgh Post-Gazette",
+          "src": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU5JUHpCVE5nNDBhbEctTDUxbHBoSzNkY3o3US1mNFhIeW9kajVOYUNmVWFCQURFZldKMnJsVFRJNXhONkc0a1Z5NDcwYmdzVGIwZGZnTHZJWGZEMktIeVdkYkQwMXBVd0hfTVFqd05UTmVIM1Z3ZHhvcUhoaUg2TVJWT2I3cXBGM0xINmw3cDZSSHl4MVpua0F6dVpHenBQeDEzNngzamFPUWR2bXhn?oc=5",
+          "time": "10/21 07:51"
         },
         {
           "cat": "earn",
@@ -108,40 +108,40 @@
           "time": "10/20 18:20"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street gains as healthcare stocks rally, oil prices fall By Reuters",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2RDZTZ6bV9tdDR5Mzh2T0dJTlo1M0xzRENfWERjT000TXlmVnRZdmNBSGRfaDk5dUNjdkxZUHZpZVFoSjkxbFZpTlJLVkdLM0NmNmVNVjA1aVVtalk5LWpBZ0ZscTRjNG9MdmpPaURmOU5EWjlRM0RXMkRqbHI5M29sNzVxUjVjUDV4cXNteElodGg2azljTE50UmVLS01tZ0ZNdXJjcmc2X0JPbVE?oc=5",
-          "time": "10/20 23:51"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stocks Face Headwind That Ended Other Bull Markets | Markets A.M. for Oct. 20",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMl9WdWlxNTk1b2k0VUhZN0FPVG5zbmVjQVRHdjlsNnhraUcxdGdtOUs2V2t4TmdRTm55NWpBblpJcVNqdk9QUjdFS3Q5RGpOblNmVTd5VEVhbTNIUWRBS3Nral9na1lROEJpdUNNV05CUFpWOWFXMDNzbDhXblpTNXBhZXJLRWNhUU9vb3I0ZDNoaE9ySjZIMkZB?oc=5",
+          "time": "10/20 19:44"
         },
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "Most of Wall Street rises as AI stocks keep swinging",
-          "src": "The Killeen Daily Herald",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTU1oWUtVb2xLOVNoN281SlZ6akJJQ0s5RXl3a2lUTjNlaGF5UnFIZFNLTXJNWWRGbkk2OEtJaUhLUV9qbUVhXzlIQVdnYkJwd1VyT3VfazhrZWhvSHVtNHY2UzVCOVNOWV9DWHRnbUFUZjB3Q1BPVHB6b1VYY3U5Nk1JbUlYMmtmeU5iOWYwekhKTjlrY3U1Q0NiaVI1bjR1c3NRUEMzNW15SXpyYUkwdWJ1ZWRXVXpxaXlrSmVIY0I1LUFwWGx6cGwwU1c3aWM?oc=5",
-          "time": "10/20 23:32"
+          "catn": "실적",
+          "t": "Most US stocks rise following strong profit reports from Equifax, Hasbro and other big companies",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
+          "time": "10/21 05:50"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7721.21,
-          "pct": 0.4
+          "value": 7712.57,
+          "pct": 0.28
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26491.74,
-          "pct": 0.23
+          "value": 26424.82,
+          "pct": -0.02
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52477.34,
-          "pct": 0.98
+          "value": 52495.88,
+          "pct": 1.02
         }
       ]
     }
