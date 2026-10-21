@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-21T00:24:45Z",
+  "updated": "2026-10-21T17:28:14Z",
   "markets": {
     "kr": {
       "news": [
         {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "롤러코스피에 美 증시 향하는 서학개미···순매수액 전월 대비 4배 이상 늘어 By 투데이코리아",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02dTRCY3FvOGotSlkxdEFncDdwYlBzQUJLaVZ6eE1BR3RadmlZajE5SzZ3eUJRa3VZM0tBVlJoeEVSN2hOTTJ2U2NMVTVYRnQwOGNsZXJRMC1rS25QZ0w0YzFMZUFqdG5tMUpPd3hVVjM?oc=5",
+          "time": "10/21 17:32"
+        },
+        {
           "cat": "earn",
           "catn": "실적",
-          "t": "[마켓뷰] 메타 실적발표 앞두고 뉴욕증시 혼조 마감…코스피 향방은",
+          "t": "[마감] 코스피 3% 상승, 美 실적 기대감… 돌아온 외인 매수",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DMUc0NkIxeHQtUS0yLVBtRHloalB4ZUlDdGJ3WUdDdndNSmxZeVVJTXQzMUhzc2wwRVVqVU41S0JFQ3pndlBzb2Z1U3gtUUpBOGYxZU41S3E5anpkYWxMMGxGVXBDekZCN29zbXBOd2TSAXRBVV95cUxQSjdMSGdzWjFBazhXeFBqa01jdFZjb0JSTTJ4aXktZlU5em8zSXNkNWlzOUtyMFg0VmlZQ1FhVFpjMVFLSTNMRDNHWUZjYkRsQW9EYl9TRTlndEFIZ3NNSGZDSmNnZjdjMTdfT0Z0dEpIUnp6Tw?oc=5",
+          "time": "10/21 16:07"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "매수 사이드카 코스피 +3%대 반등",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlQ0FIM0hoWXJNZ0cxaERqekVfMGZYYXlIZVNNek1LNW52blA2bldhT1NLTV9TeGo2NU5CajZINm84U2xHSEpkQU0wekEtYVRBanFheTVJMWRWcjNhR2R4NWtCWWFUMG9RMU9LXw?oc=5",
+          "time": "10/21 16:05"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "흔들리는 증시에도 서학개미, 반도체·韓증시 레버리지 '사자'",
           "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2cXlJaEVmM0V6Q2E4am1VSFlycTNFLVZseHltSlF3U21vZDZkZk5TbFV0dmoxSEJlRGV1ZFZPd0o2ZTh0NlZzTFVDaDUwbktQUVVteGhWTno0bWfSAWBBVV95cUxNenQxb0NpQmJZUUlQUzhMWE5hdjhoTWpxZmhmdk9fZk9VZnFRLV85T1IwLWpUNl9sSjZac042SkZFZlhmU1lSd1llQzBBTFltTlVVblA0ZmZPR2gyay1EUWo?oc=5",
-          "time": "10/21 08:08"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfaEcxTXJMa0FkMjU5VGZVV1J2Tk9KdGxfMkhZeWRhUU1SOTRVV1M2YjdwZmpsdHJUdXhUS3ExcG0zX3V3WDMtYmQzV1h1NEFQZnlZNzNwOVB4MlHSAWBBVV95cUxPNXVORFhFVzU2M3FoUWtiOTZFc2wxaTkxek5MNVRTaGZiOWc4MVpDTnhmMzdFYXZJb2Q1bEZuLWJ2NjRscC1tNGJoUmd3TXpTNG9TazZPRjg5bzBLYU80bHk?oc=5",
+          "time": "10/21 16:46"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "4년전 급락장선 150조 증발…올 하반기 급락장, 지갑 얼마나 얇아지나",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wRlIwV1E1eTBNT1NlSDdhSm5iOHRUZER2MWVHV09EbUQzOU1RTGtMOG50M1ZsWlBQdGlEZWlPLTRtb1d6Zy14QlBPY29yZFNiM2c?oc=5",
-          "time": "10/21 06:03"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[마감시황] 반도체주 강세에 코스피 3.3% 상승…매수 사이드카 발동",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93ZWZtUldqeUpNSDZkM1oxX2xGSXVFN3JJT2NwcVlmTWl6OEJlN2wyTENKUklGc3M1RVBlTk5OWE1XWHItNHVzMDg0eUV6dEQ1enFqWUo3bkxUUlps?oc=5",
+          "time": "10/21 16:02"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"코스피에 질렸다\"…서학개미 美주식 4.3배 더 샀다",
-          "src": "데일리안",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95SjVTOFJQSHBRb3NSby0zLTE4MXNlekdxQm5SY1RaSU94eUx1X2VNSXN2bnhLaTNuSVcwbXJ5RWR1YXV2NWNic0dySzBsZE0yLTdINQ?oc=5",
-          "time": "10/21 07:04"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[증시-마감] 亞증시에서 코스피만 '급락'…5,500선 후퇴",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PQVJ5cFd5R0hvZ3p4c2RzN2thVldMUHdRTWJKNDJOdWFNSFNxUmduV1JyM09lWlZjNmZLaFVqNS1sVVYzaks3ZzIwd3JlU0owT0c4VW5sdDVuYkphZENfd05KRHFQZWlMVzFjUGR3VjE?oc=5",
-          "time": "10/20 15:58"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 계속 하락하는 3가지 이유, 앞으로의 전망은?",
-          "src": "톱클래스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lZDFOaVBpcDFIWlI4OG9BZFlXa2FWVGFwdWt4TDZKdUd6U0ZNWExYRGN5bDVZZldHcXpZYXBmMnYzYnBNUERfSFZrWmJjZnVpaHNUNHlhdG9YRkptV0NQTkgxQnFwZkVEcWpuaDhKaknSAXBBVV95cUxPZWQxTmlQaXAxSFpSODhvQWRZV2thVlRhcHVreEw2SnVHelNGTVhMWERjeWw1WWZXR3F6WWFwZjJ2M2JwTVBEX0hWa1piY2Z1aWhzVDR5YXRvWEZKbVdDUE5IMUJxcGZFRHFqbmg4SmpJ?oc=5",
-          "time": "10/20 17:54"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "폭락장에 계좌 열기 무섭네…부자들은 '이 상품' 갈아탔다는데",
-          "src": "비즈워치",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PZjFVb3FhQmhqbFluX1hLV2hyMjNKVVdCcHVMQnVjUEp2dHJsU1JhU24zNnRkWmZjQ1NFUGVzWHNYU2hpMGJaQXlJaW1MSEl2eUtOLWRFTEw4Q1ZNMF9vSy1jYnJJRFB4MlNz?oc=5",
-          "time": "10/21 08:00"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피, 반도체주 강세에 5,730선 상승 마감",
+          "src": "프리진경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SUW13NXJOSjRKT1RzQTVRNXZKZHBsNGxCXzB0TnV3b245bUpnYjBUNkw4dnpld1FwTFBBa3o3Nk5ybUV1ZFR3XzZNYUJxXzh6NjA5M1EzNUxTT0lBcTRaT0kwSnpkUXBUc0lDYg?oc=5",
+          "time": "10/21 16:42"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5663.24,
-          "pct": -1.82
+          "value": 5552.74,
+          "pct": -3.73
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 794.8,
-          "pct": -1.74
+          "value": 781.97,
+          "pct": -3.33
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1324.58,
-          "pct": -0.41
+          "value": 1325.8,
+          "pct": -0.32
         }
       ]
     },
@@ -77,71 +77,71 @@
       "news": [
         {
           "cat": "earn",
+          "catn": "실적",
+          "t": "Wall Street Futures Rise as Corporate Earnings Support Technology Stocks: Dow Jones, S&P, Nasdaq",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbE9WVl9QMjc0NjFFV2FmaC1HSk5iSkpGZ1ZWZU9KMm9hbml2MHg1YXM1Mk5OR0VYQlU2d05RVTBGT0Zpei1aS1N1dkQ2VmpCOWFHMUtKbGJ1Q2RRLXFNNmNTVHZPRHlQNUdmVjlaQ0dFV0NuZ2lBVGdvZUtRTHQ2X0ZlaE1ScDdHYzFRRHdiV2hyY3Y0R0huOWQwVDFPeTZm?oc=5",
+          "time": "10/21 22:20"
+        },
+        {
+          "cat": "earn",
           "catn": "빅테크",
           "t": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
-          "time": "10/21 06:14"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Dow leads Wall Street higher, investors focus on healthcare stocks",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmMybVh5YTdzU09XVXBpYmoxOXlyUHhoMFJ1aDRzTENGRFVHQmc0OXpZZ0k5NjFBNmVxREJ6SWlQQk1tNDR3d0JTUzFObGpjWHBEYl94ZldLdjl2ODdiR1dqRzFTVGlCZFRKVEk2NUt1Vy01UTZZdlNXWjNpWWhoWER2dnBUaVNfb2syMzQtMGI?oc=5",
-          "time": "10/21 05:00"
+          "time": "10/21 08:44"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "U.S. stocks rise after companies deliver strong profits and oil prices retreat - Pittsburgh Post-Gazette",
-          "src": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU5JUHpCVE5nNDBhbEctTDUxbHBoSzNkY3o3US1mNFhIeW9kajVOYUNmVWFCQURFZldKMnJsVFRJNXhONkc0a1Z5NDcwYmdzVGIwZGZnTHZJWGZEMktIeVdkYkQwMXBVd0hfTVFqd05UTmVIM1Z3ZHhvcUhoaUg2TVJWT2I3cXBGM0xINmw3cDZSSHl4MVpua0F6dVpHenBQeDEzNngzamFPUWR2bXhn?oc=5",
-          "time": "10/21 07:51"
+          "t": "US futures mostly higher as Wall Street digests earnings from SpaceX, Netflix",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWVJEY0R5SjhZNmFoVnhGQUl4eGZyTWprWkpxTVV2ZWdQcFlwbE54bGlHZmR2VTl2ZDhmUlBOa2xmdU8zZGdLTi1qZjhFcFVocUZfd05SZlh6d1hhNndmQmFHNHJUNnBtWjNLN0s4cjFSY2xfVEVsNlQzS3pHak10dElSc1JBT1U1cE9KU2V0RV9hYjVfZzZFT0xyd29xM3ZxR21ldkxTejZhS1NqQjJKWXRSTFBuSkI3YzJoZDUzb3EyTGdsU242ekNMYmxMeTRFWWREbnN3MWJWcGMtSXdXOFlwTjhBYm02QThxNnJpUlZ6dzVGR295U0ZHdmc1ZEpfQ0JDazRGcw?oc=5",
+          "time": "10/21 20:44"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street loves this corner of the stock market as jitters rattle the AI trade",
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street is turning to quality stocks as AI trade jitters, high rates, and narrow breadth bite",
           "src": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM056SWNCbE5tdGlSQVF4d3RpdXdLdUFKamR4WXJZRlc1RmVLY29WNE5SSlNtM1VNdTFlMjVMdTNlbkttODJMeVhsR1R3a1U1ZVotRGN2OGp6LTNlN2w4YzcwcmZEUHNnWmdDeFlOeVZDNERLbjdPRkZMYVpENnpMV256NWhfV240Ni1pMXI3Z05ZUXcxR1Q0enFtendYakU?oc=5",
-          "time": "10/20 18:20"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3lZMktjZ2JGUW1TQ1BVajhoN2ZweklTRTh2UEYyR1QwVUM4M1BIYjBSSFhPb3hmTHBQTURVNG5PNXZWSFlzbEl4WDlGNmxpRHkxcWpZTmxHaUZSdjdnS1BwOEdORHFKci1vZXdjRUdxTTVLWjQ3cHhoZGIwbTRoRGtGakd5ZEtpczRLajA1MW5kTnJnejZyb0p3eVI0aHN6SjZZMQ?oc=5",
+          "time": "10/21 18:50"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Stocks Face Headwind That Ended Other Bull Markets | Markets A.M. for Oct. 20",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMl9WdWlxNTk1b2k0VUhZN0FPVG5zbmVjQVRHdjlsNnhraUcxdGdtOUs2V2t4TmdRTm55NWpBblpJcVNqdk9QUjdFS3Q5RGpOblNmVTd5VEVhbTNIUWRBS3Nral9na1lROEJpdUNNV05CUFpWOWFXMDNzbDhXblpTNXBhZXJLRWNhUU9vb3I0ZDNoaE9ySjZIMkZB?oc=5",
-          "time": "10/20 19:44"
+          "t": "Wall Street drifts as SpaceX climbs and Netflix falls",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zalVmekVBUlpkSWJ3T1BUalBzZUFlcDZnckp4NUxtb2x5N0gycGZZNEVqeDVjdnJEVnJBS1N2OTIycEpoQjRYdHZreUoyMy10T20taVY4RmtseFNsdU9EWmJEblFZSzVEMUdFUFhqc0pBRHd2eGo2OQ?oc=5",
+          "time": "10/21 23:55"
         },
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Most US stocks rise following strong profit reports from Equifax, Hasbro and other big companies",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
-          "time": "10/21 05:50"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "1 of Wall Street’s Favorite Stocks with Impressive Fundamentals and 2 We Question",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUhJM2RTMGxEanVmbVdvcE9mMGd4SEgzNERKRTM1TloyYkhfMlNxQWVrOGFuS1FsUXFzcnhVRF9nY3N0NC1rS3gtTmd0NzJ5VFM4cThhOEdrMjVDUzNhQW9uQWxCdXRNUDN2UDdWM1RJMTdkd2NkeEl2YmxYR1ZMdDhxVEMwcDJUOTVIMnVFZm1YYmNRcE5YR2FR?oc=5",
+          "time": "10/21 23:46"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7712.57,
-          "pct": 0.28
+          "value": 7764.9,
+          "pct": 0.68
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26424.82,
-          "pct": -0.02
+          "value": 26756.24,
+          "pct": 1.25
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52495.88,
-          "pct": 1.02
+          "value": 52714.9,
+          "pct": 0.42
         }
       ]
     }
