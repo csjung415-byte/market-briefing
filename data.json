@@ -1,15 +1,39 @@
 {
-  "updated": "2026-10-22T17:25:46Z",
+  "updated": "2026-10-23T00:26:29Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“코스피200 주식 선착순 증정”…IBK투자증권, 기업은행 연계 계좌개설 이벤트",
+          "t": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해”",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3pFVFNmMGtiTnQ0cFpBVXl3RHd2Q3ZVTW12NkFEMEwxb1c2eVJrMnV3QnQ5OV9tRGxvS2VkcUEtdU1OLVZQZXhEY1R1SmxibExaZHBDVVlFWGlWNU1UWFZmaDNKWW81S3huc3NEZ1B2eTA4UWZ1QkxjVWQ4MC10Q3YzN19Rdw?oc=5",
+          "time": "10/23 03:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓뷰] 美증시 하락·유가 상승…코스피 또 내리나",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EU1hVNGZwNmJJUnY2SFhJZ0FfeV9YekZkQS11ZUJhcV9qeklvUW9LNEZKOHBoVmJId3ZhNko0aWRpUmFSeVpMNWNobXJPOTcwQ0E?oc=5",
-          "time": "10/22 16:24"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfRWRzNGZhSE1kNk95Rjh3c1NxdDBxX1hKWVk3Q3ZnR2lWY3p2TVRpd0dBV1Jrc3Y1Y3d2QUhQZ3ByMzc1ZTlDOGtpNnNhSXNoS0E?oc=5",
+          "time": "10/23 08:25"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "증시 불안에 서학개미 순매수 급증…코스피는 '9300' 전망도",
+          "src": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWw4WG0tUGtwS3o3YmZoYmJaZmk3cVFENXIyMUUzVklCV29sWUV3M3NwOFJMNjF6ci1YLTJuMGl6OWNhY0Q5ZDlrYUo2aGRDcFhrMDFzSG96eHR2LXlmamRjRkZZelpwRDduNVQ4MGdzN2ctNkxjUGhLSXJMWUpudHpTZnFPVy1q?oc=5",
+          "time": "10/23 09:18"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "\"짐 쌀게요, 다시 미장으로\"…서학개미 순매수 9개월 만에 최대",
+          "src": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZ3NZa1FsWG1CTzJjbzhWVUpSODNwMGFtekE0Ym1iWFNlUDJrUnhCdEl2Q3p5NV9scWVrV0g3SlJXZTgyQTlTZFlxTzRwY3k2cTNJM1dZVGFVQ0NBX1dkVNIBeEFVX3lxTE5tcWlBbGI4a3hUcHZ2QUwxZ2pldWtCSUtTZnNVcXA0ZWdEdjZ1SmV6QzFQellrMXZsQXVsQTJmS1lfX3JOQXNLLWV0bDNtNjJMazk0d1MwZ3FlS0o4eVJlVjlCMEVyZlhpNkpxdDM4SEJ5N2tCSHIyXw?oc=5",
+          "time": "10/23 07:00"
         },
         {
           "cat": "macro",
@@ -22,54 +46,30 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "IBK투자증권, 기업은행 고객에 코스피200 주식 쏜다",
-          "src": "글로벌이코노믹",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXFnZ3Bocmlua2JCbkVsZ2NtU1Y3d0NUOXJiQUY1aXd5Wng0UkN6WWlUbmhQQjlLRTFFSWQ2cElQNWJERTJza1lxWjBrdVVsVUwybFNUU1RpMXBfcjFfWW1vMW9qcXIxUHlMc2ppMVQ3dHFFX3Y2YUpqR256UTVvemYwM2hMZzJt?oc=5",
-          "time": "10/22 15:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[단독] 코스피 급락에 '패닉'…개미들 14조 들고 몰려간 곳",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1WFJ0MDhzWWNSVTVKOVVrMWN4bGFLNEViQWdyYlM4Sm1UWWlPRDA5eHE0UlR0dlZ0SHo3Q2tzNmp1dFNkNEpycktvRWpzeG15V282RkRPZnFqQQ?oc=5",
-          "time": "10/22 17:53"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
           "t": "상승분 그대로 반납한 코스피...5,600선 아래로 마감",
           "src": "YTN",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fRTFOcTNFLUhyOTVrelc5akdDU3ZQRGF1V0x4Ni1OSE9VYmR4UkIwVi1WbnNSalVfNVNoNGxwSkx3cW1SWGdRTk1IWDZLR3RRTGlwZFVZd19HRnY3emhBdG9DTDVKNHVVb3JncmJWdw?oc=5",
           "time": "10/22 16:37"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "한화투자증권 \"내년 코스피 최대 9,300\"…5,500대 급락장서 강세 전망",
-          "src": "매일신문",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JN3pWN2ZZc0huVDRXMFppRjlCQnZDYTU1bThILURGYXZydHNXMUNMZElCaXptVGpzd2JyS3dkYWpBWlFkTDc5bTVGTzJTWThPc09lS0JRaUZBVUFMd1ExTXln?oc=5",
-          "time": "10/22 19:33"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5735.66,
-          "pct": 3.29
+          "value": 5363.03,
+          "pct": -6.5
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 792.76,
-          "pct": 1.38
+          "value": 737.66,
+          "pct": -6.95
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1326.14,
-          "pct": 0.17
+          "value": 1324.48,
+          "pct": -0.08
         }
       ]
     },
@@ -78,26 +78,18 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
+          "t": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-          "time": "10/23 01:44"
+          "time": "10/23 05:48"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Economic Sector Performance Dashboards",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1aZHRnWXJQdlUwdmU4ZExFUzhEVXA5TXBHSFBsNS15TzJCSWtfMGRtU09HNENQMl9mTzlBenQyVmtTOFBKaFJDQ2ZB?oc=5",
-          "time": "10/22 23:45"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "1 Wall Street Analyst Sees the S&P 500 Climbing to 8,000 by Year-End. Is It Time to Buy Stocks?",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkJPWkFmRTdleGNHRGpLanUxYTd2S1FpeTB0bjBLX1YxS2JJLVJPSElKWk5vM3FjemZNRzNiWXNBN1VreFF4ek1laWhDbUcwdjZUVFZDVzlzRzM3NGt5ZzJGV2l1WVNITnlaSmp5VFlPOGJKNE5LMl9sUU5PV0ljWXMtaWRtRy1meUo3VXRjQVZsU1RHcXlr?oc=5",
-          "time": "10/23 02:10"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+          "src": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NFI0QklmZmNMaUUzNHczNzhBcE96NzlsZWxQZk53ZlAybGlpSGoydktudkplQWp5STJwNUhYLTFRQjdKZXpyV3lkTG5YWnViODY1aEpSZTc1eWNBaGtwT1dMQkhPSUd4UjJGMGFxZDRPMVp0WURlTkw4NjVBc2M?oc=5",
+          "time": "10/23 06:50"
         },
         {
           "cat": "earn",
@@ -108,40 +100,48 @@
           "time": "10/23 01:11"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5",
-          "time": "10/23 01:37"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Why is the Stock Market Down Today? Tech Stocks Plummet as Oil Tops $112 and Geopolitical Crises Shake Wall Street",
+          "src": "cristinaiglesias.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdVFCOTVidWViSmFGUHF3TGlFQlpVMTEwak9WNHpkQ2JjeFEtcUhPQ1NtRjZxS1Z2TTZfVnVVWDZ6TzBnSFJsM2ctWURaMWhtQTR6bWRaUXRBS09abTNTYlg1bFUwZEVvalIxLWlqYlFGbEJMOFBRZ1poQ1JKY2tkRTZfeWxYYWdNS3ZZQmY1bTJnc1U3OWM4cnBFdnBheHpCV3ZSelBDOG9ELWdYa0NCODduYkNoR0pfak9OVkdBblBkZEVhUHdtUktRS0NkcHBwUWVRbDZIZ2hkLVlfWWtPQzZGQXE?oc=5",
+          "time": "10/23 03:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "What Different US Midterm Outcomes Could Mean for Markets",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXdWUWlDSEE1bW1YY3A1T0k3S3I5T2VHY1hwejNnbWI5OHlXWUtlaFRvMllSTEFYbzBoZTlqSXNXdVJ2TmV4emt2SUhFTnF6V1FkTHhYdmdhWU5TLVRqeThsLTB5MlhxNHc4SEN1bjFVOVJRTXRoNlgzT3dqMzZQenhEcENZeTdmQnZzSHdJSG5lRUNHeVJMS20tWEFfU1hSck5RZE5CR1hQSlVSeE5LUlNEcDByUHc?oc=5",
+          "time": "10/22 20:20"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5",
-          "time": "10/22 08:11"
+          "t": "U.S. Stocks Fall as Tech Selloff Deepens",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5",
+          "time": "10/23 03:42"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7654.29,
-          "pct": -1.33
+          "value": 7663.43,
+          "pct": -1.21
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26051.16,
-          "pct": -2.44
+          "value": 26008.86,
+          "pct": -2.6
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52759.83,
-          "pct": -0.18
+          "value": 52867.98,
+          "pct": 0.02
         }
       ]
     }
