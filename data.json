@@ -1,15 +1,31 @@
 {
-  "updated": "2026-10-24T00:20:40Z",
+  "updated": "2026-10-24T16:08:11Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "투자자예탁금 4개월여만에 51조 감소…올해 최저 수준으로 뚝",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVjlfdG9UZDFDNWJQbVVFMk1OekRLLWp1Y2pPM1d2UVdjZG9OQ056MlpnNXdXSGUzcEpCZnd2X1ZRMDZHbTdBNGFqUnBFMFludEdJdDFSUW56LUhvUnZvS9IBYEFVX3lxTE9sVjlfdG9UZDFDNWJQbVVFMk1OekRLLWp1Y2pPM1d2UVdjZG9OQ056MlpnNXdXSGUzcEpCZnd2X1ZRMDZHbTdBNGFqUnBFMFludEdJdDFSUW56LUhvUnZvSw?oc=5",
-          "time": "10/24 08:00"
+          "t": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널]",
+          "src": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQVRRSmZVQWNpbVlqQXUwVDVJQWluOTVNNk1fTFJEUjgxd0VjZkhUb1R0QjlwMVN0bTZZbktiUDQ3QmQydlRfOGhZY0xSZUJNUWFfTkpDQVZLdw?oc=5",
+          "time": "10/24 19:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"외인 놀이터 된 코스피, 못 버티겠다\"…개미 떠나자 50조 증발 [분석+]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VzdNX3A4a2lDak9Ub3A0elgxSjdLN3I5SUxCM28tZkd5T2VaSGhUZUxrR2N1SUZBR1lzTjRTNklxa2RRdE16VHY3NUd4dS1DNUxoMVI1WnU5QQ?oc=5",
+          "time": "10/24 22:03"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "55조원 매수 끝낸 삼전·닉스…코스피 다음 '수급 방파제' 누구",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdUFDVmJ3LXlZMXcxbUtualRzWnBpWDkteTZoenoxejQtRnVqdUFxdG9mNWx4cldRLS04S093YzR4SlIwUWY3cnpxSk9XSHJCZXpycFNzUGZkMWoxcnR2VllLSEM2QXlZSGFXNVNyRVQ?oc=5",
+          "time": "10/24 08:10"
         },
         {
           "cat": "sector",
@@ -22,54 +38,38 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "투자자예탁금 4개월만에 51조 감소…개인 투자심리 위축 지속",
-          "src": "조세금융신문",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44M1JhcEhjb2lUM29PV0k0NE9NcWxEa0YyUEoxZVVVejlfN0JsNXRDX09LMmhsX040a3E2WmoxbFh2bHJzU09XZTFwZy1tc3NxbVVOcVptSzBveko1ZExVTQ?oc=5",
-          "time": "10/24 09:14"
+          "t": "투자자예탁금 4개월여만에 51조 감소…올해 최저 수준으로 뚝",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVjlfdG9UZDFDNWJQbVVFMk1OekRLLWp1Y2pPM1d2UVdjZG9OQ056MlpnNXdXSGUzcEpCZnd2X1ZRMDZHbTdBNGFqUnBFMFludEdJdDFSUW56LUhvUnZvS9IBYEFVX3lxTE9sVjlfdG9UZDFDNWJQbVVFMk1OekRLLWp1Y2pPM1d2UVdjZG9OQ056MlpnNXdXSGUzcEpCZnd2X1ZRMDZHbTdBNGFqUnBFMFludEdJdDFSUW56LUhvUnZvSw?oc=5",
+          "time": "10/24 08:00"
         },
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "‘롤러코스피’서 689억원 순매수···연기금, 삼바 사고 닉스는 매도",
-          "src": "시사저널e",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52cFFqWGhVNi1pTkgzMkFYR0V5Ml81YmswSUdvYjlwdXFRbWEwZGM3M2NNbTEzQU52ZFRabXBRUzhiV2dSYjhURnUyUWRGdTNxbXFyWDRZeGw5OFplTHRmeWxSbFV5VG84ZG5HSFZZZ0U5UdIBdkFVX3lxTE9qTmpLd09Nek1UUEEzWUxkTmdFWlR6Rl9samEtamU5aGlna1Z2RGVXa2JKVmEydXpTRjlING1WRm4tMVpkWUQ1ZEl1UzV4b3lBdnBCeE14QnNzanBBTnktdnYtLU1yRDFEWjdwazhwZGc5ZFVwX0E?oc=5",
-          "time": "10/24 06:10"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"인니 증시 반값 됐다\"...상반기 1위서 '최저가' 된 코스피 바닥 논쟁",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oWWg4THFDZnFRaFJOYkRFam9qMWdCeTlucENCTFhkaFJ5N2dZeDltUXVVcV9fQjQzYWJrNVpqX00yc0M4aEFtQy03UlU4WGdIdV9xYlM0VFRzdw?oc=5",
-          "time": "10/23 16:43"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "롤러코스피에 美 증시 향하는 서학개미···순매수액 전월 대비 4배 이상 늘어 By 투데이코리아",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02dTRCY3FvOGotSlkxdEFncDdwYlBzQUJLaVZ6eE1BR3RadmlZajE5SzZ3eUJRa3VZM0tBVlJoeEVSN2hOTTJ2U2NMVTVYRnQwOGNsZXJRMC1rS25QZ0w0YzFMZUFqdG5tMUpPd3hVVjM?oc=5",
-          "time": "10/23 12:07"
+          "t": "미국보다 더 빠진 코스피…수급 불안에 투자자 한숨",
+          "src": "스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44TjRhT05JMGw3MDBMREVMSmZzMF9ZX05mNnNMZ2J1cHdvdm1KUFJObUhmb2gtVkJhalUxTVlfVlpTc28xNDdLRzBMaDh0czllN0N5a3NsZUV4czNsUHVFNEU3MFRzeE05aE93Qg?oc=5",
+          "time": "10/24 11:52"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5533.77,
-          "pct": -3.52
+          "value": 5550.3,
+          "pct": 0.3
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 764.1,
-          "pct": -3.62
+          "value": 751.69,
+          "pct": -1.62
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1323.66,
-          "pct": -0.18
+          "value": 1325.4,
+          "pct": -0.04
         }
       ]
     },
@@ -86,10 +86,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Update: Wall Street Caps Choppy Week Lower as Oil Prices Soar",
+          "t": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkJFVUFaN2swVHF2WWlFdVAzZHpXNW1RbmdjVHJpOEYyaWh5aUdpSzZSVjNzV2VVRHJkcXhsZnQwYzE3R1dPSV84Q3R5RnZkMjZ3R25EYWVjMzR3MDRQSHI4WmlkTVBoSUxoNnpCek9WTGMxQlBmaUlvaGRNTnhOU1ZxRWtrODd0UmFpX0Q3RQ?oc=5",
-          "time": "10/24 06:00"
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
+          "time": "10/24 22:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell - Exposing the Risk Hiding in Your Portfolio",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSGVhWDQwX1h1c3drNzljektZdkg0TVQ5U1dZZUxmZ3l2ZnVKRzk0VGp1RVgxZkN3TEY1aE52RGhSdWFpSnZ5a1FOY01NSjFERXNDOWFzSS0wWm02ZFZpbVV3R2gtRENJWGxXaEI1cjBrWlVGVERzcjFyYzhWanpuM1VGOXVUalpmV3ZkN245dC1jYkNPS1VaSFZKUlYzSkJVT3Z1MENfSnJsVXQ5Vm5idk5nX1hkeHgzbEJzd3g1QXlpRzMzZFVjY3JHMFFRcHEycjNKQ1JBVll4OTBmMk53dFF3TTliazRkcm9xWg?oc=5",
+          "time": "10/25 00:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnZSdDFicEUzNE90cnNWZDdlYXZYamZVaVVvZ1I4MUhlSVBFQUFKTGlmekt0NUMyejJZeVowNHhVX19VYmk0THV5UU9pbkQyaXZZd2VOZmw5SXBjUTE0NVZlR05HRGV6eWdfNmdOUWk4aG5PU0VfQUtfNUFvVDAzUE5jM29ZOHlBdFc5SlpBVVhTdW5QTU9sQ0NjVkdoV1JQdVhLOUVuSUtFdHV3YzB5UlVZRVdVNE95LTZOSThvSm9CX2I1bExQdmoyYjFPV1BZSnIxMnE1S0ZYRWxJMVBKa0VuX2cyczNOSTBzZlpvcllyZw?oc=5",
+          "time": "10/25 01:02"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "New York on the day Wall Street crashed: in photos",
+          "src": "Condé Nast Traveller India",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6WmxYZmQ2ZHNrcUYxN05OWXBsRmZyOUhwTUQ2VUhMU2YwYks0cE9Cb3cwUWNkSXBydHlyRThWckdRYXhhT1VaYXJqbWJOQlZTQmcyVFFpQ3FYbUt4MWgzU3JNYmtWVVhHQ2M5V2R6VzRqNFBycm52VW02M0NIdw?oc=5",
+          "time": "10/24 09:30"
         },
         {
           "cat": "macro",
@@ -98,30 +122,6 @@
           "src": "AP News",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
           "time": "10/24 05:44"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "America's Second-Biggest Bank Says the Stock Market Is in the Midst of a Multibillion-Dollar Stampede",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmJ3TTdHU05LMmhOaUtGR25GN1ZRUGFqYlN5VVlYOWNUZlJPZ3BhYUFnY3djOGM0eEx6OWNaQ2s0eTF1MGVDOEI0SnhFUUZEN1c1SjNERE51RGs4V0xaX3RFczNHTzBoRVdfUGY2bC1fWXhyaHVGcTNhNlNXZWtfTmk2ek1Makg4NV9sLTBmY1oybE1pX2dCUUVYM3dmSUlIb1hZUXg3SWVNWm5pM19rNnhjZld4TldVUll5WDMzT0UxX0xUU0JaaWdOUlp6aUhEdGw0N19lcjV6ckxU?oc=5",
-          "time": "10/24 01:13"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street mostly loses ground under pressure from rising oil prices - News-Times",
-          "src": "News-Times",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVB4YVFKYzNXb1NIaGZ0SmgtcHV0TGxkMUlFc1NSTzdYWGNNcXlwdHNlXzdKQzh3dmM2bWR1OXdSbUsySTU5YktUcEJvekc0WkM0emVaMFl3SlRTcEtGVG1EN3owZFRvN3k1QVBsOXdrR19HZGdRWFdCdnVLVi1ObVFvRDJ2WS1yOV9YLWx1SW53VXFOYmtNRGJJN2dSNVBTNlVJdg?oc=5",
-          "time": "10/24 00:47"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzVReEJpWEVLMFVrZ051U2R3UGZLYlloTVd0X3Fkc01ydTJEbzFFTjlwbjc1TzgxenFoZjEyTXBZckpZTGRIWkw1Q1g0M3MwdVNscUpTNFJSd095ajJsT1p4WmstTDlvbjNXSU90TEhaWGpuVXlmdzYxbGRodDNwLVVTUVhGMDUyRzBpRzViR0VvQWVXUjBoUko2UHRUenZpUkJtdFR4QThHeUdVQnh6VXh0enU5cVc5?oc=5",
-          "time": "10/24 03:19"
         }
       ],
       "indices": [
