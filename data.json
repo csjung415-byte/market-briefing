@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-24T16:08:11Z",
+  "updated": "2026-10-25T00:03:46Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓인사이트] 솔리다임 상장중단에 반전한 코스피…금주 향방은",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBS2R4QmNwZ3VmQnFvejdCY1Y5VHl4UF96a1lXU3UtWGFjSVBQXzZUTW0xOGtqQjh3RnlaajNSNjAwT3FEMlRlMm82aGlESzdLTFIySDFYd3RNVTdPcHF2YdIBYEFVX3lxTFBBS2R4QmNwZ3VmQnFvejdCY1Y5VHl4UF96a1lXU3UtWGFjSVBQXzZUTW0xOGtqQjh3RnlaajNSNjAwT3FEMlRlMm82aGlESzdLTFIySDFYd3RNVTdPcHF2YQ?oc=5",
+          "time": "10/25 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"어디가 바닥인지 감도 안 와\"…개미들 짐 싸자 벌어진 일 [분석+]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VzdNX3A4a2lDak9Ub3A0elgxSjdLN3I5SUxCM28tZkd5T2VaSGhUZUxrR2N1SUZBR1lzTjRTNklxa2RRdE16VHY3NUd4dS1DNUxoMVI1WnU5QQ?oc=5",
+          "time": "10/24 22:03"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -12,44 +28,28 @@
           "time": "10/24 19:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"외인 놀이터 된 코스피, 못 버티겠다\"…개미 떠나자 50조 증발 [분석+]",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VzdNX3A4a2lDak9Ub3A0elgxSjdLN3I5SUxCM28tZkd5T2VaSGhUZUxrR2N1SUZBR1lzTjRTNklxa2RRdE16VHY3NUd4dS1DNUxoMVI1WnU5QQ?oc=5",
-          "time": "10/24 22:03"
+          "cat": "earn",
+          "catn": "실적",
+          "t": "대기자금 줄어든 코스피…기업 실적이 '증시 반등' 불씨 될까",
+          "src": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02MGhFOU5DYjZaX0dQbnl1bkJ3emloSlFFMVY0azdWQk03cmt1VDNZMS02TDdKRmZ5QnVOa3dhWGZfSXNFNFYxQ2JfTGp0Q2hXZmVTalgwaTlLc3JMcExPUA?oc=5",
+          "time": "10/25 06:46"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "55조원 매수 끝낸 삼전·닉스…코스피 다음 '수급 방파제' 누구",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdUFDVmJ3LXlZMXcxbUtualRzWnBpWDkteTZoenoxejQtRnVqdUFxdG9mNWx4cldRLS04S093YzR4SlIwUWY3cnpxSk9XSHJCZXpycFNzUGZkMWoxcnR2VllLSEM2QXlZSGFXNVNyRVQ?oc=5",
-          "time": "10/24 08:10"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "[아! 코스피] ④ 국민연금 보유주식 평가액 182조 줄어…반도체 쏠림에 부담↑",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CSng5RkxMN0dEdjZyd29YVTVQT1FBdG1felc1c3d6NHpMeEstU2NUeHh0blJkX1VRZW9yWEk1eGlabWhtbWNMNmR6UUU2VGRvaEgybERmOENoeWxN?oc=5",
-          "time": "10/24 07:00"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "외국인은 주식 팔고 수출은 달러 벌고…환율 공식은 옛말?",
+          "src": "라이센스뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wck01OXlCVmJ3OXpMUG0xczhSMzVQQXVFTnp3ZGVyYVU4SG0zYy1HZWlLZWxjYmlGMk5KNXUxdlFNNnkzZm5fM01QNW9ES2JWb2N2d0V4Z3lVUVQ0aS1ZazAtbi01bGJYanQ4?oc=5",
+          "time": "10/25 06:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "투자자예탁금 4개월여만에 51조 감소…올해 최저 수준으로 뚝",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVjlfdG9UZDFDNWJQbVVFMk1OekRLLWp1Y2pPM1d2UVdjZG9OQ056MlpnNXdXSGUzcEpCZnd2X1ZRMDZHbTdBNGFqUnBFMFludEdJdDFSUW56LUhvUnZvS9IBYEFVX3lxTE9sVjlfdG9UZDFDNWJQbVVFMk1OekRLLWp1Y2pPM1d2UVdjZG9OQ056MlpnNXdXSGUzcEpCZnd2X1ZRMDZHbTdBNGFqUnBFMFludEdJdDFSUW56LUhvUnZvSw?oc=5",
-          "time": "10/24 08:00"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "미국보다 더 빠진 코스피…수급 불안에 투자자 한숨",
-          "src": "스페셜경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44TjRhT05JMGw3MDBMREVMSmZzMF9ZX05mNnNMZ2J1cHdvdm1KUFJObUhmb2gtVkJhalUxTVlfVlpTc28xNDdLRzBMaDh0czllN0N5a3NsZUV4czNsUHVFNEU3MFRzeE05aE93Qg?oc=5",
-          "time": "10/24 11:52"
+          "t": "\"목에 칼 들어와도 안 사\" 다주택자 개그맨…3개월 뒤 코스피에 무슨 일이",
+          "src": "땅집고",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YdWVXOFdnaVNFMlVfb0w3WGg3WUIzYXlob3ZwTUg0SVFwZ2NHMF9xWk9kT0VrUnR1eTVfVDFvTDNSZTFJRm0yaEFiMFFsSXZZUUo3NWhKZE91a1UyOVZnMHB0TTNyb1RVU3EtQzZuRnJJT1HSAXNBVV95cUxNWHVlVzhXZ2lTRTJVX29MN1hoN1lCM2F5aG92cE1INElRcGdjRzBfcVpPZE9Fa1J0dXk1X1Qxb0wzUmUxSUZtMmhBYjBRbEl2WVFKNzVoSmRPdWtVMjlWZzBwdE0zcm9UVVNxLUM2bkZySU9R?oc=5",
+          "time": "10/25 06:00"
         }
       ],
       "indices": [
@@ -76,28 +76,28 @@
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street closes lower to end rocky week",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR01KeXBjdXBubVRzTlJfWWJTMHctb2hFS2pVT21ydWtZNzBaMldxd1c2ZUJGNWhIeGV6MUxvQVZvSl9GdFh5QThQbFpuT0IwYi02Y3JGM19YSWJ3LXMtb29RbS1WZUljdGtsS2dockxHVm5SWnBSMzJpM0Y4RFItdW5SMzFsdXg2LWtrYWE1SC1TQlkxOERJZHNtQVREdw?oc=5",
-          "time": "10/24 08:46"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections",
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "China’s Stock Market Is Trailing the U.S. by the Widest Margin in History",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5",
-          "time": "10/24 22:30"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFpEVS05QzlFMHZpaU9IN3JBeTFZRDVLOFlMTWJaMzk0Y01DdDJha3R0d1FtZ2FLRVNNSVE1Q2pSUldqTjgyaXplaUJ4QldscEFpOFBuRWVyQW5MNGtjaVR0dTN3emwtdzBGbzFwcGpweHNJUm1ZaGJVTUJWbWFidnNFZ3NJaUJFUWtRT1BkMFlTanROSXlsZWlNUmVtV3hCbGdz?oc=5",
+          "time": "10/25 01:57"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "U.S. Stocks Fall as Tech Selloff Deepens",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5",
+          "time": "10/24 17:34"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Two-Thirds of S&P 500 Stocks Rose on Thursday, but the Index Still Fell - Exposing the Risk Hiding in Your Portfolio",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSGVhWDQwX1h1c3drNzljektZdkg0TVQ5U1dZZUxmZ3l2ZnVKRzk0VGp1RVgxZkN3TEY1aE52RGhSdWFpSnZ5a1FOY01NSjFERXNDOWFzSS0wWm02ZFZpbVV3R2gtRENJWGxXaEI1cjBrWlVGVERzcjFyYzhWanpuM1VGOXVUalpmV3ZkN245dC1jYkNPS1VaSFZKUlYzSkJVT3Z1MENfSnJsVXQ5Vm5idk5nX1hkeHgzbEJzd3g1QXlpRzMzZFVjY3JHMFFRcHEycjNKQ1JBVll4OTBmMk53dFF3TTliazRkcm9xWg?oc=5",
-          "time": "10/25 00:20"
+          "t": "Wall Street loses ground under pressure from rising oil prices",
+          "src": "The Citizens' Voice",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlJSOHd2OUdESHdjS0ZOZXRvallSVU1HYXVGYk5JbEhXbXBrQzd5dWJsdDJHMkY2OTVDSlZHT21xbjZYNWE4bFRQS2RsUTRJTE9Cb2lLUE1IdHh0RG5mTEVxZnNSaTBVQ1NPSm8wUUowU3lHc05aVF92YlRYSXVZVw?oc=5",
+          "time": "10/24 18:03"
         },
         {
           "cat": "macro",
@@ -105,23 +105,23 @@
           "t": "Meet Wall Street's Newest Major Stock Split: It Has Soared 1,730% Since Its 2012 IPO, and There Is Plenty of Upside Left",
           "src": "The Motley Fool",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnZSdDFicEUzNE90cnNWZDdlYXZYamZVaVVvZ1I4MUhlSVBFQUFKTGlmekt0NUMyejJZeVowNHhVX19VYmk0THV5UU9pbkQyaXZZd2VOZmw5SXBjUTE0NVZlR05HRGV6eWdfNmdOUWk4aG5PU0VfQUtfNUFvVDAzUE5jM29ZOHlBdFc5SlpBVVhTdW5QTU9sQ0NjVkdoV1JQdVhLOUVuSUtFdHV3YzB5UlVZRVdVNE95LTZOSThvSm9CX2I1bExQdmoyYjFPV1BZSnIxMnE1S0ZYRWxJMVBKa0VuX2cyczNOSTBzZlpvcllyZw?oc=5",
-          "time": "10/25 01:02"
+          "time": "10/25 02:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "New York on the day Wall Street crashed: in photos",
-          "src": "Condé Nast Traveller India",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6WmxYZmQ2ZHNrcUYxN05OWXBsRmZyOUhwTUQ2VUhMU2YwYks0cE9Cb3cwUWNkSXBydHlyRThWckdRYXhhT1VaYXJqbWJOQlZTQmcyVFFpQ3FYbUt4MWgzU3JNYmtWVVhHQ2M5V2R6VzRqNFBycm52VW02M0NIdw?oc=5",
-          "time": "10/24 09:30"
+          "t": "NYSE’s owner is backing 24/7 stock tokens without Wall Street’s usual price rules",
+          "src": "CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEtma0lvRTJzYzd4RF9TY1lCS3I5ZFVqZ2Q3ZXN5TlUxU1AyeVVyQ1BTQjdkTEIyY00tcWF6Q3p6NkdEUEFhdEljNmgzMFBIVWZfaVpoWEFlMnZEYTEyQmpXU0dob21JeUY4aHBHXzRqbHBSanlPT1YxYXZMNGdnalhxX3BqSmxKWFJsM1hUb2x1Zjdjc0JXUEdQUWtFNEJqOG0tRmV2TQ?oc=5",
+          "time": "10/25 02:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street loses ground under pressure from rising oil prices",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpGTk1fbkF2SWY0S1Q2MHN6WjRqQ1R3VWp4WXFKd3VQUG5WSlI1ZXFDY1pSUGJyampWMGtwZ3dRQmxGRzlTbERHSnlraUZ4WmFCSXM4U3J1Z1VSdV81eTB2ck1lWElpSnR2Qi1FbWUwUmJBT1l5enVZLVpsYmMySnBhZ0FDWHZBTElJVEhGYl9tN2tXblE?oc=5",
-          "time": "10/24 05:44"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "5 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZlFlZW9xRXpScTRoWS0ybU9UOW5waXlSNVZ6dFQ2Q0FFaWtST0VqOVktTmYtSVh1RmRQbG1lU2stSEt4RzdrUmZGcERtN3ZKYmU1bk81WUpJWVd0VUQ2ZmVNYUFWNmlBY2dkX2R1SjI0VG9fVmJhSWRoZ1Z2SGRmNjItWXJ0Q3ZJMHJfblMzb3I5LXJiSUE?oc=5",
+          "time": "10/25 04:59"
         }
       ],
       "indices": [
