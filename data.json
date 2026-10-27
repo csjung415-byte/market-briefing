@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-27T01:15:17Z",
+  "updated": "2026-10-27T18:07:47Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 앤트로픽發 훈풍에 장 초반 3%대 강세…삼전닉스 4~6%↑",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90SXR4dHJLVVpfaVQycVlVSmgyWDlWdlp2SUFSZTRVOUsxUWFORjl2amFhUFhjRFdyTUVWanJkUWFiSlFyc0dxTUVReGYwcjdPTWw1UFNpUC1aUQ?oc=5",
-          "time": "10/27 09:07"
+          "t": "[논설위원의 단도직입]“코스피 5000대, 저평가 수준이지만…여전한 변동성 감안해 투자를”",
+          "src": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0c25sS1dhN0tJVXlhTEw2MXhQUGdOS1UtM3U4THJzYU5kYmVYMHFOX0wzNFRmejdiY0tJNGpEWmVYb2NQcmN3OVlmRXk2ejhYRzhrZ1FEWVR6QdIBX0FVX3lxTE9yS0xEekZLVlFYMVVyb2ZUUTJUNXozdm9BMmxwcmFpMUdMQkpHWERYQzlDRUhZYmNCV3dJWG4wT1ZCdmZnUno3REVkWVVNRm9ZdGdrdUlSNzBUanlRRzlN?oc=5",
+          "time": "10/27 20:16"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[개장시황] 코스피 3% 상승 출발…美 증시 훈풍에 외국인 '매수세'",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JcWNvU3R6T1VWZjdqdDNjcWpDbDRBV2RzZFU2R2lUbzJ5Z25XbG8wOWw0YnpHTk9zaXJMbEx1X21YejBMVlN1NWotaHVKT2lSSVN5TGl3LVZYS2kx?oc=5",
-          "time": "10/27 09:24"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "앤트로픽 훈풍에 코스피 3% 반등",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03TW5kSGJ5bjJON2I0VWdPQzc1TUY5VWhDQkxoV1lUSkxwdEhyU0h1akhqbkNzeXFucU1zOWJfRDZvYnUtLXVkUTdPek9EVU9uS2c?oc=5",
+          "time": "10/27 17:43"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마감] 코스피 3% 상승… 앤트로픽 IPO에 외인 투심 살아나",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01X2ZyN3pyUjI4WW1EaFdmazZNZnJSRk5DU2I3ZWZDR09xSTFGVTJRN0lJMGdvXzhzV1NGbjlsOWpNdnptQ3VsNHA5NWRFS3NhaTRYcVBXMTZTdTdab2pVOEtZUDRBTVY2TUhoU3NkQWbSAXRBVV95cUxQNlZER283R2prclNRRzJocEVHVE5BV1R2aTZaWGZTd1lQcHBSNEtrZ29xVVlBVVFLUnh0b0JTejFxM2hIb3ZNMnNiVU91Rk1nbFRZNmZxdFMtdVhnQ0hJN3ZZcndDdHBSQXVEVWxFOVRydnA0MA?oc=5",
+          "time": "10/27 16:10"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "[개장] 코스피, 4% 껑충… 美 AI·반도체 반등에 5700선 회복",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnNFcweVMyRjJJd3dDQVFySU1JZjk3ZzhlNGttQWZ3Z1hWaVZjVU0tcjJsdk1LMWQ3SkczT3NSMG5pRFVYNzhmMGI3NDFxTVl2a0lfSFd3TXl2N3lyVHFUY3NfYWRjQTdqM19NM2U3OVHSAXRBVV95cUxNUy1ocmVqbm9KN0pUU0s2NlA2ZjJJWHozR3k4cUwwOUFEeVN4V0Y5aGlNRUV3VE0zZTZuWG43ZmI4MmlxUXBsYTlPOVFxQWRwcVZoY3ZUaFVHWXhxSkYwSkFHSkN2dHJMQVJQR0xBdFFKZkl2dw?oc=5",
-          "time": "10/27 09:43"
+          "t": "[증시-마감] 앤트로픽이 되살린 반도체 투심…코스피 3%·코스닥 2%대 반등",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MnpTa2d3Wm9RSW9CejVZVnRtZXQxNXJKdGgwQTBXemtHRTRDbzgtZ0I0NWE5S2tjZjZpUVlhelpmVGtXbUMzbzNGT2oxdHNqRk9UUnk1cGdpb3VVY1FUUHNFN1dkbVNXSkx3ZTZicV8?oc=5",
+          "time": "10/27 15:55"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 美 AI 투자심리 회복에 3%대 급등...5670선 회복",
-          "src": "녹색경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KRWpkQWl0YTJCWTF3UFdOdnBFVVBlbTEwRWlSMWg3SGd0VTNRWVJhdmpDdEF2b25xOEpMbjNuOEVZc2VqTEZwZjhQaW0zYktqTGcxclhXZlRqZXJ1SllGeGVDWVZ2QlVO?oc=5",
-          "time": "10/27 09:55"
+          "t": "[1027마감체크] 코스피, 앤트로픽발 AI 훈풍에 3% 급등... 5600선 회복",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mYWd1WkljWGdyQldUc1FfVE5aR2tzVUstOEpPeWE2eXRyblY2VUtFT0pXMGRoT3ktbkNwY0Q2a0ZQazEzS2JhZy1YZHNsMFhDdzJkbmZCdjFlam1QZE1fZ3pMVjBaLWNjOFNMeUVNOFpKRjdManc?oc=5",
+          "time": "10/27 17:13"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "앤스로픽 IPO 훈풍…국내 증시 상승 출발 전망[굿모닝 증시]",
-          "src": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBscFRaN05UbXpwZnoteEZQbThqQ01SYjZnTG5OQ0ZmenRLNlc0SkF3WS1BUXpxVHRkbkVWZ0QzUW9TZ09XYmRWSDZBTWdYNF81R2VmcTVfcFNuczI1MWNKY2h3?oc=5",
-          "time": "10/27 08:16"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "말라붙은 거래대금, 얼어붙은 코스피 - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YWkt5M2t6b0ViQThMWGcwMTk0TWNtejZjTDFseEw3ZUhzMHZud2pNVjVpc01MWVhDeDBxUHB5UnRKTmF1SzhxMjV6dXhRNHNMd0xjUHhKNWFCbkRucnB3WlJtaUlOaHpE0gFuQVVfeXFMTXh2R2VsQTIwU0JKRE9JM1F3cnRIZEpfYzZYMjJuZmJDRm1GZ05TVFRocld3R05MZVA5Mm5jZkdyd3NheTVjeTl2QnpKUHhFT2NDVm51OGVwb2Y0aTVKYk5yTGxVLTE4M3dFeklpS3c?oc=5",
-          "time": "10/27 03:38"
+          "t": "\"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OOXQ2T2hMVHBVcDVrNUFxdkFBWU5nV0d6SmxndFNYOHg3QUNpQ2tGbENwNXlsMk4zUDRwYVg2RmJZekxoUWNnOWlvODR5MTBXdTRrZzQ4Q2NfZw?oc=5",
+          "time": "10/27 15:38"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5697.55,
-          "pct": 2.65
+          "value": 5469.47,
+          "pct": -1.46
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 756.51,
-          "pct": 0.64
+          "value": 727.21,
+          "pct": -3.26
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1324.75,
-          "pct": 0.23
+          "value": 1326.37,
+          "pct": 0.35
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street rises as AI stocks keep swinging",
-          "src": "Toledo Blade",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVERoT1k3SldZQ1k1TFFkS0NLWjV3b2VKbXpBUzNUODdJNk5OaExNa0xzUzRDVFhWU2dtaU5TejFfTGJlcGVsSWN4X0JILUNJVFlfM2dWekJWdEZBSlpJWmFlT2JhSGdhbm9ac002UTE4YWt6d0h1a1JiZXdLbFRuNzJpbU91amJZMmNIQ2pldmxFYkRpenl2cHZJMUNqdS10clJMTzJjRXlKaHUyX1h2VzdzRHdxYVN2UG1tUk9B?oc=5",
-          "time": "10/27 06:47"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "CoreWeave Rout Sends Warning Sign to Rest of the Stock Market",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdFRRNTF3S0JWTHE2aFlsS2t6ekdVUTVqeXJOMnU2OGpqMXQ0OXlQOUhhek9fVUg2dEZhRlo5R3NYNHZtTUNVX2ZMZTVDQXkzd3FQQlJrSHBhZ0d0RnBFOVR0YXl6U0V5a1JjUmxqUFg2UnBzQUJ0QnBCWGx1YnB0QTdQLVY4VHF5QWFlYTVPLXhkU0NMSUtTRkdEdjB4bEZ5V1pMc0NLWncyUjYyeHFfS19n?oc=5",
-          "time": "10/26 22:57"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "1 of Wall Street’s favorite stocks with exciting potential and 2 we question",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0NNY2xNc3doc0pMVlUyUGJIMkhIYkpTSEpfbGJtVlZnUWl0M3Q3TF9DdzVuOGFmMnItZlYyd0ZzUnhfVHFYaTBLRXN1U29VRXMtMGRRYUZGWXhFT1J2VTlqQXNVNDNSenJoQVRjeEs2dHd1b2I4WHljc1lhNFI2OVA4R3BscHdtLUs2bmVqbzByUzRTZENYS2N3?oc=5",
-          "time": "10/27 04:26"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stock market rises as Wall Street looks to rebound after difficult week (SP500:)",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGpmRDlYZ3Z6dVN3UDVvZTJVNmI2REZUMkZiSHQzMzJ5RWVRcXFBT1poZzlwQmV5RTQwUlBwdThVMHhZWGRseVQ1UUVkTWxvUjNZYjJaLTY1WGh2SUVFdHV5MnpmRHgxZ1FlOUN4MzhEWTVCX2pzX2xlLW0yQUpoUmVNTEhxZ05h?oc=5",
-          "time": "10/26 23:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblVTTEF5cnF5WUdUNUc2bG53aS1WY0ljVjhhZkZ6X1dINTFZcElFUUlDTEJFSE5PdUUzT2hELXRJT1oydExsM1R2eWJGX09Rdm5FVnRUa2VsckE4cHVCQzFreXluSlZxUWdfczc3STAtcXdaMlJURW96dFNlenFXbnBVTjdIZWlhaUhlVkhIcENYNG1aZVlySFVvX0k?oc=5",
-          "time": "10/27 06:15"
+          "t": "Tech firms track Wall St rally on mixed day for stock markets",
+          "src": "AFP.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQW1vZnAtLWlzWUhiNlV2MFpjMmJBQzBEQl9pcTdGTWRaRzRWV2NVN0hLT2ViRWFvWmNPcjRIZDd4M01DTlJuZzJKMFN5TW9CNHBhclZEV014V25lWWlEV2NWblR0ZndNcXJXMGxlemNMSHJHU2pNYTJMNXdqazBNejF6aw?oc=5",
+          "time": "10/27 21:11"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Asian Stocks to Gain as Anthropic Files for IPO: Markets Wrap",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
-          "time": "10/27 09:47"
+          "t": "Wall Street drifts as Broadcom and other AI-related stocks support the market",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOalphdzJtRkpxUlBaSlZEc2t0bUM0WEhBYkV0WVNYaHliU1dBOGlLX0hySncwQkx6d0cxMHJoTEdhQ1JHUDRTVG9mSnJ4UjBnU2x4TGkyaDRKMkI5aFYxOFYtY29PUk5TaTI3ZnIxSkJZa0dQWEZDc2R4QkFTQWs0VktkRDBxbWFRMUw2RXo4YWVwdGlFMEQ2Ynd4NHI3RlJrM1piOTMzbmF3T3FDVnFDdk92alQ0V0FiSmE3b2poQWZyS3p4UV9abXAtR0k3VElCbTJUc2tva1NqSGpvdWdnY3dHNGk0MlgxV20xSHBlQWNOSlk2LTVONFJwcWs3SHZ1MDhtRWJTdUE?oc=5",
+          "time": "10/27 23:48"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Stock Market Today (Oct. 27, 2026): S&P 500 climbs as Wall Street gears up for earnings, Fed meeting",
+          "src": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRZUlxZ2h0WGtZM3dPZEpNQ1pJSDhPSl9mWF9ZQnd0dnZRbVJLVjN3eWF6VVkybHF2ajJCV3hmNmtrRmgzTHZJbnROVnVKeTFyRkl3SVYyVkFBRWF3N0tXTm1KRkVaS2JZN2hieGM1SWk1ZDZ3OTlBSHZzcVk?oc=5",
+          "time": "10/27 22:50"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall St rises as AI momentum holds heading into key earnings, Fed decision",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
+          "time": "10/28 01:35"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall Street rises ahead of Fed decision, tech earnings",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjdRZWN6UENrUXFfeHcyb2otcTJiVHlPWFNYYXhlT1U3VWJWb3QtRWJQbzFrazhteFRrcUFxdmx2SjhhYXFSaHNsLVFxeVBiRFBPRkdjMWlnVjUzMnBoUTc5TF9KbzJ2bVY0Y1dfU2c1eGJNTUxrVmxHZHpFSlNWcTN1emZwZmlz?oc=5",
+          "time": "10/27 23:33"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Does “The Big Short”’s Michael Burry Know Something Wall Street Doesn’t? He’s Deepened His Bet Against Some of the Stock Market’s Biggest Winners.",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQM0hGOW1JN0ktWGlfTnBUVks1NmsyMjdJSlJ3c2g3LU1rUllDRGxZeEFFN3FMX1pNTTM5aGtURjRqU3M0ZUp4UThVYXhGa1pUcGI1TzcwelNMSXFKWXZzYTVpMnZwenZydGw1QWR0ZEtuY1hFYWpPOW10dWpfc0xHRGN6ajhtazJzT0s0MzBjUDc2MkdZMzV2MnUzN09CVXMxR3RvZS1XMlR4TG5Zd0RjRjJMQ01TQjJ2WDFvZ1k4SGs4R0hZYzFtckRfWVp3cHpTWEo5VHdJQldJT09TOVFQX1NweHY2UVd1aFY0MFJLc2pGRjNIWm42WlVQQ3lzYmpkQVJERmtYOHpOS3JZYnVnWGJKWQ?oc=5",
+          "time": "10/27 20:10"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7676.77,
-          "pct": 0.7
+          "value": 7719.73,
+          "pct": 0.56
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26169.38,
-          "pct": 0.82
+          "value": 26460.79,
+          "pct": 1.11
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52361.58,
-          "pct": 0.28
+          "value": 52374.85,
+          "pct": 0.03
         }
       ]
     }
