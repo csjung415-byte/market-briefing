@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-28T01:01:00Z",
+  "updated": "2026-10-28T18:24:31Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 2%대 상승해 5700선 회복…삼전닉스 동반 강세",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iRWtqUWhYUXo5RjlWYzB2dnU5UEFlQW8wUmJuLUk0NDlIOF95THdZdXozN25nVVBGZXAxdjJWVUdobmhwMXhCV25IMjJfeko0TDhWUnlQd1Vqdw?oc=5",
-          "time": "10/28 09:10"
+          "t": "코스피 +6%대↑ 6,000선 탈환",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5QjBsLTFncF95c0tpVXRMVThCRWp4d1lKVWZXbW4xemRRRHAyVHdzUmpReHN3b3R6T2Z3M21PUVpFS1FtOXV2S3lGcG9qcHd5bWd4MzdHTjEySG1oMVB5TmxqdlJ4djN6bXBHNw?oc=5",
+          "time": "10/28 16:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "화끈한 증시 급반등 : 쌍바닥의 시작인가 아니면 잠시 숨돌리는 것인가?",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4d3JMa3phb1BIaEpYanNtTjRsdkQ1b1NTLWpQdElsVGRSSUt1empFYWNtblpscGhwbjNUV2ExcEtUTVJIVkt1SnlYM240eUl1QkI0aHRsRDZDMVhMR0hxZw?oc=5",
+          "time": "10/28 18:23"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 반등에 투자자예탁금 90조원 회복…빚투는 30조원 하회",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51enlQM295Y3hueTE1c0JEN05PMlJUM29YSWVBV3ppelBvTnRLdzltQ21GcXYydmhFMl9sdEQ5Q0twZ0ZhalZMd3I3ZWFNSGh4cFFDel9KcGhsSXg2TGstZNIBYEFVX3lxTE51enlQM295Y3hueTE1c0JEN05PMlJUM29YSWVBV3ppelBvTnRLdzltQ21GcXYydmhFMl9sdEQ5Q0twZ0ZhalZMd3I3ZWFNSGh4cFFDel9KcGhsSXg2TGstZA?oc=5",
+          "time": "10/28 16:12"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "하루는 급등, 하루는 급락 코스피 ‘공포지수’도 올랐어요",
           "src": "네이버페이 머니스토리",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZHNOOE5PR2FzeERONC1zaVphbmZRSEIzS25hRGtpWk9TUTZLMXZUa0ZJdVFoX21YU3ZHU2Q4TjBTbTR5VUJqT0xaVGEtN25CNlE?oc=5",
-          "time": "10/28 08:43"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[논설위원의 단도직입]“코스피 5000대, 저평가 수준이지만…여전한 변동성 감안해 투자를”",
-          "src": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0c25sS1dhN0tJVXlhTEw2MXhQUGdOS1UtM3U4THJzYU5kYmVYMHFOX0wzNFRmejdiY0tJNGpEWmVYb2NQcmN3OVlmRXk2ejhYRzhrZ1FEWVR6QdIBX0FVX3lxTE9yS0xEekZLVlFYMVVyb2ZUUTJUNXozdm9BMmxwcmFpMUdMQkpHWERYQzlDRUhZYmNCV3dJWG4wT1ZCdmZnUno3REVkWVVNRm9ZdGdrdUlSNzBUanlRRzlN?oc=5",
-          "time": "10/27 20:16"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 이틀째 급등하며 5800선 회복…코스닥도 3%대 상승",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJNnJycHdjYjIyZEZSUlpTWS0zQmhucmw3TkVzZXg2OXlrNFBsSFA5VUp5UVBMQ2pSTGhHb3RFN2xqNGlOaW93N3dCRkFFNFhqbEE?oc=5",
-          "time": "10/28 09:50"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"코스피 6000 이하는 '딥밸류' …눈감고 분할매수할 시기\"",
-          "src": "MTN 머니투데이방송",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84TWNVTlQ1U1ZwaS13TmctaUgwLVJmY1lBSzdCQzlOdjhiYTRiQm9GSUxva2dhS2NjTzVNLTN0OG9zcms1X0hhTG1BS2p2UUdDcjdKRmZyRENFNnloZFYw?oc=5",
-          "time": "10/28 09:57"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NTkZVN3B0VkhGZ3p0TkVOOTVFVmNXcG1xemlVNXU0ZzlQWmpKVmNFcy1SVGcxRjEwRV9ZdHN3ME1JXzhBMXBGa3F0RG80RUJPNThrQVFJSG8?oc=5",
+          "time": "10/28 14:47"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "[AI MY 증시전망] \"SK하이닉스 실적 기대, 코스피 상승 출발 전망\"",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PbjluQTZ3UFRTT3RXajFqYUJ0bFNSamwya1BJTG5yQUpRaHBjTHRCQnk5VEQ1Tkt6VUxoTVVMYTM4ai0yQnk5dmp0WV9pTXBCRXZiSU1EUXA3bTJ6?oc=5",
-          "time": "10/28 07:59"
+          "t": "[마감] 코스피 6천선 탈환… 실적호조 하이닉스 10% 급등",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QS1RndmxhamRqX1VoWDh6VGplN21hUlN6cnM1N0hVc0hQUTBqZ3F1SDYxUE01WHBWUE5zYTNkX3RxaUdqcDJKeUFOWi1GcHFhTjFyV1hDLWlUdGZ4UWpxUmVCSWZvTUl6LVVvX1pfZ2vSAXRBVV95cUxNQWtFNGZjSk9oaGoyRmhHYTl0RnFKZDRJTGVYNmVLX01kNjN5RXNWZ0g1UWJBZmxYVTZrTzJLa21rWGk2aXJtRFpVLUNLaGF2MWJIeHVyNnh1S19GQWpwRmVEWllPRk9hdjI1YnBqNEs4aERCbA?oc=5",
+          "time": "10/28 16:18"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 급등에 6,000선 탈환…반도체주 랠리·외국인 매수세 견인",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtU2I3YVZXOHc3NWh5aXZHX2NzMDdXdndMaWZmbXIwNklzWFFJd3FGQ1BoNGVrMTVVTUtmemk3N25FeGZ3WHBaeUwtTTVHSmtmbVBwckVTN3pxdlJvZXBZczlUM0NRQmU0NmZKb2FRNXrSAXRBVV95cUxQU2dpT1N0UHVrckpaMDRMeG1xMzEtcndVeU5FLUhpX2N2VkhYUGJpaThVdHQ2RnhlMHFZVFlHY3gzT0JmWW1NSlAweXRSMWZvNHRlajh5TUQycWtoeDh4OG9ZYW1iRmZkZzlNR1p1bGZPSXVycg?oc=5",
+          "time": "10/28 16:41"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5833.96,
-          "pct": 6.66
+          "value": 5638.34,
+          "pct": 3.09
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 768.91,
-          "pct": 5.73
+          "value": 743.83,
+          "pct": 2.29
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1331.79,
-          "pct": 0.53
+          "value": 1343.7,
+          "pct": 1.43
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street ends higher on revived AI momentum",
+          "t": "AI giants' funding ambitions test Wall Street's appetite for risk",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5",
-          "time": "10/28 08:01"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
-          "time": "10/28 05:06"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Tech firms track Wall St rally on mixed day for stock markets",
-          "src": "AFP.com",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQW1vZnAtLWlzWUhiNlV2MFpjMmJBQzBEQl9pcTdGTWRaRzRWV2NVN0hLT2ViRWFvWmNPcjRIZDd4M01DTlJuZzJKMFN5TW9CNHBhclZEV014V25lWWlEV2NWblR0ZndNcXJXMGxlemNMSHJHU2pNYTJMNXdqazBNejF6aw?oc=5",
-          "time": "10/27 21:11"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Broadcom and other AI stocks lift Wall Street closer to its record",
-          "src": "Toledo Blade",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa3dra0FaNnlrd0lhT3JwbndMa3ZGMjczdS14bHNNZllRTVpLOEhQQzZZTHhDVnBkWDFTdzg4ZkcxcWxFM0VvcGFnN0RsYjF3YzJPdk9oR21QRVdyeXNrLWNsUWpaTmRwdlhaNzlYT2sxZ3ZIVjh0WFJFUlgwbTlJM0FiRVJpS2x3a1F6alB0X05hWEdOOFdQRmlOODNRRE9SNVVTaG43SWNmcExfTm1kT1BGSmUwNnNjbS1UU1ZyREJScV85UFB2SVZPVHNGTU9Ranc?oc=5",
-          "time": "10/28 05:55"
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkJOM2pFRE9nVHZubFRxVXQxa0NNTWRublIxQS1kOGt6OGd1VUFTems0QjZMWDFMbTF4dDVtTEMtbTh4VVkxLUdnMnZXa25fX0VLczRBU25feWtGNDM0MVBKMlFVWTFfQk94R0pDZVdzOXVxbXBIdzhaRlV3SFNQb0xPYjh6U2JfdE1waFBDY0FxWHpqaTdiY0paekF5OXRnT2pULXdsdURDZzhMajVqakNiWkZuUQ?oc=5",
+          "time": "10/29 02:37"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "1 of Wall Street’s favorite stocks worth your attention and 2 we turn down",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEZ1WjVtdzJ1WFBHZjBLcTB5TVYzbW91NmZHZ1kxdGR4T2ZXUWlqYVJwR2hUQTdPbVl1T0VUNUFQZlJLMGpzVzM0TENXRE9aZ0RwRThYaXpGZVppcXc4Mmt3M2VoandYRFNLam8xRDVkYzl6MkgzNUJZT3M0Wkk4RXZlRDZlb2treFU4azl6R3FfdnN2Y0Z1QjF3?oc=5",
-          "time": "10/28 02:26"
+          "t": "Why analysts say the US stock market may be on the cusp of a double-digit rally",
+          "src": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2o4X1hNMDZxUVEyU3ByODdQNnFCV2RmV2NsVF9RV1VTWHZvZDJIcVBvMC0zOWJtYWhhUE1qUnhwZ2R4ZFJDYllmY3hqUVBzNVQ1UElQblRrbkpkX2xlWkNob0hEZXRxSzNEc0czbnBILVNYZlp2ZGlrem9GRXVtbFRaZVBnUmNhWWY5NXRuaGtERXRNc29MQkVaSUdhVlhr?oc=5",
+          "time": "10/29 01:39"
         },
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5",
-          "time": "10/28 08:36"
+          "catn": "실적",
+          "t": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWx5Q3UtbEx6dUhyUV9zMm5WUWhDUGI3ZWpIdnlzbklmVXVzWnV5SFAyTEo1MTRSUUhrSWhleHZMYUpvTTdNOEwxMnlMRTBLRHB1ZXVMMGdpd1FKZnY1eHNIdkRSUHdEdWFUWkJqbFAxd2VYWXJ1NjlKQzYzQ3I2Q3R6eldQS2duckRoV2hyOE5PSTFCYTk0MENRTGVnejdmVWpqNDJrbXdWVWRV?oc=5",
+          "time": "10/29 02:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street May Be Underestimating This Magnificent Seven Stock",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODk4alNZUEJnUGVxTVhrRWNYcGhnUmM1VUtjMllBWXdibjZTZmUwMW51Y2pBb01vc0F2c1FfS19XekR1UTJfM002dlZXZnhLTG5kbDUxREFtUTFSakpleVV4Q2tjZkQ5V2l1akxqNFJMc0l1Sy1VWUNXaVdicmxHMFFzY2lNM3lqTUNzVEVZWUNoX0ZHUVVCVk5KNUk5TlVSanJWUVhNdUl4OG8?oc=5",
+          "time": "10/29 02:12"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Pause Now, Hike Later?",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92RUhXQmVtWjBxanN6ZGRXeFAwTnVEczBybzAwSGxTMGdwQnBndkxGMm9oYlFsbEJ6QUQ5dGxXbkxvVEkyRDlQdW12b1JTLS1TRkNiZHRDVmVsa0pBUkZiUnV3UHlWdHAzS0VXUU1n?oc=5",
+          "time": "10/28 21:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Midterm Elections Could Set Up a 21% Stock Market Rally in 2027 - Here’s What 76 Years of History Show",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblV6Q2JXamdBRDVKSzV2eVNhMlVQX0M5WWdSTnhuUWp5TXRWWlUxV3pGRFNQR0g1VkRydlNCRExIazVORWlIRDJ4TVFaaHM2Q0VfR0hMTGVCZjlUbWFJSUtfRDNrZkVUUFJaWDFvaHVPMzE4MU1mLTZIdll0TWVXY3p4NnBnX3c3cHpiNi1BbmlpLWxwNEF2NmNxVE9QbFJ6eW82bUNuV0t1Mk9Dd3dyeWZ3V3o4UzBNSWVLNkxYazVBYVRORGhsMnNJXzNoMHd3TU1jak94WlpZUQ?oc=5",
+          "time": "10/29 02:14"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7722.6,
-          "pct": 0.6
+          "value": 7725.64,
+          "pct": 0.04
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26477.81,
-          "pct": 1.18
+          "value": 26425.34,
+          "pct": -0.2
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52377.57,
-          "pct": 0.03
+          "value": 52429.64,
+          "pct": 0.1
         }
       ]
     }
