@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-28T18:24:31Z",
+  "updated": "2026-10-29T01:37:32Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 +6%대↑ 6,000선 탈환",
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[개장] 코스피, 1% 상승… 반도체株 기대감 지속",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZjFYRmRLbTZZYXRITWVSQVV3UW94eFBPRllOMm82UnpXek1vR3RRdkdzZi12UkxlWE9DY3BOd2tNRlZ5WV9nSThpVGVnOU5YN0RSUHNkWWltc3A0VV9UaGljMUhyd1FKYlZtTUZnZ2TSAXRBVV95cUxQVFlTVnV2ZTJSN3NiQ1l5UTZPQWNjRjBvekFQZkdaVjkzT0l5aUlvdGtxU3MwQ1VDZWZSU3prZXhlaWoyZ0VPQkZpR2NyTXF1SnNuVmI0NDRnc25neWhKLXlESC1tUUNlN1ZnLXZ6RjZmM21Teg?oc=5",
+          "time": "10/29 09:46"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "코스피 6%대 급등…외국인 NDF 환헤지가 환율 상승 부추겼나",
           "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5QjBsLTFncF95c0tpVXRMVThCRWp4d1lKVWZXbW4xemRRRHAyVHdzUmpReHN3b3R6T2Z3M21PUVpFS1FtOXV2S3lGcG9qcHd5bWd4MzdHTjEySG1oMVB5TmxqdlJ4djN6bXBHNw?oc=5",
-          "time": "10/28 16:01"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EVU5MYi1LN2wzMC00Z3M1UFpoa3JKVXBhMjd1MTk0Z25yZmVUWnVhMUZzUm9LUjdRZ2oxSDBaczAyWExkYmphVGFKVTlka0lCMzVha19kT0FqdU12aXJnV18tWnBrNjRZeW5uZUxoXzcxZw?oc=5",
+          "time": "10/29 08:31"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "화끈한 증시 급반등 : 쌍바닥의 시작인가 아니면 잠시 숨돌리는 것인가?",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4d3JMa3phb1BIaEpYanNtTjRsdkQ1b1NTLWpQdElsVGRSSUt1empFYWNtblpscGhwbjNUV2ExcEtUTVJIVkt1SnlYM240eUl1QkI0aHRsRDZDMVhMR0hxZw?oc=5",
-          "time": "10/28 18:23"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 반등에 투자자예탁금 90조원 회복…빚투는 30조원 하회",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51enlQM295Y3hueTE1c0JEN05PMlJUM29YSWVBV3ppelBvTnRLdzltQ21GcXYydmhFMl9sdEQ5Q0twZ0ZhalZMd3I3ZWFNSGh4cFFDel9KcGhsSXg2TGstZNIBYEFVX3lxTE51enlQM295Y3hueTE1c0JEN05PMlJUM29YSWVBV3ppelBvTnRLdzltQ21GcXYydmhFMl9sdEQ5Q0twZ0ZhalZMd3I3ZWFNSGh4cFFDel9KcGhsSXg2TGstZA?oc=5",
-          "time": "10/28 16:12"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "하루는 급등, 하루는 급락 코스피 ‘공포지수’도 올랐어요",
-          "src": "네이버페이 머니스토리",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NTkZVN3B0VkhGZ3p0TkVOOTVFVmNXcG1xemlVNXU0ZzlQWmpKVmNFcy1SVGcxRjEwRV9ZdHN3ME1JXzhBMXBGa3F0RG80RUJPNThrQVFJSG8?oc=5",
-          "time": "10/28 14:47"
+          "t": "[굿모닝 증시]美 올랐지만 '차익실현' 가능성…\"韓 하락 출발 전망\"",
+          "src": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZUlCLTFDRzlZcmQ3NzZfZ25tR1A1cGNQMThUc1hwTzdUSXZtTmVqVk5CbTFoMVpCdFF0bmx6TS1QRWtfS0Q1MVZaT2Jja2ttSHAwamtIMDBFejlrSU52MWJR?oc=5",
+          "time": "10/29 08:28"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "[마감] 코스피 6천선 탈환… 실적호조 하이닉스 10% 급등",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QS1RndmxhamRqX1VoWDh6VGplN21hUlN6cnM1N0hVc0hQUTBqZ3F1SDYxUE01WHBWUE5zYTNkX3RxaUdqcDJKeUFOWi1GcHFhTjFyV1hDLWlUdGZ4UWpxUmVCSWZvTUl6LVVvX1pfZ2vSAXRBVV95cUxNQWtFNGZjSk9oaGoyRmhHYTl0RnFKZDRJTGVYNmVLX01kNjN5RXNWZ0g1UWJBZmxYVTZrTzJLa21rWGk2aXJtRFpVLUNLaGF2MWJIeHVyNnh1S19GQWpwRmVEWllPRk9hdjI1YnBqNEs4aERCbA?oc=5",
-          "time": "10/28 16:18"
+          "t": "[AI MY 증시전망] 삼성전자 실적 발표 '주목'…코스피 상승 전망",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tT0lIRGxOdk5ERVRtcTFRRWh2a2JUQU04N2lfbm96Z0ZSTGdwZnIwMmFZb1JQUTBBeGdnaTJJLTFIVVpxamNDS2l0a0pJb0YwYlRmb3I5YVYxZkN0?oc=5",
+          "time": "10/29 08:37"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피, 급등에 6,000선 탈환…반도체주 랠리·외국인 매수세 견인",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtU2I3YVZXOHc3NWh5aXZHX2NzMDdXdndMaWZmbXIwNklzWFFJd3FGQ1BoNGVrMTVVTUtmemk3N25FeGZ3WHBaeUwtTTVHSmtmbVBwckVTN3pxdlJvZXBZczlUM0NRQmU0NmZKb2FRNXrSAXRBVV95cUxQU2dpT1N0UHVrckpaMDRMeG1xMzEtcndVeU5FLUhpX2N2VkhYUGJpaThVdHQ2RnhlMHFZVFlHY3gzT0JmWW1NSlAweXRSMWZvNHRlajh5TUQycWtoeDh4OG9ZYW1iRmZkZzlNR1p1bGZPSXVycg?oc=5",
-          "time": "10/28 16:41"
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피 미국 반도체주 강세에 장중 1%대 상승 6070선, 코스닥은 소폭 내려",
+          "src": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPMTRyQVNQclZKMTRnem9ITlZ3UTNLMlgzMXA4THNleFl4cTFUbzBoM0FYSGx0dEh0Q05VOGU1UjFDc1hVTEMyZG9qZUFhZGdmMEZmZmxiRGZES1BscTZYeXRFZTFmbzhpaXFmOWstcjUzZnM?oc=5",
+          "time": "10/29 09:40"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[개장시황] 코스피 6000선 강보합세⋯SK하이닉스 3%대 상승",
+          "src": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWaG54aFN6NmF6WGl3aFNubk9TZ2Q5aG5kbWtTYkpnTC05VnhrMVJNTTJxTlVXbUN1SFNVTDBNelZHZk5mdENUYTBBczJUT3BsLTgwakM4TDBQdw?oc=5",
+          "time": "10/29 09:17"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5638.34,
-          "pct": 3.09
+          "value": 5917.07,
+          "pct": -1.59
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 743.83,
-          "pct": 2.29
+          "value": 747.0,
+          "pct": -3.15
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1343.7,
-          "pct": 1.43
+          "value": 1332.05,
+          "pct": 0.39
         }
       ]
     },
@@ -77,11 +77,11 @@
       "news": [
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "AI giants' funding ambitions test Wall Street's appetite for risk",
+          "catn": "실적",
+          "t": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkJOM2pFRE9nVHZubFRxVXQxa0NNTWRublIxQS1kOGt6OGd1VUFTems0QjZMWDFMbTF4dDVtTEMtbTh4VVkxLUdnMnZXa25fX0VLczRBU25feWtGNDM0MVBKMlFVWTFfQk94R0pDZVdzOXVxbXBIdzhaRlV3SFNQb0xPYjh6U2JfdE1waFBDY0FxWHpqaTdiY0paekF5OXRnT2pULXdsdURDZzhMajVqakNiWkZuUQ?oc=5",
-          "time": "10/29 02:37"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
+          "time": "10/29 08:53"
         },
         {
           "cat": "macro",
@@ -89,23 +89,7 @@
           "t": "Why analysts say the US stock market may be on the cusp of a double-digit rally",
           "src": "Business Insider",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2o4X1hNMDZxUVEyU3ByODdQNnFCV2RmV2NsVF9RV1VTWHZvZDJIcVBvMC0zOWJtYWhhUE1qUnhwZ2R4ZFJDYllmY3hqUVBzNVQ1UElQblRrbkpkX2xlWkNob0hEZXRxSzNEc0czbnBILVNYZlp2ZGlrem9GRXVtbFRaZVBnUmNhWWY5NXRuaGtERXRNc29MQkVaSUdhVlhr?oc=5",
-          "time": "10/29 01:39"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWx5Q3UtbEx6dUhyUV9zMm5WUWhDUGI3ZWpIdnlzbklmVXVzWnV5SFAyTEo1MTRSUUhrSWhleHZMYUpvTTdNOEwxMnlMRTBLRHB1ZXVMMGdpd1FKZnY1eHNIdkRSUHdEdWFUWkJqbFAxd2VYWXJ1NjlKQzYzQ3I2Q3R6eldQS2duckRoV2hyOE5PSTFCYTk0MENRTGVnejdmVWpqNDJrbXdWVWRV?oc=5",
-          "time": "10/29 02:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street May Be Underestimating This Magnificent Seven Stock",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODk4alNZUEJnUGVxTVhrRWNYcGhnUmM1VUtjMllBWXdibjZTZmUwMW51Y2pBb01vc0F2c1FfS19XekR1UTJfM002dlZXZnhLTG5kbDUxREFtUTFSakpleVV4Q2tjZkQ5V2l1akxqNFJMc0l1Sy1VWUNXaVdicmxHMFFzY2lNM3lqTUNzVEVZWUNoX0ZHUVVCVk5KNUk5TlVSanJWUVhNdUl4OG8?oc=5",
-          "time": "10/29 02:12"
+          "time": "10/29 02:35"
         },
         {
           "cat": "macro",
@@ -117,31 +101,47 @@
         },
         {
           "cat": "macro",
+          "catn": "연준",
+          "t": "The bond market swings, but US stocks remain steady after the Fed says it won’t raise interest rates",
+          "src": "WKRG",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazhod3pVdi1qc1pUekExQ3IyQWtsQzV5ZlNKb0Nab0x5WmFCRTNyV25HTHlWeTRuVDZZTVhRTEtnU3gyemJMNk5aXzRxU2kxZk9wNUhXNldfanRBQTVwcnlQZ0hfQUtoaWdJZUJhaG5jX29MamZ0M1NrRG9KRllpNHVTV3JMTWo5ZXZvc2RYemNjYmJob0ZLQWJtejJXOUNDWGdUVjIzQU9oajFsUmtMSW81dkHSAboBQVVfeXFMTUo5bmM4Tk9oRHRmM1JQdXZiYnRCNGF3d004cDBhYnJuTEd0Nm5Xa2VINDd4U1BUTW5Ha3JMQmprY0RTUTU5Wl95WmgwUVdWMFc1bEJyUm5idzFjOEhkcUhsREdMdE1SYTh1OUxLc2g0TmNhNGx2a0FsUkZuUW10Y01ydHUwcHZTd2QxTjdGZm1RbEJKMnNiRWFsWnVwZUdpWlNOVFZBeFZDNFR0OTVrZXVpc08wS2NNblFB?oc=5",
+          "time": "10/29 05:18"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street giants worth $17 trillion reject new trading plan",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN19uWnEwb0VRR3ZxMGFsRHloaHFuOFZBcWlUOGFVa19iODNOREFnXzkzRWlJSTNkUnI3eHVZMEpkS1pOY3FUU1o2algwcTFDb1FEYWM5UWZ1MzY0dWtUd0dTcVloWmlDS1ZjR3NfTUNfdEhuMzYwTHd5S3BkMjdZWmxONl85WDZWR1ZRX1F1RmdEajlGeVQw?oc=5",
+          "time": "10/29 04:40"
+        },
+        {
+          "cat": "macro",
           "catn": "시황",
           "t": "Midterm Elections Could Set Up a 21% Stock Market Rally in 2027 - Here’s What 76 Years of History Show",
           "src": "24/7 Wall St.",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblV6Q2JXamdBRDVKSzV2eVNhMlVQX0M5WWdSTnhuUWp5TXRWWlUxV3pGRFNQR0g1VkRydlNCRExIazVORWlIRDJ4TVFaaHM2Q0VfR0hMTGVCZjlUbWFJSUtfRDNrZkVUUFJaWDFvaHVPMzE4MU1mLTZIdll0TWVXY3p4NnBnX3c3cHpiNi1BbmlpLWxwNEF2NmNxVE9QbFJ6eW82bUNuV0t1Mk9Dd3dyeWZ3V3o4UzBNSWVLNkxYazVBYVRORGhsMnNJXzNoMHd3TU1jak94WlpZUQ?oc=5",
-          "time": "10/29 02:14"
+          "time": "10/29 02:22"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7725.64,
-          "pct": 0.04
+          "value": 7743.98,
+          "pct": 0.28
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26425.34,
-          "pct": -0.2
+          "value": 26549.85,
+          "pct": 0.27
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52429.64,
-          "pct": 0.1
+          "value": 52475.1,
+          "pct": 0.19
         }
       ]
     }
