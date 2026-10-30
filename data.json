@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-30T01:39:01Z",
+  "updated": "2026-10-30T18:07:02Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "[개장] 코스피, 美빅테크 실적 실망에 5700선 후퇴",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRUVQMENJOUFodzRnTlZqQzdlZFJidS1VdnhzXzRVd0VqcnZMRHFVMWRhSTFCUHNkaERLU0d5UlVlTE1IRmZ5czU5WEZFMHhKY1RkRTVSR1o1T1JTYWZBb3JTTVd6Tk5JcjRNakVHUWHSAXRBVV95cUxQU3k5aUxZYmZUWmpGR3dRbTZFU2FGVXFLYlhWbmZkN0FjM3NXYVF0S0h5MzVhN0E0cnBrTkxrWlBNbWNlN1FvSTBSdElmU3l3bGN6eU1UMXR5QWxOMWN3cFotQ2lmNDNSWTlSTzcwYXJxenI0RA?oc=5",
-          "time": "10/30 09:47"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "미국 알파벳 13% 폭락에 ‘화들짝’…코스피, 5700선도 위태",
+          "t": "코스피 3%·닛케이 2% 뚝 … 亞증시 '휘청'",
           "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdy01VFg0RDJUZWxIcDBxRWtMWmNVTHhJUWZvckM2ZnF3QkFaY0JNV1oyZU9SeFhQR0dwZjVfaXdCd2RkbXN5dzNXYUNIMGJDQXc?oc=5",
-          "time": "10/30 09:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 3% 급락해 5700선…코스닥도 2%대 하락",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMHRpMmVLUWdkSkhPcDJVb0N2Wkd2X1AzNVJHSDZidWpaWlVITlRRR1lrZUxyY0dDUXNyWnhRcjJoYXR3NmpiTzdhbzZ2eUZ0V2x2SW5VMnJrdw?oc=5",
-          "time": "10/30 09:11"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2ZG9oOEpUZk0wNVRwUXhDeEdOTENjMHNGZkRSSkhvRTBFMmltR0xSaV8zRFhEdXE4ZTBvQW5OLW0zVU5tRWJOaFQxYmZNdWJNcUE?oc=5",
+          "time": "10/30 17:36"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "삼전닉스 호실적 얼마나 됐다고…미 알파벳 쇼크에 국내 증시 '털썩' - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQmk3VXYxWFV2OTFtYjJLY011bzVBUm1GVXpEZkRpYUgwRm4yc2xJQ1dDZ0oxcnFibGxOMm9tLUREMWRiWS1ZMlVjdEFOUGZQUXJ4ZE81UzBLQmZBaGJYRlBWSGg1bGt30gFuQVVfeXFMTTdzdkVDTlE4ZFBJLUR2cUZKVGVqVnJFWk9VeFpOUmJwcnJLUk5JZnlhZUk3V1ZkNHlPQmpDb2NERHR5ZnJxSmRTYXliVnBZNl9icEZ2NFBpRnNnRjJuQnNxSnlyaFBpS21RWTloN2c?oc=5",
-          "time": "10/30 09:24"
+          "t": "[증시-마감] 美빅테크 실적에 다시 번진 AI 우려…코스피·코스닥 3%대↓ |",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83bG5VUjVDbUpOaGJCYk80NkVmYktlYjI1N0xTcWlqakNiSUZRSGZxemlOTFdlM3FMRDBPR2d5M0NfVWhZOU1fMGNwRlFmcElLd1hCMzRlY2xhSTlSM0RzX1c0Qm5NdDdmNTJNVFpzWDN1eXJh?oc=5",
+          "time": "10/30 16:12"
         },
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "외국인, 9월 국내 주식 19조원 팔았다…한달만에 순매도 전환",
-          "src": "비즈워치",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zTFVTTWRiQ1NQTXVNWldVOEFsMmw0ckFaLVpuWmJKbXhTTUh1eFlNMzR4VktZM0swcmNoVGUyeG9ISE9CNEpiWE0wTVA2VndwZW9KRzAtVkFuTzJ0Tk9RMkVhbS1fY1ltNEE?oc=5",
-          "time": "10/30 06:00"
+          "t": "美 빅테크 쇼크에 코스피 3.48% 급락…외국인 1.6조원 순매도",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hb01yMkIxaFpWNk5KanMwQ21vMUNIbjloT1BlSnF2SHVfMnhYa3dHWEVwTzE3UFZBaDNtTm9aYVFfNDVSUUNTbWFZM1NocHE1LUdJTW5HYnlGWGZqNWQyUy1xMXhQY1ZsaFVrMnRMa3bSAXRBVV95cUxNX0x5ZllRc3pZdVlKOUM0QXpURDFMNmEzY0dEWWJ3V2tWc3ROSXVvZUZZQks1eXltUHhod2tQWDJGSEJueXBudWhEbEJpZXNUWm9oRktXS3prRXVwakc0cVVVdm1HdVhqeEJGb0NDZE5tSTBGbg?oc=5",
+          "time": "10/30 16:22"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "국고채 10년물, 장내에서 4.0%선 하회…코스피 4%대 하락(종합)",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSeUcyTUpxMjNmSU9qSHBHcXBZNzVGemZQNzJzR3Q1LVNodUhrMnM0MmptaEhvNk54czh1ZHpWaUtyb201VGVLZ1pyZXg1NEt2SlZPY1J6QWIxR1g0YVlaakdEZFZyYTZEZlEta2ZjMUtodw?oc=5",
-          "time": "10/30 10:07"
+          "t": "기업은 돈을 버는데 내 주식은 왜 안 오를까 [격변의 증시①]",
+          "src": "한경매거진",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcHNJZ2tzQUJjUU1XWFJVQ004NzhTbWtZcTZocVlmRTRRR1hZaERmV2pPR2xLRDRrajU0LXJrT2FCYWcyMjcyZ2hVNkU5STJQRVh2NDdHOUthUmZ1cTZFanN1NzdTTjA?oc=5",
+          "time": "10/30 16:37"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "美 기술주 충격에 코스피 3.48% 급락…5,730선 밀려나",
+          "src": "프리진경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50LV8wU0ZfakdGWjBpNmU1WnFiemdTTjZxa1p1aGZlaXBMYTQ5dVV5dXNzd1dKUTliX040MWs3R2pyUXZRQ2JQdUVtNldLMVZqQlhkWUxIMHRRR3UyZG1pakZpS09tMkpRSjdWNA?oc=5",
+          "time": "10/30 17:35"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "[1030마감체크] 코스피, 美 빅테크 실적 쇼크에 3%대 급락... 외인 1.6도 순매도",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YNlBNMmtxUWZVT0I1cGlld0ViLUFQRUJYUzd2S21ybllWSm9RTDVLekZMZjlwUTRTRE9NZXdlRVBxb2VsblhoM3lRcnhQYTF1TzRva2w4LS1LWnB3Y1E5dXVoU1RtY19hWEhMendlbS1vZnFPVHc?oc=5",
+          "time": "10/30 17:13"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5639.11,
-          "pct": -5.03
+          "value": 5937.66,
+          "pct": -1.24
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 726.99,
-          "pct": -3.48
+          "value": 753.23,
+          "pct": -2.34
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1337.58,
-          "pct": -0.21
+          "value": 1334.28,
+          "pct": -0.45
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-          "time": "10/30 08:35"
+          "t": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+          "time": "10/31 02:12"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
-          "src": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmVnSjQ2MFV3UDBoRTVsTUIwWHJMa1pLX1FfTXR2Q184WVRoVW1MWFlWa05tT0hHYnJBLXJwTHVKb2oxZ2hRc1dBSE9UTTFJZDlObTh0SVpYT090d0syTW00RUNIdzU2djBFNXlLS0lkSzJURVJoVFdIME1HVmJVdDRqUdIBiAFBVV95cUxNNTgwQkZMTE5peTB2aGljMXFyWGVScDBLTmtMMGdEZkd3T2ZONnluejFlcHctRmNFcFJQOG1NcnNnYlNEVkZydHRYUmUwRGhOdWRpQ0t0Wi1BX2lPYVR0TDlFRHRlaHJsN0M0cnplQjhmZ2lSZFVrNHRPbUg4NjdWTUF0YnhzQW02?oc=5",
-          "time": "10/30 08:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Stock Market Today, Oct. 29: Hyperliquid Strategies Stock Surges 23% as Wall Street Giant and Billionaire Stanley Druckenmiller Back Hyperliquid",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNTHlUV3BCSjhiU0ZNMjR0dU9LUGtzVmdJNmJOcEI1WjFKaXFEaFZlM1VzYjNCZTRsQ1ZjVUljZHRLSEdhUEYtbFpWdkZJQ25VaFkwQkFmTUt0RkM4M3U2b3dUeEJOb21HX2ROYjNORFRWb2RVX0hMNnVGRkhCbmwyVDkwOWFzU1RvZ0tWRHNLTTg2Qmt0OElfbzNzelNJcS1KSFcxM08zdDE2OFREWkM5ZkUxNERkVjBmclBpelR0aGhDWi1iRXRvVGNXZHhKNnhUN2o2TUlKSF9nT1JPZ3FZR3EwNzB3QU11RHV4ZFp3T2RWdFc5YUxud0QwVnRrSHVXck9FZ3NIZjJWZzNrc0I0UVI3cTM4MU41dzhNZEVoQWdlSzcwam9ZTU9IcUpWQQ?oc=5",
-          "time": "10/30 07:00"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Equities and bond yields dip with AI jitters and economic data in focus",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjBPTkdNTS1MdFEwWlB0TjhJbHN6ZEw4VFZjd2FpMmd2YTA5alR0aDhZdzE1Qy03eUZWVU5ScWxEeE9EbmdsNXFka2pZZE0tU21BS2NZd0pIdlpiOWtUbUM5V1Nvak11TlRNZ3dvWXBnOTdPWTdTZU40UExKWHkxdWc3VWU1ZUk2S3owbF9lYjJEbThvSkEwM0pfYWZQYVYxb2c?oc=5",
-          "time": "10/30 06:31"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "A historic drop for Alphabet's stock drags the U.S. market lower - Pittsburgh Post-Gazette",
-          "src": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGIycDdudXhhOTZsRUN4Y0ZkVDl3cmMtS2FqLUZsZ2RaMUVBcEFScE9MdTFuTW1ZM2EyUlpCZkhLaDZjT1EzWlA1M0s4STBYVlJna0F5RnZaTzk3TUpZQ0VMaUpkMllQT1JWT0IyUFZhV1hJUThHNGxfU0RCUDc3ZzVTaW9ibUNQX2htYVJGUVVIazk3S0VPSU1LLVV5bV84SS1VU3F0Zk15cjhJZjJB?oc=5",
-          "time": "10/30 09:37"
+          "t": "Wall Street sell-off continues as investors question returns on ‘monster AI splurge’",
+          "src": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByUnNNYXM0dTNpeXAwcGJGWnBKODNxWEZFaHFVR3ZwZFpqb2ZSX1VDVjdxVnc2aElIYk1MNFRtd2NEUE81dnZGbGZBN25CRUJIWHJUQnpOdEMxVXlyTUd2UDRFUmlhSE5JMmNKeFpibzgtZw?oc=5",
+          "time": "10/30 21:08"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
-          "src": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVNFY2lBeUZZS2t3MnBITVE3WGVpdUhPQTRIV3hwWE9aazh5b1BCZWtJNTFIRmdScklnNXRGTWM4ZDE4N0J5REJoUG02V3p6YmV1SjF6dlluSkVpSlNESHV6SWFBV0UyTHUxUjZIbEx1Q3N5SS1uYVRaVmtVTS1COGxSMzVJdzd6LU5MYjZuWnZIYWdXRVU0VkE2YVpCdEJYZmhQQlRIYUluQzVsYlNud2hmTzJPMV9HaFlFeFNn0gHDAUFVX3lxTE9DemkxMlBiTmhWNGtuSGxUSFJ0ekZpR3BQOG0xNkRGdFlibEhXU0FJYWJOZUgybXozamFLdDRUdHExRU9pNzlhNmpPbURmcklCQTEtWnRSMENuN241ZEV3Vy0wd3EwaHRqUE1tQXZtaHRZdVJEeXhrbllqT0dVWnBiM1F6MFdULU5Bd2F5clZaZHBQQmttSFhJckg0a255Tng3SzFvXzE3NENudFF1LXk1Y052N3VETFBMcncxbnRoX1B5MA?oc=5",
-          "time": "10/30 08:17"
+          "t": "The sell-off for tech stocks worsens and overwhelms Wall Street",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
+          "time": "10/31 01:00"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Tech Stocks Tumble, but Broader Market Is Holding On",
+          "src": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lZFpybG4tcVZURUg4djdncV81ck9kdS12V2Q5bW1VN0RyOEV2VkhQUVluLWd4ZkFiSmh6RzJuWFNZT2VOYm5CZ0pNRHZrQUhNNzlMdHBhZE9qUlY1bmJRVGxMOWRoLTRpaGpTelJwYzI1Q1E5Z3c3eUxhUzk?oc=5",
+          "time": "10/31 00:53"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "The sell-off for tech stocks worsens and drowns out strength elsewhere on Wall Street",
+          "src": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd3JRZ29BZHpYTnBzc0JuZkRXZFl3MW45YWdxczVzNHljNUE1RDdsSU5mRTZtRlVpTk5PT0EyRDBlOGtsSWJSNFJwekp1d1hGX2hzUktXcFpEU0xqNzNFSDRJMURDcHUxTVM3RFVORy1fNEFJRi15NmpUT3NSajlrd21KcHU1WS1RbDNwWXQ4TzY0RjQ3NmtOX05sbnZTMGZUbDNfRFo0LU4wNGt0ME9JMjlVMkRYZS1TaUk4eDZoeDFJWEVLLXdEamhwQm9zNzh1aEVjdjBjZ1Z6d3Zub09rRy1IalRDeVNBa3U0WTBJU2RIU3owZ1RGUw?oc=5",
+          "time": "10/30 23:43"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "The sell-off for tech stocks worsens and drowns out strength elsewhere on Wall Street - Union-Bulletin",
+          "src": "Union-Bulletin",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUnRXQUJyZU5qV3I2TGEwQVItWTZPUFk2b1V0MG51XzJpSnlUNXhieElFRnlPZ3V6QjkzRC1wS3NHMjNJMzRIcGloQTcwUGNuOFZzcHNGVlc5Z3JYRjZhVkQ1T0xRQTlVM0NhUnp6b0FCN2o1d3VHdnF4ZkxyTVNuUkM3a1RrQXJ6OC04ejRBeXVIaThHS1ZReEpYRWF4eXNKYnA1WFZqSndEelZzUFBMOS11MVZlM2hxS1pYQVc0cmdKNnI5OU03NU4xTjlyVVVtX2dxX055bkd1TUY1N0FKUEQxNXplQ0R6YUJ4MlVvMkJReEpucElORGRrSHZVU25hU29FV3F6eko?oc=5",
+          "time": "10/30 22:34"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7720.39,
-          "pct": -0.3
+          "value": 7559.74,
+          "pct": -2.08
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26184.72,
-          "pct": -1.38
+          "value": 25305.66,
+          "pct": -3.36
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52342.56,
-          "pct": -0.25
+          "value": 51773.25,
+          "pct": -1.09
         }
       ]
     }
