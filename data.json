@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-29T18:34:27Z",
+  "updated": "2026-10-30T01:39:01Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "현대건설(000720)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa181aFhDd1pocXdXZVhUSWVmcmdIcl8zakx2ekZPRjJHUC1nTTREUlhFVzV4RC1iSjBwSmlUWWV1a19waEVPMk1pMmUtcVVjd2JVdkhJZVE0Tm9FaDVvcWl5QU41S2hteWFKYzlwblJNVzc2c05JQ21pZnFadGpzcFpEck5LX2I5bFlZc0JOWW9iX0dPTlNJ?oc=5",
-          "time": "10/30 00:32"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "[1029마감체크] 코스피, 하루 만에 6000선 반납…주주환원 실망에 삼성전자 4%↓",
-          "src": "인포스탁데일리",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sWjkzY1F3ckhWOVdhQ3pRZnpobkQ0LV9lXzJPUXltamctaW5iREhKNnY0MFIxTFdSNUtzajdic1AwbXVwcGRyRm1PRVVDeXJkaERZcmY2VGhtUm9ULTV6MEc0Wno0WVQ3SUxQSGhOcXlTQnVCYmc?oc=5",
-          "time": "10/29 17:23"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "차익실현에 양 지수 숨 고르기",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wSDR6dU9taGt5b1QyYV82N0ZMeVFkRFhwR2pCekJzUE5ES1Fka2VxMTlmdnVVVmVYSWNYbWlGenJiZVcxaHN4cG83b2FqbmlwWjF5azU4SHJmaVltVkxmY1JNU2FuR3dSUzRfWQ?oc=5",
-          "time": "10/29 16:04"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "[개장] 코스피, 1% 상승… 반도체株 기대감 지속",
+          "cat": "earn",
+          "catn": "실적",
+          "t": "[개장] 코스피, 美빅테크 실적 실망에 5700선 후퇴",
           "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZjFYRmRLbTZZYXRITWVSQVV3UW94eFBPRllOMm82UnpXek1vR3RRdkdzZi12UkxlWE9DY3BOd2tNRlZ5WV9nSThpVGVnOU5YN0RSUHNkWWltc3A0VV9UaGljMUhyd1FKYlZtTUZnZ2TSAXRBVV95cUxQVFlTVnV2ZTJSN3NiQ1l5UTZPQWNjRjBvekFQZkdaVjkzT0l5aUlvdGtxU3MwQ1VDZWZSU3prZXhlaWoyZ0VPQkZpR2NyTXF1SnNuVmI0NDRnc25neWhKLXlESC1tUUNlN1ZnLXZ6RjZmM21Teg?oc=5",
-          "time": "10/29 09:46"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRUVQMENJOUFodzRnTlZqQzdlZFJidS1VdnhzXzRVd0VqcnZMRHFVMWRhSTFCUHNkaERLU0d5UlVlTE1IRmZ5czU5WEZFMHhKY1RkRTVSR1o1T1JTYWZBb3JTTVd6Tk5JcjRNakVHUWHSAXRBVV95cUxQU3k5aUxZYmZUWmpGR3dRbTZFU2FGVXFLYlhWbmZkN0FjM3NXYVF0S0h5MzVhN0E0cnBrTkxrWlBNbWNlN1FvSTBSdElmU3l3bGN6eU1UMXR5QWxOMWN3cFotQ2lmNDNSWTlSTzcwYXJxenI0RA?oc=5",
+          "time": "10/30 09:47"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "미국 알파벳 13% 폭락에 ‘화들짝’…코스피, 5700선도 위태",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vdy01VFg0RDJUZWxIcDBxRWtMWmNVTHhJUWZvckM2ZnF3QkFaY0JNV1oyZU9SeFhQR0dwZjVfaXdCd2RkbXN5dzNXYUNIMGJDQXc?oc=5",
+          "time": "10/30 09:33"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피, 3% 급락해 5700선…코스닥도 2%대 하락",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qMHRpMmVLUWdkSkhPcDJVb0N2Wkd2X1AzNVJHSDZidWpaWlVITlRRR1lrZUxyY0dDUXNyWnhRcjJoYXR3NmpiTzdhbzZ2eUZ0V2x2SW5VMnJrdw?oc=5",
+          "time": "10/30 09:11"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "삼전닉스 호실적 얼마나 됐다고…미 알파벳 쇼크에 국내 증시 '털썩' - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWQmk3VXYxWFV2OTFtYjJLY011bzVBUm1GVXpEZkRpYUgwRm4yc2xJQ1dDZ0oxcnFibGxOMm9tLUREMWRiWS1ZMlVjdEFOUGZQUXJ4ZE81UzBLQmZBaGJYRlBWSGg1bGt30gFuQVVfeXFMTTdzdkVDTlE4ZFBJLUR2cUZKVGVqVnJFWk9VeFpOUmJwcnJLUk5JZnlhZUk3V1ZkNHlPQmpDb2NERHR5ZnJxSmRTYXliVnBZNl9icEZ2NFBpRnNnRjJuQnNxSnlyaFBpS21RWTloN2c?oc=5",
+          "time": "10/30 09:24"
         },
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "코스피, 외국인 매수에 장 초반 6,080선 상승…반도체주 강세 지속",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94N2NIRTJaM0xGMHA1bnk0cE5aZVMzTF93YnpiLVRxWGdWYlp1bG1zbnJUVkw5eEJjXzFBeHRNUjhhcklUSzRacktuakxIV1pfYURYRnBodFpGNk13VUxPNWphOXVhd2hNSlcxNkdKM0bSAXRBVV95cUxNTjhYTHZwMzJic21vYmlndTdOMU9xczNVbzdIVzBPQU41OWFqOEFtbVY4clg1WnNKVkUyTmhaMlVDTjRUWEpCa0FZRXV1SjVFVlhmUGo4ZDBla1lFdG1OcWF3SVBKVElJNGF4T1hONnNuM3FXOQ?oc=5",
-          "time": "10/29 09:52"
+          "t": "외국인, 9월 국내 주식 19조원 팔았다…한달만에 순매도 전환",
+          "src": "비즈워치",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zTFVTTWRiQ1NQTXVNWldVOEFsMmw0ckFaLVpuWmJKbXhTTUh1eFlNMzR4VktZM0swcmNoVGUyeG9ISE9CNEpiWE0wTVA2VndwZW9KRzAtVkFuTzJ0Tk9RMkVhbS1fY1ltNEE?oc=5",
+          "time": "10/30 06:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[아! 코스피] ⑩ 다시 만피 꿈꾸려면…단기 지수 부양보다 구조 개선해야",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMUdJVV82c29LcldzWW4yQnU4Ty1ZTU5Nb3JXcFp0OHp6alRXQW4wNE1fWEtxOHZpdkp6ME5kZm5EQkozS0EtYWt2Z1plY2IzYTF4REUteTdqbzNo?oc=5",
-          "time": "10/29 14:00"
+          "t": "국고채 10년물, 장내에서 4.0%선 하회…코스피 4%대 하락(종합)",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSeUcyTUpxMjNmSU9qSHBHcXBZNzVGemZQNzJzR3Q1LVNodUhrMnM0MmptaEhvNk54czh1ZHpWaUtyb201VGVLZ1pyZXg1NEt2SlZPY1J6QWIxR1g0YVlaakdEZFZyYTZEZlEta2ZjMUtodw?oc=5",
+          "time": "10/30 10:07"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 6012.44,
-          "pct": 6.63
+          "value": 5639.11,
+          "pct": -5.03
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 771.28,
-          "pct": 3.69
+          "value": 726.99,
+          "pct": -3.48
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1338.95,
-          "pct": 0.91
+          "value": 1337.58,
+          "pct": -0.21
         }
       ]
     },
@@ -77,71 +77,71 @@
       "news": [
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "Google drags down Wall Street stocks",
-          "src": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWlFN0xERDBBVjhCai1sWmxzcFl2Z3Vsa3l1TFFBaGhtR3V4MHBMaFJmM3VJbGNGM0JOaHhuZVlLQ0Rwb3BNSG9ILXkzeEFOLTVnU3VJNWxuZllfTmZYLXBiUGJvbDF0RUs1NkZ6QTJBcEVweThaNl9sRmZScGg4c0F5d0oyVC1TNGJQZA?oc=5",
-          "time": "10/30 01:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "A potentially historic drop for Alphabet's stock drags the US market lower",
-          "src": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTRBYjBxN1A3bE9QM2Iyb0FjZ2YzcGl5RHJBTlJTMERkX2Y5c1k3MExwTkp6X2pnRHh1cFdDM0pacVozY0NnWkVpaVRUc1hSM0g5amVkYmdsdGJpczh3dG9sUHVTY21sb1YzdThCNGV5OXJYczNFT1l3eUVSeVdVbVpPWU9zZXBxTFIySkZQWUgwUDZESkxSNDhKWGNwSVQ2NXh6RjQ1d3oyQTVROTlEZktvRDRsYk1SN2stUEViRVF6QQ?oc=5",
-          "time": "10/30 03:29"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "The New Rules For Big Tech's AI Spending",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTG1LV0RycnM5ZFY4VzVqMEk3UFg5TlBIUlFfU1BjaXAyTFVTckg5SFdwMDdrVU0waHJjZllLWWxtZzhyRmlEaUhHRllyMHMtQ1dwVTFkOXMtSDhmc2lIWVJ6dEVIQmthRjlCblAzb3UwZFFBQWlJYjZXcWdlbWctSGdjZFNpcFU?oc=5",
-          "time": "10/29 21:30"
-        },
-        {
-          "cat": "earn",
           "catn": "실적",
-          "t": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
+          "t": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-          "time": "10/29 08:53"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+          "time": "10/30 08:35"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
+          "src": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmVnSjQ2MFV3UDBoRTVsTUIwWHJMa1pLX1FfTXR2Q184WVRoVW1MWFlWa05tT0hHYnJBLXJwTHVKb2oxZ2hRc1dBSE9UTTFJZDlObTh0SVpYT090d0syTW00RUNIdzU2djBFNXlLS0lkSzJURVJoVFdIME1HVmJVdDRqUdIBiAFBVV95cUxNNTgwQkZMTE5peTB2aGljMXFyWGVScDBLTmtMMGdEZkd3T2ZONnluejFlcHctRmNFcFJQOG1NcnNnYlNEVkZydHRYUmUwRGhOdWRpQ0t0Wi1BX2lPYVR0TDlFRHRlaHJsN0M0cnplQjhmZ2lSZFVrNHRPbUg4NjdWTUF0YnhzQW02?oc=5",
+          "time": "10/30 08:00"
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "A potentially historic drop for Alphabet's stock drags the US market lower | National News | 2news.com",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ0NvODh1SGlleWlFbEFQY2VjampaQm5LVUQ5MVlIMFN3b2VlakRabVBmdl85ZWIzamYwV1VTNnJzTk83SkhuS1QzTkdNOHRSZmliNEtqZk9xMDdkcmI3WkVUVmI3OUh5emE5YVRkeWVpZ0VaY2Y0R2hnSEFOb2kyQUJuY2pSYmszZUZxVXBsaGV4eTNONldqSnRvbWE1UkxXUUVwZFlCNTJya3lWS2pOTm1UanozM3htSUczdlBma09XUzFnX2QzZFVrYnUxSmp3X0dUVVlTcUtyRVhlN0ctUDdxSUVHLUhQLWJJb2t3?oc=5",
-          "time": "10/29 22:49"
+          "catn": "연준",
+          "t": "Stock Market Today, Oct. 29: Hyperliquid Strategies Stock Surges 23% as Wall Street Giant and Billionaire Stanley Druckenmiller Back Hyperliquid",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNTHlUV3BCSjhiU0ZNMjR0dU9LUGtzVmdJNmJOcEI1WjFKaXFEaFZlM1VzYjNCZTRsQ1ZjVUljZHRLSEdhUEYtbFpWdkZJQ25VaFkwQkFmTUt0RkM4M3U2b3dUeEJOb21HX2ROYjNORFRWb2RVX0hMNnVGRkhCbmwyVDkwOWFzU1RvZ0tWRHNLTTg2Qmt0OElfbzNzelNJcS1KSFcxM08zdDE2OFREWkM5ZkUxNERkVjBmclBpelR0aGhDWi1iRXRvVGNXZHhKNnhUN2o2TUlKSF9nT1JPZ3FZR3EwNzB3QU11RHV4ZFp3T2RWdFc5YUxud0QwVnRrSHVXck9FZ3NIZjJWZzNrc0I0UVI3cTM4MU41dzhNZEVoQWdlSzcwam9ZTU9IcUpWQQ?oc=5",
+          "time": "10/30 07:00"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street’s Broadcom Target Sits Above Its 52-Week High. Is the Street Right?",
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Equities and bond yields dip with AI jitters and economic data in focus",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHVxSGdiS3dXNkhtb3NlUDR5OHJhV2dneGJIcjVwZTlvSlY1bHluVThCampHTHRsYVFIa2tYZ0NfamY3Tko1bWxWOTJoenFNUUl0UmphMVk1MUFmUVpWYUhrTjJ0bkxjaDZwdmNyaTF1TUhWSEIwTko5bFh3amVLc3RMNG52ZmZ2X0x1NnFxWko2SFVSQzFUOHFPSUI4QQ?oc=5",
-          "time": "10/30 01:03"
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjBPTkdNTS1MdFEwWlB0TjhJbHN6ZEw4VFZjd2FpMmd2YTA5alR0aDhZdzE1Qy03eUZWVU5ScWxEeE9EbmdsNXFka2pZZE0tU21BS2NZd0pIdlpiOWtUbUM5V1Nvak11TlRNZ3dvWXBnOTdPWTdTZU40UExKWHkxdWc3VWU1ZUk2S3owbF9lYjJEbThvSkEwM0pfYWZQYVYxb2c?oc=5",
+          "time": "10/30 06:31"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "A historic drop for Alphabet's stock drags the U.S. market lower - Pittsburgh Post-Gazette",
+          "src": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGIycDdudXhhOTZsRUN4Y0ZkVDl3cmMtS2FqLUZsZ2RaMUVBcEFScE9MdTFuTW1ZM2EyUlpCZkhLaDZjT1EzWlA1M0s4STBYVlJna0F5RnZaTzk3TUpZQ0VMaUpkMllQT1JWT0IyUFZhV1hJUThHNGxfU0RCUDc3ZzVTaW9ibUNQX2htYVJGUVVIazk3S0VPSU1LLVV5bV84SS1VU3F0Zk15cjhJZjJB?oc=5",
+          "time": "10/30 09:37"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
+          "src": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVNFY2lBeUZZS2t3MnBITVE3WGVpdUhPQTRIV3hwWE9aazh5b1BCZWtJNTFIRmdScklnNXRGTWM4ZDE4N0J5REJoUG02V3p6YmV1SjF6dlluSkVpSlNESHV6SWFBV0UyTHUxUjZIbEx1Q3N5SS1uYVRaVmtVTS1COGxSMzVJdzd6LU5MYjZuWnZIYWdXRVU0VkE2YVpCdEJYZmhQQlRIYUluQzVsYlNud2hmTzJPMV9HaFlFeFNn0gHDAUFVX3lxTE9DemkxMlBiTmhWNGtuSGxUSFJ0ekZpR3BQOG0xNkRGdFlibEhXU0FJYWJOZUgybXozamFLdDRUdHExRU9pNzlhNmpPbURmcklCQTEtWnRSMENuN241ZEV3Vy0wd3EwaHRqUE1tQXZtaHRZdVJEeXhrbllqT0dVWnBiM1F6MFdULU5Bd2F5clZaZHBQQmttSFhJckg0a255Tng3SzFvXzE3NENudFF1LXk1Y052N3VETFBMcncxbnRoX1B5MA?oc=5",
+          "time": "10/30 08:17"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7691.88,
-          "pct": -0.67
+          "value": 7720.39,
+          "pct": -0.3
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 26085.3,
-          "pct": -1.75
+          "value": 26184.72,
+          "pct": -1.38
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52167.64,
-          "pct": -0.59
+          "value": 52342.56,
+          "pct": -0.25
         }
       ]
     }
