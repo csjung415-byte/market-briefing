@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T00:46:04Z",
+  "updated": "2026-11-01T18:00:07Z",
   "markets": {
     "kr": {
       "news": [
@@ -9,47 +9,47 @@
           "t": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까",
           "src": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk80Y2dQaXZ6bVhDTXRzNXp2RXdudFpSeTV2dDE4Q2FOM2pXU3RjMzZTeGNxYU9jUHlQWERpOTRJMDBoRjBmS3c0UWhGZ3E4eWZnVUFLSS1iMnVYU0s2VkNGS2dSSHI1ZDFRSEVlekFPQUZITnNvUzgxWlMwbXJtdVdkUlZveWdfNnZoLUJn?oc=5",
-          "time": "11/01 08:37"
+          "time": "11/01 12:15"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "ETF 순자산, 증시조정에 국내주식형 비중 줄고 채권형 늘었다",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyYVRVcnJpUzlhWFpuckpTejdacFNDbGtOSGlzUnlIb2dpWV9kQVdPcXpzVTljSTBOOVp4QXRBMnAzc2FfcXRvZ0pvQkNsaTZsOGJkMjM1eXNrTUZBb2FlTNIBYEFVX3lxTFAyYVRVcnJpUzlhWFpuckpTejdacFNDbGtOSGlzUnlIb2dpWV9kQVdPcXpzVTljSTBOOVp4QXRBMnAzc2FfcXRvZ0pvQkNsaTZsOGJkMjM1eXNrTUZBb2FlTA?oc=5",
-          "time": "11/01 06:10"
+          "t": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다",
+          "src": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5",
+          "time": "11/01 11:56"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uajlBeXNkTmRlXzUyNXVfZVdoTElUZkVyZnlrNWNoWWNCb3hMdlRRNzcxcklwQ2xWdGxMcjNBM2NTR3hSeWxqNElva20wWnpSaFE?oc=5",
-          "time": "11/01 06:25"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 떠난 외국인 11월엔 돌아올까, 변수는 미국 중간선거와 앤트로픽 상장",
-          "src": "비즈니스포스트",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwYTl4MTdFTDNHNXlUblBKLTdsWW9SclFJT0w0U1puWVMyZnFfZnZxWFozQ0d2NV94RmRNaTMyNjRtT1J0czQyNGJVc0o1bnpEdWc0WExDeVZVZkJyZVFTM1dURWM2Ri1WUnZfTm1Za1pWOGM?oc=5",
-          "time": "11/01 06:00"
+          "t": "10월 증시를 마감하며 : 역대급 하락을 만든 한 달",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zN29pRUlrMWhuQzFoMTAzMHg5S1JhRF9tV0NEcG5OR2I5WGJ6OFFXdEtuZ1hGX05xaC1iNzJaMjEtLVJPRm0wZnB1TE9Sek9CVDI3TWV3QkhTdHVyc1BlVw?oc=5",
+          "time": "11/01 14:55"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "주주환원으로 반등 불씨 살리려는 코스피…인텔 29% 급락에 AI 투자 우려 확산 [주간증시]",
-          "src": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHcUNydjdxUDFyQ3JwZDlXOVJRRFZ5bk9jZmIxMThLSlVKMGFIQnczQ3JiVFczX0ZrTWx1SDZKeVFYSnltWHJMaTNIRFprWXZUR0p4aDVZVXFxOTZXcERsOVFB?oc=5",
-          "time": "11/01 09:42"
+          "t": "[주간증시전망] 코스피, '인텔 쇼크' 속 5700선 출발···美중간선거 '분수령'",
+          "src": "서울파이낸스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzUE1objVaWFkydF9MWjYzM1RvcWloMEtuaWhoOWlEM3RxdWN4YkhKd0xtbUY5WFJxeFZ0WW5HRnNkcTdENVJzSzVqd2pqLWpQaXkwb3Y5VGZRc0d2NG1MUFdCMUJ3X0p0ZXc?oc=5",
+          "time": "11/01 21:15"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[이번주 증시] 변동성 장세 불가피할 듯...美 중간선거 주목",
-          "src": "오피니언뉴스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYenVNTVBTbUFrM1FTRE1yVGlQeHN5Mk1fMzhyZUFvN2dCQ29LbzFwYTMwWGE3M2dERW13QnJoWjRQMERHUGlRazVnaWY2ZlZZTm95SC1IWS1rZWpzMlAwRW1HcG1hWEtUY0ZEUmhSQUk?oc=5",
-          "time": "11/01 09:00"
+          "t": "내 주식도 혹시?…수년째 '만년 저평가' 151곳에 저PBR 꼬리표",
+          "src": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhblBrM256VXlLZjRTUjFDeXlvMmxXX0x2M1o5OE9WaW1uaEYzUnNNMnFWVHk2TEdwQnY2d295bWVUOENZQnM1emF2bVp2LVY1bGdfTGtoZGNHVi1BUVpNZ3kzS0g0T3VjX3VvdW5fdW9Fdw?oc=5",
+          "time": "11/01 12:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“횡보장엔 커버드콜ETF 사라면서요”…코스피만도 못한 수익률 대체 왜",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ed3B0V0pDZVJWbFNRb0pjZ0U4c3JXSjY3cWZsSS1lM1dtVXZsdTBpQTc5MzEwTWhhUzhJZWRRVGhkbGt5T1I5UWpZUUtMU1ZKMEE?oc=5",
+          "time": "11/01 22:03"
         }
       ],
       "indices": [
@@ -68,60 +68,60 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1335.1,
-          "pct": -0.22
+          "value": 1333.44,
+          "pct": -0.34
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2NWZlcwUGdyRzMyb3VVemlNZTcyaTBROEZMZld4UXRmRHQ3MF8yeTRjdUJlR2xuMVFBNHMyN2xDcS1CTTlhVkwyZTNnSi12Z1FFYnk3T3o4U0R4eEhCOVVyZjJoYnFkUFNvQ2UyN3lLOVhWWkZ2Skh3UEc0bHp5MWg1MTB0eFgzZWktYjdfV2E0U1lhcnVr?oc=5",
-          "time": "11/01 05:53"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
           "t": "What investors are watching",
           "src": "Axios",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsYmkwVXpKRldFcW9PMFFabmZzdkFxVnl4LWt6c3d5eFRKcTIyS1AyU1JLSnB5eWktY0d4djNOSFVDSllvNndVcUdMTlc1Z3lxYm55S0RfWk53dlNUQ0VMSXFBU05Tcl9UNTVFMnpPTWVTV2hpUXc?oc=5",
-          "time": "11/01 02:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Inflation, Inequality and Debt: The Charts Scaring Wall Street",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjMtTWNWTkFUaDVlR1lyQ3V0M0diRTZJS09PX3JDaFZxb0lBcDBrN3FlMGhwMkpoUkVES3BTWURoTURjWVpwQ2JhVDV0SG01Y3NCTzJBbnJabDY2c19JUmFtSEFwbGRZemNKOWNvTnJaVU1sd2pILXE5WGNFYTZBLXhfUkwzQ0c1bk1XUWtRc1EtdlViaGxfU2tpY1F3UjJfdEl4aHo3OFZVZEhqOGVSSQ?oc=5",
-          "time": "10/31 21:30"
+          "time": "11/01 19:01"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street Is Getting More Interested in Credo. Here’s My Price Prediction",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3VuLU9fSXNFeGZteHNZVUlSTjEtLVlvWi00VGQ2TFU5YXU5Wl94bkx5eFEzZm91QjNSdVIwdTRIbHU1dGxOdk5lWjFCV094NU9FVFYyYUtMX1dmbG1aal91UFhrUVpoMEVnT25YcVk3cHdvNVR6dUtGc2VuMldTbnozMmsxclJMbkU5eVNBLTdxT1JHSXp1V3dvVWlIek16dXE1VS1kaXB4X0FQMWo2TFppNU9nUzBk?oc=5",
-          "time": "11/01 01:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Stocks often rally after midterm elections, but AI spending, rate hikes add risk this time",
-          "src": "NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlc3QUxPak9hU1M1NTU1cnJvVktfb3p0bjBXOHpOeGRIeTA3OEw2VTNmWWNmVE1HSFMtM0VONC1Iam1QRWRveEtDdjhXTGZlbUhOQW5fajEyc044OGNEclJsRDZWLUE4ZnBYZnlLeUJFZy1CRWRSb21tM3A4cmRpS0dJYmk0NjU1azd5RzduTW11TThybWZUNVVhYmFoUFHSAaQBQVVfeXFMUG9YVmxQejBrNWtpelQ5TXJvOXpTWnZYaGozZkV5MGhsU3psTmJ0bi1TUFZRNV9lTEhCQUJKS1VsVU1oVUtSbGFrYVZmTWlLQTVCcDlPaXljeDNrc2hQUzlaakVKWnM4UUt6U2JKNzMxTVBQbUFuY1pJUnBkeUVRbmphSUkyVEpCMTVITWMtQ0NBV19SbXFDeVVzSEdLN09jUXd4b0Y?oc=5",
-          "time": "11/01 02:59"
+          "t": "The Stock Market Is Doing Something for Only the 3rd Time in 28 Years, and History Says It's Clear What Comes Next for Stocks",
+          "src": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxObXI0RUx6d0ViUl93X1VlWkxLcjVNbzJPOTdYNVJ2elVSMjFxTzBJbDR2ZWxhazJEdzJ1V1JsT2FCOWZDMUpZUkFjQUVUV0xicmIyWkR3VHZiMUZaM19GMXVSc3FJZWtMaGNUejdReGg2OE45SVVnNURLVTIwR0lHU3BrWlNuZVZsY1lwWnl2Zlo2NUw4N0szQVJXZnlTdnlZWml5VHI3NFFXRnQ4YmZLUFFsUEoyUjZTMllWVnFndUNQZi1rVTAxSDJqcTdQbnhxczVJMXh0VGpqVm1JLUduZ3VYLTd0aHdQX21xNEZNVVFqS3hDZkVKYzhGU3VEa3cyYzBwZHBrTThQWTJQaDQ0dE84eDNyRlpvaTlkb0hDRFZTUmNySW80UVI0Yw?oc=5",
+          "time": "11/01 21:09"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Are Wall Street Analysts Predicting Palantir Technologies Stock Will Climb or Sink?",
-          "src": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2J0RDNoVTlYWjVnRTRtOFJ5c00weE5xT2IzcTBScEwxNkdEUVFpOG9PX2hIbUNSNzVBLWdoVEllNHlkNGJBUFN2Q0dEVXE4UEJyM29wWWcxR0VIczJvV0pzNnRWcmlEMVV0R2VMMjNNWWcxZVpvOW9fOXdSdVRvRWdkcklobVhJalJ1Zm4tSnpKdVZHTzNZRzE3eU9TT1Vfd01tYlJVYTl5N3dMeWxlamV1SVZLTjN1RHUxUC0wZnU3cnR4?oc=5",
-          "time": "11/01 00:56"
+          "t": "A Wall Street Firm Modeled Out an AI Crash: S&P 500 Down 30%, $20 Trillion Gone. But Here's What Happens Next",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS1g3d1FaNG4zLTRtTlVFRWpCVGJ3eXRUd0lOd25sbkxOekVVaXQzYU0xb0VYbHdsdWEtaDBCd2hWVzRfakp2OVpNOVIyUFpZV3RuMzFLRnFYZDZkQklDQkxwS0V0eF82ekNnOXd5SjRpVUZpYURYZmROb0hoS0ZJQkJpbkU1c2JPV25UdEtod0swR0Z5TG9Yc1dwQ2xDZWlWX3JTYmY0WmFIbWNoTXZHcFJJSXFqZ1ZCT2xXdVdyc19sanI5YXpkR2VsbEdMaVhZTndmendUa2llbXc0ZjQ3ak1sdFRGbDNnclE?oc=5",
+          "time": "11/02 01:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Do Wall Street Analysts Like AT&T Stock?",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHVYTElaajZTMFN3Uy11UExZcXM2bWtmT2FZLVprVkVjS3B4QndlbGluWDlabDBsbGNndGpZMmNFOVRYbVBRTVNHdDRXd25vLXp6NnlrMWlEYXp1VEpHUUI1Sm1GVEg2WVZiOXIydkFYcm5IQTBnVlZCRjhVLXRFRVdyMVpfT2NRMUlUWDRSMEFyWmwxcl9ibQ?oc=5",
+          "time": "11/01 15:01"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street scrambles for protection as AI investment risks mount (XLK:NYSEARCA)",
+          "src": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRDFFcWhJRnp0UUZXTTVXODY1WXk1aURreWlxcGtRVkFkZVloeU9BRjQ3Zm95Wi1WS1pXRUxCdjV4bi1LMktaQndLWlUxaEFpdTB5WDFqRWluRm14SXFCWUdibHJxX3ZYMG5fRTVISVlSZ2xSTDVsNzgzTEtRWWJ6WTlrcWhTbjBPdUVGZ3hYMF9ScG9HbDYzSFlWWkN2OV9HUGo1WTNn?oc=5",
+          "time": "11/01 23:59"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Brazil-Exposed Companies Slide After Surprise Lula Victory",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOTVKWU9USzZDc3lPZmJ6eXFHWXpLclhXMi1xZm1qZnRHTl9WS2pMWHo0UWxSb1VHSC0yX0ZKa2twbXp0N1BESElwcUJYb2xFZ09hQU5ERGxNdXhOVVZYaWd5QXU1R2JvQ1haa21VY3I4ZTNRNC1WY0hmZzlMaWdZcnFvaFlIdlpuUzY2azVoM056YVJFWDdNMlUwRXNaUHVLa2p4akVYdmNFLURIekE?oc=5",
+          "time": "11/01 19:05"
         }
       ],
       "indices": [
