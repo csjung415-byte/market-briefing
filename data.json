@@ -1,55 +1,55 @@
 {
-  "updated": "2026-10-31T17:17:52Z",
+  "updated": "2026-11-01T00:46:04Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외국인이 한국 증시를 보는 두 개의 시선…19조 순매도에도 ETF는 샀다",
-          "src": "경북매일",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CTEUtb0JjWFFuSF9lbElRLWU5RXNJbDZackhiRjBVUGltRm9XTFMtT2dUTWR2enVSblhUUmFBMGlxVWJxZERDRHdhbHozdTUydUJjX0lmQlFoQQ?oc=5",
-          "time": "10/31 19:51"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk80Y2dQaXZ6bVhDTXRzNXp2RXdudFpSeTV2dDE4Q2FOM2pXU3RjMzZTeGNxYU9jUHlQWERpOTRJMDBoRjBmS3c0UWhGZ3E4eWZnVUFLSS1iMnVYU0s2VkNGS2dSSHI1ZDFRSEVlekFPQUZITnNvUzgxWlMwbXJtdVdkUlZveWdfNnZoLUJn?oc=5",
+          "time": "11/01 08:37"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "10월 증시를 마감하며 : 역대급 하락을 만든 한 달",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zN29pRUlrMWhuQzFoMTAzMHg5S1JhRF9tV0NEcG5OR2I5WGJ6OFFXdEtuZ1hGX05xaC1iNzJaMjEtLVJPRm0wZnB1TE9Sek9CVDI3TWV3QkhTdHVyc1BlVw?oc=5",
-          "time": "10/31 14:37"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 반등에 레버리지 ETF 뭉칫돈…美주식 7조원 순매수",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tY2RIYmxrbEhVUnh3SjgwOEozMXl1dkZvQk5kSk55ZExNdEtudlZFRVIwSUhwTzlhV1RpSFlqTWZnZDRtRnFKN3hOdGlCSURObWpIY3p6bXpGN0FEdDZKU0dKY1A3S2w2X0dvcFQwaXbSAXRBVV95cUxPeXZvclh4clppcElmN2xZODhfNGQ3LWkxaE5jaXhiVjMzUnVHTlNwYnhZZ19Mekxfd1daaTZOMEplTVF1cEhSbDNwNWxGZkg2OTZ2cDMtQW1FOW1JWlp6XzN6WjlUMmUyRDZ0MHpyWnd5Y2RyQw?oc=5",
-          "time": "10/31 08:58"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "[마켓노트] 금리 안정이 주식시장 반등 조건",
+          "t": "ETF 순자산, 증시조정에 국내주식형 비중 줄고 채권형 늘었다",
           "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yeDJUQjdTeWh2WFQ3VjhHWmVRWFlQaXdRcHhmZ1ZhM1gzamNGNFZLM210ZEZaRTVsMWctMXdESTBvNmtjNUF4aFY2SEhHTkN6dGNrM1kxeDBNTXPSAWBBVV95cUxNVVZ4R3p5ZllxRjNnQmdJMjVjei1pQzlvMjlWbWVGMEo5VkhTekRmRU5YQ09ybFh5V3BMUnZrbV9XZnRzNGQybGxaNGtISC1YNmV0WXdaQ1BjUVB2WURiVzk?oc=5",
-          "time": "10/31 10:30"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyYVRVcnJpUzlhWFpuckpTejdacFNDbGtOSGlzUnlIb2dpWV9kQVdPcXpzVTljSTBOOVp4QXRBMnAzc2FfcXRvZ0pvQkNsaTZsOGJkMjM1eXNrTUZBb2FlTNIBYEFVX3lxTFAyYVRVcnJpUzlhWFpuckpTejdacFNDbGtOSGlzUnlIb2dpWV9kQVdPcXpzVTljSTBOOVp4QXRBMnAzc2FfcXRvZ0pvQkNsaTZsOGJkMjM1eXNrTUZBb2FlTA?oc=5",
+          "time": "11/01 06:10"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 힘 못 쓰는데 2.8조 몰렸다…개미들 꽂힌 '이 상품' [이수의 ETF줌인]",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TUFETkRiS2M5UGEtempTQ1B0ZmhqaDNjM0owVS1ycFo2RjRmVjQ3MHJyR2lKUjM5V0RQOWNvM3lPQmFwc1BoTGFOZjZ6SXJVN0l4N2N1NVlWZw?oc=5",
-          "time": "10/31 15:00"
+          "t": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uajlBeXNkTmRlXzUyNXVfZVdoTElUZkVyZnlrNWNoWWNCb3hMdlRRNzcxcklwQ2xWdGxMcjNBM2NTR3hSeWxqNElva20wWnpSaFE?oc=5",
+          "time": "11/01 06:25"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 떠난 외국인 11월엔 돌아올까, 변수는 미국 중간선거와 앤트로픽 상장",
+          "src": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwYTl4MTdFTDNHNXlUblBKLTdsWW9SclFJT0w0U1puWVMyZnFfZnZxWFozQ0d2NV94RmRNaTMyNjRtT1J0czQyNGJVc0o1bnpEdWc0WExDeVZVZkJyZVFTM1dURWM2Ri1WUnZfTm1Za1pWOGM?oc=5",
+          "time": "11/01 06:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 6000 찍자 레버리지로…서학개미는 '美 기술주' 집중",
-          "src": "www.ebn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d3VTSHVBQ3R5ZkFKMEM5OTdJajYzanhqZzN2VHk2dFZ3dlNQTndyekwwdmtwOEdyZ1J5ZS0zR3VGSkFMVDNOakZ2anN6VHMyTm05bmRXTHowbVc5enFhMGRtRGNZSi1s?oc=5",
-          "time": "10/31 14:35"
+          "t": "주주환원으로 반등 불씨 살리려는 코스피…인텔 29% 급락에 AI 투자 우려 확산 [주간증시]",
+          "src": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHcUNydjdxUDFyQ3JwZDlXOVJRRFZ5bk9jZmIxMThLSlVKMGFIQnczQ3JiVFczX0ZrTWx1SDZKeVFYSnltWHJMaTNIRFprWXZUR0p4aDVZVXFxOTZXcERsOVFB?oc=5",
+          "time": "11/01 09:42"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[이번주 증시] 변동성 장세 불가피할 듯...美 중간선거 주목",
+          "src": "오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYenVNTVBTbUFrM1FTRE1yVGlQeHN5Mk1fMzhyZUFvN2dCQ29LbzFwYTMwWGE3M2dERW13QnJoWjRQMERHUGlRazVnaWY2ZlZZTm95SC1IWS1rZWpzMlAwRW1HcG1hWEtUY0ZEUmhSQUk?oc=5",
+          "time": "11/01 09:00"
         }
       ],
       "indices": [
@@ -77,43 +77,27 @@
       "news": [
         {
           "cat": "earn",
-          "catn": "실적",
-          "t": "Wall St Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
-          "time": "10/31 07:25"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street's favorite stocks are in their worst slump since 2010: Chart of the Day",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVTFxUWZ4czRVUlhySDVQTHV3U2l5RGV4TGJHd2UxbzhWNExKd1RwU1BkN25GOFZnWlktazFUVTVnNmFRTTNyTXo3cFJXeExMcjVJQWhVX0NGbV9aRXd5Z0N6QmJpckgyNnhaRmtSWkZiU19LWjRHQ1pzaU52S09nWUdTOGVtUlE1RFJOREZhY2R1a0YyUlF5RkV6MFdpZ0ZkOUZaM1lIX0JvdTNmWjBKc0Q0SXkydy13c0hNS041TDNmUnp3eDFhckEwZmRKR3lEUWFnNw?oc=5",
-          "time": "10/31 21:44"
-        },
-        {
-          "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
-          "time": "10/31 05:50"
+          "t": "After Meta, Could These Be Wall Street’s Next Blockbuster Stock Splits?",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc2NWZlcwUGdyRzMyb3VVemlNZTcyaTBROEZMZld4UXRmRHQ3MF8yeTRjdUJlR2xuMVFBNHMyN2xDcS1CTTlhVkwyZTNnSi12Z1FFYnk3T3o4U0R4eEhCOVVyZjJoYnFkUFNvQ2UyN3lLOVhWWkZ2Skh3UEc0bHp5MWg1MTB0eFgzZWktYjdfV2E0U1lhcnVr?oc=5",
+          "time": "11/01 05:53"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbjEwSlJ4Tk1LSl9XTUhoUklod05KWEZ6dnRqb2lqNk12Y1N2TzNYZmFKVUJSUjhkenVqcnJsV08zYW9yUmlXLUlWYVR4bFA5OXhNN3pkSnBpQWZkY2pCV2FsYXIyVUJsMXIwM0U0ZExnTHBiVEpiVllCN3ptbE9xeU9tSFR6Vkt6WG16N2RsUjR5UQ?oc=5",
-          "time": "10/31 23:01"
+          "t": "What investors are watching",
+          "src": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsYmkwVXpKRldFcW9PMFFabmZzdkFxVnl4LWt6c3d5eFRKcTIyS1AyU1JLSnB5eWktY0d4djNOSFVDSllvNndVcUdMTlc1Z3lxYm55S0RfWk53dlNUQ0VMSXFBU05Tcl9UNTVFMnpPTWVTV2hpUXc?oc=5",
+          "time": "11/01 02:01"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "4 Words From Fed Chair Kevin Warsh Should Have Wall Street and Investors Quaking in Their Boots",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTg1a3F5SUp6ZzJPUjB2Yk5tTTh6dTR3WnFESEtqcjhiNlJKZTNMSUR0RzVucWFzU1RkYnRxVmQ2LW5uc2ZsY01tcDNVMEJHN1ZhMGE0S0lEeXlyRXpXbGs1UGFtS28yaldkb1hlTlNTZDFWcjVUc0lZZ0N0X2lsd2QtMTI4bmVTNWk1RjVISHpMUVJSOHpxVFNVUmxDMjRqSjRMcXFUSHlpdnZZVXAtMjVHajBjejh0Q3ZDcUc5QQ?oc=5",
-          "time": "10/31 23:06"
+          "t": "Inflation, Inequality and Debt: The Charts Scaring Wall Street",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjMtTWNWTkFUaDVlR1lyQ3V0M0diRTZJS09PX3JDaFZxb0lBcDBrN3FlMGhwMkpoUkVES3BTWURoTURjWVpwQ2JhVDV0SG01Y3NCTzJBbnJabDY2c19JUmFtSEFwbGRZemNKOWNvTnJaVU1sd2pILXE5WGNFYTZBLXhfUkwzQ0c1bk1XUWtRc1EtdlViaGxfU2tpY1F3UjJfdEl4aHo3OFZVZEhqOGVSSQ?oc=5",
+          "time": "10/31 21:30"
         },
         {
           "cat": "macro",
@@ -121,7 +105,23 @@
           "t": "Wall Street Is Getting More Interested in Credo. Here’s My Price Prediction",
           "src": "24/7 Wall St.",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3VuLU9fSXNFeGZteHNZVUlSTjEtLVlvWi00VGQ2TFU5YXU5Wl94bkx5eFEzZm91QjNSdVIwdTRIbHU1dGxOdk5lWjFCV094NU9FVFYyYUtMX1dmbG1aal91UFhrUVpoMEVnT25YcVk3cHdvNVR6dUtGc2VuMldTbnozMmsxclJMbkU5eVNBLTdxT1JHSXp1V3dvVWlIek16dXE1VS1kaXB4X0FQMWo2TFppNU9nUzBk?oc=5",
-          "time": "11/01 00:36"
+          "time": "11/01 01:33"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Stocks often rally after midterm elections, but AI spending, rate hikes add risk this time",
+          "src": "NewsNation",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlc3QUxPak9hU1M1NTU1cnJvVktfb3p0bjBXOHpOeGRIeTA3OEw2VTNmWWNmVE1HSFMtM0VONC1Iam1QRWRveEtDdjhXTGZlbUhOQW5fajEyc044OGNEclJsRDZWLUE4ZnBYZnlLeUJFZy1CRWRSb21tM3A4cmRpS0dJYmk0NjU1azd5RzduTW11TThybWZUNVVhYmFoUFHSAaQBQVVfeXFMUG9YVmxQejBrNWtpelQ5TXJvOXpTWnZYaGozZkV5MGhsU3psTmJ0bi1TUFZRNV9lTEhCQUJKS1VsVU1oVUtSbGFrYVZmTWlLQTVCcDlPaXljeDNrc2hQUzlaakVKWnM4UUt6U2JKNzMxTVBQbUFuY1pJUnBkeUVRbmphSUkyVEpCMTVITWMtQ0NBV19SbXFDeVVzSEdLN09jUXd4b0Y?oc=5",
+          "time": "11/01 02:59"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Are Wall Street Analysts Predicting Palantir Technologies Stock Will Climb or Sink?",
+          "src": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2J0RDNoVTlYWjVnRTRtOFJ5c00weE5xT2IzcTBScEwxNkdEUVFpOG9PX2hIbUNSNzVBLWdoVEllNHlkNGJBUFN2Q0dEVXE4UEJyM29wWWcxR0VIczJvV0pzNnRWcmlEMVV0R2VMMjNNWWcxZVpvOW9fOXdSdVRvRWdkcklobVhJalJ1Zm4tSnpKdVZHTzNZRzE3eU9TT1Vfd01tYlJVYTl5N3dMeWxlamV1SVZLTjN1RHUxUC0wZnU3cnR4?oc=5",
+          "time": "11/01 00:56"
         }
       ],
       "indices": [
