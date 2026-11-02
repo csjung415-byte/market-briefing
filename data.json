@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-01T18:00:07Z",
+  "updated": "2026-11-02T01:19:27Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 절반 넘는 AI 공룡 앤스로픽 상장… 내 주식 괜찮을까",
+          "t": "[마켓뷰] 코스피, '인텔 급락 등 美증시 삭풍' 이어받나",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTDNNVGZtMVZNV1hIMThJdFJTQVBDekdBSzJMRFJSNVdZT1Q1SVRKZ0hTanNKMlB0czJJR2ZNcHE2eEZCT3JSbXRKR1lDYnhQNXVGemlmaEZCdFHSAWBBVV95cUxONDJaaF83Vzltd2FiV2ZJOW94amtDcWwzRGFBUTByZ1JESlhna0V2V1Vsc01lekVrdUtoMVM1MmhtRXg3bkJtcVFxYWF5dnQza29jYmpOQ0xGdkUxblFENUI?oc=5",
+          "time": "11/02 08:05"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "한국보다 잘나가는 대만 증시에 투자하려면? AI 대표 기업 4곳 총정리",
+          "src": "네이버페이 머니스토리",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5saWplLXNOVThfaTBSMmp0ZkY0NTNkbzdQNllpeTVZYXZXamRaM0h0S0QyQlVoVTlkbGxfZGxoMjZmb3FWTzgtZW8zLXh6VkxQSUJBdW41cEc?oc=5",
+          "time": "11/02 09:24"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 16% 급락하자 美주식으로…'서학개미' 순매수 연중 최대",
+          "src": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WaUtuWTVwTzhaSUdKa0hmSjVtMnp5UHBacUsxYU9vcEh4ZDNZT0wxeXBxMzBycVdBSGhBN0dKZWdPTEdId1cyaG5lWTQ0eDdHZG9GaUJ1R0ljSlE?oc=5",
+          "time": "11/02 06:20"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "\"코스피 반등 기다리기 지쳐\"...국내 투자자, 지난달 미국 주식 올해 최대 순매수",
           "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk80Y2dQaXZ6bVhDTXRzNXp2RXdudFpSeTV2dDE4Q2FOM2pXU3RjMzZTeGNxYU9jUHlQWERpOTRJMDBoRjBmS3c0UWhGZ3E4eWZnVUFLSS1iMnVYU0s2VkNGS2dSSHI1ZDFRSEVlekFPQUZITnNvUzgxWlMwbXJtdVdkUlZveWdfNnZoLUJn?oc=5",
-          "time": "11/01 12:15"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODFIMjBXcWtaSXVNY3FBZ1gzcDNUX3V3d01fSmxDd1NUaTJhWEdkMm96LUJFWWIyRkdlQmEwVV9hSlRzVUpudFVpYm9WR1h4VDh3VDJfWEl5VU5ubVpFcC1Cb2psWGJSSGMxZGNnYV9OWmdvVlBqX2ZPNkpFY2RDbA?oc=5",
+          "time": "11/02 08:40"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 한달 16%폭락…AI고점론에 中추격까지 덮쳤다",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iTkJPc1NWMGRuMFVPb25ZN2JGZVFlcmNKelAyX3JCdWFsaTZDQnU5YkRQWGVXT0E2VlpFR0lybndMUzdyRmMtRXl2ajA4dGZ2?oc=5",
-          "time": "11/01 11:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "10월 증시를 마감하며 : 역대급 하락을 만든 한 달",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zN29pRUlrMWhuQzFoMTAzMHg5S1JhRF9tV0NEcG5OR2I5WGJ6OFFXdEtuZ1hGX05xaC1iNzJaMjEtLVJPRm0wZnB1TE9Sek9CVDI3TWV3QkhTdHVyc1BlVw?oc=5",
-          "time": "11/01 14:55"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[주간증시전망] 코스피, '인텔 쇼크' 속 5700선 출발···美중간선거 '분수령'",
-          "src": "서울파이낸스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzUE1objVaWFkydF9MWjYzM1RvcWloMEtuaWhoOWlEM3RxdWN4YkhKd0xtbUY5WFJxeFZ0WW5HRnNkcTdENVJzSzVqd2pqLWpQaXkwb3Y5VGZRc0d2NG1MUFdCMUJ3X0p0ZXc?oc=5",
-          "time": "11/01 21:15"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "내 주식도 혹시?…수년째 '만년 저평가' 151곳에 저PBR 꼬리표",
-          "src": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhblBrM256VXlLZjRTUjFDeXlvMmxXX0x2M1o5OE9WaW1uaEYzUnNNMnFWVHk2TEdwQnY2d295bWVUOENZQnM1emF2bVp2LVY1bGdfTGtoZGNHVi1BUVpNZ3kzS0g0T3VjX3VvdW5fdW9Fdw?oc=5",
-          "time": "11/01 12:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“횡보장엔 커버드콜ETF 사라면서요”…코스피만도 못한 수익률 대체 왜",
+          "cat": "earn",
+          "catn": "실적",
+          "t": "코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈",
           "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ed3B0V0pDZVJWbFNRb0pjZ0U4c3JXSjY3cWZsSS1lM1dtVXZsdTBpQTc5MzEwTWhhUzhJZWRRVGhkbGt5T1I5UWpZUUtMU1ZKMEE?oc=5",
-          "time": "11/01 22:03"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZkE3VnR2Tld5czV1bWE0WUFmNGJMaEdMTWJZVU1OU0hIWUczVDhaNEhpR01zampuRzdhRUFZd3pRdkJ6ZXBnd01xRHByN0dJUEE?oc=5",
+          "time": "11/02 07:59"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"지금이 바닥?\" 덥석 샀다간…美 AI 쇼크에 코스피도 '살얼음판' - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5UTlHSmlmcDhsaElnUk1yUDhnaDFPY080cDZDcHhZV3djVnJWLU5uX3dZWmNiM21UUV9QTWRLaHZQRndEZlRydGdhYWhTNFhmN1NTRFB2MkRoMk5GNDJ2YlJlakdCZzhQ0gFuQVVfeXFMT0pUUUhieTk1ZngzVmtCY05iVlA2ZmlnbHpXUm5sanhsS3JPaWpLYk1FOWZBci1hUW1kakNiZ3BZR2hEdGM5Nk5qV2xvR3VQcU5tLXphbDkyYjNORFlpRVB0dHZ3NzBnTFRpNlNPRUE?oc=5",
+          "time": "11/02 05:00"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5730.74,
-          "pct": -3.48
+          "value": 5747.9,
+          "pct": 0.3
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 724.38,
-          "pct": -3.83
+          "value": 723.93,
+          "pct": -0.06
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1333.44,
-          "pct": -0.34
+          "value": 1337.79,
+          "pct": -0.01
         }
       ]
     },
@@ -78,50 +78,50 @@
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "Wall Street Has Never Faced This Many Market Forces at Once, NYSE Veteran Says",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTBXQWd4bHowdzBsd2dQQU1PSnBQVjV5amxkdVpZRGg5WVJBX1RCckpqWWF0MUpkZkxUMVJueExUZG5PU0xPRVNPb2gyVUxnRjNwVkMtTDY5b2VCdkVqWWhMV2pHR2hObGJ0WXFYUGZWUHNJeHRmSy1tbTE2Z0dIZ2xsQ1JjZmsydjdFV3FoZGJhaXo0OExUbg?oc=5",
+          "time": "11/02 08:59"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street's Black October: Why the worst may still be ahead",
+          "src": "Ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5SVhxOUVISjR6bkhBZHlxalhJODNOSjlCRlhRb1U3SmVtb0ZBQkVTeUNIVjloUjE3X09XeGtXS3g1TEd2OG5INTRnek0tNGJBcVBzVjlsc1MyZ0lQU090dWt3?oc=5",
+          "time": "11/02 03:37"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "What investors are watching",
           "src": "Axios",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsYmkwVXpKRldFcW9PMFFabmZzdkFxVnl4LWt6c3d5eFRKcTIyS1AyU1JLSnB5eWktY0d4djNOSFVDSllvNndVcUdMTlc1Z3lxYm55S0RfWk53dlNUQ0VMSXFBU05Tcl9UNTVFMnpPTWVTV2hpUXc?oc=5",
-          "time": "11/01 19:01"
+          "time": "11/02 01:01"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AI investors hedge against losses amid tech stock selloff",
+          "src": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHV1YV9iTlhJU1IzNmJPU1JOb2hiZUVlWWxWa3QtMGVLUDJORS11eUlkZ2VYSkg4dnB0dDdPYXpsNUJTRkZCS0o3SkZhOGM4NkdBek1QcFUwNFBwZlVPZUpTaUg0azI1TjdSUG9TNzdnTFRsZkRkVVgxSEFwdUl6RFY4Z1Y2Zms?oc=5",
+          "time": "11/02 05:38"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Investor Sentiment Sends an Overt Warning About the Stock Market",
+          "src": "RealMoney Pro",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2xWZnNSNFNDV0V6dFB0VGN4VVFFLUo3aGhrVmFITTRHVDcyM3laLWh4ZTA1VGhMc09oVC1GWHh3aVpNTWFvMUV6Q3pHcTJMUThNc3BHVUt0cjdqWE1BVHhSU0N4cGpwdFFGd1RVeFozbThRN0owODFucDVoU0t1eEhKZE1hT0ZiQzc0NVpQMGZyRWFQdE1heExUbkwzRFRMOUZyWA?oc=5",
+          "time": "11/02 01:42"
         },
         {
           "cat": "macro",
           "catn": "시황",
           "t": "The Stock Market Is Doing Something for Only the 3rd Time in 28 Years, and History Says It's Clear What Comes Next for Stocks",
-          "src": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxObXI0RUx6d0ViUl93X1VlWkxLcjVNbzJPOTdYNVJ2elVSMjFxTzBJbDR2ZWxhazJEdzJ1V1JsT2FCOWZDMUpZUkFjQUVUV0xicmIyWkR3VHZiMUZaM19GMXVSc3FJZWtMaGNUejdReGg2OE45SVVnNURLVTIwR0lHU3BrWlNuZVZsY1lwWnl2Zlo2NUw4N0szQVJXZnlTdnlZWml5VHI3NFFXRnQ4YmZLUFFsUEoyUjZTMllWVnFndUNQZi1rVTAxSDJqcTdQbnhxczVJMXh0VGpqVm1JLUduZ3VYLTd0aHdQX21xNEZNVVFqS3hDZkVKYzhGU3VEa3cyYzBwZHBrTThQWTJQaDQ0dE84eDNyRlpvaTlkb0hDRFZTUmNySW80UVI0Yw?oc=5",
-          "time": "11/01 21:09"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "A Wall Street Firm Modeled Out an AI Crash: S&P 500 Down 30%, $20 Trillion Gone. But Here's What Happens Next",
           "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS1g3d1FaNG4zLTRtTlVFRWpCVGJ3eXRUd0lOd25sbkxOekVVaXQzYU0xb0VYbHdsdWEtaDBCd2hWVzRfakp2OVpNOVIyUFpZV3RuMzFLRnFYZDZkQklDQkxwS0V0eF82ekNnOXd5SjRpVUZpYURYZmROb0hoS0ZJQkJpbkU1c2JPV25UdEtod0swR0Z5TG9Yc1dwQ2xDZWlWX3JTYmY0WmFIbWNoTXZHcFJJSXFqZ1ZCT2xXdVdyc19sanI5YXpkR2VsbEdMaVhZTndmendUa2llbXc0ZjQ3ak1sdFRGbDNnclE?oc=5",
-          "time": "11/02 01:20"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Do Wall Street Analysts Like AT&T Stock?",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHVYTElaajZTMFN3Uy11UExZcXM2bWtmT2FZLVprVkVjS3B4QndlbGluWDlabDBsbGNndGpZMmNFOVRYbVBRTVNHdDRXd25vLXp6NnlrMWlEYXp1VEpHUUI1Sm1GVEg2WVZiOXIydkFYcm5IQTBnVlZCRjhVLXRFRVdyMVpfT2NRMUlUWDRSMEFyWmwxcl9ibQ?oc=5",
-          "time": "11/01 15:01"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street scrambles for protection as AI investment risks mount (XLK:NYSEARCA)",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRDFFcWhJRnp0UUZXTTVXODY1WXk1aURreWlxcGtRVkFkZVloeU9BRjQ3Zm95Wi1WS1pXRUxCdjV4bi1LMktaQndLWlUxaEFpdTB5WDFqRWluRm14SXFCWUdibHJxX3ZYMG5fRTVISVlSZ2xSTDVsNzgzTEtRWWJ6WTlrcWhTbjBPdUVGZ3hYMF9ScG9HbDYzSFlWWkN2OV9HUGo1WTNn?oc=5",
-          "time": "11/01 23:59"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Brazil-Exposed Companies Slide After Surprise Lula Victory",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOTVKWU9USzZDc3lPZmJ6eXFHWXpLclhXMi1xZm1qZnRHTl9WS2pMWHo0UWxSb1VHSC0yX0ZKa2twbXp0N1BESElwcUJYb2xFZ09hQU5ERGxNdXhOVVZYaWd5QXU1R2JvQ1haa21VY3I4ZTNRNC1WY0hmZzlMaWdZcnFvaFlIdlpuUzY2azVoM056YVJFWDdNMlUwRXNaUHVLa2p4akVYdmNFLURIekE?oc=5",
-          "time": "11/01 19:05"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcWJ2Yzdfd0JIR3Z3UnlyMzZYaTFOV0hTXzVvQVU2dnRZdGpVYXZvRU9kdXhGUXc4Zk43Tm5QQ1dUTS1GRnJXUWZySVZBT0lmbFlVQ2QwWV9tVzBscWtEZnBnQ2NlSVdxa0VyY3ZUb0ZZWkpoWC01bzdsV3RydnJCUnl5VmJVRGtlSGZPNmRER3hMSWNSN2c3OWViZzBxdnVfSUM2ZXRvUUF3aXgtb2pPYTVrRE9ZZzR3OGZOenVBcmhXOEZhSzQ3Mg?oc=5",
+          "time": "11/01 20:36"
         }
       ],
       "indices": [
