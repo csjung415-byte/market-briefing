@@ -1,147 +1,147 @@
 {
-  "updated": "2026-11-03T03:20:17Z",
+  "updated": "2026-11-03T19:40:37Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[개장] 코스피 3% 하락… 美 AI 수익성 우려 재점화",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yeGhZUzlLbGRHelgxSHBWdXZUemg1THNkeHBqc3F1Q2w2aFktdmE0d004cjhidzg1X2Nncm5KeHBTX1FCZkNkUzhKS0ZrR1J6ZHZoeURKUElpZ0hBc0x1d2x4OW9CTkRpN0VpeHRIRWnSAXRBVV95cUxPMkJJYV9yN044ZWpvQ1pUVGR5RWF2ajhKZW5oZE9LY1JRRzVGTmpyZl9VVThubE1qSjFweG1qM09WTUQtc05yQzJwdDZrNklzQmt5dWV3aGk5QnN3N2JCdlRjdFpmbzVBQnZvdjF6bFVXSkt0VA?oc=5",
-          "time": "11/03 09:32"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "유가 내려도 웃지 못한 국내 증시…美 반도체주 약세에 코스피 2%대 하락 |",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SS3Q2TEVVSDctZlJyTklzQlB1WlVWbEJqSE00aW42c0J3ZWxRS29IUEJfTkF5dEJoMGxKY2FtelJJQkxiT2ZyRG5nTkl5SVZldngwQnBqYVBmUkJ4NUF0endNWjh4QmZRZXpUUXdvMExxUjZ5?oc=5",
-          "time": "11/03 09:27"
+          "t": "SK스퀘어(402340)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0RTOXdBSWcyVzI3SnBTWnpzNnBFNXU3WGdRYVo4Rks3X3dmVXpweW5GUktDRnRBQ0M3NlNfOXJoTEJ4dmdUSi0wS241QlBSSjk5SkVjVm5Tak5YT1pHYktTSVNuS3ZDdFBSRnpobWhvYzlHYzFXaUpTNWRBRU9ZUUNNR21IMnUyY0I3VTBSTElBQjNVZEc0?oc=5",
+          "time": "11/04 01:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 3%대 하락해 5600선으로 밀려…삼전닉스↓",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50bFZKa2k4OFJ5X0xKNXVfVmVNLVpJaDBfTHFBUkRyeUUtSDZoSWpmdlFFd0pXaUJpOUVab3NHdXZjVHVUOXdBT3Q1NklISXotQVZONVZzQ2VqZw?oc=5",
-          "time": "11/03 09:10"
+          "t": "\"주식창 켰더니 이럴 수가\" 韓증시 와르르...4%대 동반 급락 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seVFlT2taWE80N3hVdmpySURGSndyZXhKM05LZ2ZUaUw4OEtKa2J1M195M2VhTWp3ZUFkak1jc3duajJrdVMzMzNyaUtZRHduQkYxVUZhRHpobWtydXRRNWZSSVQ2QTF60gFuQVVfeXFMTmItc19nWU5uQ1dkb0t1N3BlSmFXRlJsdUFuNU9yWUZmTDJGM3JMLWtMNTZNS1pHbjA5UDdaWjNjQUdZaXVCRndXTFNlajg2elZ1VnNTeEd6QlI1ME5sMkxCSU8wOEFGeUEwdVF3a3c?oc=5",
+          "time": "11/03 14:00"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 3.59% 급락 마감…외국인 매도에 5,600선 턱걸이",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdlZMMGJLaUxQbVhoOEI4Y3BnX2FnbDdNSFJOS1FoY29jWkJFdkw0RXdIMlNkbUJ1RHdDa08yVzJaUlk4aGR4LUNNY3BkYW1zVE5RUWlSbHhnUXA3SUdkNGlvcjRvMFVEVENsTThIT3fSAXRBVV95cUxOSXAwOERTelBfT2tOVG5vS0N0a3BlOGF3ckpmdzFHR1ZvbmVld1diWng4QjBBNTJWY3dVTjFoZW9vOUFQbXIycFZ6ckVZdS1DVlN5aUlkTWZTT3JMSWRZNUQwTmhLMlVvakVtMlpVay0zQ3E3bA?oc=5",
+          "time": "11/03 16:20"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "유가 급락에 숨통 트인 증시…코스피, 기술주 약세 돌파하나 By EBN",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jVDRYUERfUTRfcW5RMjByZ1FCOE1vc2dBcmhXejVHWjJUcFY0Mk9kUFdkZ0RwMVQ1Z1VlWDFicWtFMFV4WUwza2J0RUFkYjh1b3RZZ2lDeS1XV2tBSE1vbUZ5TFVaanREcFhaUWpkZGc?oc=5",
-          "time": "11/03 09:45"
+          "t": "코스피 3.59% 급락…코스닥도 4%대 하락",
+          "src": "진일보 | 전남일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaUhaZ3QzdVFZbGhxdnNSNmgyNENzWmpCVXNRcHExRG9CWm1KUEZYUlZ6SnlDVFFYY3p5bEFLVnF3dk50bEZSVDFoWUVWOWFXV3NmS3ZxZU9ucW9jR2p3RWI0LW10QUlGbVRod2w0RQ?oc=5",
+          "time": "11/03 16:17"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "AI 수익성 우려에 또 흔들리는 코스피…3%대 급락",
-          "src": "비즈워치",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54UnJDVXh5NFZXeEM4SlEzWUxwQjUxczBOWk5YSnhOSVV5aUlIOFFSa2MtdTNlcjlfaEpZTmJGRHpmOEg3TXhVbzgxTDhrbks2SUE0MURUdjJDc3hfaUxWN0pSaVBQWEJrS1E?oc=5",
-          "time": "11/03 09:57"
+          "cat": "flow",
+          "catn": "수급",
+          "t": "​​​​​​​외국인 1.5조 매도에 코스피 3.6% 급락…美반도체 반등에도 삼성·하이닉스 수급 불안",
+          "src": "녹색경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1T2NSRFpfcTk1alpTXzk0a1VESEJPVUc4dGNOZmVMVGdWaEpacWVJWTA0ZHVVdkdCUDlMVlE3NW5mamJkcmwxOFBjcm44SExxM0hQV0xESmhCckh2Nk5xaWFOQXpXREk4?oc=5",
+          "time": "11/04 00:57"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 美 기술주 약세 여파에 2%대 하락… 5,710선 후퇴",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mZkNpRFVFVXhYemNQME5YRFUzemJKWnJXUUI2US1NVEhkUTNZdW1PV25Ed1VaMUZYRFozVU0yNXZZQlUyNGFUUlpOMnNMOU9ZQ1FoRHB4UTNKbHA1WGtSVUZzbFlybzJ5UVN3Wg?oc=5",
-          "time": "11/03 10:53"
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 5648선으로 후퇴…외국인 1.5조 ‘팔자’[이런국장 저런주식]",
+          "src": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BSUROQno0Y1ZZUS02eThpUkY0N0s5STFNQXdXZF95a0JmeTY4WElIc1ItV1A3WjVzYTlJbGQ0aXQ1eUNCSlFNQTdLbjlrN19rM0HSAVNBVV95cUxNUXkyQWxDR09tZGhpWi1JZjJBX3M5X0J2RWZUWERsZXBsMm9VUEZBSm9vak9pUm9UQXVPVmVJN3JiZ3pEeWpVVGtKbk1RX29KTTdCZw?oc=5",
+          "time": "11/03 16:03"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5659.39,
-          "pct": -3.41
+          "value": 5859.08,
+          "pct": 2.24
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 711.07,
-          "pct": -3.17
+          "value": 734.36,
+          "pct": 1.38
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1339.08,
-          "pct": 1.02
+          "value": 1344.11,
+          "pct": 1.4
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "S&P 500 ends down; Apple dips ahead of quarterly report",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnVDQzd0LTF3Vi1BMnJDLWpGaHNIMlJVTDNnVmplMzZnVjRxRTZUUTRsQkVvZ21EN3lXMzA4ZDJnOTQwc01ld2tqT1pGZVN6VmpuVWpzLVVMUU1qcDdnRFdEQUZoM0l6Ym9NYnhfWDctWkZnSC1fLUk0RGxtUmd3WU9zLXdhcTdGTkJvcUxaazZKZEliVjl3bVBfZldDajJMOXZtVkx0NVI4YWlwMkVFbXpMR0ZGQW9wOWxEcTM3QThSdk1fb2c?oc=5",
-          "time": "11/02 19:57"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street’s most hated stocks are faring far better than its favorites",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXkyY3BhQlRGQi1IWXVXaVBNaVFicTQxVExydHUxS09NYzhoMlFEV2xYOXlUTm9kOHoxUUJLWDRyNGg0cEpKMnYyLWpqNzJEcHk1YVloNmVtaDdjR2lvQ2VxNW1MaThHVWJkekx5NGhmMlhnQnNlak5KWXdjVkVYd2dZOEVkUlFJVHBsb1NlUUwtc2VuaDRnVWl5NEZMYV9kSWljUndwMUM5ZDNLcmVVNUFVY2g?oc=5",
-          "time": "11/03 06:45"
+          "t": "How Wall Street analysts think the midterms could affect the stock market",
+          "src": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKNExSNUh0clVZWHY5bmZ0dGVxMHFBT25FbU9ybTZ1MElfRHhNN1hKSFhja1J4VTZPT0ttMkprWVVMWEhKMVdlTHVwVWRQMS1ZMkkzQ1YwZmpHQ184QjJud1ZQVk9GeGJxWUotMjhhMHpFTW5nMXNmQXFqdFo?oc=5",
+          "time": "11/04 03:26"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "More drops for AI and tech stocks overshadow gains for most of Wall Street",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
-          "time": "11/03 06:42"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "META_TITLE_QUOTE",
+          "t": "Chip stocks are bouncing back from a fresh bear market as Wall Street’s safe havens slip",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RUFhNTk8ydnNSQVlxY2dCZ1RhNlp1SENhSF9aTmwwSjhpX1ZiRGlhb1BHV3F5VTdxUUQ5eTRUVUtNdVVsY2Y5amxB?oc=5",
-          "time": "11/03 06:55"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Dow Jones futures forecast: Wall Street outlook after the US stock market rebound",
-          "src": "Beinsure",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ERG4tMzdaby1oZG5WQWo3MXhrMm9ibzNMSUU4bllLdUhjU0pBSDhlQ0otYzFoSnhWS01aUTV3ZEhaZUt1VURTM0twbzRFbkhzWkNyaVBlYWtzdDh4MTlzdmhzdVRhek1iT2dta2xLYkRyYkZfd3A1UVpUNElrZw?oc=5",
-          "time": "11/03 00:50"
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOamtTc1NtcXZIeFRCSkp3cG9MaldWU19jSkc4d3kyUDRSaWZFcnlyZ0c0UGpYWkFCSVFoemtPOHg5dDlIRGV0NFY1dW8yS1h0LVh0cThIMHBNdVJYMHFyZS1DTkNGbjFJZzhxY2c2QTdsMDdDZ0xXbTNsMDhINWpLbGNpT1pHbkFQTW5XakcxQ2s1ei1vRXEzTGVZa3RkM2pCWlJ0WlRZcmFtUlYyNHNsUERxZmNUODYyWm5Fc3FRMTFjbFpSOUl0eW9HZFdKUG5YX3pOeWRCVjVfelIy?oc=5",
+          "time": "11/04 00:26"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Stock Market Today: Oil Slides on Middle East Hopes as Wall Street Rebounds, Gold price Gains 2%",
-          "src": "Eurasia Business News",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjhFNjRqdzM0dXRXT1Z4cUowYjFRSndydFE5NjBJY3VaMF94X2NaWFZ5YjE0eDdLNkhnSGJJTDBDdXZOVDJFZmREa180OG1tZHhFQ3dETlAtUE5ybllvOXFCbnpwRWlXWkhKVVliTFgybFpxU1JoUGw3S3pEX3RJM3J4bzctWUxZRXhoQ09rVzZfSTgwUHZBYndQTk0yRnoxZDk5elZ5MlhUbi11UWpxUW95MDNJN1lldGZhQ0Jha1ltZ1FWMk11VWVQSGtQMVFzLTQ4?oc=5",
-          "time": "11/03 01:11"
+          "t": "Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow",
+          "src": "Norwalk Hour",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnJxNktkRXRNcy1CMWlmYVRFMndkSGVJNGszNFNLeTBua1h1RmFTdmhUREtIVDVCY005Y3VXdXNUNm1uWm1jVWRQTm5NWWVSVFFXOWkwUmMzeXVTREVLZU9KVURmSW55TUtQUWRiZ2dpZzBTVXFiaGQ5VUlpR3lFSnlTT1BUaFd2M1NMX19mdjJaXzViYnN5cnQyNGZFRklFT1E?oc=5",
+          "time": "11/04 00:06"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
+          "src": "Orange County Register",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVk95SE5QZlg2RXduMl90enNsa3VlVFZYYk9PSVlJRWNSOXp5RnpWMG5Ia3pqLUIzc3Z2VkF4YmFzcTd0dTR5QnY0Uy0xajNRa29BWXdJOU42YnpNS0xfNHBid25xQXdmd05FWXRvbmZfUlU?oc=5",
+          "time": "11/03 22:42"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Micron Pops but Markets and Wall Street Are Poles Apart on the Stock",
+          "src": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tS2ludkhybWsxdFBnc01wZ0dBN0RzS2lCREJVU29aOVJtcko1b1MydEpKRkJOSzdVMjdNMS04dy11U2xoNkRTQld0NGRKMkhkUWdfQ0diUFhWN0hONm5XMzM5Q1A0UFhQb3VPOTI1ek1oXzZGNTd0MncwQmstQQ?oc=5",
+          "time": "11/04 03:10"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "US stocks drift in mixed early trading on Wall Street as Apple falls | National News | 2news.com",
+          "src": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTWJIa0xOVnJqNHBWcE5LSHVyZkNnS2xuNDgzTk5STmNJWFBEMkZPV0RyQ0JZYTdmZTJjWTg2YkpwaVpZTk53bEFKa2xTaTNzdFhmTGV4OVZiTUJneUZNR1luQ3ExWlhReGQxcFJaNk9nZ21WSDg1a2JfeXZuVllSUlFQNFk2Q091RGJEU3RRVE5sWkZETFlBdXhpT2MtMjE3TzBMMGFvOFFZbER6TDFBbDRFTnFJM0VwbElja1RuX3g3OVdrZnN6d19JbTZZVnYwcjhZeDQ2Qi11dEtoZGhDTWRyY1BoU3c?oc=5",
+          "time": "11/03 23:35"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7541.4,
-          "pct": -0.51
+          "value": 7573.42,
+          "pct": 0.42
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25164.36,
-          "pct": -1.07
+          "value": 25386.86,
+          "pct": 0.88
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51983.98,
-          "pct": 0.41
+          "value": 51815.37,
+          "pct": -0.32
         }
       ]
     }
