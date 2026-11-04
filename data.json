@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-03T19:40:37Z",
+  "updated": "2026-11-04T01:57:48Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "SK스퀘어(402340)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0RTOXdBSWcyVzI3SnBTWnpzNnBFNXU3WGdRYVo4Rks3X3dmVXpweW5GUktDRnRBQ0M3NlNfOXJoTEJ4dmdUSi0wS241QlBSSjk5SkVjVm5Tak5YT1pHYktTSVNuS3ZDdFBSRnpobWhvYzlHYzFXaUpTNWRBRU9ZUUNNR21IMnUyY0I3VTBSTElBQjNVZEc0?oc=5",
-          "time": "11/04 01:00"
+          "t": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까",
+          "src": "주간조선",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5",
+          "time": "11/04 09:35"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"주식창 켰더니 이럴 수가\" 韓증시 와르르...4%대 동반 급락 - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1seVFlT2taWE80N3hVdmpySURGSndyZXhKM05LZ2ZUaUw4OEtKa2J1M195M2VhTWp3ZUFkak1jc3duajJrdVMzMzNyaUtZRHduQkYxVUZhRHpobWtydXRRNWZSSVQ2QTF60gFuQVVfeXFMTmItc19nWU5uQ1dkb0t1N3BlSmFXRlJsdUFuNU9yWUZmTDJGM3JMLWtMNTZNS1pHbjA5UDdaWjNjQUdZaXVCRndXTFNlajg2elZ1VnNTeEd6QlI1ME5sMkxCSU8wOEFGeUEwdVF3a3c?oc=5",
-          "time": "11/03 14:00"
+          "t": "코스피 오른다면서 “주식은 팔라”는 증권가⋯내년 하반기 경계감↑",
+          "src": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ENEdrU1pJaVZmblJSUUhJYnRUYU1KcFAxQnVfdm83ZXFpSldqSG55bk42Y1dncTEwMWhuZk9peFBLYW1yRm0tU1VRQ3l1dGlmaVRSQQ?oc=5",
+          "time": "11/04 06:00"
         },
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "코스피 3.59% 급락 마감…외국인 매도에 5,600선 턱걸이",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdlZMMGJLaUxQbVhoOEI4Y3BnX2FnbDdNSFJOS1FoY29jWkJFdkw0RXdIMlNkbUJ1RHdDa08yVzJaUlk4aGR4LUNNY3BkYW1zVE5RUWlSbHhnUXA3SUdkNGlvcjRvMFVEVENsTThIT3fSAXRBVV95cUxOSXAwOERTelBfT2tOVG5vS0N0a3BlOGF3ckpmdzFHR1ZvbmVld1diWng4QjBBNTJWY3dVTjFoZW9vOUFQbXIycFZ6ckVZdS1DVlN5aUlkTWZTT3JMSWRZNUQwTmhLMlVvakVtMlpVay0zQ3E3bA?oc=5",
-          "time": "11/03 16:20"
+          "t": "“코스피 하루 만에 3.59% 급락” …외국인 1조 5000억 원대 순매도",
+          "src": "용인신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dzQ4a1hPOG56aWZldnhPb18yQkhxdUlLc1BZM1F5TnEzU0RZMHJPMk5US1pzVklSM295Nk9TR1BPamRPUUJTWUtxNVFrRlRuMmR6X0ROWl9keWVWS3FhZ2ZtUzQ?oc=5",
+          "time": "11/04 10:18"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피, 장 초반 2%대 상승…美중간선거 경계감 속 반도체 강세",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KZkJNOW9PWGJ5RlRuSTFLa3ZNd2hGNTdIeXptVlg2eU5qVzZGRUtfYXprbTRXaEdsZXBwSUJSelNETnU5Rm1GNjVXaWx3aDk4MVV2X25aUE4wUQ?oc=5",
+          "time": "11/04 09:14"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피, 美 기술주 반등에 3%대↑…반도체 대형주 강세",
+          "src": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBUE5iSTNkSXpaS3ZvbUNaUUltajhMeFFrQUh0Mi1LY0tiM05sT3BNNXNmQ09MUE9Kc2JGaXpmUmIwVGlMSmRuRnBleW84ZHk1UnQ5VnZuTG1zZENwaE9Rc21JQ0Y?oc=5",
+          "time": "11/04 09:46"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 3.59% 급락…코스닥도 4%대 하락",
-          "src": "진일보 | 전남일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaUhaZ3QzdVFZbGhxdnNSNmgyNENzWmpCVXNRcHExRG9CWm1KUEZYUlZ6SnlDVFFYY3p5bEFLVnF3dk50bEZSVDFoWUVWOWFXV3NmS3ZxZU9ucW9jR2p3RWI0LW10QUlGbVRod2w0RQ?oc=5",
-          "time": "11/03 16:17"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "​​​​​​​외국인 1.5조 매도에 코스피 3.6% 급락…美반도체 반등에도 삼성·하이닉스 수급 불안",
-          "src": "녹색경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1T2NSRFpfcTk1alpTXzk0a1VESEJPVUc4dGNOZmVMVGdWaEpacWVJWTA0ZHVVdkdCUDlMVlE3NW5mamJkcmwxOFBjcm44SExxM0hQV0xESmhCckh2Nk5xaWFOQXpXREk4?oc=5",
-          "time": "11/04 00:57"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 5648선으로 후퇴…외국인 1.5조 ‘팔자’[이런국장 저런주식]",
-          "src": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BSUROQno0Y1ZZUS02eThpUkY0N0s5STFNQXdXZF95a0JmeTY4WElIc1ItV1A3WjVzYTlJbGQ0aXQ1eUNCSlFNQTdLbjlrN19rM0HSAVNBVV95cUxNUXkyQWxDR09tZGhpWi1JZjJBX3M5X0J2RWZUWERsZXBsMm9VUEZBSm9vak9pUm9UQXVPVmVJN3JiZ3pEeWpVVGtKbk1RX29KTTdCZw?oc=5",
-          "time": "11/03 16:03"
+          "t": "\"2027년엔 '1만피' 간다\"…증권가 내년 코스피 전망 속속 내놔",
+          "src": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OWXRrSHFDczFNdWZPcUlLclpsZ2lfT24yZEVqQ2ZCRXNidVhIbEJ6YUhENGY4V0xqUXlzMWZwUnRucU5zX1YyUktmbmdrUmMxY00xNDNCMTF4NWJUYUdPYzJ3?oc=5",
+          "time": "11/04 09:59"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5859.08,
-          "pct": 2.24
+          "value": 5577.67,
+          "pct": -4.8
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 734.36,
-          "pct": 1.38
+          "value": 691.41,
+          "pct": -5.85
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1344.11,
-          "pct": 1.4
+          "value": 1337.88,
+          "pct": -0.52
         }
       ]
     },
@@ -86,62 +86,62 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Chip stocks are bouncing back from a fresh bear market as Wall Street’s safe havens slip",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOamtTc1NtcXZIeFRCSkp3cG9MaldWU19jSkc4d3kyUDRSaWZFcnlyZ0c0UGpYWkFCSVFoemtPOHg5dDlIRGV0NFY1dW8yS1h0LVh0cThIMHBNdVJYMHFyZS1DTkNGbjFJZzhxY2c2QTdsMDdDZ0xXbTNsMDhINWpLbGNpT1pHbkFQTW5XakcxQ2s1ei1vRXEzTGVZa3RkM2pCWlJ0WlRZcmFtUlYyNHNsUERxZmNUODYyWm5Fc3FRMTFjbFpSOUl0eW9HZFdKUG5YX3pOeWRCVjVfelIy?oc=5",
-          "time": "11/04 00:26"
+          "t": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOcm82ZFhNNFVyWmEyQ0poU3hheTdsdWYxZUZpQVIwM0dyZ1paZDgzelVzZ0p6eXd0R1VNU1lJcVpKY0VJaEdlcWJCYS1KN1FqODd4Z3RZOW1sclk4YmhxOXVuUThSaXc5NS1EU2cyRmY3ajc0RGc?oc=5",
+          "time": "11/04 07:28"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Apple drops with most of Wall Street, but gains for other Big Tech stocks cushion the blow",
-          "src": "Norwalk Hour",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnJxNktkRXRNcy1CMWlmYVRFMndkSGVJNGszNFNLeTBua1h1RmFTdmhUREtIVDVCY005Y3VXdXNUNm1uWm1jVWRQTm5NWWVSVFFXOWkwUmMzeXVTREVLZU9KVURmSW55TUtQUWRiZ2dpZzBTVXFiaGQ5VUlpR3lFSnlTT1BUaFd2M1NMX19mdjJaXzViYnN5cnQyNGZFRklFT1E?oc=5",
-          "time": "11/04 00:06"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple",
-          "src": "Orange County Register",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVk95SE5QZlg2RXduMl90enNsa3VlVFZYYk9PSVlJRWNSOXp5RnpWMG5Ia3pqLUIzc3Z2VkF4YmFzcTd0dTR5QnY0Uy0xajNRa29BWXdJOU42YnpNS0xfNHBid25xQXdmd05FWXRvbmZfUlU?oc=5",
-          "time": "11/03 22:42"
+          "t": "US Equity Futures Inch Higher as Investors Await Midterm Results",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5",
+          "time": "11/04 10:19"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Micron Pops but Markets and Wall Street Are Poles Apart on the Stock",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tS2ludkhybWsxdFBnc01wZ0dBN0RzS2lCREJVU29aOVJtcko1b1MydEpKRkJOSzdVMjdNMS04dy11U2xoNkRTQld0NGRKMkhkUWdfQ0diUFhWN0hONm5XMzM5Q1A0UFhQb3VPOTI1ek1oXzZGNTd0MncwQmstQQ?oc=5",
-          "time": "11/04 03:10"
+          "t": "Update: Wall Street Closes Mixed Ahead of Midterm Election Results",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazZsLWFCSGtxYmJ3cF9rRlRIQWhWTHJlWUVoSVlmZE5PTUN4ODNiQm8xa3hOam03Yk1pbHNCcVdKaGtENmptTlZlMnRhQzhiVEVhU2dFSnl0anBPYlZOS2tHV1lvcmlHaEVkZVhTaWhYMW91b2VjdWxGVENTMGZMeERYY2d2YVk5TFR4ckI5R0lpMWZ6UFZ5bEl4aw?oc=5",
+          "time": "11/04 06:32"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "US stocks drift in mixed early trading on Wall Street as Apple falls | National News | 2news.com",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTWJIa0xOVnJqNHBWcE5LSHVyZkNnS2xuNDgzTk5STmNJWFBEMkZPV0RyQ0JZYTdmZTJjWTg2YkpwaVpZTk53bEFKa2xTaTNzdFhmTGV4OVZiTUJneUZNR1luQ3ExWlhReGQxcFJaNk9nZ21WSDg1a2JfeXZuVllSUlFQNFk2Q091RGJEU3RRVE5sWkZETFlBdXhpT2MtMjE3TzBMMGFvOFFZbER6TDFBbDRFTnFJM0VwbElja1RuX3g3OVdrZnN6d19JbTZZVnYwcjhZeDQ2Qi11dEtoZGhDTWRyY1BoU3c?oc=5",
-          "time": "11/03 23:35"
+          "t": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple - News-Herald",
+          "src": "News-Herald",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTHhhSDZxcHJnQnhOQTd5cVFzM3hPaHNjX2VoVGczNnFXS1N6dC1wX0djOXJDTVVPa0ZPcGVmY1VfRWhfLU5YcXY3MXFBQVVTcEhlbDNmYzJWUndYb2loRXphYnByMzAzZHRaTHdBOGFsdUJa?oc=5",
+          "time": "11/04 03:38"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "US tech stocks recover after selloff spooks investors over AI spending",
+          "src": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHk1ZjhfMklrX0ZsaExCalhYZHVyZjg2Z0NhQTZJWk8yLXNISkZJU0ptOVE1WmJ6OTVBN0dfdlB3VnpDRENzdFBJc0kyeHBacFVPa21iOTlGb0RIcHlFSGVlQmJ2RmZSdkRlVGNpeTkzbnBJSFlmTUNWc2N0OGVKQ0RoQThKVmRyOWhCRg?oc=5",
+          "time": "11/04 07:23"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7573.42,
-          "pct": 0.42
+          "value": 7568.92,
+          "pct": 0.36
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25386.86,
-          "pct": 0.88
+          "value": 25372.01,
+          "pct": 0.83
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51815.37,
-          "pct": -0.32
+          "value": 51786.72,
+          "pct": -0.38
         }
       ]
     }
