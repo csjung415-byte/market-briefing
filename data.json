@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T01:57:48Z",
+  "updated": "2026-11-04T19:56:13Z",
   "markets": {
     "kr": {
       "news": [
@@ -14,10 +14,26 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 오른다면서 “주식은 팔라”는 증권가⋯내년 하반기 경계감↑",
-          "src": "이투데이",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ENEdrU1pJaVZmblJSUUhJYnRUYU1KcFAxQnVfdm83ZXFpSldqSG55bk42Y1dncTEwMWhuZk9peFBLYW1yRm0tU1VRQ3l1dGlmaVRSQQ?oc=5",
-          "time": "11/04 06:00"
+          "t": "美 중간선거에 증시 ’출렁’…코스피 하락 전환",
+          "src": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WZ1AzdmtRRjNLWTZ5dEZuejRfR0NnaDhPWjVfN3ZVeUZDVDZ0MGs1emhtQXFNUHM0UTVRY0VtUWFqUFVkMDdPcnkwdUpDM212b3g3d2dCVzZkMGd6dHAwdVo3cVBGUWs?oc=5",
+          "time": "11/04 11:52"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "급등락 반복하는 코스피…VI 발동 급증에 증시 불안 확산",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0taF95bTNqbWJfQlFjV21NUWJtM3JWeFRHc2N3T0EzX1BSN0NmX0R6dlN6N2YySmlYa0pMbXFsQXhmUllBejVONE1OM2gwa2JMNDRNNERIWFpBLVhxMkVEY1daYnZ6ejNLQnRSYUxPLXLSAXRBVV95cUxOQ05QQlpwc2lMcno2WElkSEVuQzRSWUdMa2JmWlVnQnl6ZWV0RjRZR29vSU9PTlBtZzFYUnBHcWs1N0E2eHJ4NDRla203blRSVUNiMExYeDlBTlVGaURBR1M0Yi1JckxBSW9XSWx3Z1lIUkxveA?oc=5",
+          "time": "11/04 11:33"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "'8700 vs 4200' 코스피 극과 극 전망 … '기준선' 잡고 분할매수·매도를",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44TFM0LVNZa21UQ2R4XzRpZzJoSTBHQTlPZ3FVNmp5cDBKZ1FjUDI5WWRVTWdWRXFMOVF3VDlob0lXUW1TMVpzMkFIcHJJcWFsbFE?oc=5",
+          "time": "11/04 15:45"
         },
         {
           "cat": "flow",
@@ -28,48 +44,32 @@
           "time": "11/04 10:18"
         },
         {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "코스피, 장 초반 2%대 상승…美중간선거 경계감 속 반도체 강세",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KZkJNOW9PWGJ5RlRuSTFLa3ZNd2hGNTdIeXptVlg2eU5qVzZGRUtfYXprbTRXaEdsZXBwSUJSelNETnU5Rm1GNjVXaWx3aDk4MVV2X25aUE4wUQ?oc=5",
-          "time": "11/04 09:14"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "코스피, 美 기술주 반등에 3%대↑…반도체 대형주 강세",
-          "src": "서울경제TV",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBUE5iSTNkSXpaS3ZvbUNaUUltajhMeFFrQUh0Mi1LY0tiM05sT3BNNXNmQ09MUE9Kc2JGaXpmUmIwVGlMSmRuRnBleW84ZHk1UnQ5VnZuTG1zZENwaE9Rc21JQ0Y?oc=5",
-          "time": "11/04 09:46"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"2027년엔 '1만피' 간다\"…증권가 내년 코스피 전망 속속 내놔",
-          "src": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OWXRrSHFDczFNdWZPcUlLclpsZ2lfT24yZEVqQ2ZCRXNidVhIbEJ6YUhENGY4V0xqUXlzMWZwUnRucU5zX1YyUktmbmdrUmMxY00xNDNCMTF4NWJUYUdPYzJ3?oc=5",
-          "time": "11/04 09:59"
+          "t": "코스피, 美기술주 반등에 1%대↑…장중 상승탄력 둔화(종합)",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UbWo2dzNuN0VuOElqbWs1VlJLc0JQQ1d4NXdhaWhLcG5YVFRUMk5KZm0yT2FCZGtjS05Ya3ZrYWZXckppam4xaUJic29LdVYxOEdVcmRrVXo1RUFobnppZtIBYEFVX3lxTE1UbWo2dzNuN0VuOElqbWs1VlJLc0JQQ1d4NXdhaWhLcG5YVFRUMk5KZm0yT2FCZGtjS05Ya3ZrYWZXckppam4xaUJic29LdVYxOEdVcmRrVXo1RUFobnppZg?oc=5",
+          "time": "11/04 09:31"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5577.67,
-          "pct": -4.8
+          "value": 5648.79,
+          "pct": -3.59
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 691.41,
-          "pct": -5.85
+          "value": 704.39,
+          "pct": -4.08
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1337.88,
-          "pct": -0.52
+          "value": 1341.13,
+          "pct": -0.27
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "How Wall Street analysts think the midterms could affect the stock market",
-          "src": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKNExSNUh0clVZWHY5bmZ0dGVxMHFBT25FbU9ybTZ1MElfRHhNN1hKSFhja1J4VTZPT0ttMkprWVVMWEhKMVdlTHVwVWRQMS1ZMkkzQ1YwZmpHQ184QjJud1ZQVk9GeGJxWUotMjhhMHpFTW5nMXNmQXFqdFo?oc=5",
-          "time": "11/04 03:26"
+          "t": "Wall Street rallies after Democrats win Congress; data center stocks slide",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
+          "time": "11/05 03:40"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Nvidia and other Big Tech stocks lift the US market despite drops for Apple and much of Wall Street",
-          "src": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOcm82ZFhNNFVyWmEyQ0poU3hheTdsdWYxZUZpQVIwM0dyZ1paZDgzelVzZ0p6eXd0R1VNU1lJcVpKY0VJaEdlcWJCYS1KN1FqODd4Z3RZOW1sclk4YmhxOXVuUThSaXc5NS1EU2cyRmY3ajc0RGc?oc=5",
-          "time": "11/04 07:28"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "US Equity Futures Inch Higher as Investors Await Midterm Results",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzJXWTQ2RjFoeU9maDJNSE53U3o3WmdfeUFyUktDbzRuZGswVE44M1doYjh6d21BZEdGemVBVU4wclliR3ZST0hnZWMtcm9yTnhqUmRtc0NjNnB2NVdjSTBmRlFQbU44NlRYVVZZc1NlSklhci1PRjhSb1F2MWR5LXBULUNWSnpqN1NyZUh1RjBfdm1BajdjWGphYTIwMmpoUzQtcy1LN0Y1d0RuWjE2RG1GeUhSUQ?oc=5",
-          "time": "11/04 10:19"
+          "t": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
+          "src": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5",
+          "time": "11/04 23:40"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Update: Wall Street Closes Mixed Ahead of Midterm Election Results",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNazZsLWFCSGtxYmJ3cF9rRlRIQWhWTHJlWUVoSVlmZE5PTUN4ODNiQm8xa3hOam03Yk1pbHNCcVdKaGtENmptTlZlMnRhQzhiVEVhU2dFSnl0anBPYlZOS2tHV1lvcmlHaEVkZVhTaWhYMW91b2VjdWxGVENTMGZMeERYY2d2YVk5TFR4ckI5R0lpMWZ6UFZ5bEl4aw?oc=5",
-          "time": "11/04 06:32"
+          "t": "Dow surges 1,500 points after Democrats take control of Congress",
+          "src": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2QyeUczMEN1RzM2UXRheGYwT2xDVUJxenVhOURnU2tFLWU5UlY4VGYtci1TRmtvbUlGM1hsNUJHVUhlUHEyQXVLUFlMVGFiVlFIZWFoTmhNWVl5MmhiYTFRYlZZQXJvTDF0R3RIa3UwSFNLUVpPUG1Udnh3QUpxdmNZNU0xQnQxeFE?oc=5",
+          "time": "11/05 04:15"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nvidia and other Big Tech stocks lift Wall Street and make up for a drop by Apple - News-Herald",
-          "src": "News-Herald",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LTHhhSDZxcHJnQnhOQTd5cVFzM3hPaHNjX2VoVGczNnFXS1N6dC1wX0djOXJDTVVPa0ZPcGVmY1VfRWhfLU5YcXY3MXFBQVVTcEhlbDNmYzJWUndYb2loRXphYnByMzAzZHRaTHdBOGFsdUJa?oc=5",
-          "time": "11/04 03:38"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stocks Rise as Democrats Flip Control of Congress",
+          "src": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0ktb3JQam9saVhrUDhjbXZWTDVQaV9tVGFyX0VWdnh1Y3lTd3BDYlBlTFN3WS1tN0szdm4zb184WkZEcnhDZWVaS3h1RHp3azFaUEFfTWNtSjY4UXhXTG5ESjBvRmRHTzluZks0VlBrS1RzR1ZuNVJSa0s3eFNVU3J2WmZpQQ?oc=5",
+          "time": "11/05 03:22"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "US tech stocks recover after selloff spooks investors over AI spending",
-          "src": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHk1ZjhfMklrX0ZsaExCalhYZHVyZjg2Z0NhQTZJWk8yLXNISkZJU0ptOVE1WmJ6OTVBN0dfdlB3VnpDRENzdFBJc0kyeHBacFVPa21iOTlGb0RIcHlFSGVlQmJ2RmZSdkRlVGNpeTkzbnBJSFlmTUNWc2N0OGVKQ0RoQThKVmRyOWhCRg?oc=5",
-          "time": "11/04 07:23"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "U.S. stocks rally as Wall Street reacts to stunning wins by Democrats",
+          "src": "NBC New York",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUlIVG1tUnh4bWo4VEdleThZd3BiTEM2OXc4ZkR5cjVPSVdPUnVfbkJUZG13ZWU1Y2VzeDI4WDNyUHZMOUxDNlB4WmY3TVNjMkFILTJOZjZqbzJkMkJuZXM0aDkxLW1yQVdWT0dlbWFrMWdDS2FlMWdfVlVBeUdXclNJRTNrRHc5MlBZeDdlSDJvMzhHUGFGdUcxRE03UXVZVS1YSUZB0gGuAUFVX3lxTFBLMmVpaGRKVmFxUmVkZWhQWXdBTW1LOXN2MjIyT0VxODd6d05iSVV2ajRfUGxXUmdJR0czLU94czdQQ1Jha0VwbzBhNXdvWlphWkNqbHdpXy1WRTZVZk1pUEtDMU9LUGVxSU95ZzV6OFlMZUE4bmNGSWNONTBtYnVKa3lSTmlJWDZHb0dnVUtHd2tUTXBCY1ZQMTlqbVYyY2RqRHhKWFNEQVRFcUJpZw?oc=5",
+          "time": "11/05 01:34"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stock Market Today: S&P 500, Nasdaq, Dow Jones jump after Democratic election win",
+          "src": "Beinsure",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiMU5kdnJ3NnlRdlB3SHdGMXNPZXRRZTFSSWtpYU5MRXltODlSZTNvSjRTMzVYN2RqVy1seFBKbFhyQU5VS0RzbFl1a0ktUDduZzk0MXN0Ri1FUl91VkFKR1hXX2xoNEE4TU02NFJieXg3anB2TEN0OGw1T21Sdw?oc=5",
+          "time": "11/05 02:37"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7568.92,
-          "pct": 0.36
+          "value": 7697.76,
+          "pct": 1.7
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25372.01,
-          "pct": 0.83
+          "value": 25811.01,
+          "pct": 1.73
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51786.72,
-          "pct": -0.38
+          "value": 53320.64,
+          "pct": 2.96
         }
       ]
     }
