@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-04T19:56:13Z",
+  "updated": "2026-11-05T02:01:39Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까",
-          "src": "주간조선",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5",
-          "time": "11/04 09:35"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "美 중간선거에 증시 ’출렁’…코스피 하락 전환",
-          "src": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WZ1AzdmtRRjNLWTZ5dEZuejRfR0NnaDhPWjVfN3ZVeUZDVDZ0MGs1emhtQXFNUHM0UTVRY0VtUWFqUFVkMDdPcnkwdUpDM212b3g3d2dCVzZkMGd6dHAwdVo3cVBGUWs?oc=5",
-          "time": "11/04 11:52"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "급등락 반복하는 코스피…VI 발동 급증에 증시 불안 확산",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0taF95bTNqbWJfQlFjV21NUWJtM3JWeFRHc2N3T0EzX1BSN0NmX0R6dlN6N2YySmlYa0pMbXFsQXhmUllBejVONE1OM2gwa2JMNDRNNERIWFpBLVhxMkVEY1daYnZ6ejNLQnRSYUxPLXLSAXRBVV95cUxOQ05QQlpwc2lMcno2WElkSEVuQzRSWUdMa2JmWlVnQnl6ZWV0RjRZR29vSU9PTlBtZzFYUnBHcWs1N0E2eHJ4NDRla203blRSVUNiMExYeDlBTlVGaURBR1M0Yi1JckxBSW9XSWx3Z1lIUkxveA?oc=5",
-          "time": "11/04 11:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "'8700 vs 4200' 코스피 극과 극 전망 … '기준선' 잡고 분할매수·매도를",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44TFM0LVNZa21UQ2R4XzRpZzJoSTBHQTlPZ3FVNmp5cDBKZ1FjUDI5WWRVTWdWRXFMOVF3VDlob0lXUW1TMVpzMkFIcHJJcWFsbFE?oc=5",
-          "time": "11/04 15:45"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "“코스피 하루 만에 3.59% 급락” …외국인 1조 5000억 원대 순매도",
-          "src": "용인신문",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dzQ4a1hPOG56aWZldnhPb18yQkhxdUlLc1BZM1F5TnEzU0RZMHJPMk5US1pzVklSM295Nk9TR1BPamRPUUJTWUtxNVFrRlRuMmR6X0ROWl9keWVWS3FhZ2ZtUzQ?oc=5",
-          "time": "11/04 10:18"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 美기술주 반등에 1%대↑…장중 상승탄력 둔화(종합)",
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[마켓뷰] 美증시 올랐지만 반도체주 급락…코스피 방향성 주목",
           "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UbWo2dzNuN0VuOElqbWs1VlJLc0JQQ1d4NXdhaWhLcG5YVFRUMk5KZm0yT2FCZGtjS05Ya3ZrYWZXckppam4xaUJic29LdVYxOEdVcmRrVXo1RUFobnppZtIBYEFVX3lxTE1UbWo2dzNuN0VuOElqbWs1VlJLc0JQQ1d4NXdhaWhLcG5YVFRUMk5KZm0yT2FCZGtjS05Ya3ZrYWZXckppam4xaUJic29LdVYxOEdVcmRrVXo1RUFobnppZg?oc=5",
-          "time": "11/04 09:31"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LblBDSjFUMGF3aFRFcE11SGItOHNDNEx0Tjg1elgyMmVhYjB2dEd5VHhoVWZ2aWFJeDRJdzg4QndrOG9rbFZtNHNGYkJMcW9ja3loeVJtb0ZwNEt3T0FiRtIBYEFVX3lxTE5LblBDSjFUMGF3aFRFcE11SGItOHNDNEx0Tjg1elgyMmVhYjB2dEd5VHhoVWZ2aWFJeDRJdzg4QndrOG9rbFZtNHNGYkJMcW9ja3loeVJtb0ZwNEt3T0FiRg?oc=5",
+          "time": "11/05 07:53"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피, 美 AI 투자 위축 우려에 하락 출발…반도체주 급락",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IT0JJZHkzVklweTVBR1htUHlOZGhxbDlnR1NoZWNoQzd4WjdrdUdPVV9iSVpKUzVOUXQzS0NNQ2JVektHdTEzVG9tbnZxOVZkQlNBMHZQY2J1SVpxLXVIeXRQSkpnRG9mRTIyMEFxQkTSAXRBVV95cUxQRXFJbmFNbEstWXBNVWRTaVNxT0szQS15TDgwYjRFbTdRZTlDbGMyME03QUcwZUppeGtRaUtZUGl0V25vRGNkV20xa2tjRWVnRXl6SmloaGd5U2Y1Tm1CS0NVamd5S1owNUdkVGJNNjVEckh0aw?oc=5",
+          "time": "11/05 09:43"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피, 美 증시 급등에도 하락 출발…블루웨이브에 반도체주 약세 By EBN",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSmdpcXVFNDUtUjlrSEowUmFISHdoNTd5OWJrX1E2SVAtZGk4MnVPZC1QaDh2U1drczNOQ3g0aTJyZjdhLWdVLU44elVJNjhfNmc2dW15bVdFQmdQLWxsZ0lUQjYzbVRhb2g5NG44YVQ?oc=5",
+          "time": "11/05 09:50"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "삼성전자",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTMtd3U2MGY3VnpLZklYWlYyM3U5TEV4V3pab3lrREs1Zm9FWTVwWVRtZmRDaEphYmFzTDhSSW5NWTd4aGpxYW1feThTSS1pa3hPT2dZTGRvTnN2S0tKVUEtcS1kMHp2VjR5elp4U1JTRkZMTXhMd0plYWJZX09EUS1uNXBpUTJseFJUY0FPLWlDODNtWklXQw?oc=5",
+          "time": "11/05 09:54"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[개장] 코스피 3% 급락… AI 규제 우려에 반도체株 직격탄",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3RjVCY01aUXJ5OWQ3UzNQX1pmVHpXc1VtRjlsOGFwajJNbUx3aDdVYUNRcVA2b3ZqaGpqWFd6YzUtOTBLcXhxR2l4MkZFY0NpVFNHc0JtUUtrLWhsSEp2N3ptMTQ5Y1dXcWQ4ZmIyekPSAXRBVV95cUxPcTdBSVc4cUdkZ2lCTlFyZ3EyMEpFY1NtTy1Ka0hoY0lMR0U3TUtJSkFhbDhRamtIWmFydV8yTWlPQ0hObUdsQk0zWjF6dENBTzRCYVJEMnY4OHlPS2RFeU5HZE1nU3ZkcU9MYkhkdlU2Zi1JSg?oc=5",
+          "time": "11/05 09:50"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"11월에 주식 사라\"…증시 격언 올해는 통할까?",
+          "src": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrV05YNzcwUktJaWZYRmtzaXRvRm9wTmp5bExoeEtzUlMyYlJHRXpVOWE5SzVtdUZqZWk3bGRqcU4wWTFCdFpXM0l5MGhETHNMclZMU2dHdUt3TmdBR3ZsTGJ0OWVMZnFRMFRwNUdPSk9maC1ILWlnMNIBeEFVX3lxTFBrV05YNzcwUktJaWZYRmtzaXRvRm9wTmp5bExoeEtzUlMyYlJHRXpVOWE5SzVtdUZqZWk3bGRqcU4wWTFCdFpXM0l5MGhETHNMclZMU2dHdUt3TmdBR3ZsTGJ0OWVMZnFRMFRwNUdPSk9maC1ILWlnMA?oc=5",
+          "time": "11/05 06:00"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5648.79,
-          "pct": -3.59
+          "value": 5434.27,
+          "pct": -3.8
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 704.39,
-          "pct": -4.08
+          "value": 683.4,
+          "pct": -2.98
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1341.13,
-          "pct": -0.27
+          "value": 1342.43,
+          "pct": -0.03
         }
       ]
     },
@@ -78,10 +78,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street rallies after Democrats win Congress; data center stocks slide",
+          "t": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
-          "time": "11/05 03:40"
+          "time": "11/05 08:54"
         },
         {
           "cat": "earn",
@@ -89,15 +89,23 @@
           "t": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest",
           "src": "NBC News",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5",
-          "time": "11/04 23:40"
+          "time": "11/05 06:23"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Dow surges 1,500 points after Democrats take control of Congress",
-          "src": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2QyeUczMEN1RzM2UXRheGYwT2xDVUJxenVhOURnU2tFLWU5UlY4VGYtci1TRmtvbUlGM1hsNUJHVUhlUHEyQXVLUFlMVGFiVlFIZWFoTmhNWVl5MmhiYTFRYlZZQXJvTDF0R3RIa3UwSFNLUVpPUG1Udnh3QUpxdmNZNU0xQnQxeFE?oc=5",
-          "time": "11/05 04:15"
+          "t": "U.S. stocks surge, and the Dow soars 1,500 points as Brent oil's price drops below $95 per barrel",
+          "src": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkpVS2U5RVFxaEtXOFd1Q2RQWEdZd0x6c1g5bTJtTnZBR3kya185cnZOTkFCTW83eDE4aUNvVk91NmV1ckltdVUxZXZkczY0R3hrRFZOSzJld1lHWEkxdDlQX0dwaWJiZE9pY0xod1pFUEJaTnkxdjY4bGp2Unk0YjJoMWNOTzlDS2RmeXhpaDRESWVrTnFTVGxsYmVPZGYwMkZnaWtUZ2I0MEVvVkRyWExNNDlXTTFIVUFuWEJwVm5mUXBaUFBjadIBzgFBVV95cUxNaDRuLTR0Q01OVG5fQTA0eG9waUVBQXVPN0NhSmdIVW1MdnpxaFowejV3dGRaamVmOWpvaVVlNEh5YlBUUTZsRjRZRzdHUnlsZThXeC1WelhvREEtOW5McGZOUE41RlhiQ2F2eVAxWmVONW9vTElYV2F5dHkteWJBeDR3NzRkVU5GSHY3Y3dsYmtzVi1jb1hCT3Y3VkU5bWl6MVA0OGY5ZEY2WTR2UDdVaHpua19uYkFIRWNRYjRFY3Qxc3QwSXhrZUd4WEcxUQ?oc=5",
+          "time": "11/05 05:47"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street Trading Desks Bet on US Stock Rally After Midterms",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzhCVzhUY1o3N1hNS3pfWXJmcmJXNFhYMnl2SzNKSzVOMF91ZFNBaG1qZ2o3VXNJaW1uSlBBdkJNTzZlRWF6UlJvRlNIME9jYnZhSWRmTVF2SDRKNkRMNmNRVV80MVdxdThLNjRkN1o2cWJoeS0yZXpRYmFNM3RaV2psRUR2Qi1LMlQyM2p1SWtka1kyeVF1UXB3UnpGcWJfWUplanlBWDFpdWd4N2FXeTlFTQ?oc=5",
+          "time": "11/05 07:02"
         },
         {
           "cat": "macro",
@@ -105,7 +113,7 @@
           "t": "Stocks Rise as Democrats Flip Control of Congress",
           "src": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0ktb3JQam9saVhrUDhjbXZWTDVQaV9tVGFyX0VWdnh1Y3lTd3BDYlBlTFN3WS1tN0szdm4zb184WkZEcnhDZWVaS3h1RHp3azFaUEFfTWNtSjY4UXhXTG5ESjBvRmRHTzluZks0VlBrS1RzR1ZuNVJSa0s3eFNVU3J2WmZpQQ?oc=5",
-          "time": "11/05 03:22"
+          "time": "11/05 06:40"
         },
         {
           "cat": "macro",
@@ -114,34 +122,26 @@
           "src": "NBC New York",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUlIVG1tUnh4bWo4VEdleThZd3BiTEM2OXc4ZkR5cjVPSVdPUnVfbkJUZG13ZWU1Y2VzeDI4WDNyUHZMOUxDNlB4WmY3TVNjMkFILTJOZjZqbzJkMkJuZXM0aDkxLW1yQVdWT0dlbWFrMWdDS2FlMWdfVlVBeUdXclNJRTNrRHc5MlBZeDdlSDJvMzhHUGFGdUcxRE03UXVZVS1YSUZB0gGuAUFVX3lxTFBLMmVpaGRKVmFxUmVkZWhQWXdBTW1LOXN2MjIyT0VxODd6d05iSVV2ajRfUGxXUmdJR0czLU94czdQQ1Jha0VwbzBhNXdvWlphWkNqbHdpXy1WRTZVZk1pUEtDMU9LUGVxSU95ZzV6OFlMZUE4bmNGSWNONTBtYnVKa3lSTmlJWDZHb0dnVUtHd2tUTXBCY1ZQMTlqbVYyY2RqRHhKWFNEQVRFcUJpZw?oc=5",
           "time": "11/05 01:34"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stock Market Today: S&P 500, Nasdaq, Dow Jones jump after Democratic election win",
-          "src": "Beinsure",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiMU5kdnJ3NnlRdlB3SHdGMXNPZXRRZTFSSWtpYU5MRXltODlSZTNvSjRTMzVYN2RqVy1seFBKbFhyQU5VS0RzbFl1a0ktUDduZzk0MXN0Ri1FUl91VkFKR1hXX2xoNEE4TU02NFJieXg3anB2TEN0OGw1T21Sdw?oc=5",
-          "time": "11/05 02:37"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7697.76,
-          "pct": 1.7
+          "value": 7688.62,
+          "pct": 1.58
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25811.01,
-          "pct": 1.73
+          "value": 25736.51,
+          "pct": 1.44
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 53320.64,
-          "pct": 2.96
+          "value": 53356.12,
+          "pct": 3.03
         }
       ]
     }
