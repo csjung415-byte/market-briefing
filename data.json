@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-05T20:09:46Z",
+  "updated": "2026-11-06T02:01:27Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "파란 쓰나미에 코스피도…외국인들 팔아치운 주식 보니",
-          "src": "SBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91V1BuaVRKby00dXlTSVpneERHdXhJM2Z5d0xNOGhqRmdGZ1NZT3JITndaMWQ2LTkzaEdISEw5UjJKcFg1Xy1NWkQ5NndWdUpnZ3JsVFoxS2lSUHZFaVpuV0JVU2pweWxpYnfSAWZBVV95cUxOdVNTSy1CSGo2SnVJUHZoeVc3aFo2VV9yZGFMQzd3Z0Rqb3BVaGZMYldPc2lBLXZaQkttczYydWpacElOMjRzNHV5X3A2NTdLR1l6dVBFVDdvdnVvZk9LWGdVc0F1a0E?oc=5",
-          "time": "11/05 19:56"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 서킷브레이커…美증시, AI주 약세에 폭락",
+          "src": "연합뉴스 한민족센터",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jS05OWXMyZzZFR3dVUEp1S3FmcVE4THZyTlJHMUIyNWZES2Z3TmdsVDJ2eHFtb2IxeFE2bk1VbFR1RHhGd3BCZkZRWEJvYmJoc0x5Z2VzVTZ0S0xxZWxBTEVPUTVfUGFPd2pMcDBSWUhWODli?oc=5",
+          "time": "11/06 09:59"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "증시 변동성이 달러선물로…주식시장 헤지 수요에 환율도 출렁 |",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Qc0tJZjBtUkdzdzUwLTRhcDhKZ1hiSFVMLWZHWEx0eEY0eXFDQlpBazNjNmx3TC1EVG9JbWFtMHk3T3JLTldrTUZ2QTZ6eVprRzNNY3o1bEQ3dDdHRzBUQ1F6QXhJNXBaOXlQZTA2Y2lVSWlt?oc=5",
+          "time": "11/06 10:10"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "‘블루웨이브 쇼크’에 코스피 5%대 급락",
-          "src": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2QmdsLUhfcGVqeWw5ejBIRFVGemxETG1ud0N1SjRtMTdIeDhvSnNINjh2ank0dGVXeHJxaHpoVFduVERybHdFWXZ4RjZwdjVTZTRRcVR0TEkzTFZ6MF9mRlJwOHNuTTA?oc=5",
-          "time": "11/05 17:05"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "S&P500 500% 오를 때 코스피 200%…장기 수익률 가른 하락 방어력",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2UldNQUFjVXBJX3VKUkdhWE1xS2dyNXlBY0tFNjhKRzRvVW9JM3BYUkFzSkM1MGRPb0hjRnM4ZF9QaGJRbzlWbDNmNnNzQ0NWVEQ1RTBXYVJZT0s3?oc=5",
-          "time": "11/05 15:53"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[속보]코스피 5%대 급락…하닉 9%↓ 무슨일?",
+          "t": "[속보]코스피 5000선 무너졌다…3분만에 서킷브레이커 발동, 하닉 11%대 급락",
           "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zakZkbFZLR3VIQ3NGNTRXOHhDRWtaQ3QwWi1NaEh6c0U2M21zUWpFdGU3ZC1GZHQxQ0pQX2RwMnhRVS03TG1QT041M2N5NnV1?oc=5",
-          "time": "11/05 17:04"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 5.28% 폭락해 5,383선 마감…외국인 3.4조원 '팔자'",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zRmRBNzdSODEwZS1qNlBGZm1teGxVV05xS2FUX2wwMElkLWlaS0g5bFJHdERlSmxWeE13YTJZa3dLVmdYQ252d0RFTFdNMENkLTVNcnY3YkYzdlpXd2VxOF8wcW5UUDlKdzYyc0lWNUnSAXRBVV95cUxOZkFoN1F6NzU0T0FNVkdJNC1yanpHWHNJMHNiTTdRbXBrZC1raFRPRU9SbWcwMTRqRW4yRnBuRG9XMkNQQ3pEdkxFS3RkODFoekhmaV90YmxQdnd2NFRUbkRXZWZ4cGEtdGY3YWRsa0hHVW1DVw?oc=5",
-          "time": "11/05 17:08"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JeGRTMWFyRW9IY3MycWl1Q0pYUjIxWjlCS3VWVVRtcEcxNWtrdlk3VG5DVjQ5ZmN4ZU96MnRfXzhlZGJIUXUyX3BuRi1jSVot?oc=5",
+          "time": "11/06 09:19"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“코스피 상승 추세 꺾여… 요즘처럼 어려운 장에서는 나라면 주식 안 사”",
-          "src": "주간동아",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFbUtuVW9heDdrdE9OdEt0bXBqVnUzanNlaFd4ME1yTVB5Z2dEeFpGSXpENWhhVEE2NTBNY2RwakV3YmVkT3hSZTNNVGYtYXVPcG5CM3hrSDd2TEVVVGlXbThPRnNEVnF4?oc=5",
-          "time": "11/05 17:43"
+          "t": "[개장] 코스피, 美 나스닥 급락에 5천선 붕괴… 서킷브레이커",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAteXk1WWVMZkVqelFsa1VnUkpnVl84NGx3bVpQT1lfdmNEX1RSNmdTX1pzUzZJZGpTUW12bHViWXQ0c2hrb1JiQjNXNHZiYkpjUlZaS3MyalprTXRPSTAzQWJSV1VYSU41bnBZN1ZraXfSAXRBVV95cUxPNEJwcFkyaE9jbm12aEItS2lieEhNcnNXWXNrV0xLVG45X0t6MmNCNEsxdXNqQ0FPbEdjWmRweUtKUlh4M1JzVjJnNTVPUzZXaTRxTmRWYzhGZjg1SXdid20zOFRQcEx1SEk2MGRaN3dzZVlZYQ?oc=5",
+          "time": "11/06 09:46"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 장 초반 8%대 급락…1단계 서킷브레이커 발동",
+          "src": "대한경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hb1lhb3BUb3RXdDhPejVuOG41RHEwOU5Cb2xYNjFoek5BbFBfY09sY1ZjVnZ4WEthMVFfVmtDZm9NdGJQUnVkS3FXSDB4RmtwQlFCWlFVY1ZwZlFxdkhVWldFcm00VGNQSE1NZHVUaXQwVERL?oc=5",
+          "time": "11/06 09:18"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 급락 서킷브레이커 발동, 5000선 붕괴",
+          "src": "OhmyNews",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sSFNZZFJ0SGJhc29fQ2J0MUl6ck9qZ052VktIVG5KRkFrZGFTRlhTaC1XaF8yYXlTMU9JRnRFeXAzM1BwOGx2YVFnNGpyMnhfYy1xeFhtdkh6ckE3NWp2WWZkMno5bHVKVC04TGN0a292V1E1ZjRZ?oc=5",
+          "time": "11/06 09:32"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5683.8,
-          "pct": 0.62
+          "value": 4995.48,
+          "pct": -12.11
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 714.95,
-          "pct": 1.5
+          "value": 636.69,
+          "pct": -10.95
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1356.15,
-          "pct": 0.99
+          "value": 1355.98,
+          "pct": 1.19
         }
       ]
     },
@@ -78,10 +78,10 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles",
+          "t": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade",
           "src": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL?oc=5",
-          "time": "11/06 03:33"
+          "time": "11/06 08:04"
         },
         {
           "cat": "earn",
@@ -89,59 +89,59 @@
           "t": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
           "src": "MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlF2dlIwUlh6aW5SSWhrdV9aNFpoZDJTcFhLZHA0NTBZVU5hQUg5b2FyR2VPQUdoWTJzS2p0ZFRacjVldEMtQk9lREFHMlA2M0Q3WGwtOGpqT1VraHpqVEYyQVBwQVNHeF9ZZDJRcmVrSkhoN2pvTUhhMXBDcHRPME5BYjFtLTJHZUZ1RGNpODUwaklHTzhLd1pJd0hha0FBUTRSV3ZJYjE3S1VteEtMZnNRaFMtbklISjF3RW5Bbw?oc=5",
-          "time": "11/06 02:11"
+          "time": "11/06 06:37"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Chip stocks get slaughtered as Wall Street heads for its worst post-midterm day since 1896",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGJxaUFwMFhzNTlQamNCdnlkRmUwUmpsLXhaOUpYaHhFT3pkLVpodEpWdnR4R2NvNGVqQ2NPMERxdjV5bG1RTU5VZ2tHaVFKazRoRUg2VXJYcm1FVUFCdnZaQlRQUG1jRFpFQ29jdGpPclAtOTlRM1RxaktOZ3RsdEdHY05ITmJXSmZtZGlyN0NTM2RGbmxhRG05dW5EcjNGMEYzSTcyeE5zb2FhSENoRzgzZ0pXWnl2WVcwSlp2cHZrV1p2dUF6aFl4M2F2T3lBdWx5dUlNeVNXemx3eUowWQ?oc=5",
-          "time": "11/06 01:34"
+          "t": "What Wall Street's tech stock sell-off means for your 401(k)",
+          "src": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlFIMzl3TFRfTWpXa0xqbWZjQmhzSFNBZWk4d09uaVh4RzJ4NXN0ZUpvcGVIRFkzR0xRdDRyai1PbHBObUhraVBVLUE4LW95RC1QVTFxdFF6ZURROUo1aVM2REprdzVPRlhHVFFCSkdFYWtoMGVaVXlMNVlyeVlSNGFIRmZqWmplaDZSMNIBkgFBVV95cUxOTjVPQXpJVDJOLTZEUm5ZSVd1clkxMXB4bXZubC1HX214a3VqZHJVMkRUbWEzMHJFWnY4ejNoeWxDcHNUWEk3Vy1MbVVZRTM1MVpIZHlIZHQxeGZuMGNDeHBvcDg4UzhxSi1PdTdaNWozR3lnWkRwcEhObmt3NWpoYmpwZG9HRjRVdnNHeTFibjl1QQ?oc=5",
+          "time": "11/06 07:40"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "US tech shares fall sharply as investors bet on AI slowdown after Democrats’ election triumph",
+          "t": "S&P 500 Tumbles Most Since April 2025 on AI Fears: Markets Wrap",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5",
+          "time": "11/06 06:53"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4%",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE43QWpUdHk2WE5qUmd4Z0hjYlBqQ3FGLUVoRlBTbmN4c1JJbWZpeUJmTXhpalZzaTNGMzVweE5wNDRJdnRSMzRENURHaGRIejdqbnVObV9KNEp6R0p0ZnAzT3Y5WGVYejV6VWc0dGZheFVWdG9IVDljNjMxVmVDVGpYZlpwN19nVzBibDdqVmRJOXV3Vk9YdFRiSQ?oc=5",
+          "time": "11/06 07:04"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
           "src": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWdpd3MxX005Y1RwQUo5WkxPVzlNRGpxMGJPcWV4WHd6TWh4a1Y5YUdrLXhYTEplalpXSE03S0NqX0xLcHIwbzBOdjI1VEJGdVdmSDlhejNMd2lnb3lJQTBtT21yVkxSTGh3RFFGUXZ5UTRPa0tQSUZZRjJhbFBFTkJxWjkzaTFhanpScXU1Y0lYdElWNVJzMDB2UHVjSEZUZUJUdHpQSWd0c2IzX2ZhMGQ0dlluRU1OekpvOVVWN2g1aUxmTVZhUEVWLVA?oc=5",
           "time": "11/06 02:31"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "A wipeout for AI stocks sends Wall Street reeling, and the S&P 500 tumbles more than 3%",
-          "src": "NBC Bay Area",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjd6RnZ1cl9yX0VHWF9ZaU93WEpyRHZueHJIcVZ4WUJNRFYwLWpEeVVTbUFtc0Q4UmVKMnFwbGMyMnRwMlVxbnhtVUdPTHJ6TlBBVjVBdV9YRzktWDBqa0NpaU1ITzIzU0M3bWs5bmF1V2pEZXVld2FIMHZNclJ4ZlZTRzI3ZFNSQTdnVkJxN2ItQ0VBUElv0gGfAUFVX3lxTE9zcVVCSkZGOFdaQ0tkSS1odGx6a0x1ZlUyZjlGOWl4UVFtbVFKd25jaFRFQVJmQnlGNUdFMVJhUjRZeGh2amdzN2xxYVN2NXhTcE1xNHh3aVRxSmdyeHdVVHJDS2NRTllua1BkcXVrMks3V0c4cFhNS3hPUnV6WnhHdEZXMXByS0kzZ3BPWnlxeVV4U1Z6aFI3Tm82VVFUZw?oc=5",
-          "time": "11/06 02:08"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Why the midterm blue wave just triggered a red Wall Street",
-          "src": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDNYbkU1OXF5YUtrZ2NoNWFoQ0huM1ExbGIxdzNnU2RtQ3B3bmQyTUk3bUdMWEZKcjBFQkY3MFlTSGFXcl9xT2VDSnZBQlplNHhZNk01bWdNSUhiQkQ1RlpoMkJ4cmhyeDF2MkNHcmI0NUhrdEJuSFE4MTcwOFkwOXVwdkFIdC1MazY0OTVUVDlnMjZIUEQyQUhVNmhoMnNkSGxldmItWDczVWxZNGJ0T293MjFYQmc?oc=5",
-          "time": "11/06 03:17"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7379.66,
-          "pct": -4.02
+          "value": 7353.73,
+          "pct": -4.36
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 24423.16,
-          "pct": -5.1
+          "value": 24315.0,
+          "pct": -5.52
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51617.12,
-          "pct": -3.26
+          "value": 51523.06,
+          "pct": -3.44
         }
       ]
     }
