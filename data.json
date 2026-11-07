@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-06T19:36:04Z",
+  "updated": "2026-11-07T01:41:49Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "증시 급락에 개미 비명…코스피 하락 어디까지?",
-          "src": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wTjlhLWNzMHMtbnZHcG1VM3JPbDRfZlRsM3JhQWl2dnBkV1VhaGNTamlCVmVCT3ZLb3lwREpOWWpoTlo1cUJkbTBHeHk5aWlJZVVuYlgwTlNheVk?oc=5",
-          "time": "11/06 21:03"
+          "t": "코스피 급락에…서학개미, 미국 주식 3조원 쓸어담았다",
+          "src": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yUEpOQVlXZTJ5ZUJtYm9kWGtqckxWNHpfSnVoYWt3UFVVUjhCU2hnMDJ2Q3A3T1RwWENRODNfdEt2ZXp2Tml5SWhFVC1rVG9rRnfSAVNBVV95cUxPdjRxb0dIdlRYTzJYdmh3N00tLWx3MFlvSVVreWhFb1VLNEFhZTZZb3JNUHgwOHJnNjROUHF1bVFYZXJjTlFiZmJ1UkwwVVo4Q0xEYw?oc=5",
+          "time": "11/07 09:38"
         },
         {
           "cat": "macro",
@@ -17,7 +17,23 @@
           "t": "“코스피 상승 추세 꺾여… 요즘처럼 어려운 장에서는 나라면 주식 안 사”",
           "src": "주간동아",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFbUtuVW9heDdrdE9OdEt0bXBqVnUzanNlaFd4ME1yTVB5Z2dEeFpGSXpENWhhVEE2NTBNY2RwakV3YmVkT3hSZTNNVGYtYXVPcG5CM3hrSDd2TEVVVGlXbThPRnNEVnF4?oc=5",
-          "time": "11/07 03:56"
+          "time": "11/07 10:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[인터뷰] '주식 농부' 박영옥 \"한국증시, 극심한 쏠림 안타까워\"",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MajdXWnJJNEZBUjR4MTFHNEZBMU9sazVRYVZNMmNzb3dyX3gydGNQSUVoQi1KT3dOdDhrSWZaYndhbXdGRGhRSE1SX0F4bkdaOVE?oc=5",
+          "time": "11/07 07:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "증시 급락에 개미 비명…코스피 하락 어디까지?",
+          "src": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WQ0h4RUpDT1cwVTlmdWNpRXViS1FieFMxcXU1OHJqcDZOaXZLSEl6bHc0bHZodGJfMHZzRmsxUzktQnd4RUpzbG14b0l3STJIVEw0LUZQclUxTDN2Z1ppazFTa0hZQQ?oc=5",
+          "time": "11/06 21:03"
         },
         {
           "cat": "macro",
@@ -28,36 +44,20 @@
           "time": "11/06 18:02"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 ‘1만피’ 간다던 노무라증권 “향후 3개월 목표 7500~8000”",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rOTRkQ0RnNUFyVm5SbmV0VVREQ1ZWZW44YnZ2Y2F0UW9rUy1xcHJjSHRtMTIzYmoxbE9yYklTZUNxMjU5MHJwNXUwYmpPM1JH?oc=5",
-          "time": "11/06 17:07"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[블루쓰나미 긴급진단]美상장 한국 ETF 13% 폭락…코스피 추가 급락 우려",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUUdxZEtVemVUR1JPZWpIVERPSHdYUFBfVUJWa1k4czlvUHM2ZjRPRmtDdTNrcnlOazVHVi1pM01EczdPZUU0QW9mdFZ0Z1dFOTdqLWkybXJzb2tmRGNNMG5uUkJ0VjI0MGp4NDhzZEg?oc=5",
-          "time": "11/06 07:44"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "개장 3분만에 멈춰선 코스피 … 9·11 버금가는 충격",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6aWhEZTRqSlhZVUVlYzVuOVBObUNQLUhLWjNsUDN0QmU4REpMcS03UWZXMnpzOTRDNWtzeFpQdzRHckdNWlpGQ01lY25melBZNXc?oc=5",
-          "time": "11/06 17:39"
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외인 순매도 10조원의 72% ‘삼전닉스’… 국장 흔든 블루 웨이브 [주간 증시해설서]",
+          "src": "더스쿠프",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pTzBmN0FtVjRMd2IyNF9VZUdoYWFORjZVdURRSW0yLV9NaVdfdzVYQ0hnbnNjaHJ5ZktDZnR6NW1QWldodUJNcTFPMTNmRU5kbDRwcUpzU3YzZWJYWDJtUTRkS05IejE5QzdQX0pn?oc=5",
+          "time": "11/07 10:21"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5383.8,
-          "pct": -5.28
+          "value": 5059.69,
+          "pct": -6.02
         },
         {
           "name": "코스닥",
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1362.09,
-          "pct": 1.64
+          "value": 1356.34,
+          "pct": 1.21
         }
       ]
     },
@@ -78,10 +78,10 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Nasdaq rebounds as chip stocks recover from steep losses",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQang5czlMS1c0LVRiTWdNdXItcDlKcTgyOXplSVVGRHljMGVrVG1KVGJTclR0TmtjWjFob0t1QWh6OTdkNzltaDJhTi1fdUdkM2tOb01JaVVlaVRWcWVTdkZFbmdBYlgxY2ktWVh6eFdZRVczekVTdFRCSWtOSzBGVnNCWHpFNFFXWFE2WDVQUjFCa19tbUhzNzdlNksyNFBqek4tcXdrcjVIVTQxMkE?oc=5",
-          "time": "11/07 02:19"
+          "t": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjhNSkxWaHNDNkkxUE51NVdvLXhyVzJ5ZGRmUHNrSUlNcG05TXRBZ2JVV3RPWk45RUxySTlZME9BRklSTFBTTzJUX294eHF5MXRkeGRMejl4SmY2MFJCckxRcmZnWXVoYnV5ang4VDZmenBqbU1Ld0NKSWIyMGdDOUxZaVhUWFVfRzg1eHlwbnk3OENMVFVybkVxc3k0b1ExMlY0WVdoSGFSdGFPclpsdWFTUHdfaVN6cnJaRUo4WFVEUQ?oc=5",
+          "time": "11/07 06:40"
         },
         {
           "cat": "earn",
@@ -89,15 +89,23 @@
           "t": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week",
           "src": "AP News",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUlicGFDcFJmWW5nQnZ3R2wzY25vSzFIczhmanhycWtxaDVsOGhrSW9sUkFoN29MaTJKX1pKbmEwSl8wVVZhX1RpZ0JFTUMycHQwSXo1ejh0YVpSRkJkdkxZTVBUQ2dySDFFYlhBSEhZTFJpeElqZXU5MEJQQURwb0RHZU16YV8tczNyUVo0NF8?oc=5",
-          "time": "11/07 03:56"
+          "time": "11/07 06:18"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street’s Script Gets Flipped by Post-Election Rout",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXVhN09VbTdkbDF5WHZhcEdNd2xpdy1QaWx4dVAyd21oZmgxc09ESUZuVUpoejIxNzdya19GZTcwOGt6T0J3dHIzckRvR2V2SUtPdEYxR1RoTnAxNWFjY1owWFpUbkdQVzNWQ2FvQ0hTOEJZcEtXNFhWU0ZFeUpsMTA0QkFHc1pZTTUzYzVFZXVkQVdJZVI2TUx4YVpXR2IzWXdERkViZkdaVjRiRHc?oc=5",
+          "time": "11/07 08:23"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "US tech stock rout: is the AI bubble bursting?",
-          "src": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUk5KWGFRY0lPalplQWNSaFZZTk11VEJvblJNWXBnTGlQU05xZTBoVlFzTHprWHVfaUVIb3ZFcGJOQUJmZFVqZVpNT0Q4X25EemUxc0hObXlhYmpkelJFcVpRcDZIQVZRTjBVTzMyUW5iMXRTLVlqZW04ZjNNRmRKcTl6TUNHcnY2QjNDdUR5QzVBX2U3UjZySVdvUE83S2Q4ZkR3RzJfQ1lzUFFXUnc?oc=5",
-          "time": "11/07 02:12"
+          "t": "A brutal sell-off for AI stocks sends Wall Street reeling",
+          "src": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFU2UHNDVmhpVmdabFZNYjZUaWduVXNzV3BwZFRkbnBsOFNQTGNlanJ4QkxtRDdGOVNXbG95Uy14TUNHM1NnTW9xNGUzMk9PdTBkTm9OV3lFdU5MNU5GRnZ3b08tQ0pJTm1fZ19hSjJhNnF3R0RtZHpfRVUxNE5Fd0NnYm9oR0haVmxnT2p1ZmRZV1dEOUtmbGJR?oc=5",
+          "time": "11/07 09:33"
         },
         {
           "cat": "earn",
@@ -105,43 +113,35 @@
           "t": "Investors try to regain their footing after tech stocks tank",
           "src": "NBC News",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWlzcGJ5b2FoTDRoekZ5blNRdTExdkc3NURPalBjNElDM1NzamNoS1IzS1B4cXlzX3dGMlJXcG9RdWMweW5CM1NCQ0MwdGYwc2h4dGZQaFZSZVBBZUpIZGw0ci01bE1aamxNRktLdGw3MkFKQ05peWZQVjdkdEk4d1U2M2NQNDVqUy1aZFJWUEdvN1RWSFNaNXFzSnJ2aEZmbmxTVW11aUFQS0lhbFlaWDd3?oc=5",
-          "time": "11/07 01:54"
+          "time": "11/07 06:53"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "What sparked the stock market’s $2.5 trillion sell-off?",
-          "src": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OcXdBaTNkOC12M0RnS0lGQ3ViaU8tYm5ibHljZjVFWUFKdTI3LWxHY0w2bk0ycnduQWZrTFRTQnZZd3NGRTY5ejJtamRaYUpPenVFQUFxWGprMmZRMklaNVE2ZVBqWFhYMUVCX2ZwRjA?oc=5",
-          "time": "11/06 19:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5",
-          "time": "11/07 02:01"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "US tech stock rout: is the AI bubble bursting?",
+          "src": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUk5KWGFRY0lPalplQWNSaFZZTk11VEJvblJNWXBnTGlQU05xZTBoVlFzTHprWHVfaUVIb3ZFcGJOQUJmZFVqZVpNT0Q4X25EemUxc0hObXlhYmpkelJFcVpRcDZIQVZRTjBVTzMyUW5iMXRTLVlqZW04ZjNNRmRKcTl6TUNHcnY2QjNDdUR5QzVBX2U3UjZySVdvUE83S2Q4ZkR3RzJfQ1lzUFFXUnc?oc=5",
+          "time": "11/07 05:38"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7398.58,
-          "pct": 0.61
+          "value": 7376.86,
+          "pct": 0.31
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 24643.28,
-          "pct": 1.35
+          "value": 24579.42,
+          "pct": 1.09
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51438.5,
-          "pct": -0.16
+          "value": 51285.73,
+          "pct": -0.46
         }
       ]
     }
