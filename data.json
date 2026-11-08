@@ -1,8 +1,40 @@
 {
-  "updated": "2026-11-08T01:09:54Z",
+  "updated": "2026-11-08T17:59:28Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외인 조단위 순매도 속 코스피 급락…증권가 주목 업종은",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DWlJYWXVtQ2h6RTc5T0RvallKU1ZEcnRSbFk1S3NLa1pKMzVKMXZWa1U3Xzl3eC05Mzl1aF93NlVHb0ZkLXhIT1RUaHVrVGQtUGthaG1nUzNzVVBKLWx0b0JQTUFyal9rSm1JaGNKNlU?oc=5",
+          "time": "11/08 15:52"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 한 주 새 11.7% 급락…외국인 10조 매도에 증시 '휘청'",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBucXBUWlhyQzJ1OHdTMGNTcWM2a0dQVjRnLTVJbGZsZ09IcURlM29LLWlWZkIwSlJSYVktcHduVnIyQnRRX0I0WXJ2YzNUaWx4aVBJVmNpeFV6V0RNc004cTFqSGFBbktvQ1F2VlUzeVPSAXRBVV95cUxNNkNxRHM0UGNmN2l4QzVWUExUcWhhOFh0UkRrU1pzdklmUG9WSU1sOXNZUk80U1d0bXFjdDZIeGxBaEJWWnIzbDVjejlmLTVmMmtBUzAyMDFWcWhkZTJZdHl5aGx6cWdpZUxqbHlNZ3YtNEFPUA?oc=5",
+          "time": "11/08 10:59"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "’블루 쓰나미’에 휘청했던 코스피, 美증시 반등에 회복할까",
+          "src": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tY25NbGg4Vlp1Q2pYVFNqUVA0QWhZNDl6U21sbWt4dElZTEswdjJIZ0pxRlpON2l4X3dneW5sQUpOOHBtdlVXa2tXaXBkWWU0QW9Ia0pIOXRNbk43ZkFqVGhDT2tVUnM?oc=5",
+          "time": "11/08 10:08"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외국인, 주식 팔고 선물 샀다…개인이 주목할 증시의 이면",
+          "src": "ESG경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Pel9wbjA2d295eXRRSXp2em96ZElIeWpyazM3eHZUVnFfWXpfLTI0WkJQY2RzV0xpRUVGZ0R5N0kzRTNBc1VxbTloQ1dLSHlvUnM4RGdBSHhVd2ZQcGhpV05nSEIyenZkMjBtTg?oc=5",
+          "time": "11/08 18:44"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,42 +46,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "지난주 상장사 3개중 1개는 연중 최저가…급락장에 줄줄이 추락",
-          "src": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01NnE3bGtDcENJSlVHd0o3RlIzQjZxNENhOGJ2N1ZfYWNURmJ6QWNRVjFfWkFGTEJwZnBOclMyV0R1dFE4bVJsaUw2cUFkd0luMy13UFZPNlFUcUVoZWVWVzNncmRXRzA?oc=5",
-          "time": "11/08 09:44"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“주식 판 돈, 2028년부터 다음날 찾는다는데”…개미들 주의할 ‘이것’",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TOHBfWnZMVTkzMFhwWFB0SkpFQlFldzU1SlVVaXRPVG5CZHpKOF9wZ1pFajhHcnhJbjU3T3NoNjFWaEZYY1ExbU9sVVFfNG1oa2c?oc=5",
-          "time": "11/08 06:13"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"한국 주식 빨리 탈출\" 코스피 급락에 서학개미, 美주식 3조원 쓸어담아",
-          "src": "매일신문",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LMWZvTDhpM1BZalJGNnh5bW9XRGhVeXQ4ZUlkZHJReGU0d3MwYWJhUmNEWVNKVmNjY3FwanlGSG44SXdXNEJYSldiZGdqSXBEX0FYT3VqWjZGcEVJWXNrb1Vn?oc=5",
-          "time": "11/07 22:13"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "국내 증시 패닉, 주식 720개 연중 최저가 기록... 매수 기회일까?",
-          "src": "공감신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoZXdjVFJ4RkFFUERVMFJJVjF2Z25pd05OcG15MWRnRWN5Y2UxZDhZczF4NGVFT3dxZWFidzRsSEozNUYweWFUQVRtOGhHdU5pUEpxUmNyamE0MlFwVnZYdEQyd1NVdV84?oc=5",
-          "time": "11/08 07:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“코스피 폭락하자 미국 주식 3조 샀다”…서학개미 돈 74% 몰린 곳, 하루 39% 추락",
-          "src": "데일리25",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZTdvRDJUR21lLWh1NUt3MUJkM0hFRTR2T3F5UTFISFY3OVYyMEYtU1J6NUpNZFQ2TTJBZFhiYUFFSU14X3R6UkRVVnFCSUFvRmhjOEFUVEhha3o2U3J0aklqa3lUOVFUTUIwVg?oc=5",
-          "time": "11/08 01:49"
+          "t": "코스피 급락에…오세훈 “李, 지선용 주식 도박 사과하라”",
+          "src": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yb1dCRXhlTEJwVTRBcTlxdFFUQVo1dVVBemFmb2ZXY0N5Tjd3TjNoQWExMHp5V0NFdkFtVGZ5eHBva2NvSG9vM0hzalg3V1hObF9vVFl3?oc=5",
+          "time": "11/08 14:46"
         }
       ],
       "indices": [
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1356.34,
-          "pct": 1.21
+          "value": 1363.65,
+          "pct": 0.54
         }
       ]
     },
@@ -78,50 +78,50 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDhuREROVnFDbm1TeWMwbG8wT3V2SVNCcU5MZEFNZ3BKWTFZcUt4ei1kcXFSa0tUc3psNExPTzRISEFzXy00NlRWeUo1ZzNyYXF0V0JPSGk1cGhXY2wxMGhEaE5RQy1YZkQ5T29YSWhSZjVXUjZmZlF2bF9JaVFkamlibmQ?oc=5",
-          "time": "11/08 10:04"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "COMMENTARY: US stocks always rise after midterms. Is this time different?",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUUxZDUzd0xuR1o2YW11a0Nqcy0yZUtiMzlNU1VsRWIxMDVubDNLZHh6MWUwT1NDYnVwajFLdVMxdEs4RGlRdmlGR29DbjQ1MGJ3LURkN3BIUFZvNV9UVVI0OThfYWUyMFVqdkRNUTBXQkVpeWNqNGdza0hIWFZrTWVYZTNUS2o4VmJhMkVwXzlkWEUxNE03OWZIdEdpTzl2d0hReXpXbGM4Mk9qSHZJNnBXejU4Y0Q2d3IwbUVmMTJ5bGs2YURn?oc=5",
-          "time": "11/07 15:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjJsWU9HVVVVTlJNRjYxYkJ6UFBBdnQzNklIM0w5X1R0YUtlT2RSeG5XR2JqMkF6Q3J5NVVBMm5sSVd4TVRfRFpYNHBLVDdSRFlmRXZxTHpJbllDVHM2Vm9lMmVBNGVWSUFrc1c2NEMzc0tBV0p3Yk16R1IwUTdsa2ZzNkNvYXpnM250dGYzZVFsV0FZbXE5YTZwYnllR1hXZkl5a2w3YVFtMXdKSGZkZzdR?oc=5",
-          "time": "11/07 22:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Warren Buffett and Greg Abel Just Sent Shockwaves Through Wall Street With This $377 Billion Warning",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDJUeGR3dEw0Z2lqQ2VIaXN2UG9rZjdWbjdub3Nqa1NHei1qWU5ZWC1zUkRQTFQwSncwZEMzTlZjcVFxRjZ0ZGg0TEozRS1YVDVULTN6Zmo5S0dIQW1YNGtzN0ZPX1ZyeGhhamlRWFlqczJGWmFSZVgzQU5EUkFGbElFMVZIbzBVUXV2RlF3N0t6c0paeWJ5UlROSGJsTUY0Q1QzUUFBb3AyT2I3djRnazdqZ0VOV2dPTGVfbmo0RDBxTVFxb2FneVFZUDROUQ?oc=5",
-          "time": "11/08 09:23"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Democrats Just Swept Congress — and 80 Years of Stock Market History Says This Happens Next",
+          "t": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
           "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREFXdVVPNWdPS1BaQjlXY1hCR1NraUkyODVMb3NFTDhxYmNDM3c1VmQxQ2JJaGZvVlRnRjE1c0VHNjljQi03WE1lNzJTaGZ1NU4zeDJocHFveUxCa29UeWVaMkJiVDRlcHFfMU52SDk0YjlLbjVkZEZIODhsOEZJOEhfNEdkNUhHOEpOLXJhMmFPSUNZRmdSZm9KT2MxVi1sMVZEMW9qQ29RcGhDX2ZSWEYwTG1ndHN6Q2s5QUNYSXliX1VaZGo4ZmFpeFdIdw?oc=5",
-          "time": "11/08 00:22"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDkzOW5CLVFmdlhBYm5MZnh4ZWpzd0RoaWEtUXRNekdlVUdIUVVNbElQQW5ZQkdHVm9LYmREY2xJQU9pWEh4a3MtWXV2ZXRFS0lhZUNqRmNnZTA1NEdYcUtnZk02bVc5OVUtTzN3LW5mWTd5TmktamgzdnJrRTJqNXdPanQyWTBScGpQTVBuakRPNkhrVGZMbk1FanV0Rk5zdGhpbWVQNWF1eGlNTUlWM2tBcUdtUlBfMjJjTw?oc=5",
+          "time": "11/09 01:47"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+          "src": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXREaE9NclBnT3M4UTBmZXRLdlJHc3k2eVRaRVNfeDFuRWpwc2xtanJtRlcyVUlBMjF6My15bk9pU3NjSUVHREZhTzJtQ1FERkZhVjd4dUtFc3IxbHlodFBOb3h4d0tOTUZCaTJhbU1hQnpfbmVVLXphNGVCa1JhNWNVU3FmM1d3Y1ZPQXY5eGJCTlVyNlM5QWh5OTBPUnlQbG9xNkVOU1QwMEFEYnNSMkx3dzZjQzQ1V19KczFHazBWYzFG?oc=5",
+          "time": "11/09 00:00"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street cheered the elections at first but then investors did the math on AI. See link below ⬇️ 📸 Jeenah Moon, REUTERS",
-          "src": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWdqeWd4X08zQThocEI4NjhFLWoteDhpM1JMcVJHeHUyUmNVYmVCaUE5T0lERDNzUVpITEd6VjAxcE14NXRHNFVZb2hHRVJ3c2lvWWFGSGFXbVgtN04zMnRPQnpxWVo2M094Um5YWTR5MDlJNDFKQllMYXY5Y0V5NkhUVGxVNVZ4RklMM09ybjkyaTJfV3NBMS1BUkVUV2o0bC1iMEx1M2twQWU1THBBemRLaEJSQ19tMnRQOTE2NkF1ZU1JeG9JQU1YYTJWX1gyVmxfbHVEWDRrc1NNek9j?oc=5",
-          "time": "11/08 00:30"
+          "t": "Wall Street's Biggest Bubble Looks Ready to Burst, and I Don't Mean AI or Quantum Computing",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDRMMFh3b2VJbHdQcS1BTHltekFfN0Zma0NWMzNkTUFfcHpNOHg3SGZGZWxVcmlZbUl3RGdmZDF6UGZMbFF2VndxTV9xQ05heUs0dWdwLVdBOHQ1LUJCRW9CSGNzcENXa0hydEhhSUttY291WnFWN0t4YUQ5c3pWaEtOeXJiZXdUd0tPZFRReXotMUhEVmdFZVQ0VlJsLU80eVlJVDdza0QySWpEUzRnSDZKc2x4QUdydXc?oc=5",
+          "time": "11/08 20:36"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+          "src": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazZkel9TVC1yS29uNHFEYjBIVU9BaWYwM0RDRmcyLU9SS1BwZHhpQm10c2RBLUJQSkFGc1J5ajg1QzZtZXVuZnVjdThZdmxMY0daTDJ6MmZzSnBveXJTYXZqNEExMkRROGdmdDJIeEpiV2U5MFNDTTQ2QWZZdkRwRkYxWDdmcy1QOE5nRVFOWDZES3BrOC1OUWd3bW5xZm9MV3c?oc=5",
+          "time": "11/08 20:47"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "China AI bust threatens Xi’s ’Wall Street East’ ambitions",
+          "src": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGI4YzdrX1lkSDRSVGM2QmxnalBseFktbF9SRnRKeTBMTUM5UldodzBZM2hYalZ4M1U3dGtHMDRlR2Q5WEFjTlpSZVpSTFlYQm5qSkJuRGRvNTFLNUs2cFFyQnhZejZid0dKNlA4WHl5NmI2ZERPUkJoWmRjLWpMbnVfbHBNS1hJSzJialA5dXYwajUyRFlxV2lUWHVxNUlCZ1NhSWxJRlQ0SXk5ckwxaQ?oc=5",
+          "time": "11/09 01:49"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "8 Wall Street insights after the midterm elections 🇺🇸",
+          "src": "TKer by Sam Ro",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80LWpVT25aN2ZGYWQzTTlrTnVWTE1JcS16WVc5MlZ1UDdqdmlseHd1VFNHaWRFRVRLTjA4MmhQUkk0RS01Yk1WZ2JiQzFNZlJ2WWlsTHptWGoyci10eUxJdmNHNk1QNVpKYU9WaHlHQk5ycXM?oc=5",
+          "time": "11/08 23:08"
         }
       ],
       "indices": [
