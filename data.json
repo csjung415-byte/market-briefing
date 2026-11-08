@@ -1,8 +1,32 @@
 {
-  "updated": "2026-11-07T17:47:55Z",
+  "updated": "2026-11-08T01:09:54Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "'블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwN3dPNUlneHp3eXZwUmFFbVlsSG5jTVlSZDNhV1ZuQjJTNXc0WGtGTmVZUDFNQzZMclFCYm96X3hpUGlvMy1pRUpsc2VsbHg1eXdXa2JBZV85VWPSAWBBVV95cUxNVDU0a1hFSlczZzJjNkxfY2VWRlY3TGJ2UDJzQjIyMGJXd3J6djFlUmdVaDBKUUtjeEIzUFRva2l4cUFvMGNETnp0VWcySEF6Nl82bjd2eExtRkNFTEg2UW0?oc=5",
+          "time": "11/08 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "지난주 상장사 3개중 1개는 연중 최저가…급락장에 줄줄이 추락",
+          "src": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01NnE3bGtDcENJSlVHd0o3RlIzQjZxNENhOGJ2N1ZfYWNURmJ6QWNRVjFfWkFGTEJwZnBOclMyV0R1dFE4bVJsaUw2cUFkd0luMy13UFZPNlFUcUVoZWVWVzNncmRXRzA?oc=5",
+          "time": "11/08 09:44"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“주식 판 돈, 2028년부터 다음날 찾는다는데”…개미들 주의할 ‘이것’",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TOHBfWnZMVTkzMFhwWFB0SkpFQlFldzU1SlVVaXRPVG5CZHpKOF9wZ1pFajhHcnhJbjU3T3NoNjFWaEZYY1ExbU9sVVFfNG1oa2c?oc=5",
+          "time": "11/08 06:13"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,10 +38,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“코스피 상승 추세 꺾여… 요즘처럼 어려운 장에서는 나라면 주식 안 사”",
-          "src": "주간동아",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFbUtuVW9heDdrdE9OdEt0bXBqVnUzanNlaFd4ME1yTVB5Z2dEeFpGSXpENWhhVEE2NTBNY2RwakV3YmVkT3hSZTNNVGYtYXVPcG5CM3hrSDd2TEVVVGlXbThPRnNEVnF4?oc=5",
-          "time": "11/07 19:08"
+          "t": "국내 증시 패닉, 주식 720개 연중 최저가 기록... 매수 기회일까?",
+          "src": "공감신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoZXdjVFJ4RkFFUERVMFJJVjF2Z25pd05OcG15MWRnRWN5Y2UxZDhZczF4NGVFT3dxZWFidzRsSEozNUYweWFUQVRtOGhHdU5pUEpxUmNyamE0MlFwVnZYdEQyd1NVdV84?oc=5",
+          "time": "11/08 07:30"
         },
         {
           "cat": "macro",
@@ -26,30 +50,6 @@
           "src": "데일리25",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZTdvRDJUR21lLWh1NUt3MUJkM0hFRTR2T3F5UTFISFY3OVYyMEYtU1J6NUpNZFQ2TTJBZFhiYUFFSU14X3R6UkRVVnFCSUFvRmhjOEFUVEhha3o2U3J0aklqa3lUOVFUTUIwVg?oc=5",
           "time": "11/08 01:49"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“1년간 증시 조정” 5천피 꺾이자 재조명된 경고",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56S0tZTXB0VnVISExaaF9oMDlQRFU5QWZiVHJCM1ktNmhlYnJIbUFEaEJUb2Z5UlJQaE9rYzAxSVVMdW5xak1Ockg2b0RIMUhH?oc=5",
-          "time": "11/07 19:59"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"한국 주식 안 삽니다\"...코스피 '대탈출'",
-          "src": "한경매거진",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rNE1VYWh4VnNSS0hSVWM0TVNkUjJLYXRrNjRINkpITFNHU0c3ajY3MHNvZ0pIOTJhNEFkYXgwNm1PN1NQN25oc3FhNXhNOVlIQTJ6VU56anlJOUpScnU0bmVScXZxMjZQeTdRTw?oc=5",
-          "time": "11/07 09:21"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"개미는 쉬지않아\"... 코스피 폭락에 2조원 쓸어담았는데, SOXL도 '와르르'",
-          "src": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QNEhPamQwUEhIY0IxMkEwd2NIYTU1Sk9FOU5PTm1fVFYtZTV5NTN0VS1mVUIweV9vT0ZiUkJDaWxYMGM0V294ZUdOZEV6cURTR2ZzcDdqVVQ4QQ?oc=5",
-          "time": "11/07 18:00"
         }
       ],
       "indices": [
@@ -77,11 +77,11 @@
       "news": [
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjJsWU9HVVVVTlJNRjYxYkJ6UFBBdnQzNklIM0w5X1R0YUtlT2RSeG5XR2JqMkF6Q3J5NVVBMm5sSVd4TVRfRFpYNHBLVDdSRFlmRXZxTHpJbllDVHM2Vm9lMmVBNGVWSUFrc1c2NEMzc0tBV0p3Yk16R1IwUTdsa2ZzNkNvYXpnM250dGYzZVFsV0FZbXE5YTZwYnllR1hXZkl5a2w3YVFtMXdKSGZkZzdR?oc=5",
-          "time": "11/07 22:30"
+          "catn": "시황",
+          "t": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDhuREROVnFDbm1TeWMwbG8wT3V2SVNCcU5MZEFNZ3BKWTFZcUt4ei1kcXFSa0tUc3psNExPTzRISEFzXy00NlRWeUo1ZzNyYXF0V0JPSGk1cGhXY2wxMGhEaE5RQy1YZkQ5T29YSWhSZjVXUjZmZlF2bF9JaVFkamlibmQ?oc=5",
+          "time": "11/08 10:04"
         },
         {
           "cat": "macro",
@@ -92,12 +92,20 @@
           "time": "11/07 15:01"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street May Have Lost $2.5 Trillion, but This 30% Warning Could Be an Even Bigger Problem for AI Stocks",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGo1RE1JUUxacXdFR0xhRjE5ZzVWRWJHSEI5WnpqQWVQaGdSNmtkMUx3WGdqZVBkOHNmM0NJb0paUmR3TkZSSHRyZmxYVEZiam9NNWRWdllEY1ZFOHpCLS1iOVdTRC1FamVINkVTbjRXYnZlVzI5WHUyUjY4QUI1a0dfaGF6YndJc0dGb3hiUQ?oc=5",
-          "time": "11/08 00:34"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street Strategists Call Stock Rout a Fresh Reason to Buy",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjJsWU9HVVVVTlJNRjYxYkJ6UFBBdnQzNklIM0w5X1R0YUtlT2RSeG5XR2JqMkF6Q3J5NVVBMm5sSVd4TVRfRFpYNHBLVDdSRFlmRXZxTHpJbllDVHM2Vm9lMmVBNGVWSUFrc1c2NEMzc0tBV0p3Yk16R1IwUTdsa2ZzNkNvYXpnM250dGYzZVFsV0FZbXE5YTZwYnllR1hXZkl5a2w3YVFtMXdKSGZkZzdR?oc=5",
+          "time": "11/07 22:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Warren Buffett and Greg Abel Just Sent Shockwaves Through Wall Street With This $377 Billion Warning",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDJUeGR3dEw0Z2lqQ2VIaXN2UG9rZjdWbjdub3Nqa1NHei1qWU5ZWC1zUkRQTFQwSncwZEMzTlZjcVFxRjZ0ZGg0TEozRS1YVDVULTN6Zmo5S0dIQW1YNGtzN0ZPX1ZyeGhhamlRWFlqczJGWmFSZVgzQU5EUkFGbElFMVZIbzBVUXV2RlF3N0t6c0paeWJ5UlROSGJsTUY0Q1QzUUFBb3AyT2I3djRnazdqZ0VOV2dPTGVfbmo0RDBxTVFxb2FneVFZUDROUQ?oc=5",
+          "time": "11/08 09:23"
         },
         {
           "cat": "macro",
@@ -110,18 +118,10 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Berkshire shares surge as Wall Street swoons amid AI fears",
-          "src": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXgyQmpJT1lzSWhTZ01uZWJoRngzWm44N2hQT2lRcUNLWVZONlZQa3lHOTN0VE1zNEZvSjNzUEk4aThrNk1DbTZpazdtTm43TmJUYWNwYWlnTDJocHM3T3BybUpWSlM1ZElKTExkRTBoQy1NVy1zZDRCWHNPZDJFcXJReDR2OF81MkxPS282anN1UzRlUzNBb0tWTQ?oc=5",
-          "time": "11/07 21:49"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The Stock Market Is Doing Something for Only the 5th Time in 30 Years, and History Is Crystal Clear on What Comes Next for Stocks",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVEpQemJUQ3Z1TU9hb3BFdlVYMDZjZUd2SWpvMzRXc2lCZkJtM1BYQXpaSGk4VXNVQm1fbEpJS1lNQUtjQjZBeU1JOUxfekVCbUlyS254Z0lNLWRuSElCeW44VURid1h3YzBnTm9qVHBEcHZ1SHJYUHdJcGNmd1BZWFFkZWRNaFJmamNtUk00aUlRN0h1bGtjLXc5QXZrbEgxNGxHWkVldF9vMzNmVjl0WWFIWE5ZQUZxOWVNNk5WMHV5QWlxZXoxYTZ3a09fZFcx?oc=5",
-          "time": "11/07 23:06"
+          "t": "Wall Street cheered the elections at first but then investors did the math on AI. See link below ⬇️ 📸 Jeenah Moon, REUTERS",
+          "src": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWdqeWd4X08zQThocEI4NjhFLWoteDhpM1JMcVJHeHUyUmNVYmVCaUE5T0lERDNzUVpITEd6VjAxcE14NXRHNFVZb2hHRVJ3c2lvWWFGSGFXbVgtN04zMnRPQnpxWVo2M094Um5YWTR5MDlJNDFKQllMYXY5Y0V5NkhUVGxVNVZ4RklMM09ybjkyaTJfV3NBMS1BUkVUV2o0bC1iMEx1M2twQWU1THBBemRLaEJSQ19tMnRQOTE2NkF1ZU1JeG9JQU1YYTJWX1gyVmxfbHVEWDRrc1NNek9j?oc=5",
+          "time": "11/08 00:30"
         }
       ],
       "indices": [
