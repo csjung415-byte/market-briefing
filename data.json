@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-08T17:59:28Z",
+  "updated": "2026-11-09T01:29:39Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외인 조단위 순매도 속 코스피 급락…증권가 주목 업종은",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코로나 때보다 더 빠진 코스피…\"하방경직성 강화\"",
           "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DWlJYWXVtQ2h6RTc5T0RvallKU1ZEcnRSbFk1S3NLa1pKMzVKMXZWa1U3Xzl3eC05Mzl1aF93NlVHb0ZkLXhIT1RUaHVrVGQtUGthaG1nUzNzVVBKLWx0b0JQTUFyal9rSm1JaGNKNlU?oc=5",
-          "time": "11/08 15:52"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 한 주 새 11.7% 급락…외국인 10조 매도에 증시 '휘청'",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBucXBUWlhyQzJ1OHdTMGNTcWM2a0dQVjRnLTVJbGZsZ09IcURlM29LLWlWZkIwSlJSYVktcHduVnIyQnRRX0I0WXJ2YzNUaWx4aVBJVmNpeFV6V0RNc004cTFqSGFBbktvQ1F2VlUzeVPSAXRBVV95cUxNNkNxRHM0UGNmN2l4QzVWUExUcWhhOFh0UkRrU1pzdklmUG9WSU1sOXNZUk80U1d0bXFjdDZIeGxBaEJWWnIzbDVjejlmLTVmMmtBUzAyMDFWcWhkZTJZdHl5aGx6cWdpZUxqbHlNZ3YtNEFPUA?oc=5",
-          "time": "11/08 10:59"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92dFVWZGpzaEJsOEJack1Mcl9DY2lwQVptQUR2RkVZTGVhSS1oVFh1LVBoOEJkd2lZN2ZFRklPeTk3aG13UU5jUWJJNjJBQjdUZ2NqQ2I2b3kxTVpIMGc5VWpUUml0Wkd5UnpLSFNNblI?oc=5",
+          "time": "11/09 08:27"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "’블루 쓰나미’에 휘청했던 코스피, 美증시 반등에 회복할까",
-          "src": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tY25NbGg4Vlp1Q2pYVFNqUVA0QWhZNDl6U21sbWt4dElZTEswdjJIZ0pxRlpON2l4X3dneW5sQUpOOHBtdlVXa2tXaXBkWWU0QW9Ia0pIOXRNbk43ZkFqVGhDT2tVUnM?oc=5",
-          "time": "11/08 10:08"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외국인, 주식 팔고 선물 샀다…개인이 주목할 증시의 이면",
-          "src": "ESG경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Pel9wbjA2d295eXRRSXp2em96ZElIeWpyazM3eHZUVnFfWXpfLTI0WkJQY2RzV0xpRUVGZ0R5N0kzRTNBc1VxbTloQ1dLSHlvUnM4RGdBSHhVd2ZQcGhpV05nSEIyenZkMjBtTg?oc=5",
-          "time": "11/08 18:44"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "'블루 쓰나미'에 휘청 코스피, 美증시 반등에 충격 벗어날까",
+          "t": "SK증권 \"코스피, 이미 극악 상황…작은 촉매제에 전방위적 회복\"",
           "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwN3dPNUlneHp3eXZwUmFFbVlsSG5jTVlSZDNhV1ZuQjJTNXc0WGtGTmVZUDFNQzZMclFCYm96X3hpUGlvMy1pRUpsc2VsbHg1eXdXa2JBZV85VWPSAWBBVV95cUxNVDU0a1hFSlczZzJjNkxfY2VWRlY3TGJ2UDJzQjIyMGJXd3J6djFlUmdVaDBKUUtjeEIzUFRva2l4cUFvMGNETnp0VWcySEF6Nl82bjd2eExtRkNFTEg2UW0?oc=5",
-          "time": "11/08 06:00"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tb2tMLVBiRVdCbG5oLURTY3ZjNFRmWEFjQXQ0SHdDRzg2ZUg4MU44cVRvS1lKMTFCUmhFTnVLeGtTQ2w3NHpNQW1lbmlxR19uUFI2UFpBbV93YW5sM21DU9IBYEFVX3lxTE5tb2tMLVBiRVdCbG5oLURTY3ZjNFRmWEFjQXQ0SHdDRzg2ZUg4MU44cVRvS1lKMTFCUmhFTnVLeGtTQ2w3NHpNQW1lbmlxR19uUFI2UFpBbV93YW5sM21DUw?oc=5",
+          "time": "11/09 08:45"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 급락에…오세훈 “李, 지선용 주식 도박 사과하라”",
-          "src": "중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yb1dCRXhlTEJwVTRBcTlxdFFUQVo1dVVBemFmb2ZXY0N5Tjd3TjNoQWExMHp5V0NFdkFtVGZ5eHBva2NvSG9vM0hzalg3V1hObF9vVFl3?oc=5",
-          "time": "11/08 14:46"
+          "t": "“코스피, 작은 호재에도 반등 가능”…SK증권이 꼽은 회복 조건",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UX1dlVmpFS0dvdHNueWNFdnRYMXZWUTZpZXlfaDlDZ3RsQzgwbDR1ZUluWUhkeUNzVDByajRyaTRnbFg5bkNvdTA4c0NmQ3VKMkE?oc=5",
+          "time": "11/09 09:18"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 속 경고 재조명",
+          "src": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wc1BHT1hMRm5qYWMzLUthRlQ2aEdfWkxmalVDVlJtNkZ0RU9sZk5zeHVLNWJVX3JyNmNQWWI1NkdJRHNXdTZ3NkZPdzZSbEE2YXEzS2NLRDI1anQ4dmxkLQ?oc=5",
+          "time": "11/09 08:41"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "[개장시황] 美 반도체주 반등에도 코스피·코스닥 하락 출발",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUzROV2g0ZU5BdHBTNDM0TXRnb2dhREFOempuaV9WWE1TSGpTNmlqZlpaMHZ2cHlOcVl5Yk1JYTRkd1B4UnJmakdXc1QxWmllcHBsUGg1RGRXcUND?oc=5",
+          "time": "11/09 09:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"주식시장 망가지는 건 정부 탓\"…부메랑 된 李 과거 발언",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxYW1Jd0Iza25LMDZsck5pY29OSkJsRlRkYVV4T0docjR1eUVHT0xfSzNQNEJuOFhSRnRfUy1uZFJSZ0lIbjRSNFNFYmhRRmIwWUxYeHR2RFZpUQ?oc=5",
+          "time": "11/09 10:04"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5059.69,
-          "pct": -6.02
+          "value": 5101.39,
+          "pct": 0.82
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 644.27,
-          "pct": -5.03
+          "value": 641.11,
+          "pct": -0.49
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1363.65,
-          "pct": 0.54
+          "value": 1360.18,
+          "pct": 0.28
         }
       ]
     },
@@ -79,17 +79,33 @@
           "cat": "macro",
           "catn": "시황",
           "t": "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDkzOW5CLVFmdlhBYm5MZnh4ZWpzd0RoaWEtUXRNekdlVUdIUVVNbElQQW5ZQkdHVm9LYmREY2xJQU9pWEh4a3MtWXV2ZXRFS0lhZUNqRmNnZTA1NEdYcUtnZk02bVc5OVUtTzN3LW5mWTd5TmktamgzdnJrRTJqNXdPanQyWTBScGpQTVBuakRPNkhrVGZMbk1FanV0Rk5zdGhpbWVQNWF1eGlNTUlWM2tBcUdtUlBfMjJjTw?oc=5",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE5yY2lrUXdGQlBrSzU3d2tOWWp3eVpsbDctY0l1QmFocEN4ZEcwOTVlUHpTLUZmMkpfOGVucXptMENpbENGTFNHWE43MTFzN1hzOGx5X09WczRvRWJDblRRdUFsUmtNSGJ2c21qMUItNVF3WXdyUGt0WWs3TGhISWhqNzJGTXFMTlJnWnBLcGF6bWhoQi1Xbw?oc=5",
           "time": "11/09 01:47"
         },
         {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall St futures mixed amid AI spending concerns; inflation data awaited",
+          "src": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUm1RZWNobzNpNVlVbEw2X210Y29vb3prRHFDQjYwelpJVHA5NXk0cXg0UWxRWEdLbkIyYmJnN2hMVkVDYUpCOUQ0c2lEU1VPeVpLVm9lNU1xYlFWVlNvWnF5ZGNjLTg5X1BuQ1RSSFpEZmRFNHlGazJORnI3RkhOc0JLX3Y3Unk1NjZCLUNjNFhTM04taVd1Y1ZlTWZjaFZ2WDRXSGN0S3AyRFRQdnBEQVBhSjZZQW5KMnRoeGZtTDNQSXVEdmc?oc=5",
+          "time": "11/09 09:54"
+        },
+        {
           "cat": "earn",
-          "catn": "실적",
-          "t": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXREaE9NclBnT3M4UTBmZXRLdlJHc3k2eVRaRVNfeDFuRWpwc2xtanJtRlcyVUlBMjF6My15bk9pU3NjSUVHREZhTzJtQ1FERkZhVjd4dUtFc3IxbHlodFBOb3h4d0tOTUZCaTJhbU1hQnpfbmVVLXphNGVCa1JhNWNVU3FmM1d3Y1ZPQXY5eGJCTlVyNlM5QWh5OTBPUnlQbG9xNkVOU1QwMEFEYnNSMkx3dzZjQzQ1V19KczFHazBWYzFG?oc=5",
-          "time": "11/09 00:00"
+          "catn": "빅테크",
+          "t": "A Popular New Bet Hailing From Cryptoland Sets Off a Wall Street Turf War",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnd3TzZDN1pPNVZHQzNVa044OG9iaHVuSWRwRTZhWTlYSG9qVXVCU09jYkFOXzVWcFhyOHVKOXBjTUNlM1JzTGhqT2J2QzZtNTczSjU2QlFiVkJYYV8tOXBOUFdQanRhQnhJX3BuXy0wU0llcXM5ZHJlOUktUXZ6MXdhZU8yenlDdzdtNWl3ZWZTOV9DM1F3Z0RZOEFTTWlnZnNwWFpRVWh3ekZDSWU5Rmx6OV9NMC00WWExbW1R?oc=5",
+          "time": "11/09 05:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "The market bloodbath just exposed Wall Street's true fears about U.S. debt, top economist warns",
+          "src": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVFRa2tNVUgxVHFMRy1ub243MW1jM01PaVBiSlg2dll1bFdWUGpGaVhHSHhkSGxRWTBYQ0RDWGY5bmk3Y1RwTmRveFp1NlFTMXRSNllkT2hZUVdHMnp2NmxoZ2kyMUwzU1RIMnJnTjZCMzFsQVUzOXJ1amkzRVVVRmc4ZllBX2paalB5TzIySHRNSUk2MkM1MXVsZF9uZw?oc=5",
+          "time": "11/09 05:46"
         },
         {
           "cat": "earn",
@@ -102,26 +118,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
-          "src": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazZkel9TVC1yS29uNHFEYjBIVU9BaWYwM0RDRmcyLU9SS1BwZHhpQm10c2RBLUJQSkFGc1J5ajg1QzZtZXVuZnVjdThZdmxMY0daTDJ6MmZzSnBveXJTYXZqNEExMkRROGdmdDJIeEpiV2U5MFNDTTQ2QWZZdkRwRkYxWDdmcy1QOE5nRVFOWDZES3BrOC1OUWd3bW5xZm9MV3c?oc=5",
-          "time": "11/08 20:47"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "China AI bust threatens Xi’s ’Wall Street East’ ambitions",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGI4YzdrX1lkSDRSVGM2QmxnalBseFktbF9SRnRKeTBMTUM5UldodzBZM2hYalZ4M1U3dGtHMDRlR2Q5WEFjTlpSZVpSTFlYQm5qSkJuRGRvNTFLNUs2cFFyQnhZejZid0dKNlA4WHl5NmI2ZERPUkJoWmRjLWpMbnVfbHBNS1hJSzJialA5dXYwajUyRFlxV2lUWHVxNUlCZ1NhSWxJRlQ0SXk5ckwxaQ?oc=5",
-          "time": "11/09 01:49"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "8 Wall Street insights after the midterm elections 🇺🇸",
-          "src": "TKer by Sam Ro",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80LWpVT25aN2ZGYWQzTTlrTnVWTE1JcS16WVc5MlZ1UDdqdmlseHd1VFNHaWRFRVRLTjA4MmhQUkk0RS01Yk1WZ2JiQzFNZlJ2WWlsTHptWGoyci10eUxJdmNHNk1QNVpKYU9WaHlHQk5ycXM?oc=5",
-          "time": "11/08 23:08"
+          "t": "US Stock Market prediction: S&P 500, Nasdaq, Dow Jones look to start in positive, check factors that will",
+          "src": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQYnZtSVZVTEQzMFRwQVIwTFB3eEZ5a1BSZkdycXlSVnlJVUV0TnNCU09nZkg1Z1d2d0pONUs3MHZRbFpvQ1VjS1NpOWZXVWRHd2FEWTlDcmR6eUJ0cHMwbC1WN2wxNERNNk1VeTVTclJOejhmRUJqVnhDb2VOWkVvR0dBQVVjd0dSMTN2MVFsSW9tV29DUWpEZXVPdmRxb3p3dm5xcVJ3R3NjZF9XWVFwSEZ4bHIyaU11Z0tzTDBZUnlteDdwaF92akJxTm9nWThSUkZ4VVhEWUxheENQVmQxMUphcVpDaENCdzhiQk5CY0xUVkwwbUVfaXJYZWJlemI2NmZxWG9uVlJOYlRObHJjZVBYV0RRUG5ITmsyekZmMNIBpAJBVV95cUxQMWMxdGEzUDFoY3lXeFNyTGFVSmpXSHRRc1Z5bl94emhMYVRIT2tITVl6M2ZFcF81NkVuWUw1cnhGdElyMjI1ODY5ZEVWTGJ1UnM0RWlLQm15VURRdEotQXVob1E3ZU41d0F5YlFfNG5FVkItSHBQX1ZDdER3eE50b3FSOGFTNFl2WVBRVmx1MkY4ZTFPZ3B0bW5ETkZzMUV5TEJNQ24xVUhBUkFQbkNJOUdXUXpGdnlxM1JoaUMwc01zWFhiekhzMDlQZTMwX3ZkRC1kZGwyX253cTNZYTNjN2RPQlVSczhKVE93UTFYRExuWVN0S3NfUm5KalZpUk84WDluc1dZbmI4bWV0Uy1UODhDN1I0Yk1tLXFmbXBQdzk0NG8y?oc=5",
+          "time": "11/09 07:49"
         }
       ],
       "indices": [
