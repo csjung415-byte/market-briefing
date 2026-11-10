@@ -1,15 +1,47 @@
 {
-  "updated": "2026-11-10T03:58:34Z",
+  "updated": "2026-11-10T19:54:02Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등",
+          "t": "[이상헌의 밸류체인지]리스크 이미 반영된 한국 증시, 조만간 바닥 확인 가능",
+          "src": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HQ3BLZmRtOFpadkUtUTJVUTlidHZHLUFzVDFPQ0xPUWhJUzl6NTFzc00wVG9rZ3hMRWNobjMxX3ZEd0Z5SDN3SlA1OHRhS1pEODZrSFhXRjNfSFVWXzhF0gFfQVVfeXFMTkdDcEtmZG04Wlp2RS1RMlVROWJ0dkctQXNUMU9DTE9RaElTOXo1MXNzTTBUb2tneExFY2huMzFfdkR3RnlIM3dKUDU4dGFLWkQ4NmtIWFdGM19IVVZfOEU?oc=5",
+          "time": "11/10 20:26"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "\"코스피 변동성, 韓 고유 요인이 작용한 것…반도체 집중 구조\"(종합)",
           "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XRllSa1I3ZVJUN3d6S1FmSHpnaWpkcUtYRFUybG9OblBmZDdIWnotQ3BoSHpnX3l0LWNBNk1JblJ5ZVRDWFpUNXFWcXJjdmRuZEEyVDAxcjVqUnNiQjlDVNIBYEFVX3lxTE1XRllSa1I3ZVJUN3d6S1FmSHpnaWpkcUtYRFUybG9OblBmZDdIWnotQ3BoSHpnX3l0LWNBNk1JblJ5ZVRDWFpUNXFWcXJjdmRuZEEyVDAxcjVqUnNiQjlDVA?oc=5",
-          "time": "11/10 10:47"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FWjdNYWFtS2VCa1lOZHA3dzNGTFlueHpqb05mYV9KbHR6SUd3cG5jc2o3ZUZtSGh3a1dJOGctMUw1NGZEQzNQVkRab19PLWg5SWZtLWpuLTg2cmvSAWBBVV95cUxPb01pZ2xrSGR0RkI5NGQzQ1YzX1hMLWxTaVJNd00zaWNmUC1TalRVMFJpVkllcG5hWEF1OTFBb0hGZmdIWlRoNm52VjlONjl1eVd6RU5oZkxKSERBWWJSS28?oc=5",
+          "time": "11/10 17:28"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"주식 계좌 열기도 무서운데\"…전문가들이 꺼낸 뜻밖의 조언",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wclVpRmxIY1RLWTg1bGJDMDdlb3lqWlNHTVBEMWdRaEFLOTBIb1QzU2gxWHBmRlVoRVFBSm52RXBIXzlrMTFHaHpXaGF1dUdYdHJIeGwzcWhmQQ?oc=5",
+          "time": "11/10 16:12"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHWUlFVXpuNVRUOW1wOU1vOUNDck0wMGVvS19Na1BvREhwTzhsaVZrOXhlNnFyNWVGOUtxNF9kUU9lc0tOQ1N4ajdjZ3lBakZGR1E?oc=5",
+          "time": "11/10 15:48"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "`증시 급락`에 강제처분 주식 300억원대로 뛰어…전장 5배 넘어",
+          "src": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sMzAyZkNUQnpxR09Jc2kwVGJtbWZzSVE4Q2VLQ09CRXFhd0J4SU5Hb0hyaC0yZU9uX01BRkVvSG5TcVdJTnlNNnhOOG83cks1RE9aQWVKWG9UYUhKSnlIMGdR?oc=5",
+          "time": "11/10 20:25"
         },
         {
           "cat": "macro",
@@ -18,58 +50,26 @@
           "src": "문화일보",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTTBKaEkzQmFFT2tpbF9DWFc4ZVVOcTNEdDNOWlhPR0RUWUFPX0cxblBLemhJbndiRUZvRzJBZTNmNHNpczVPaHIwSVFfMFM2?oc=5",
           "time": "11/10 12:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피·코스닥 5%대 동반 급등…매수 사이드카 잇따라 발동",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96RnpNc0N1UkVNQjFIMFZnYlBtRWVVaG9vdEN3SGt4REVUTTl0UHp6R0RuVlhORmxSNXFRXzIzSzIxZmdGV2Fsck1SVGx4clVaNzdaMHdQZG0zSFRQNVgtRmVtZkJ3VzB2TEZfQU10elTSAXRBVV95cUxPc1JTX1BCQ2JBZ3BYVS1ONV9ISUx6NUtMQldieTFpNk9CbHRnMzRHb2ZfRmM1YUpkbjg0ZzJKRGJYaGlCelR5amlpTWxwUzNxcEhvcmdjZnZHYS1va1h1ZnVhRVlOLWh3ZkJ0c0k1eE56ejM2WQ?oc=5",
-          "time": "11/10 09:24"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "美증시 훈풍에 코스피·코스닥 '들썩'…장초반 매수 사이드카 - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtMGZTU0N3dzJmUzljUFc1eVV0MnVxeVR6MDd5aGhmU3pkaEZRUzYtTGV6NWlMZlc1cGFzUEM1dXV6QURaTVNMOUtoajRvNi1tcFR1OUJrMnN5ajMzTDhZZ2tWNnFOUTZTSHF1cHNB0gFuQVVfeXFMUG0wZlNTQ3d3MmZTOWNQVzV5VXQydXF5VHowN3loaGZTemRoRlFTNi1MZXo1aUxmVzVwYXNQQzV1dXpBRFpNU0w5S2hqNG82LW1wVHU5Qmsyc3lqMzNMOFlna1Y2cU5RNlNIcXVwc0E?oc=5",
-          "time": "11/10 09:25"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "KB증권, 코스피 1만2,000도 간다더니…목표치 하단 5,000선까지 하향",
-          "src": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13Nk02NFdkZXZJWHp5eHBtQjRvZjRZR3BpRm1sVm5TN0VRMWE4aDRfc2lEWGFmcWFEUW5ROGI0MEVNUHVhamY0NFJoVDg2RXBVYUJPOVRLZXRabmJHOWtiSTVqTFNNYTg?oc=5",
-          "time": "11/10 08:48"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[개장시황] 뉴욕발 훈풍에 국내 증시 급등…양 시장 매수 사이드카",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WbjBZMkJvRmhWWjlXMDdLVU9rdllXOG1zeU0tVXM3ams3aTF4NW4zWXRCZ2xXNnVnWHhxVFVWNDgtdUNoR3lybjdHbXo0eFR6dngxaDZ6TE41dlFS?oc=5",
-          "time": "11/10 09:34"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5203.4,
-          "pct": 3.68
+          "value": 5018.85,
+          "pct": -0.81
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 659.08,
-          "pct": 3.15
+          "value": 638.97,
+          "pct": -0.82
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1344.55,
-          "pct": -1.33
+          "value": 1341.98,
+          "pct": -1.52
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street forecasters say the worst of the stock sell-off is over and a new rally is about to kick off",
-          "src": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjlBZzZKR1FlbzhBMDNTSkJsTkpMOWhqVEp4eUNyRWh0NkJHbERMVndPanMySlFCRjljZE1uTnJEUEtFYXZSekp3VkVkN1hnaF9DX2JBNERSMFViUElDLWNKcjZSaThVYUdnSWJrdzVLZGE0QUVOOUI0UlNtOWtNaExibTFTWW4xQ243RlBnSlItVUtPYlBISA?oc=5",
-          "time": "11/10 06:03"
+          "t": "Opinion | Wall Street is becoming the world’s stock market",
+          "src": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanBuN0lUX2VwNHZKbGNzNml5LWY4TllER2ZNVGFERDBhNVZHS2tIRzJfaGpsSlRncFl5WEFQMERwd3d3c005YUx1NEVocExLWjFHMFcwY1JfUjFPV0dYQUtxUWhoX2NybklLbmJ5VTBhYlNyd1ZaSTEwWU5iRXlYVml0QlhDWktOQzBtUUpVaW5HQmVmWWNWWGtn?oc=5",
+          "time": "11/11 04:49"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Tech leads Asian stock rally as traders track Wall St rebound",
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street's $1.6 trillion rebound may look like a bottom — history says it often isn't: Chart of the Day",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHQzR1JILVZHZXNNRC1QR2R1WElYblktRTdEUGd0OUdaakVEU1hCWU9nbWlmMFUzNnU2bGRYZ0JueTZLbXQzNEFUc19tV1hqVkJGOXBPWWRXaGVwa3ZVczhpcXlXRlZDOE9JcEZ0YUkxOUEzbXhIMnotcm1Qc0FaUXpRd2pmZVY5ZW9wZk9KNUJUZ1hyRmx5RVRLOXhBekt1YkE?oc=5",
-          "time": "11/10 11:39"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
-          "src": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVg1UGUxM3Ffb19ScHhmZmxtNkIwTHNYVWFOcm9yZHVxUzR6M3ZWdngzaUlLSU9uVzM1cGw2dXpNZHlHZzhWQWljMTRFbV9xejFaTjUtbFdYdGFwdml0aEwwZzdreXhaX1Fkb05FcDBxaTFuWVlTQ1ZUUnR0UmVXOTdKbXpkaERPdnp3aktnTVMtbG9iTm1TWmZYbDBhclZYdEE?oc=5",
-          "time": "11/10 08:00"
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZld1WXR0MjJLMThOQ3VZZ21tcnplQ0FqWDZXbnhHU0hObjI4OUEybksxODdwdjZyMXdZV25sMFJwRUlKLXJjSlVYWERzbUhDZEFIcnZuWDBKMUFEamcwckVLOHpBVVJBZ2lvdzN4VTNhd3ZsSnh3WHdLd1BWeVBPcklvUTNEcXgxUWxYSkRwaEJncG9SNGJTaDRtWElpNkRuNHNmaEd1NktzTlY1RVlnVVEzczBGWXZ3RkFlZkxtTzZNRGlFckxxSUhDNmxqNE9TbzZuN1h3N1F6TWtoVFdLd0o4OUFmWUhEU0Nkajhn?oc=5",
+          "time": "11/10 23:44"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Wall St jumps as oil slide cools inflation worries; Nvidia slumps",
+          "t": "Wall St falls as hot inflation data fuels rate-hike jitters",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5",
-          "time": "11/09 19:35"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
+          "time": "11/11 02:20"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Stock Market Just Had Its Best Day Since April. Here's What History Says a 62-Year-Old Retiree With $1,300,000 in Cash Should Do Now",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUFY4YmFIYk9sVjUtYXlDOFFyXzhubE5TSXQ2cUx0WWI0WVdFUDVDSWtPSXB3dFJsSkl0LU03QTBlQ29CcVJKTnVHdHJySS00X3owTG5sSTUyYk9jOU96Q0ZVNThNU2U0MUdaV3VmQ2ZhNzA2Rl9LaHB0WUNJc2RrYnlhRFUwRkxfTUFmVzYwRDdkR2JqeTY2YlNFSFotQTltdWNSWWdvSjI0RDdmTWk5RkJiQ1Q4TVdicVRWSWZNeVowM0l5RWtiVTlCNzJiYk9IWElQcXpUdzRfZmc1SkdzMGEtdndkeHlJdjR6VmZyYXlsaVlmVmNVdUltVGczMlNTbURGY1JB?oc=5",
-          "time": "11/10 12:32"
+          "t": "Wall Street Bonuses Projected to Climb Before Prospects Weaken",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGQxbXkxc1NibHAxMFlkcFVKWklmV25jYmhENXJETzFLNmpGWFhhTmZhWTB2SWx2VndjWWNGVHMyYVRJRG9TMmE1ZE5YMmtOTldNUnJQM3NuT2t4UmRVQUd4cWR6ZXB6LW1sUjQ4NFZCN0lOMTAzLWpEYmZLSmpYZFNITDFMRFl0RFh1cWNBSGNVQnVhUmJnRlVRUGNjeXhTS3ZZYVJ3bERUd2xFYUlRMnFJWQ?oc=5",
+          "time": "11/11 01:17"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "US stocks rally and recover most of last week’s losses as oil prices swing lower",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjdpMlgzTnVJbUkwOFpXUWtRQnJUd29DZndWUk1vZXNLUEhNcVg3TUU5TFBncjY2djNYbHV4dlB4aUxxdFlsMW1NLUU5VWN3dGZHOFg4aGxETUl0NGx5ZWp2X3NXOG54WmlTSUl0UHpDdGlQeDRWanlkejRweTlqYV9WRk1WbVl4dkh4bU9CaWE?oc=5",
-          "time": "11/10 06:51"
+          "t": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+          "src": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWZNcUt6ZldxUnNyTXZySGZacWZueTYtS0JOUVZ2S3JUWENYcThEMm9CSnVXX25QTGJYZGc3UVhKNXloQ0pPdUJpbkxZQ3Q1NEdSMzJEWjB5M3UwVDJ5UjhxdllTMEhjQm41UDg1QndqbE5KWkNBZ3RoMlhHSjM5SDkyN2tmQjZjcEpyNGMxVjF1MV9vRmpJb3d4X1NibmRYd3V5TUNxMGtacGJjXzNqRURn?oc=5",
+          "time": "11/11 04:02"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall Street Pay Set to Climb After Volatile Markets and IPOs Fuel Bank Profits",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDNkd21wam9KaXJSN3p1Yjg3cUg2YkFXTzVwQ0RBWUVfMjV5eldkY3RrM2tJYTRrNkk3N19yQzlZTk1nSlZMSWREVWJIdW00dzQ3bHVueFViYnhGald3eDJTMC14V19xY2ZOd1JGSGRKclNST0tWdEJmanF4QlhBaEEwdEhkRTRWcDFmVHV3V0pWdXdsaVVfQ3ZHbmlVUVBMU0xaeUsxUjJucTROSUYtR0dfMWVMZw?oc=5",
+          "time": "11/10 20:00"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7549.94,
-          "pct": 2.35
+          "value": 7514.64,
+          "pct": -0.47
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25253.14,
-          "pct": 2.74
+          "value": 25013.19,
+          "pct": -0.95
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52389.75,
-          "pct": 2.15
+          "value": 52245.98,
+          "pct": -0.27
         }
       ]
     }
