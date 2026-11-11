@@ -1,147 +1,49 @@
 {
-  "updated": "2026-11-10T19:54:02Z",
+  "updated": "2026-11-11T01:44:14Z",
   "markets": {
     "kr": {
-      "news": [
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[이상헌의 밸류체인지]리스크 이미 반영된 한국 증시, 조만간 바닥 확인 가능",
-          "src": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HQ3BLZmRtOFpadkUtUTJVUTlidHZHLUFzVDFPQ0xPUWhJUzl6NTFzc00wVG9rZ3hMRWNobjMxX3ZEd0Z5SDN3SlA1OHRhS1pEODZrSFhXRjNfSFVWXzhF0gFfQVVfeXFMTkdDcEtmZG04Wlp2RS1RMlVROWJ0dkctQXNUMU9DTE9RaElTOXo1MXNzTTBUb2tneExFY2huMzFfdkR3RnlIM3dKUDU4dGFLWkQ4NmtIWFdGM19IVVZfOEU?oc=5",
-          "time": "11/10 20:26"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "\"코스피 변동성, 韓 고유 요인이 작용한 것…반도체 집중 구조\"(종합)",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FWjdNYWFtS2VCa1lOZHA3dzNGTFlueHpqb05mYV9KbHR6SUd3cG5jc2o3ZUZtSGh3a1dJOGctMUw1NGZEQzNQVkRab19PLWg5SWZtLWpuLTg2cmvSAWBBVV95cUxPb01pZ2xrSGR0RkI5NGQzQ1YzX1hMLWxTaVJNd00zaWNmUC1TalRVMFJpVkllcG5hWEF1OTFBb0hGZmdIWlRoNm52VjlONjl1eVd6RU5oZkxKSERBWWJSS28?oc=5",
-          "time": "11/10 17:28"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"주식 계좌 열기도 무서운데\"…전문가들이 꺼낸 뜻밖의 조언",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wclVpRmxIY1RLWTg1bGJDMDdlb3lqWlNHTVBEMWdRaEFLOTBIb1QzU2gxWHBmRlVoRVFBSm52RXBIXzlrMTFHaHpXaGF1dUdYdHJIeGwzcWhmQQ?oc=5",
-          "time": "11/10 16:12"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHWUlFVXpuNVRUOW1wOU1vOUNDck0wMGVvS19Na1BvREhwTzhsaVZrOXhlNnFyNWVGOUtxNF9kUU9lc0tOQ1N4ajdjZ3lBakZGR1E?oc=5",
-          "time": "11/10 15:48"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "`증시 급락`에 강제처분 주식 300억원대로 뛰어…전장 5배 넘어",
-          "src": "매일신문",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sMzAyZkNUQnpxR09Jc2kwVGJtbWZzSVE4Q2VLQ09CRXFhd0J4SU5Hb0hyaC0yZU9uX01BRkVvSG5TcVdJTnlNNnhOOG83cks1RE9aQWVKWG9UYUhKSnlIMGdR?oc=5",
-          "time": "11/10 20:25"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "오늘은 장초반 급등… 코스피·코스닥 ‘매수 사이드카’",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTTTBKaEkzQmFFT2tpbF9DWFc4ZVVOcTNEdDNOWlhPR0RUWUFPX0cxblBLemhJbndiRUZvRzJBZTNmNHNpczVPaHIwSVFfMFM2?oc=5",
-          "time": "11/10 12:00"
-        }
-      ],
+      "news": [],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5018.85,
-          "pct": -0.81
+          "value": 5272.66,
+          "pct": 0.64
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 638.97,
-          "pct": -0.82
+          "value": 693.94,
+          "pct": 8.6
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1341.98,
-          "pct": -1.52
+          "value": 1337.28,
+          "pct": -0.49
         }
       ]
     },
     "us": {
-      "news": [
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Opinion | Wall Street is becoming the world’s stock market",
-          "src": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanBuN0lUX2VwNHZKbGNzNml5LWY4TllER2ZNVGFERDBhNVZHS2tIRzJfaGpsSlRncFl5WEFQMERwd3d3c005YUx1NEVocExLWjFHMFcwY1JfUjFPV0dYQUtxUWhoX2NybklLbmJ5VTBhYlNyd1ZaSTEwWU5iRXlYVml0QlhDWktOQzBtUUpVaW5HQmVmWWNWWGtn?oc=5",
-          "time": "11/11 04:49"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street's $1.6 trillion rebound may look like a bottom — history says it often isn't: Chart of the Day",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZld1WXR0MjJLMThOQ3VZZ21tcnplQ0FqWDZXbnhHU0hObjI4OUEybksxODdwdjZyMXdZV25sMFJwRUlKLXJjSlVYWERzbUhDZEFIcnZuWDBKMUFEamcwckVLOHpBVVJBZ2lvdzN4VTNhd3ZsSnh3WHdLd1BWeVBPcklvUTNEcXgxUWxYSkRwaEJncG9SNGJTaDRtWElpNkRuNHNmaEd1NktzTlY1RVlnVVEzczBGWXZ3RkFlZkxtTzZNRGlFckxxSUhDNmxqNE9TbzZuN1h3N1F6TWtoVFdLd0o4OUFmWUhEU0Nkajhn?oc=5",
-          "time": "11/10 23:44"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall St falls as hot inflation data fuels rate-hike jitters",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSEE5eGJXT1lYRVFJMUpWb2VCTENjZ2hBNWk0QWl5QVZBNmJ4TFBodVUtRVRzV0JubVE0NFJYRFlmYkpuc0tlbTBValFhV0ppcGdYNEZERXV4ZnhLZUJKTF9fUzZEeHM3cDRwdmlMdUVIUWlERHprb3lKakQ1S1gzSmI5LVZYWWx2cTBjVC1sVEc1OG8tOS0ta0k5VQ?oc=5",
-          "time": "11/11 02:20"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Bonuses Projected to Climb Before Prospects Weaken",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGQxbXkxc1NibHAxMFlkcFVKWklmV25jYmhENXJETzFLNmpGWFhhTmZhWTB2SWx2VndjWWNGVHMyYVRJRG9TMmE1ZE5YMmtOTldNUnJQM3NuT2t4UmRVQUd4cWR6ZXB6LW1sUjQ4NFZCN0lOMTAzLWpEYmZLSmpYZFNITDFMRFl0RFh1cWNBSGNVQnVhUmJnRlVRUGNjeXhTS3ZZYVJ3bERUd2xFYUlRMnFJWQ?oc=5",
-          "time": "11/11 01:17"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-          "src": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWZNcUt6ZldxUnNyTXZySGZacWZueTYtS0JOUVZ2S3JUWENYcThEMm9CSnVXX25QTGJYZGc3UVhKNXloQ0pPdUJpbkxZQ3Q1NEdSMzJEWjB5M3UwVDJ5UjhxdllTMEhjQm41UDg1QndqbE5KWkNBZ3RoMlhHSjM5SDkyN2tmQjZjcEpyNGMxVjF1MV9vRmpJb3d4X1NibmRYd3V5TUNxMGtacGJjXzNqRURn?oc=5",
-          "time": "11/11 04:02"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street Pay Set to Climb After Volatile Markets and IPOs Fuel Bank Profits",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDNkd21wam9KaXJSN3p1Yjg3cUg2YkFXTzVwQ0RBWUVfMjV5eldkY3RrM2tJYTRrNkk3N19yQzlZTk1nSlZMSWREVWJIdW00dzQ3bHVueFViYnhGald3eDJTMC14V19xY2ZOd1JGSGRKclNST0tWdEJmanF4QlhBaEEwdEhkRTRWcDFmVHV3V0pWdXdsaVVfQ3ZHbmlVUVBMU0xaeUsxUjJucTROSUYtR0dfMWVMZw?oc=5",
-          "time": "11/10 20:00"
-        }
-      ],
+      "news": [],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7514.64,
-          "pct": -0.47
+          "value": 7520.93,
+          "pct": -0.38
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25013.19,
-          "pct": -0.95
+          "value": 25065.88,
+          "pct": -0.74
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52245.98,
-          "pct": -0.27
+          "value": 52231.89,
+          "pct": -0.3
         }
       ]
     }
