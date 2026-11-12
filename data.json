@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-11T19:45:27Z",
+  "updated": "2026-11-12T02:43:59Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 2% 올라 5,375 마감...삼전·닉스 상승세",
-          "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnOVJ3ZHVMd1FVZ3JxWVN4eUtrVkdpUEdVbl9TdUdiVkxlckxCSVp1bGt4RU0xVDhTaS14Mmw0bUxJUHU0VlZKdHFTVUhpU1RyQWlXSTg2MVpIcHdFWnc?oc=5",
-          "time": "11/11 16:40"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "코스피, 美 금리인상 우려에도 2.6% 급등…5,370선 돌파",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVngzd3I2NU1WcEFGVFJqVF9Kci15anFCNHNNRFRBMVh0MlhvMnhfZGdERnRZNDNjNzV2WFVHZmhxVWFYSVNVa05yRWdSck1SNzhZN1JfTDR3a2pKNEtqUGp0eGhkNURMVnVkXzFhZk_SAXRBVV95cUxQaUtvbFI3UXg3N212SzZ4VVBuNWpod2htTjlKLVZfUmNUekhTakJtbDVER3pRN1p1SllHLXVOOV9Tb29WYzFOTDFlNEFibmctbVBocUNLLVByam5nbDl2NlVMYTVxZVo2aUFRTF9YS2t1VnpZSQ?oc=5",
-          "time": "11/11 16:59"
+          "t": "[AI MY 증시전망] AI 투자심리 회복에 코스피·코스닥 상승 기대",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05ZXdVZWFmLVJNai1qOWkzQjhGc1hZSWtpM1FUdG05WVU3UlRMYVBLNVBFTEUtbU1nc09xRmprMjVURV9xaTdTb0FKV0FPb2J6U3RpV2I0WGRQNzY5?oc=5",
+          "time": "11/12 07:55"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "美증시 훈풍에 코스피·코스닥 '들썩'…장초반 매수 사이드카 - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15eG1KTDBsakNnU2wxcXNxQTIyTExYUkNwblBLcEdJMXd5UlNmN0U0SFcxV2lSU2pQdzQtaEViNGJwS0RKWDg2ZEdxckdCYlM4eDRFV3NmZVNRYm5ieEZDalVGdmw2aXFL0gFuQVVfeXFMUG0wZlNTQ3d3MmZTOWNQVzV5VXQydXF5VHowN3loaGZTemRoRlFTNi1MZXo1aUxmVzVwYXNQQzV1dXpBRFpNU0w5S2hqNG82LW1wVHU5Qmsyc3lqMzNMOFlna1Y2cU5RNlNIcXVwc0E?oc=5",
-          "time": "11/11 18:59"
+          "t": "\"30년 묵혀 뒀더니 2억원?\"…불안한 코스피 장세에 나온 '증시 안정' 파격 제안",
+          "src": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10SlZjOXl3d1RhTkV4a1JacmJwcVRNN0tfaUpjZGZpWTBIeDlSaGIydEdEUFlhb0JZSEUyeHB4V29KLVIyQXhYSlJDYS0wbThjSHV4V25tSXFuRjR1YXB6RQ?oc=5",
+          "time": "11/12 09:34"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "'나스닥 23시간 거래' 한달 앞으로…국내 증권업계 준비 채비",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mZGJqVlBfblEwMnpaMHVnd3RaTmtFN0Jfb3g5RUlDcV9FeVpLQzVBeXpIOHlZbTFqRjBWNkNUM3RXdjgzNzVjQ2J2QjlfNm5ncFhDR3lhdFg2Vm5YWUtXbdIBYEFVX3lxTE1mZGJqVlBfblEwMnpaMHVnd3RaTmtFN0Jfb3g5RUlDcV9FeVpLQzVBeXpIOHlZbTFqRjBWNkNUM3RXdjgzNzVjQ2J2QjlfNm5ncFhDR3lhdFg2Vm5YWUtXbQ?oc=5",
-          "time": "11/11 16:18"
+          "t": "코스피, 옵션 만기일 경계감에 개장 직후 하락전환",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41QjVyaUhXN2dFNHFyemxuclhRSUl1ZUhXbWVWSEdwTmxFek1IZG5vZ3ZiWFA5eElDTXRud0RTVnBBc1E2aHBjOHI5WDNzcnY1TUZWTFBlYUdvQQ?oc=5",
+          "time": "11/12 09:22"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "‘롤러코스터 코스피’ 안전자산 쏠리는 투자자 관심…“투자 가치 판단해야”",
-          "src": "중부일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01emRtRjQ3YS04TDZpaVdZTy05bm1SdE9sVGpwN3Bpa05CbnBJVURIVHE1Y2pKUjNBV3FwbEh3YlktYmF0b3hSUHowQ0FzMnZLYmJ5NDctOVc0eTllRndjN1pZQW84NlVrcFQ0STloQQ?oc=5",
-          "time": "11/11 17:32"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마감] 코스피, 美긴축 우려 불구 2.6% 상승… 코스닥도 급등",
+          "t": "[개장] 코스피 0.7% 상승… 이틀 급등에 장 초반 눈치보기",
           "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90NzRsMjlMWEFPcl9odWg0YlFKdDRQaWppX0dOZnJSaUdGVXdtaGhPQ2ZCQVFkNTJib05lNEsta0VmQkhTYVNYd18tU0xjX2tiUFloeDF4c0d0S3cxQ1hNWFhRUU5HY0lJSnFUcEp5NkXSAXRBVV95cUxQMHdycFR1T2xUdF9YM25aRzV4ZUtKV3FVOUlkdWtfWW13UlREZ3VhcWJ5WGdRM0dycW5Cd1lremFEY0VSaXlWakpPUl9qc01RbFg3NGZCTzBYN2JUN0RHTTNzam5fRlB0c1g5cGZJS2VuaFFpVA?oc=5",
-          "time": "11/11 16:12"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5MUZsYmVUaGlLVVdrSGZtSG1IVFFHb1hxMExoRWRPWS1oUFJXVkE0R3VmMXpUSTdkOElGbHo3WXRDYmVZaE9KaHo2cmNjaE1hWXNRYVFYdmNSLXJTN19JQmg0SHA5Zzg3TGVtTlY2dnLSAXRBVV95cUxOelAtTV9rZDV5Z20tR2NPQUZrSWlzZWVRTllfSFlOeFdNYU80UUtYcUpLNFJDa0FyU0RackhEd0hzamR0TGZ4UnhPLXBwX041R0pBUGlDUW9sZ0tHOVU1YW1XUnpveHUydExlUTV0bldDOXNMVg?oc=5",
+          "time": "11/12 09:57"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 이틀 연속 급등 후 보합권 등락…기관 매도에 상승 제한",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvUm5DajhDQmNqcVBpcC1LaXBqdlluc0dqZXR3U3FaSzhHUHVDQUdtaEx3YlVLT1V0VFVzWl9JQ1A5SU4xTVNqVXNjN3ZpN0FDSnBOb0xsWVRzRXItTl8ta3dWRmFVbTY1bDlTQVdvbTTSAXRBVV95cUxOay14Nm5TWTFiV0tXMGhJMHV6bWxxR0RRaUE1QnBqUzgzaWd1OWV2MXdVUlRORE9qTUNIWEYxMDF1RjR5SkE0UjlHYzdZRzZjQW9kbnN3NEZWbmJic2hNclp3VE5wOE13cWh5dzZlYUF2Z1FsdA?oc=5",
+          "time": "11/12 09:55"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 전날 이어 2%대 올라...삼전닉스도 3∼5%씩 상승",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZUHNnSXBMRU1IUXh3T2xock5Vb0xUSFRtbmxac3RQZEowdkJiWUJ1TDJVcGxxd25DZHRPU0JERmdsX1RHaTg1dnR2c3o1S1owc2ZYa3RZdllyRXVBNFpSRUVWYUYyQ1I2ZHJXSEFfQQ?oc=5",
+          "time": "11/12 00:14"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5239.13,
-          "pct": 4.39
+          "value": 5438.13,
+          "pct": 1.17
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 667.61,
-          "pct": 4.48
+          "value": 705.54,
+          "pct": 0.06
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1336.68,
-          "pct": -0.53
+          "value": 1334.96,
+          "pct": -0.52
         }
       ]
     },
@@ -79,69 +79,69 @@
           "cat": "macro",
           "catn": "연준",
           "t": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap",
-          "src": "Bloomberg.com",
+          "src": "Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
-          "time": "11/12 04:10"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "S&P 500, Nasdaq rise over 1% as CoreWeave results calm AI spending jitters",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
-          "time": "11/12 02:12"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street Futures Rise as CoreWeave Earnings Support Technology Stocks Ahead of US Market Open: Dow Jones, S&P, Nasdaq",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYm93M3ZTUUpxSWZzVlFRX1JnWnY4SU5wY0UtVGh3LWRUOVFZVV9KQ2FZUjFJUjZzLUZVVEhnY3A3QS1LZ1g0MHlvcHZWSjFkRUlWWUo1dnJrSE80aEZZZ2pIWVRxUXp4bEhzcE1fNXlaVWFfRUREVjktZ0NoVFhoRXRNZ3U1LVZDNG5CTHF2LVItVS16R2hkWVZWaURVeXZv?oc=5",
-          "time": "11/11 23:14"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street rebounds on a quieter day as the bond market is closed",
-          "src": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmppRGk4ODR3VjhPaGZxN295Sm4wWjdBOUlELVYyUUFiZi1pSXBhZEMtczNnZlRqbU96Q2VFMF83MUZDemVmX1FVX2s5WTZWaFVkSjV6Ym8xOTBlY05ibWZIRU90OVUwVlc4WmRQdGdVQU1FZ1BmOGJ5OVpoQWJ2dzQwS0xyNjJPNHNyUV9Rck5yZDFkZWFSRWVmUnFuYVNDd182RWFyQQ?oc=5",
-          "time": "11/12 02:14"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Rebounding AI stocks lift Wall Street",
-          "src": "Oskaloosa Herald",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTl5MGN1Tm1yN3dBbWRBcnZSSHdFU0xiV3dPLVRvNGd1cmttS3VPU3NnS2Z0aGhFNnJLVVZHX0NKNmVfV1AzUVJxazY2MnB0M1pJUGIwQUxqaVJfNWZaYzliVGItaFE0LW9hUWswMWlYSXljdWJuaUM5ZmFHYngwRENVa25Ka3JCN2J0TFR6bUxFTVdkdkpTcndPdnF5bFh5T2FpNnA5LTlQcmJKWVlZTW5yOGhLTElVV2M3Zzh6NURHU0steHlGN1J5b04?oc=5",
-          "time": "11/11 23:32"
+          "time": "11/12 06:19"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Wall Street Sees 37% Upside Over the Next 12 Months for This Vanguard ETF",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONHB6c0ZHQnpKTjdVdHY1RE5OX1FvN2x2MEY3RlA5MUxWeTAzb3IxelYwQ1V6TlJUZGhlQko0djR0N21weUt2TkVVNk15QzRVUVZFaTRMSTU5MW1PNzJqVldEUHQzV0JBNzBDYzEzMXczRTlFZklUM3pMd21zeWNtZ2tIcHB6OFYxNHQyekN3NG5ZanhPUVdFS3p2M3RlZFc2cDJISzlna3JoQm1WaEVtb2hibTByQQ?oc=5",
-          "time": "11/12 01:45"
+          "t": "After US market shake-out, signs suggest too soon to say worst is over",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdDNPMm44clZfWEJ5a0o3NTNEYVl5Y0ZuOHJTbnUyc2dDRjVITnk0akVVQnJiWWFIZnVGek5WTTBWN0JLTEV6YmhNS2tmV0NrWkc3aFNKWDZCdjVyNjRxd3JKSjVZcGtXM29kWEJlMGVvS3JYeTV6aU5tLXk2RUNEUEhpOHkzRlBURUpvbWd2NXllQXllZzVDOHkydnpZU0E2UWNZRDhUYXVIbGFVNzR2cWo3eE5PaTZscnNB?oc=5",
+          "time": "11/12 02:04"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stock Market Today: Major Indexes Pare Earlier Gains But Finish Trading Day Solidly Higher",
+          "src": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0NzMVRVZjloM3pod2ZMMzE2UnBBTjF3ZjZET0t1ektJb1VycmxDdFJqbjNISzU4bXc0ZmxJY21pcDdldzFTRkhBSFZCWlVZTDlGOWYxaUV3NTRYcXlJZEowdzAtb3U1c1QzRUNMNXdKa2tBYlltMkxSMng5VU9JWlpYWWpaUmhqZGl3SFVZNm9xbmRPVkh1Qi1CZGRmSEREVF9yVGxsZGZhU3l2YnNkRWZEanpUVzM3ZVBSWkpGcDU?oc=5",
+          "time": "11/12 06:22"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AI stocks rebound, and Wall Street nearly returns to where it was before last week's sell-off | National News | 2news.com",
+          "src": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZGVQd3oxd2FuUTAyQnh6UUoxOWhudWlsb05lZ2dLNzZ3dUhTTER2MzI2S19mMkdFZEJHM25uT1Q2cDkzVndIbFlVTHoxLUttSF8zQjhGTWxfY3E0OXhiTEtYbjR4ZGN6N0RHei1IeVNTdGREN2dwNXY1ZTNlcFRHX0RRUFlfRU02TTVMRjMwd3R4eTJBSmpIRjNzYWtBUnNsTE56cDdYOW53YTl2dFczUmEtejVUMUlicnFuX2tsRjZXN3l2bVZobTh5Wm1heUo2WmZVTElVZ1hlRW5HVzZoZ0RleTI3X01hTDNSRGlCVS1OSS0yUVlfWUFB?oc=5",
+          "time": "11/12 06:16"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stock Market Today: Nvidia Stock Slides 8% After Hours as Board Weighs Jensen Huang’s Future",
+          "src": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEdzSDBUcDRkbjFSR2RCYVNiR2c1NUUwRnNibUxEOGhNOVdPVkltT2VzcVhzeVFuZFAzZndUWE5RYzdQdXg5N1VCdXdDRDJBMWhJRlAtWXg3NTNteFB5YnpLa2ZuWDJ5ODRFR2h1SWI1UUlkVDZvVE4tSE9SYzVxVEZuZ2ZiaUV3b2VxQmpfVXptRWpKWktOV0hFMDBjc2lEMjVJbzMyQk8zT1AyR3lsVDVLTUhhcE1hRE1JMlZKYkNTZVZaeDJ4TXYyU3REdw?oc=5",
+          "time": "11/12 09:33"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "AI stocks rebound, as Wall Street nearly recovers from last week's sell-off",
+          "src": "Toledo Blade",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcU1sMWEwa3JPQ2lmYWFBVnpydDBYVkdyRnJZMVJMNkdtOVplLTJkdGJ1ZWE4LVBaVlFOUG9BTVV6Nk5RYzNreUx2eXdka0swVmpuYzlEVVdrQ3BpbmtxNWpyMHZESVN3REd2cG5iMjhLeE8zcENRbHlqYlN3b3RReVY5MWVlT2NmV3pHdGNWSzJJa2t4OVhPSXdwVkFkdTlNTGNNTzJvM1hHcThQVW5yRWJfY2JDcUlyUGozb1AzNzRQT3hkeHdFWVNOdzRZWGc?oc=5",
+          "time": "11/12 07:08"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7626.87,
-          "pct": 1.41
+          "value": 7619.38,
+          "pct": 1.31
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25528.77,
-          "pct": 1.85
+          "value": 25466.19,
+          "pct": 1.6
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52476.18,
-          "pct": 0.47
+          "value": 52486.49,
+          "pct": 0.49
         }
       ]
     }
