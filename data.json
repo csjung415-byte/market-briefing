@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-13T02:27:34Z",
+  "updated": "2026-11-13T19:54:51Z",
   "markets": {
     "kr": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마켓뷰] '젠슨 황 퇴진' 파장 어디까지? 코스피 영향 주시",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMWVQcEcyS2tsOGhKc1hZS1F3T1pfQ1F4RTdneVRKVkVOUExxZzlLSGFNeElGbnBDOU5jS2JxcDRUU0tVbEtTYUI2XzdiVnNtU1E?oc=5",
-          "time": "11/13 08:07"
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 장중 5,500선 돌파 후 급락…외국인 매도에 5,290선 후퇴",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTLWVqbjc4U1h1ekVWUUZ5TlFONTFEZm1KUjUtclRjU2NPMi1sMzhYcjV5bjJZb1o2OVdHaFMyUFdKd2NQSFdZVHQxQ2VQZ2ZwTE9YUUpkSE0zWU9FbWtfVTF0Wk9vMXduaHBYenlDNHHSAXRBVV95cUxQTl9JUmhlRjA2VE9RZGJWNHU2Mmo2a0JQSTdFeXNKcEo1RHBDa29EYm15c0NoS0sySlV6cUxLZ0wtZUJJY3B1bFNjYmVtZVJZZXozMXpUck91bTdoU25ZbW05bWd5c2NSM3l2M014TzFEZkpOdw?oc=5",
+          "time": "11/13 16:45"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[개장] 코스피, 엔비디아 악재에도 2% 상승… 삼전닉스 강세",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MmZoaXNKd2lfWi1HVE1HanpIT0t4RUNtLXBjMDl2Umd4M0cwVmtRV2V4NmNsSHJRTnFVSFdPLXhhQ29QMVhrbEN2cHlQbUJoVnlRN2pMYU1fMDlPdmwyODNfalc1NGh5WnBXQnd4Ti3SAXRBVV95cUxQa1NRRWF2cFdYSE1CT1dSQkx4UVFkX3dITDI4ODcwbjEyQU1zZ1FtSDg4TVNjdGV6QURoUDh5bElVbi1sVlZUZ3dIOG85c1JLUHI1Rkc3TThaNXE0NzdJMHRyblQ2MUJ1Vm53bmZlbUx1clh3RA?oc=5",
-          "time": "11/13 09:52"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"지금은 현금 쥐고 버틸 때\"…증권가가 찍은 매수 타이밍 [분석+]",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLaHhJT2RFVWU0alMyRExNZ0gwRFJSb0NweDhHUXNhNXVHdWpnRm9OUFppemRKSC0zLW9fVGNyTjBqbnZOSGl3T0NwVm1rQTBrMDNTbTJkZXR6dw?oc=5",
-          "time": "11/13 08:39"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 엔비디아발 뉴욕증시 하락 딛고 2%대 강세…5500 넘본다",
-          "src": "인더스트리뉴스",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Mc3llbEY0aEREeE1iVWIzSUpTM3Bud1ZRSXlfWktNQVF3c0g3Wng5ZVJiLWRqczJUeGp2bmI3bzJGSGRIdG5ZcWNzUWRTdGViek5uaDJQc3p1UGwzTjZfTkNMbVcxNkV1Y2hjMjZ3bFNYQQ?oc=5",
-          "time": "11/13 09:31"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[모닝 리포트] \"코스피, 젠슨 황 사임 충격 제한적…보합권 출발 예상\"",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GS012c0FicUZBWHZLaExWdFJGVnNKVy1RV1hleUVyM2hpd0lpZ2I5QkFMNURpd0hhdlFmcnFtV3dRRjlWenZwOHU5blVJRXcxeXIwNV96OXZZMWxz?oc=5",
-          "time": "11/13 08:46"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "보합권 머무르는 코스피…코스닥은 1%대 약세",
+          "t": "李 \"골 깊으면 산 높다\"…코스피·코스닥 나란히 상승세 |",
           "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LU0F4OFZMTUd6aV80allzcVpSNFZZU0QtN2lIclBlalU0Q3ZrOXE3czNyNnR2SWNCcTdrMmVvY0xwZG50ZFZLaFllMFI0Q2Y4dGxudS1mMVU5R1R6OHh6dmsxUEg5Y3JQYW5GZnNjdng?oc=5",
-          "time": "11/12 13:53"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04Q01Zc3duU3B2T1FVMTR2NGk5b18xZTlOTmE1WkpkOXVwSVZOX1VHd203c3oxVjJmWEZXZ1VYLU9EQm9jR3AtUG1LcnBhdFZOODVFa2pldUtmMS1TYnpXMnJnOWt1OGNHU1p1ZkhqS2hIellI?oc=5",
+          "time": "11/13 11:33"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[미스터리경제] 코스피 5000도 무너진다?…주식 시장 뒤흔든 '보이지 않는 손' (영상)",
+          "src": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GLXBVUVRabXhRLWlxTV8zSHoxNXRnTWFPZExwU3V4N0tkcENyR1ZxWTZMSThDLWdmeFBrWGtPNEx5aFVpWGhmdTJmZF9KS2VsWWdTYmJ3TdIBUkFVX3lxTFAyRkJYRDg4RUhhbXBKUmhGUWtsODVHd19UdUVSWTl3MGJsTDRLXzF6cFAzSnE0T0ZNYkh6Y05QRVNBYm9ueXI3ZEhIOXduU21Ib3c?oc=5",
+          "time": "11/14 00:00"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[1113마감체크] 코스피 지수, 외국인 매도 속 하락…코스닥은 강보합 마감",
+          "src": "인포스탁데일리",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qM3RkeGcwYzF0OTVBdDE0MnAxS05vZ3hIR1JKbUctVmhXUW9keDJLMXRxMmRyNDFaNmsyMjJaRGZNY29Na29scUFVdmRGc0dTWkdXU05mcExwbGlsT0hTZjk5Z0g1OExqZGJKNTFUQmY4Ulotb1E?oc=5",
+          "time": "11/13 17:09"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 5000선 아슬, 여기서 더 밀릴까?",
+          "src": "주간현대",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nLUZIQ1JfWHV2Um9wSGpibk1VUWhXU2VfdEJqZGljdjZ6NkptbUdzQ19JQmdOUnVOTXExLWozOXJRWDg?oc=5",
+          "time": "11/13 16:05"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "5500 찍고 미끄러진 코스피 [11/13 G프터눈]｜Global Money Club",
+          "src": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0eTcxSFB4R2twSU02Q2hqdksxSU5uc1M3RXFZM1N1cDk1cXQ1eTg3dDFWOFZJSVUwU0VLeVBZalRULWdRXzFZVnl4bUpwc0xBOHZWU2xkdUs1Y0E?oc=5",
+          "time": "11/13 17:33"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5449.38,
-          "pct": 1.38
+          "value": 5342.73,
+          "pct": -0.61
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 724.11,
-          "pct": 2.7
+          "value": 696.53,
+          "pct": -1.22
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1333.18,
-          "pct": -0.23
+          "value": 1336.62,
+          "pct": 0.03
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Sharp swings for Nvidia and oil prices weigh on Wall Street",
-          "src": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkRKMVg3bVdtZXVQZ0lQY25NZnZ0bWFrOW1lV1BZbFkyUGYxTUJUeER5dzB3aDVJREhXNTJkTmFEYmZ3NjZpVnBLZ3RfVmtOM2RraHh2Q0hmOG53ZW80cjNoNXVvYzRTS0JZejJ4a01RZ0pZemsxVEc2eFQtSUlyOXR2cDgtaW05aTEtQi1PbkItT3BLWFY1MTB2SzjSAaIBQVVfeXFMTkRWeFJvT1p1dzBLRHlYYnVKa3A5SVdTOXV6OGhSNS1nZ1BIQmxPNkNaam9ZZ3JBYXJrWFk3WFhyLU1Ua0hYSkd4MV9xM2lXZkZ3WUlVQ3Z1cFQxVVFVRXJEQllvY2FmNEZlaFhOdlBzeU9TaG8wREprNm9wWktUeXI3VzFtSzhuLWdMeU1TME1HbDUyNFhZRXdLa1g2SEpnLUJn?oc=5",
-          "time": "11/13 01:05"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkpfcFVLcldhSU9fWS1VTHB2NGJqTFZ1am9kTzlnRldXaHlwRXhmaGxoYjNiMlJSZEEzUlNPSGRXMlJtd1lBeXZJc1ZHN1BTcVlVR0hERGhnN0x5dkNwcGYxT0Rwa194MEZMZHdDWmdkdTRvdGZqM3dUV1JSX1V5YjBqTEJlVmlhMElFSTRGSllTd2E0?oc=5",
-          "time": "11/13 07:45"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street shakes with swings for Nvidia and oil prices but recovers most of its early losses",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR1JnQjViRFFPaVQtX3ZrRVZFREcza1pDY2xCVHlhVW84Mm5CbXRyd05EeEZsR2NMTVprd2pTRWpwMk9Nc2E1UzZlOERXRU03ckJWV05vcU12Q1FJdVRzU3hDNWlPMjhCVmlXcHV0dlNxaWlZOFhUc0Q1QWZzazJyVHM1Unp2TVVTeTgxdkNnYzYxRWNIa243b3FFNzdkaUtCM3pxX2dmdXcyVFJyU1ItWTM4TDk2dDJWc3NibVYtSjhNS2VmRnp3aG5zREc4anRSdzNKcGp5QURUQWhfQ1Y4NFM2U0lENGdNTnppWFAyTTJuS2VwT3NhQWdpSQ?oc=5",
-          "time": "11/13 06:02"
+          "t": "The Wild Week That Brought AI Investors to the Brink",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTGx6VDBRaWVZRFRORlhLV21SUF9EaVVvMVAxa01QR0ZXTExIdi1GZ2dxWXhYVVpwUjBTbENjWkowLUpmbWsxZkhiSmhmLVhMc2dkMHhmWExBempSdmZVZWlmVDN0SzR3aE1PeDV0a2JubWJuOVRWTnhIWGVKQ28?oc=5",
+          "time": "11/14 03:40"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Stock Market Today: Stock Market News And Analysis",
-          "src": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
-          "time": "11/13 03:00"
+          "t": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFRTRUFWSFFuVXN1aUF3emVjaUt4OU9wSFVuZWlua1VoZXdpdzl6N3JNWmtaWDZQMG91RjRIMmJXWmVEREg2OGF2cEhFeGIwdzZYMEZpTW90eDF5bXJqb1RZeEpway1aV0hMdEU3d1BNMDB1dVpILXFILU9RbjI4NkkwMA?oc=5",
+          "time": "11/14 03:49"
         },
         {
           "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stocks Slip as Wall Street Weighs Nvidia's CEO Crisis: Stock Market Today",
-          "src": "Kiplinger",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1FJbUNVNTUyZzVzYzhfLW1yRV9CSzc4ZThINm1PSVNOSnJJQ01CZl9DTERhb0Z6ZGlYQ2w0T08tVGtLc2dIQ2szY3JXNGRYXzc2TXhDSzhrMUhPMUYzbHBwN0FrbHBPSHlEUW5ab1dKSmFxVjhTeHFydk5ZZ09LeVFwMUp4cjFOSUdiRkhMbmVLSGZLdENNZUE5VDVINkNjSUNoM0Jha0NQaXlIbExjSjVfemg?oc=5",
-          "time": "11/13 06:09"
+          "catn": "실적",
+          "t": "Wall Street forecasters see tumbling corporate earnings hobbling the stock market in 2027",
+          "src": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1pFVjgzd3M2ZWJwSWxhdXJzSm90ZE55R2FqYlB3REFkSi1wd1k3eTZGS1FHQm5SazdEb3dBQ1ZjemZYVEdsQW1Fd3dkcThNd3lyelFmZkp4MU9QTVp6WldfclNpSi1Fak1CWTNQbXVPSkhUUkNMOWlLR3VOUkg0SUQ0ZU8wMms2aUNXYkdYOXRtdldET2NXMTZGWQ?oc=5",
+          "time": "11/14 02:32"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street Whistles Past Nvidia Risk to Bet on Wobbly AI Trade",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1NTVmFaaGxYUlRucGtIRzJRYlJrMGN6Y3E0TVF0bmhuOFRKTE0wSGc3alFkUnpCQkZDaUhPVFR2NnJ0T0tUVHdTazlYRHVfVFhHU0xxaFJwYV94X003QjZaQmNwdFRadmJEeDNrdmpwZ3gwWWRMdGNiOFFJR0gxOXVIMUVPQmljOWpJRlFfSGM1cnFRLTFwSjNfRkxYeDJqYllKOTl5Qzg0MGFFUzlvMU50RVE?oc=5",
-          "time": "11/13 06:37"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDhuREROVnFDbm1TeWMwbG8wT3V2SVNCcU5MZEFNZ3BKWTFZcUt4ei1kcXFSa0tUc3psNExPTzRISEFzXy00NlRWeUo1ZzNyYXF0V0JPSGk1cGhXY2wxMGhEaE5RQy1YZkQ5T29YSWhSZjVXUjZmZlF2bF9JaVFkamlibmQ?oc=5",
+          "time": "11/14 02:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stocks sway as Wall Street heads for a winning week after several turbulent days | National News | 2news.com",
+          "src": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRjhWeG9VWmJNS3pRWm8tcWtaYmNuTkJPYjJoVS1pVHVmTk02N3VQeXM3NTlqZWR0LXVGdUlZUENqOXViaEl4c2tRTXZSYXZ4YWxsMUh4RmhRNGh4dU80NmVMLVZ1RzJBcjN4WDkwT3EwZ0x2bnNYajROVUdRR1NBdDROcFd4bl9EUDNORVA1Y3dxT2lkc25HRERRS1VIdDFHbnJvMDBBWUhib29lbnIyb2hUWnZWQnc2anF6MGNDSC1VZmtWeGtJVVFWSHNjUjdpTzh4bmNMR3FsY3hSc2lpcHBXcDdYMm5OX0NXU1ZXR2pHVWtkM0tj?oc=5",
+          "time": "11/14 00:48"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
+          "time": "11/14 02:35"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7592.4,
-          "pct": -0.35
+          "value": 7546.19,
+          "pct": -0.61
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25366.09,
-          "pct": -0.39
+          "value": 25094.59,
+          "pct": -1.07
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52297.09,
-          "pct": -0.36
+          "value": 52284.14,
+          "pct": -0.02
         }
       ]
     }
