@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-13T19:54:51Z",
+  "updated": "2026-11-14T01:59:59Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"만스피 간다며?\" \"코스피 중계냐\"…증권사 애널 대신 AI 믿는 개미들[뒷북치는 증권가①]",
+          "src": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUlFJM0g4OGpiRjdtM05FcWJPSVN3eEpVbFZnVjVvV05tTXRlYVZtUWlBZVV6bG1yTm1HYkZnc05IbXNfZ3g1Q1B4MjdyNzZyeEN2dHlUeWdzdVJaTkdiTHhERVlWck9IX3JIRFdVTXpka1dhMWlXOdIBeEFVX3lxTE9iUlFJM0g4OGpiRjdtM05FcWJPSVN3eEpVbFZnVjVvV05tTXRlYVZtUWlBZVV6bG1yTm1HYkZnc05IbXNfZ3g1Q1B4MjdyNzZyeEN2dHlUeWdzdVJaTkdiTHhERVlWck9IX3JIRFdVTXpka1dhMWlXOQ?oc=5",
+          "time": "11/14 08:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "나스닥 주작파동 진행 중.. 다음주 증시는 어떻게 될까? 그리고 오늘 증시 핵심은???",
+          "src": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0hHQmhsRkRqSC03eGFoWFRuMTNIelNPQjVzejBBNWJjQVJVamRrSVhJVEFCQVNyWnhMdDhwZlU1WjVVa2Z0cTJsZ1pPTTZBQ3Y4QjFDOV9FV3lxQkFEekJQR0c3aUNjV2dCUXpTTlptQ0lkbzNmTFBhWHRmUl93T0stYUlTLXVGaDVJ?oc=5",
+          "time": "11/13 23:18"
+        },
         {
           "cat": "flow",
           "catn": "수급",
@@ -10,14 +26,6 @@
           "src": "산경투데이",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTLWVqbjc4U1h1ekVWUUZ5TlFONTFEZm1KUjUtclRjU2NPMi1sMzhYcjV5bjJZb1o2OVdHaFMyUFdKd2NQSFdZVHQxQ2VQZ2ZwTE9YUUpkSE0zWU9FbWtfVTF0Wk9vMXduaHBYenlDNHHSAXRBVV95cUxQTl9JUmhlRjA2VE9RZGJWNHU2Mmo2a0JQSTdFeXNKcEo1RHBDa29EYm15c0NoS0sySlV6cUxLZ0wtZUJJY3B1bFNjYmVtZVJZZXozMXpUck91bTdoU25ZbW05bWd5c2NSM3l2M014TzFEZkpOdw?oc=5",
           "time": "11/13 16:45"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "李 \"골 깊으면 산 높다\"…코스피·코스닥 나란히 상승세 |",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04Q01Zc3duU3B2T1FVMTR2NGk5b18xZTlOTmE1WkpkOXVwSVZOX1VHd203c3oxVjJmWEZXZ1VYLU9EQm9jR3AtUG1LcnBhdFZOODVFa2pldUtmMS1TYnpXMnJnOWt1OGNHU1p1ZkhqS2hIellI?oc=5",
-          "time": "11/13 11:33"
         },
         {
           "cat": "macro",
@@ -38,14 +46,6 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 5000선 아슬, 여기서 더 밀릴까?",
-          "src": "주간현대",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nLUZIQ1JfWHV2Um9wSGpibk1VUWhXU2VfdEJqZGljdjZ6NkptbUdzQ19JQmdOUnVOTXExLWozOXJRWDg?oc=5",
-          "time": "11/13 16:05"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
           "t": "5500 찍고 미끄러진 코스피 [11/13 G프터눈]｜Global Money Club",
           "src": "중앙일보",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0eTcxSFB4R2twSU02Q2hqdksxSU5uc1M3RXFZM1N1cDk1cXQ1eTg3dDFWOFZJSVUwU0VLeVBZalRULWdRXzFZVnl4bUpwc0xBOHZWU2xkdUs1Y0E?oc=5",
@@ -56,8 +56,8 @@
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5342.73,
-          "pct": -0.61
+          "value": 5290.53,
+          "pct": -0.98
         },
         {
           "name": "코스닥",
@@ -68,8 +68,8 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1336.62,
-          "pct": 0.03
+          "value": 1333.78,
+          "pct": -0.19
         }
       ]
     },
@@ -84,64 +84,64 @@
           "time": "11/14 03:40"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stocks sway as Wall Street heads for a winning week after several turbulent days",
-          "src": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSFRTRUFWSFFuVXN1aUF3emVjaUt4OU9wSFVuZWlua1VoZXdpdzl6N3JNWmtaWDZQMG91RjRIMmJXWmVEREg2OGF2cEhFeGIwdzZYMEZpTW90eDF5bXJqb1RZeEpway1aV0hMdEU3d1BNMDB1dVpILXFILU9RbjI4NkkwMA?oc=5",
-          "time": "11/14 03:49"
-        },
-        {
           "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street forecasters see tumbling corporate earnings hobbling the stock market in 2027",
-          "src": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1pFVjgzd3M2ZWJwSWxhdXJzSm90ZE55R2FqYlB3REFkSi1wd1k3eTZGS1FHQm5SazdEb3dBQ1ZjemZYVEdsQW1Fd3dkcThNd3lyelFmZkp4MU9QTVp6WldfclNpSi1Fak1CWTNQbXVPSkhUUkNMOWlLR3VOUkg0SUQ0ZU8wMms2aUNXYkdYOXRtdldET2NXMTZGWQ?oc=5",
-          "time": "11/14 02:32"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Your House vs. the Stock Market: Which Has Been a Better Investment?",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDhuREROVnFDbm1TeWMwbG8wT3V2SVNCcU5MZEFNZ3BKWTFZcUt4ei1kcXFSa0tUc3psNExPTzRISEFzXy00NlRWeUo1ZzNyYXF0V0JPSGk1cGhXY2wxMGhEaE5RQy1YZkQ5T29YSWhSZjVXUjZmZlF2bF9JaVFkamlibmQ?oc=5",
-          "time": "11/14 02:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stocks sway as Wall Street heads for a winning week after several turbulent days | National News | 2news.com",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRjhWeG9VWmJNS3pRWm8tcWtaYmNuTkJPYjJoVS1pVHVmTk02N3VQeXM3NTlqZWR0LXVGdUlZUENqOXViaEl4c2tRTXZSYXZ4YWxsMUh4RmhRNGh4dU80NmVMLVZ1RzJBcjN4WDkwT3EwZ0x2bnNYajROVUdRR1NBdDROcFd4bl9EUDNORVA1Y3dxT2lkc25HRERRS1VIdDFHbnJvMDBBWUhib29lbnIyb2hUWnZWQnc2anF6MGNDSC1VZmtWeGtJVVFWSHNjUjdpTzh4bmNMR3FsY3hSc2lpcHBXcDdYMm5OX0NXU1ZXR2pHVWtkM0tj?oc=5",
-          "time": "11/14 00:48"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Stock Market Midday, Nov. 13: Nasdaq Plunges as Nvidia Turmoil Deepens and Treasury Yields Hit 5%",
+          "catn": "빅테크",
+          "t": "Wall Street stocks mostly lower as Nvidia extends slump",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU1MbkhnZll4OHpIdGV2VlI1ZVFhWGhKX1F1bnZvWVRGWnVkYnBfcmRIaG1PRzcyN1pTUFJzY2VWVzRMN2VqNjQ1Tkwyb3E5bGpQN1NOcTFnTVFQVmdPRjdZX2h3LTh2d2F1Y1F6SW5JWTVPWmRwXzBsVlpIbGNEWTBZLUhaRnFIWTVIY1gxSVc0T2J0blE?oc=5",
-          "time": "11/14 02:35"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTQ0Qi0tTlhXZ254X2s0WmREa0U4Uzdaa01KZGo3V0lCbHFtM29qc0YzNHNvUHQ0LVN5WFBDSlBnSGJXZlh5Wm5GM09PVG5JdVVlTU9wWEhPVEhCUzRScWV3RDBicnVUbTVRQVJ6ZTlYRmJUTHJKOE45SUVPQ0Z4cFdGSnN1NmlsbUtUOTEza1FDMGdwaXhDTV9kdm8?oc=5",
+          "time": "11/14 08:07"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stocks fall but Wall Street notches a winning week after several turbulent days | National News | 2news.com",
+          "src": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbmNWb2JBNHJ5V1NFY3lFV2pwS1doenF5ZmRDeVIwcVRLOWUyY0tJLWpGU0dCb2JrVFRtYTFwa19KdDJYVTVfRkhudTU3REhTcHYzY1VmX3VTc2UzVlptbnhOb1dCOExsNGFad3ItamlrR3BWU2hJeFRmZGJGS2dxR2xJRndtenNwcm1SV203STRkRllnWU9iZmRTUnFRSmRyRzVXUkRCeHpxUzZGU1BYRVhBVjVkQWZnVEdwRGhmU1djSXhUQXRVYTEwNGprSUpYLXNMNE1kREJBZEVFR3d2amM0VzV1cU9XSkJNLVR3RkZianoyYlE?oc=5",
+          "time": "11/14 06:06"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stocks fall but Wall Street notches a winning week after several turbulent days",
+          "src": "Bozeman Daily Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdEx1NFhOOWtOOXlsRnZzRzBFd09QNlJIWkROUl8yeXFfNGJzN1ZpdWtJd2ZGZ3FBaVhETFVhLS05bXdTS2hlSDlMTVEzR3FlNDNpd2F2RV9QcV9GM2hKZTdFVDlVYlNWNWcwR0F1Z29IWlVIX2ltY2xrMGFEVWRBRjhFeG16NlBfSzJnRXZzRXBLeW5BUjh0LUt6dHQ5N3ctSU15MlhDZ24teGZJNEI4bmxVQUNvclhkX1JOaWJpNlppSzIwNVBLcnV2YXhCdWdwMGtORElHeEJLcHNhb01GTElFbFQweTZrRm1JeXhCSGNJZTUxZ1BTX1U1WGJrYmlDTFh1QXBvNGEyUGQ3dUE?oc=5",
+          "time": "11/14 06:25"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street’s Wild Ride Delivers Big Paydays and Bigger Bruises",
+          "src": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVhvdk85Ym1feVJmenNRYk1rbFZ3SHpGNWcybXc1RnZFSHFIZWpzMm1rTXNtbGY3UFpyWEZFc3lIeUFDT3ZHZEtIaDRQdmRHanVMVUlnWlNuSmRxM0JTWXRUTGU2UnZKX1R2Z0dXdk8yMDduQlQwNDBDNURYQ3ZlTG9MVzBaNkJuSWxsUkFDNHh2Wm14aUw2bFBGZ0xxZ1diUm5RZ0tHOTlLUURHQXBNSllEaVQ?oc=5",
+          "time": "11/14 06:25"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stocks fall but Wall Street notches a winning week after several turbulent day - The Frederick News-Post",
+          "src": "The Frederick News-Post",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNjZab2NRajRaZGprUk9wd1dmSVNHQkF6dlRtNW9ZUEJGWFdqSmE0TUdvOHpxUTQwLUNFWFJIdk5zQllSYTNXNlhYYXdtSDFwTktwQmlCalRtRUJ0azJDRU1vaFdsWXRWR1g0VlJtd3h5YlJaVUwxdkVLbV9LVTFXOXdRNzNpYURrX3NFa2dhaXpkUmUwcGpKQ1p6cUNodEEtalNaTkUtSFFaREp5SzdldXhLaUI3Uy1FQTd6QWpaNDduUk02U2ltdEVQVWRWSG5fUUVra1h0ZkJ6WXFLTUJVU1JiLXI2aVkxTnlIUEdKNnYxRzhsc2lHV1dsTVlOQk5iNWhKbXJlNkd2ajFqSzFEN1hfbXh5MjQ?oc=5",
+          "time": "11/14 07:04"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7546.19,
-          "pct": -0.61
+          "value": 7561.67,
+          "pct": -0.4
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25094.59,
-          "pct": -1.07
+          "value": 25136.27,
+          "pct": -0.91
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52284.14,
-          "pct": -0.02
+          "value": 52347.55,
+          "pct": 0.1
         }
       ]
     }
