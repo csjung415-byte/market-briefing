@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-15T18:59:45Z",
+  "updated": "2026-11-16T01:36:40Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
+          "t": "[개장] 코스피, 5300선 돌파 후 하락… 삼전닉스 약세",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEYWJMd3lfTjhGR1p4SVJlcDNUeUZpVXE4NHAwQmdRbUF5a2dVQWp4VlVzNmhQOVRPMkdmWHJ1amItU3hCbjc0aGxyVXBkX3R2T0prcnZCMmJtaTc1ZmFVaE9rM3FVRmU3aUtVRzFFSG7SAXRBVV95cUxPTzloZ1RtWWEtNnhUd1VQLXJVVGhrbmktRjdFWjRydHlJajBkNE42ZnUzdkFFZmg5M05mSDRqM0ZHVWFJZFBkMnBNVzR1cU9xQzlWdzhPTzBBbjl1bGJ5NnhjRTVoN3lJWXN1R0s5cDU3R09ORw?oc=5",
+          "time": "11/16 09:47"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "한투증권, 내년 코스피 목표 8,300…\"점진적 상승세\"",
+          "src": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LUDdja2prZ1RFRml6OFhjbTNSMkpaeERsdGRRVG4tT1hzWDNaRlJGRm91OXRFWnAxc01UbkJXTVN0eDlxd1U5N0lLTi1UTVViQWp4LVhoV2dwOTRFcVY1cdIBYEFVX3lxTE1LUDdja2prZ1RFRml6OFhjbTNSMkpaeERsdGRRVG4tT1hzWDNaRlJGRm91OXRFWnAxc01UbkJXTVN0eDlxd1U5N0lLTi1UTVViQWp4LVhoV2dwOTRFcVY1cQ?oc=5",
+          "time": "11/16 08:21"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[마켓라이브] 외국인·기관 매도에 코스피 강보합…삼성SDI·태양광주 강세",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWEdHenc0V3NwejdWMDRZMVdpdkdZcl9uY3dzbDNNRFg5WGNtWV93SHdFeFh4d0ZVVkpydWVRM0hJNjhyRHRwNk03aXFndWNsVXNucjVEdFkwUQ?oc=5",
+          "time": "11/16 09:18"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
           "t": "ELS 악몽 또…9천피때 발행 상품 94개, 내달부터 만기",
           "src": "한겨레",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xZDZoYTFPLU1VUm9oWEo3MUpKUlhKVFBnRURmOHV2N2E1ZmFXQkRRSE11d096Ul90UVF0ZHJ0T2FNV1lKaHFfV0N4OHNsSVJRSWNmaEwzc1h0U0Fmc1pRNWl1MUpBUUk?oc=5",
-          "time": "11/15 22:14"
+          "time": "11/16 07:58"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "[오늘 증시 전망] 코스피 5,300선 내주고 외국인 매도 전환…16일 국내 증시 방향 주목",
+          "src": "업코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaTVUbDU2OHJiX3R2NE1ySW13TXJ6TlBnZzNGajlFNVJQY3gxWmRHQlBzVXFBZGhEeHRuemdmUk1SU29WYXc1M0JrbjJOYnpqMWlOdHpKT0RINFV0bjNqRnFwTkRZeHVvM2xCYUR3?oc=5",
+          "time": "11/16 08:26"
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "“시간은 삼전닉스 매수자들의 편”…코스피 당분간 오를 이유 없다는데, 증권가 전망은",
-          "src": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nYVlKOEIxbmFBaUE5T2ltVFlSWjZ0a2Rxd2RVYXIxbG9YWXFESnhsYVpjTDA3TGlLSW9sY3kyeXBDRHp0NEpLMXU3THNybWQ4cWfSAVNBVV95cUxQYm9wZ05oN095aWFFcVJnNVIxS3QyU0tlV2FSakFCT0Y2LTFiUF9LTjFKZmNtdUNUMVN4ZEE2LWRlRlBpaFNFd3NwdG5xOWRSYXc2OA?oc=5",
-          "time": "11/15 22:51"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "삼전·닉스, ‘빚투’ 7조원 육박…증시 변동성 확대 부담",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CR2w0cWVCOXNoS1YtdGkxakJaWmRLRk92SUVJNko1Ukh3dmpNWnRpclktaFlsWnRUTHd6SmRmYmRLeFFfZHZzemlJZksyNlczUEtPb2VobnJxWHhkWElNeG9mM3ltaks5TmNnR1VHY3jSAXRBVV95cUxPQUkzMnV1OUF6X0VGZndhSk55NG1IM0Y2SzFydnBkSEZqM2NrUDNiMjlRS09EeXVxY0YyU3VWS1JJOFRQZEZlcnRWWWIyNEt3emJuc2wtQmFNVmNwY1M1bFZmQ2FMOUhKTi16bWs3Qm9KZEtrcQ?oc=5",
-          "time": "11/15 12:15"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"진짜 체력은 여기\"…하락장에도 뭉칫돈 들고 몰려간 곳",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40d2FuRVM3RW5laHNXZDh4QW1Gb2xuVVJJSmNFYW8wVi1UcmtlRWtHT19ScXdzUF9ETUFFUXM0enhmUUlJUEFtVkhLbGlURUV6T29Ud3lEY28wQQ?oc=5",
-          "time": "11/16 01:01"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[단독] 이 대통령이 퇴출까지 언급한 회사 어디길래…코스피 3분의1 해당된다",
-          "src": "매일경제 마켓",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91SVdIVFByU3dtX0hfTEotSHVieDN5MVh6cFpGYl9MaDY2dGxSZ085WWwzRElsWkF0WEs1bHBfNWNjaXhTMTYwU19LVDlhaGpaZ0E?oc=5",
-          "time": "11/15 17:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[마켓 뷰] 엔비디아·앤트로픽에 운명 맡긴 코스피…불안한 개미는 빚내서 반등 베팅하나",
-          "src": "https://www.moneystorm.kr/",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Wd0ZNdGladE5zNWU2MFNZZC1MSjdzNlZ2Yk9TaWRZTVhjNW5UMm1FQ2V5cmQwbUlMSkRRak84ODd3djdUaGpOWURIQ01LZ2RnSHZBdmlBNGYyWnNwdnktVElVeFpBQUtQOGc?oc=5",
-          "time": "11/15 08:31"
+          "catn": "금리",
+          "t": "[오늘의 증시]美 반도체주 급락·연준 '고평가' 경고…코스피, 또 하락하나",
+          "src": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fWlVRaGRVNFowRi1yakt4elRJODgtaHZ4aTE4eXZIazM1VjVjRDhtb09rdGxXaDlRTnZseU1BbGhIa3hFaUo4T0lDam9VSkNnRGhoSDFkLWw5MGdzQTBMTlpNeWd2bGlycW5ybWROc0QzVnhIVGhXN9IBeEFVX3lxTE1fWlVRaGRVNFowRi1yakt4elRJODgtaHZ4aTE4eXZIazM1VjVjRDhtb09rdGxXaDlRTnZseU1BbGhIa3hFaUo4T0lDam9VSkNnRGhoSDFkLWw5MGdzQTBMTlpNeWd2bGlycW5ybWROc0QzVnhIVGhXNw?oc=5",
+          "time": "11/16 07:50"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5290.53,
-          "pct": -0.98
+          "value": 5184.19,
+          "pct": -2.01
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 699.66,
-          "pct": 0.45
+          "value": 677.09,
+          "pct": -3.23
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1334.98,
-          "pct": 0.09
+          "value": 1335.71,
+          "pct": 0.14
         }
       ]
     },
@@ -94,26 +94,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Stock Market Is Doing Something for Only the 6th Time in 156 Years, and History Says It's Clear What Comes Next for Stocks",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDk0M3pBZFVxN2dFRjVfakVoM3FOeXI2YXY0ODFqbmtkbXZGdVEyaEs5dV8xWnhNd1V0WWZpOG5rc054aFZOR2RNUXpIVV9aUGprbzBjSUNuQXNpdzBtQlFJd2RGZDFUcDNrc3llMkVpcFl4Q1lTbFQ3YzJBbUN2dmFaWTJheVpha0pDcXRQaTJIb0oyZHQ0Z0pzZEdZemg1ME01dVd0TzY3SGlxTER6MnRNVFpSZ1R2M3NKT2h6TGJIM3BGYk5kTzBCYU5kWEtSUk1DeQ?oc=5",
-          "time": "11/15 20:36"
-        },
-        {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "‘Bond King’ Jeffrey Gundlach Is \"Not Interested in Buying Stocks.\" His Warning Points to 10 Years of Losses",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRnlndVdTVjZvUEgxeVRFckJNUkxkaElCanJ2VzE4aDN5bkIzelQyWExUTWRrcG13SHZLcnVQeDlQc2lvLTVjZVZPa3VlUlRVYWZyUEM2dXlISWdIUWlJN2pvMmgtZEZKamhJbjJfX3lkdk51MXROYy1QRURwLXNRUVNBREVfai00cFhKQTVtS3htT2dCeGJJbXlxVXJIcVY3dzVESTFRbmwxZk9iTDlVYmNSZ20zMzlTQUtTam9BaXRoUnNILXAtVEY3bTM0Tml6WFhoYUY2STJDOXZ5Qmkw?oc=5",
-          "time": "11/16 02:12"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Warren Buffett stock market warning: What history reveals about crashes",
-          "src": "Beinsure",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVY5Y3FTMER1ZkpENjFWSWVzYjhVZjdUYXpjclN1YmFfWWFBV2g2dFNEQU8xYm9tcHRzd3FQc1FFMF9qM2UxdmpVcEZjTzhTQkpiMHFjc3JicFJ0anlndUJnQW5mUExsN1JWeGFveDJnN1NvbVREZHBjRF92T0hQSGNjaFZDbU5UNHk2bG8zWS1MVXBKakJmQnYzbjRvQQ?oc=5",
-          "time": "11/15 23:54"
+          "t": "Are Wall Street Analysts Predicting General Mills Stock Will Climb or Sink?",
+          "src": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkJHcVRPSFU2V2ctU2VWQ3VjSlNweDRPQWdQVW5JOEVBUUdlemRNcTJDNVI3Z2dzUWJzMHVRWkRCRTdnVVdiWG1KNks0OFZHMUVRUVYyRlVGRzZxTVBtNFQwQzVaYnZ3Y2pNejBpd19NcWpEX2VrV3A3VjNJZzBveG5zRWQ5MjBrVS1UekV4VWFnbURsSWliak9MSlcxb09pbUpmeTRNdDl2ejVyWGZzYlJRS1BLWmdHeWc?oc=5",
+          "time": "11/16 07:06"
         },
         {
           "cat": "earn",
@@ -121,7 +105,23 @@
           "t": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
           "src": "MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0FLQ0NMYkFoSENpZEJTOHNiZUFzcFlnXzhfY19VakFuR0dHS3lpcmJLY2h2ZjQzWHo5ZVVzU2VOTHdCWWV2R1NGcEU3dVV4Y3o0Um1yR1VuVkZ2NE4wQ01NRnhFanAxR242dXVVYWxLeW52enAxalYwVHhwaVJTODU4VjZqMTZyckZQR1pNbWRXWFkxeXIxVkstc05STzR3M0FfWXJvczZJVV9PRWhWNzA0Z0wzU0pydzJva1NSVWw1TXNzLVA0?oc=5",
-          "time": "11/16 00:00"
+          "time": "11/16 06:32"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Prediction: This Will Be Micron's Stock Price by Late 2027 (Hint: Wall Street Expects 106% Upside)",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjFuRWlHczk3YnFyaEhaRVU2bEw3dnpQMUhCZllBNjlQQzk1RENNM0dNeFU3WTdsYXVYX3pqYWI5RVo1YWdadmtDbkRCZmxWdVc2VlNVcW1ndm1NTE1XQVZPQmoyQlQtYWJSYjA3Q1Fnc2lMQlN6M2pEU0FQdmNIbjdzd0l4WGJXeU1STF9B?oc=5",
+          "time": "11/16 05:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "The 10 biggest stock market IPOs",
+          "src": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNG1yazUxNmpKUmtnM1pHcnFSSkwybDdnb0NSWlpzNWQ0SHVIOG84eXlvd0lqYXBHSkNMQ2JiOVVZOXY4SDJ1QWFWMlZ0NWt1bWl2MkIxMVY4eXc4bDdHNEpKSzBvTFAxVXc0azM1eVlxdEJPY0Q1R0VEcm5XQVdpcmNQck1sdw?oc=5",
+          "time": "11/16 10:29"
         }
       ],
       "indices": [
