@@ -1,74 +1,74 @@
 {
-  "updated": "2026-11-16T01:36:40Z",
+  "updated": "2026-11-16T22:23:49Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[개장] 코스피, 5300선 돌파 후 하락… 삼전닉스 약세",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEYWJMd3lfTjhGR1p4SVJlcDNUeUZpVXE4NHAwQmdRbUF5a2dVQWp4VlVzNmhQOVRPMkdmWHJ1amItU3hCbjc0aGxyVXBkX3R2T0prcnZCMmJtaTc1ZmFVaE9rM3FVRmU3aUtVRzFFSG7SAXRBVV95cUxPTzloZ1RtWWEtNnhUd1VQLXJVVGhrbmktRjdFWjRydHlJajBkNE42ZnUzdkFFZmg5M05mSDRqM0ZHVWFJZFBkMnBNVzR1cU9xQzlWdzhPTzBBbjl1bGJ5NnhjRTVoN3lJWXN1R0s5cDU3R09ORw?oc=5",
-          "time": "11/16 09:47"
+          "t": "모건스탠리 \"韓, 향후 5년간 주식시장 최고 스토리…코스피 1만선 지속가능\"",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wOE9aNmRvQ0hoRHdSUEp5YTF0OU4tSHdLbnlSREZtYktyeE1lUG1tYWppamRIM016a3hiZHd5dkEyS1N5MFRpUkttX3VQNXhPb3N3UGgtZmNjOS1BMGc4bmdnRXFZY2Y2bENMaGlBTnU?oc=5",
+          "time": "11/16 16:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "한투증권, 내년 코스피 목표 8,300…\"점진적 상승세\"",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LUDdja2prZ1RFRml6OFhjbTNSMkpaeERsdGRRVG4tT1hzWDNaRlJGRm91OXRFWnAxc01UbkJXTVN0eDlxd1U5N0lLTi1UTVViQWp4LVhoV2dwOTRFcVY1cdIBYEFVX3lxTE1LUDdja2prZ1RFRml6OFhjbTNSMkpaeERsdGRRVG4tT1hzWDNaRlJGRm91OXRFWnAxc01UbkJXTVN0eDlxd1U5N0lLTi1UTVViQWp4LVhoV2dwOTRFcVY1cQ?oc=5",
-          "time": "11/16 08:21"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[마켓라이브] 외국인·기관 매도에 코스피 강보합…삼성SDI·태양광주 강세",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWEdHenc0V3NwejdWMDRZMVdpdkdZcl9uY3dzbDNNRFg5WGNtWV93SHdFeFh4d0ZVVkpydWVRM0hJNjhyRHRwNk03aXFndWNsVXNucjVEdFkwUQ?oc=5",
-          "time": "11/16 09:18"
+          "t": "6,000 시대 맞이한 코스피, 전문가들이 꼽은 넥스트 주도주는?",
+          "src": "네이버페이 머니스토리",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WdGJRSWZxTTQ3ajJHMU51ZHlFQXY5aVdjSEdVRERueTNKMWpXemZ3VXFfRmN1UVUwajZ0TnhYLVRDOHdmeTJHNDVFQW1hajROVmMtX0hRQnA?oc=5",
+          "time": "11/16 13:52"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "ELS 악몽 또…9천피때 발행 상품 94개, 내달부터 만기",
-          "src": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xZDZoYTFPLU1VUm9oWEo3MUpKUlhKVFBnRURmOHV2N2E1ZmFXQkRRSE11d096Ul90UVF0ZHJ0T2FNV1lKaHFfV0N4OHNsSVJRSWNmaEwzc1h0U0Fmc1pRNWl1MUpBUUk?oc=5",
-          "time": "11/16 07:58"
+          "t": "코스피 5천선 붕괴 우려에 개미들 ‘발 동동’…\"상승장 믿고 뛰어들었는데\"",
+          "src": "진일보 | 전남일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QaVZiQjRVRjN2T0p1MjgyaEdCRUhpbGtxODJtNjEzb1JPYjMyX3dpczg2X1JKUHFVcFN1WnVMa0lFa0RPaHFkYllBWWFNTkNjUXgyYjhLY1Z2WXVJaWQ2UWUtZWMyOERkVmMxaDRaaw?oc=5",
+          "time": "11/17 03:00"
         },
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "[오늘 증시 전망] 코스피 5,300선 내주고 외국인 매도 전환…16일 국내 증시 방향 주목",
-          "src": "업코리아",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFaTVUbDU2OHJiX3R2NE1ySW13TXJ6TlBnZzNGajlFNVJQY3gxWmRHQlBzVXFBZGhEeHRuemdmUk1SU29WYXc1M0JrbjJOYnpqMWlOdHpKT0RINFV0bjNqRnFwTkRZeHVvM2xCYUR3?oc=5",
-          "time": "11/16 08:26"
+          "t": "외국인·기관 '쌍끌이' 매도 폭탄…코스피·코스닥 급락",
+          "src": "프리진경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wU21TV3BwN21aWDZ6aVd2a1daSVhBZC00c0NzbmFxQnJBUjQ2U0tNdE8xQTlfbFNOQlJPOGhKOWhzNGxrNzlEZ0dzUkVBa3NkVHgwaFMtQXNpcmhyWjhXaUVick9EOEhvN3RJdg?oc=5",
+          "time": "11/16 19:36"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 3.59% 급락에 5,100선 턱걸이…외국인 1.4조원 순매도",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwVndGb2hCbjh0Ql9ROU1BLUZfZXJuRk12ZlNXUVlCd3hZcXVENEdjeEN2aWRMYXczZC1ZaHYtTFc1b2lPQVJDTncybk1YSXFNeGFueWFRSUFjbDZjTHZaa2ZyWlJPVFNnMXh2bWluNmPSAXRBVV95cUxPMTlYaWc0VWs4VDUzT2I1TEVaTC1GUVVLVzl6bmo0T1c5bDgtdnlqci1EcHE2REtodUtEOW1kdVBHMERaR0g1OEpTM28wOGIycTExblpGNndBUFNEd1h0YkJ5TlVpX21TV0JQV282aFhuaGJMOA?oc=5",
+          "time": "11/16 16:23"
         },
         {
           "cat": "macro",
-          "catn": "금리",
-          "t": "[오늘의 증시]美 반도체주 급락·연준 '고평가' 경고…코스피, 또 하락하나",
-          "src": "뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fWlVRaGRVNFowRi1yakt4elRJODgtaHZ4aTE4eXZIazM1VjVjRDhtb09rdGxXaDlRTnZseU1BbGhIa3hFaUo4T0lDam9VSkNnRGhoSDFkLWw5MGdzQTBMTlpNeWd2bGlycW5ybWROc0QzVnhIVGhXN9IBeEFVX3lxTE1fWlVRaGRVNFowRi1yakt4elRJODgtaHZ4aTE4eXZIazM1VjVjRDhtb09rdGxXaDlRTnZseU1BbGhIa3hFaUo4T0lDam9VSkNnRGhoSDFkLWw5MGdzQTBMTlpNeWd2bGlycW5ybWROc0QzVnhIVGhXNw?oc=5",
-          "time": "11/16 07:50"
+          "catn": "시황",
+          "t": "\"코스피 1만 이상 가능…한국 르네상스 온다\" 전망 내놓은 모건스탠리",
+          "src": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BWWR6c2YxZTZxd2Y1UUJ4eUNreWR0bV96WDVMN0xaXzFlV0FLeGhWWWFFUHpKNF9VT1haNUpLWm5KSUdrT2NoMlVpNktkRWJjN1J2TXE2c2hZWW8wSEVOSHVB?oc=5",
+          "time": "11/16 15:19"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5184.19,
-          "pct": -2.01
+          "value": 5290.53,
+          "pct": -0.98
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 677.09,
-          "pct": -3.23
+          "value": 699.66,
+          "pct": 0.45
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1335.71,
+          "value": 1335.64,
           "pct": 0.14
         }
       ]
@@ -76,72 +76,72 @@
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Opinion | Rational Investing and Stock-Market Bubbles",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGRaNkVGX1pVRUpIZlU2SGNDQVJkRE9JbVRFc3pVS1VpOXNPM1dwNGFpWFVrWXZBLXV4Skd6RkIxTTNwZEJFdFB5ck1xNzhwdHV5TFpvcm90U3I4RDRIV1pndmltRmFPdEljZ2xYNlVHOE84aGNlV0l5ZUlCNWN5bko2MmpZYXM?oc=5",
-          "time": "11/16 02:55"
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVNlc3FyY2w0TUVtTDRsVF9HUUMyc2JPU3JQZUJvYW5SZll1SUExRXNkXy15amJWNEJTUVdndFNPVEZZUzBzUl8xWFpWTTZkNEg2UzJ3MWpLcHQxRWM1VmFsNENQX2Q2U0hxb3VzRWI2RDU5bklWYWdTSlVsTlRHOW9WSmpFR19rWTFOSmZMd0F5QzVCUWc?oc=5",
+          "time": "11/17 02:45"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "'Massive shoes to fill': Wall Street sours on Nvidia stock after Jensen Huang's exit",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUhad2VoUnU5VjNDX3N6UW5WX1FFaFA1eUU2V1kxX3BTQlpVX2twdVVaUHEtTWozYWZBRzRwbHZ6NE1OdHpQWXV2cml5b2R5bGY0bVk1Y19qM0pFcjk1V1NWUFNuX2lHOUlVLXVpeVRJam9mSjdiMTI2OG1KS3FvcmVQVGV0Uzh0TldXa2NLUmhNeTQtZS1oS3dydFJHTWNDcHdDLUtpakNCcV85eDdKTG15M3hqNnZOUko5RVB3aHhvbEJuVVE?oc=5",
-          "time": "11/15 22:18"
+          "t": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+          "time": "11/17 06:01"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms",
+          "src": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDFmeWs4Mm9sak00SUdyanU5R3pJZmREWUFPa0lhRGpMellwbG90YlgwNm5VbmZfZ2daNGZSN1hyZ0k3c0N2REQ2YXRWbHBJSDUtb3c0bG1tM0djR0NlQlVob0p1VkdGaTZRUnl2ZXF2X2kxN29seVN2M2NhcjQxR0lRWEdqa3NEZG5PM1BEdUlSaXhqZXVfeTFaaWgtSnRYOTVsQmNyOWM2dS1TR1o3SDV1TGdWQzJZai1ucjlvVTRTejVXV1NsZF95LUJhREY5?oc=5",
+          "time": "11/17 06:42"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Are Wall Street Analysts Predicting General Mills Stock Will Climb or Sink?",
-          "src": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkJHcVRPSFU2V2ctU2VWQ3VjSlNweDRPQWdQVW5JOEVBUUdlemRNcTJDNVI3Z2dzUWJzMHVRWkRCRTdnVVdiWG1KNks0OFZHMUVRUVYyRlVGRzZxTVBtNFQwQzVaYnZ3Y2pNejBpd19NcWpEX2VrV3A3VjNJZzBveG5zRWQ5MjBrVS1UekV4VWFnbURsSWliak9MSlcxb09pbUpmeTRNdDl2ejVyWGZzYlJRS1BLWmdHeWc?oc=5",
-          "time": "11/16 07:06"
+          "t": "Stocks slide to kick off major week for Wall Street",
+          "src": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XNnJ2aVJmdnhfSDlwVHd6dU9kalV4cWo4dEN3NlViemFRTnNUeXZCMk1PSWh5NVhWSlVHWjVoMGJSWFp0eDB1eDlkbHdIbVp5VzdGdHdycUFDQmNLSllhNlRIcHY5bXJKRHJkNmxfX0o3WVdD?oc=5",
+          "time": "11/17 06:57"
         },
         {
           "cat": "earn",
           "catn": "실적",
-          "t": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0FLQ0NMYkFoSENpZEJTOHNiZUFzcFlnXzhfY19VakFuR0dHS3lpcmJLY2h2ZjQzWHo5ZVVzU2VOTHdCWWV2R1NGcEU3dVV4Y3o0Um1yR1VuVkZ2NE4wQ01NRnhFanAxR242dXVVYWxLeW52enAxalYwVHhwaVJTODU4VjZqMTZyckZQR1pNbWRXWFkxeXIxVkstc05STzR3M0FfWXJvczZJVV9PRWhWNzA0Z0wzU0pydzJva1NSVWw1TXNzLVA0?oc=5",
-          "time": "11/16 06:32"
+          "t": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
+          "time": "11/17 05:03"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Prediction: This Will Be Micron's Stock Price by Late 2027 (Hint: Wall Street Expects 106% Upside)",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjFuRWlHczk3YnFyaEhaRVU2bEw3dnpQMUhCZllBNjlQQzk1RENNM0dNeFU3WTdsYXVYX3pqYWI5RVo1YWdadmtDbkRCZmxWdVc2VlNVcW1ndm1NTE1XQVZPQmoyQlQtYWJSYjA3Q1Fnc2lMQlN6M2pEU0FQdmNIbjdzd0l4WGJXeU1STF9B?oc=5",
-          "time": "11/16 05:30"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The 10 biggest stock market IPOs",
-          "src": "France 24",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNG1yazUxNmpKUmtnM1pHcnFSSkwybDdnb0NSWlpzNWQ0SHVIOG84eXlvd0lqYXBHSkNMQ2JiOVVZOXY4SDJ1QWFWMlZ0NWt1bWl2MkIxMVY4eXc4bDdHNEpKSzBvTFAxVXc0azM1eVlxdEJPY0Q1R0VEcm5XQVdpcmNQck1sdw?oc=5",
-          "time": "11/16 10:29"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street and Main Street Agree: It’s Time to Tame the AI Trade",
+          "src": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnZxRnlyUFAtVTZIWDZMcm8xRzZuNGFseHVoeVBuTW5JN3JZdlh0Z2s2ZEpGU3JiZk5SdkdmcXdlT0JJaE1lSFphVWVfc0hoeG5DbUE1RHFIOVd4T1JXTkVzekFEbnUzMWdTamM3WURUVEd4OS0wLTlWZzY4bnFLa3dVME1HWkVSWnVXSk9vbDVWT1FYdGJ3azl0NXpxM0thYnZsdm5iYUs?oc=5",
+          "time": "11/17 01:33"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7561.67,
-          "pct": -0.4
+          "value": 7416.59,
+          "pct": -1.92
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 25136.27,
-          "pct": -0.91
+          "value": 24509.76,
+          "pct": -2.49
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 52347.55,
-          "pct": 0.1
+          "value": 51608.17,
+          "pct": -1.41
         }
       ]
     }
