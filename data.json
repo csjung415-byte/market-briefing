@@ -1,80 +1,96 @@
 {
-  "updated": "2026-11-16T22:23:49Z",
+  "updated": "2026-11-17T04:20:57Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "모건스탠리 \"韓, 향후 5년간 주식시장 최고 스토리…코스피 1만선 지속가능\"",
+          "t": "NH 리서치포럼 \"내년 코스피 목표 9,200선…상반기 순항·하반기 변동성\" |",
           "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wOE9aNmRvQ0hoRHdSUEp5YTF0OU4tSHdLbnlSREZtYktyeE1lUG1tYWppamRIM016a3hiZHd5dkEyS1N5MFRpUkttX3VQNXhPb3N3UGgtZmNjOS1BMGc4bmdnRXFZY2Y2bENMaGlBTnU?oc=5",
-          "time": "11/16 16:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "6,000 시대 맞이한 코스피, 전문가들이 꼽은 넥스트 주도주는?",
-          "src": "네이버페이 머니스토리",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WdGJRSWZxTTQ3ajJHMU51ZHlFQXY5aVdjSEdVRERueTNKMWpXemZ3VXFfRmN1UVUwajZ0TnhYLVRDOHdmeTJHNDVFQW1hajROVmMtX0hRQnA?oc=5",
-          "time": "11/16 13:52"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 5천선 붕괴 우려에 개미들 ‘발 동동’…\"상승장 믿고 뛰어들었는데\"",
-          "src": "진일보 | 전남일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QaVZiQjRVRjN2T0p1MjgyaEdCRUhpbGtxODJtNjEzb1JPYjMyX3dpczg2X1JKUHFVcFN1WnVMa0lFa0RPaHFkYllBWWFNTkNjUXgyYjhLY1Z2WXVJaWQ2UWUtZWMyOERkVmMxaDRaaw?oc=5",
-          "time": "11/17 03:00"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sMFd4dUF1UVNXbjYwNTZTQmlzUy1BMFJkSzhZQmx6aGpxdUpxZW9UYlJ0Vl8tZkJOQk9zY2Z2cW10bjFZakpMVDhWdHp0VW9yUUNEdGkxUktyY0x0MnV3OG9GQ3pmbTIxTXhZcTZaclMxdnZM?oc=5",
+          "time": "11/17 10:08"
         },
         {
           "cat": "flow",
           "catn": "수급",
-          "t": "외국인·기관 '쌍끌이' 매도 폭탄…코스피·코스닥 급락",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wU21TV3BwN21aWDZ6aVd2a1daSVhBZC00c0NzbmFxQnJBUjQ2U0tNdE8xQTlfbFNOQlJPOGhKOWhzNGxrNzlEZ0dzUkVBa3NkVHgwaFMtQXNpcmhyWjhXaUVick9EOEhvN3RJdg?oc=5",
-          "time": "11/16 19:36"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 3.59% 급락에 5,100선 턱걸이…외국인 1.4조원 순매도",
+          "t": "코스피, 외국인 매도에 5,000선 위태…AI 투자 불안에 1%대 하락",
           "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwVndGb2hCbjh0Ql9ROU1BLUZfZXJuRk12ZlNXUVlCd3hZcXVENEdjeEN2aWRMYXczZC1ZaHYtTFc1b2lPQVJDTncybk1YSXFNeGFueWFRSUFjbDZjTHZaa2ZyWlJPVFNnMXh2bWluNmPSAXRBVV95cUxPMTlYaWc0VWs4VDUzT2I1TEVaTC1GUVVLVzl6bmo0T1c5bDgtdnlqci1EcHE2REtodUtEOW1kdVBHMERaR0g1OEpTM28wOGIycTExblpGNndBUFNEd1h0YkJ5TlVpX21TV0JQV282aFhuaGJMOA?oc=5",
-          "time": "11/16 16:23"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TVTNITUlNRUdVY0dXWnZjWjhiWTRJZmtpakUwb1ZhX2FnV3h0ektCMkVNaWwwcjlYejRza1E2WXJCOTNyWVZfb2k0Q0tkY1pqc3AtZFlFZ05QMnpVckpjYXpXSGxES2t2UzJtU3NYaHbSAXRBVV95cUxQUU1xQ0sxNDF3MTVxelBnY21jOXRFd1hmTnItbkpsanNhTTBvWjFESEExTUZfOHhlb1BkRFJHOVhGU1dhRVVnRGJjcjlLTlM4VFc4X0ZOUnZwTHNPaXVvMHE3aFpIYURkaW03MUVfTXlfSnhrSA?oc=5",
+          "time": "11/17 11:59"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"코스피 1만 이상 가능…한국 르네상스 온다\" 전망 내놓은 모건스탠리",
-          "src": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BWWR6c2YxZTZxd2Y1UUJ4eUNreWR0bV96WDVMN0xaXzFlV0FLeGhWWWFFUHpKNF9VT1haNUpLWm5KSUdrT2NoMlVpNktkRWJjN1J2TXE2c2hZWW8wSEVOSHVB?oc=5",
-          "time": "11/16 15:19"
+          "t": "[개장] 코스피, 美 AI주 급락에 장중 5천선 붕괴",
+          "src": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WY0x6bl9LR29ZU3RRc0VQTjg3QWFFMndoaTlneDgzZ3BKYjZUeFV1cDF0a1g0TFZwTmtFUlpvandNbHl6OWdjT1lGcXpoR3VxQXh4enRTaHpJTUE4THNwdmE3T0NNMVlFUDJQdDNRWHrSAXRBVV95cUxNOEg4NG4wT3dNcHRMWGNfdHdWdFZYOTlYTWdXLTNhV0U0alhMajJ3aTE0cVhhdkRiM0VuZ0NxLU1VTTNmMGhSRXFlZ3dGSTRhLUI4VGNOSVFOOTkyMV9pNHhQLUUzTFFzUWZ4ajNDdWIxT215bw?oc=5",
+          "time": "11/17 10:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"NH투자증권, 내년 코스피 목표치 9200\"",
+          "src": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiaEFWS1l4bzkwNEsyWUdOZ19GNFRPeVRBdEJUWTR4Mk5yMWxadXlLc0I4Yk10Wk9yQlhiVGFMbXd4NGYwWGEyaUZvTU5TX1hNbktkejRueVRCOFNQSllfNk5iNWc?oc=5",
+          "time": "11/17 09:06"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“내년 코스피 9200 간다”…NH투자증권, 상반기 강세·하반기 변동성 경고",
+          "src": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FVERzSUR4S1FwVnlLU0VYcUNwS09zd3JKWmRHZUtNWVFqMTdNZUNRRDBrZGdpQm5KbUp1M2RVWFpibXZ4aFozdjZiWHhQMEU2bmFOS0FLMzBYNDBwX3R1RUhvaGQ?oc=5",
+          "time": "11/17 10:25"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "NH투자증권, 내년 코스피 9200 전망…투자전략 포럼서 해법 제시",
+          "src": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yOUxLUGFGNjZjS0JHWU1vVEdIUW9saUVSWnhUcXlNX0hCaHdTRWFELXJOTmR2SDFaYmI0X0FhOG9WNWlqTUpqeWxIdjA5dlVoVXdVS1ZITjdxRmNs?oc=5",
+          "time": "11/17 09:48"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5290.53,
-          "pct": -0.98
+          "value": 5009.17,
+          "pct": -1.79
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 699.66,
-          "pct": 0.45
+          "value": 656.45,
+          "pct": -1.38
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1335.64,
-          "pct": 0.14
+          "value": 1337.58,
+          "pct": 0.32
         }
       ]
     },
     "us": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Stocks slide to kick off major week for Wall Street",
+          "src": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XNnJ2aVJmdnhfSDlwVHd6dU9kalV4cWo4dEN3NlViemFRTnNUeXZCMk1PSWh5NVhWSlVHWjVoMGJSWFp0eDB1eDlkbHdIbVp5VzdGdHdycUFDQmNLSllhNlRIcHY5bXJKRHJkNmxfX0o3WVdD?oc=5",
+          "time": "11/17 06:57"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
+          "time": "11/17 08:45"
+        },
         {
           "cat": "earn",
           "catn": "실적",
@@ -86,26 +102,10 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
-          "time": "11/17 06:01"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms",
-          "src": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDFmeWs4Mm9sak00SUdyanU5R3pJZmREWUFPa0lhRGpMellwbG90YlgwNm5VbmZfZ2daNGZSN1hyZ0k3c0N2REQ2YXRWbHBJSDUtb3c0bG1tM0djR0NlQlVob0p1VkdGaTZRUnl2ZXF2X2kxN29seVN2M2NhcjQxR0lRWEdqa3NEZG5PM1BEdUlSaXhqZXVfeTFaaWgtSnRYOTVsQmNyOWM2dS1TR1o3SDV1TGdWQzJZai1ucjlvVTRTejVXV1NsZF95LUJhREY5?oc=5",
-          "time": "11/17 06:42"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stocks slide to kick off major week for Wall Street",
-          "src": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XNnJ2aVJmdnhfSDlwVHd6dU9kalV4cWo4dEN3NlViemFRTnNUeXZCMk1PSWh5NVhWSlVHWjVoMGJSWFp0eDB1eDlkbHdIbVp5VzdGdHdycUFDQmNLSllhNlRIcHY5bXJKRHJkNmxfX0o3WVdD?oc=5",
-          "time": "11/17 06:57"
+          "t": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
+          "time": "11/17 07:14"
         },
         {
           "cat": "earn",
@@ -113,15 +113,15 @@
           "t": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
           "src": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
-          "time": "11/17 05:03"
+          "time": "11/17 06:05"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street and Main Street Agree: It’s Time to Tame the AI Trade",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnZxRnlyUFAtVTZIWDZMcm8xRzZuNGFseHVoeVBuTW5JN3JZdlh0Z2s2ZEpGU3JiZk5SdkdmcXdlT0JJaE1lSFphVWVfc0hoeG5DbUE1RHFIOVd4T1JXTkVzekFEbnUzMWdTamM3WURUVEd4OS0wLTlWZzY4bnFLa3dVME1HWkVSWnVXSk9vbDVWT1FYdGJ3azl0NXpxM0thYnZsdm5iYUs?oc=5",
-          "time": "11/17 01:33"
+          "t": "U.S. Stocks Extend Slide on Nvidia, China Fears",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5",
+          "time": "11/17 07:06"
         }
       ],
       "indices": [
@@ -140,7 +140,7 @@
         {
           "name": "다우",
           "code": "DOW",
-          "value": 51608.17,
+          "value": 51608.2,
           "pct": -1.41
         }
       ]
