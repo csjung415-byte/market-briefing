@@ -1,8 +1,40 @@
 {
-  "updated": "2026-11-19T02:57:22Z",
+  "updated": "2026-11-19T20:51:56Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"AI 투자심리·한한령 풀리나\" 기대감… 수능일 '증시 한파' 없었다 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oT3ZCSEV6OWNCdU5EN1F3R2ZLTjd5VFNBdkZoTkVkVXhfdXpvWDFCa0M5MlNxVHNxUERjUU1qVnYzT3pqbnlSb0JjdDQ1QVc4UXNrV2JGZWdpemdjMUVoRnlkUUFINTZH0gFuQVVfeXFMUFZTWERzbllYcUt3UlRhck9ycEVfMVZqdXhxUVd6ZlFTUlV5NGZWTXZ2NTlTSzRMYkUzOXBvM3lWT0QtMmp2cE1QWTF3WUxBd05OZ0lGMDZqV29DdXJPQ2Rtcm45bVI2eU1MMkJMZGc?oc=5",
+          "time": "11/20 04:17"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 5천 선 지지선이 될 것인가? 또 다른 저항이 될 것인가?",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10QmFJMmU4UDB0aWMzdG5fbVlDdzFwU2YzQjVvZDZVM3NGbUhUMEZaSFczeS1POXpGUjZFS084NmQ4NmFtcWNzSlVOYXRMejFYVE9wNmVNTER6MGh3U0Rmbw?oc=5",
+          "time": "11/20 03:12"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 5천선 회복에도 증시 자금 이탈…투자자예탁금 연중 최저",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KR3oweDBoeHFsSG54WUpFRUlrTVB0WGtUYW0tMHFUNk9GTnE1ZUpvSnNCel82cWtMZjZsSUpMQUY5SjBwaGVFN1F4R2FMOGZFdjBKbmszUm5SVUcxRDktTkRXd2Q4Yk42di00S0dJMlbSAXRBVV95cUxQTHBIUzlpLWlqcDVKWEVMaW14ZG5LU1luVlQ3NmMxX21fSHF3Y2lZSkIzVEl3bDZhUC1nX1RKU0NYM29MeHlETzNNeVo4SjduODd3Qmdabkl1SXBCbEpFSmNKLWZKRWJnWWRTNzAtbm9ON2xUMw?oc=5",
+          "time": "11/19 16:45"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[증시-마감] 앤트로픽 IPO 흥행 기대에 코스피 5,100선 탈환",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oU3hhWXIybTNSV3pXZFNacHlPN2g5NWlTMnZoSzVIMWZMUGllbWxuOGtKd0UzRXBFTE0yMlFsX2pGc2RWMkd6YVQtWFBMMndmekZQa2w1MUp0Rm1lOFQtTWxaRTRYLW5Sa3gtdFhLbEg?oc=5",
+          "time": "11/19 16:56"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,62 +46,30 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "오늘 9시엔 주식 못 산다…수능에 증시 10시 개장",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMWpKOTI3bV9CazJvRWdMT2M5MXRJVUw0NFBBQ0hoSkhTU1pVN05MdjNCckN0VG1IZ3JRaGh2aVlMbmw4QWdCYVdWTnpEVTEzZWhxR0ZxZ0d6QQ?oc=5",
-          "time": "11/19 08:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "美 증시 혼조세에…코스피 장초반 보합권에서 '오락가락' - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43Um9OMThNakQzYXJVMWp1djNfZC1KU0FJUEVxQXprdG15bjRXYVdOdThuZF9iOFdNUEhLT1RQUnhMU2M0R2hzVlB0NjlsOThDYVBiTTh6VW5aSHIxaHllOGoxVEtyV2Y5aEhOTHF30gFuQVVfeXFMTjdSb04xOE1qRDNhclUxanV2M19kLUpTQUlQRXFBemt0bXluNFdhV051OG5kX2I4V01QSEtPVFBSeExTYzRHaHNWUHQ2OWw5OENhUGJNOHpVblpIcjFoeWU4ajFUS3JXZjloSE5McXc?oc=5",
-          "time": "11/19 10:28"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[2027 증시전망] SK證 \"코스피 목표 8,800P…AI생산성 개선시 1만피\"",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04R1NCalZ1SDZLT0ZyLWdYNnh1c0Nma2ttTmh0cThEUjVBMUhXbTlOZU52YnphLWNMX2tVUTJWQ09IWFdieEtYRmk4R0J0RHNaQ19rR3JIQmMzRTc4cEpyWTNxV3gtTE1vdmFPT3c0SGo?oc=5",
-          "time": "11/19 11:04"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 상승 출발 후 1%대 하락…하루 만에 5천선 재붕괴",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwblRCeXFSY1ZYOWVOSGhRdEtCMzRiWGZJQ3lFM2FSRThzdFNFdjRScVdSM2hId0V3SktRalNLbWlEWWJpaC1xTWlubE40OGoyT2JIdmJJRjkzbFVnaDlCUmhLeWlGWnRJaXhwaXljNVTSAXRBVV95cUxPNHNnbTJZM29ZUUdOZ0xtSHZMSnFOczhzOHRIYTJaQnBRaU1vak9xdS02LUJneXZVdWk4bUNRbE9VNGVCaXNwU2dLaWphSnJEWEc1eGQwcGxEbnhiZ21zajZHdWs4TnQydUNjcGJ2VV9vczg2Uw?oc=5",
-          "time": "11/19 10:55"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "[개장] 코스피, 엔비디아 호실적 불구 하락 전환… 삼전닉스 약세",
-          "src": "IT조선",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ckY5R21lWEVzRDFSTWRUb3kzVWZDRnBZemxJeXEyeTEzNzRhUWVVb2ZnX291N0pjNHBfN2VFTS1jZkc4SG9NZlFLRzlJZGZBNzZVRG04a2hDMVRubWdNZXRLdUVVbnJoMnNwbTRJbHHSAXRBVV95cUxOY1NDa0NPeUNfb3diVmpCZlE2bHpkQ3NFVVpzSVpSRU5rdm13U21xQmVVdGxFN1NieVpwZ1dXLXo1WWM5VjI2ZVAwOVdWaExpSGpUUUZPTmtud0JIQ1c0N0JoY1dXT1haV0pxenhGUUVMU3d6NA?oc=5",
-          "time": "11/19 10:46"
+          "t": "코스피, 앤트로픽 상장 앞두고 1.4% 상승 마감…5100선 회복",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vQmJ1aFNXYVZ4YW0xUjBBMUludHU4T3NNT29taUFrVVVfNjFNVm54MTVMa0U2b1IwWDZFTXR2Q2xXcUZuVGtkSGExdDdqZm5DOEE?oc=5",
+          "time": "11/19 16:56"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 4987.53,
-          "pct": -1.58
+          "value": 5067.44,
+          "pct": 1.99
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 653.46,
-          "pct": -1.41
+          "value": 662.81,
+          "pct": 1.96
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1329.78,
-          "pct": -0.24
+          "value": 1332.74,
+          "pct": -0.02
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "U.S. Stocks Extend Slide on Nvidia, China Fears",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5",
-          "time": "11/19 08:22"
-        },
-        {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkVvNFN6NjNvS1d0WVdMQW1jOEJER2E0Q0pTc2xwSm1mcmcxVVkzaEl6UVhyZnJWYnBZckZrXzRFb1JaSGNpZjg3N1AxTHNfOHJDQVFaLXRnTWhhVU1RMlFqSVRIc1B2aDl2WmRfbEVXU0pNZy1Xc1dVc0FnbkJxQ1E3UFVua0gzUVlXenFJTkNDb1pTWnc?oc=5",
-          "time": "11/19 02:30"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street prepares for Anthropic IPO frenzy, despite broader AI stock slump",
+          "t": "Wall St slides as Anthropic's debut fails to revive AI trade optimism",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONkZkRVdESVU1UERiQmhZWmp5cl9Vel9VQlJOOWtLM3ZfVjFVVU5rYUZVWk5UVF8xU0t3SU0ybEF4UDNBOWFNeVI3RjlGMzZVdUhMbnV4UU9JQXpqM1FxZk1reHJGbFM5Qm1VcTMwTl81SEtvWVRYNjJRa0JPZ2xkamZfR3I2elFGWnhlNUFsMWNYMW5MeWJYR3o4SFg5NWhxa0tjYzJtMVpaelVhMUREQnZJa0huN1pzSlUzdTBHWm9ackd6Q0w4?oc=5",
-          "time": "11/19 05:16"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+          "time": "11/20 04:31"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Anthropic’s $83 IPO price puts it on track for a record-breaking debut on Wall Street. Here’s what it means",
-          "src": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaSEpySEJVdkE1YUZTN3FtVFNFU1JIRWVyTnk4QUJ2T0tIVjJTZjl2dUZWSGVBS0RaLWpVeU1jR0ZONG5TR0RPQnpuOGlnZ1JBQmxFb0tzUGc0RUcyN1dDTDNiQTdkMDBLUEZ0ckNlSDZiTVFf?oc=5",
-          "time": "11/19 08:49"
+          "t": "Dow Leads Stocks Lower After Anthropic Starts Trading",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdFNYN21fTE9wTk80YmxDNU96RlIzdnluRmtKMklDMVAxX1dEa1hGQzBNd1g2QUpBVUdLYVFLeVltUHR2b0MzSzJNMS1LX1VCU29NWm10TWQ0cTVncXdPbU5HLTZrVk9fODh0WDZkanl0UllHRW4zaFhsYU13bGl6WklFYTRjSEVTVjJsVnItTHZQWU5ST3AxVjItR3pTZG8tUW5WTjJLOEMtRXVkZDRRRWFDT0F6X0k?oc=5",
+          "time": "11/20 03:01"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+          "src": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EVDhiOXJnS0M5OG5QUG9nS3BYUTlJQ0hMdlRLSGpzNWsyTUtKZ29kaWEzNWlXZmtjV1ZMQzV4dWxVMEc3bHd0VG12N2pENHdDU0RQdkhqQXRHUFh3Z0dSNUdzb19qTDZVbDRuaGRhRjVSZkRHclNSZGhXMA?oc=5",
+          "time": "11/20 03:03"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "An early rally for Wall Street evaporates as the market waits for Anthropic’s stock to begin trading",
+          "src": "WTOP News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEUxVHM0SkFXazdYZGpfcjhIZVVQX1dvX1BnMTY2Q1BBRkJpbXAxeU9Qc3lvYldVYmNoYlZmdUtMVmhQdDdKSkdSeC1nVHlvdjYteHk1R0RCa2l2U0NlaWdMNm5oOGdHRGNoN2RmRHBBanhoc0lwaUtxcUZoMFVRaGctSlVxejZqbkpfcXRxdlRBS3ducmVmTHVlR0pIalAteHBJSTdjWDJRTjFQWFNMNA?oc=5",
+          "time": "11/20 01:04"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June | National News | 2news.com",
-          "src": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU3lpT0dkM2N5TmVjVmd4c0s0SEN4blNTZjRraDl1VnpUdmJhM1RMQVdMMnR2QXNLWWx4VlpmQmJwbUtRSzVzR2FfNlVYUlA1U3hQQ19xVHZsLVYxTmd3U3dGT3o0cUdTTWRaRkROVGRtWUhuQ2RvcWpTcGQ5SGdXbUpzaEVwbVJvOW1oZ2Y3aGlzLUxHeDU5cnJ4SHhzdXNlNDNleHdKSUJ6XzRuQzRydkZ3SjBQSEdScURIdmxJS3BIQUlIYkU4U0JCbEZaWHpzemJ6N3RWbE8tOWo3QkQtQUEtSFhHampud2c?oc=5",
-          "time": "11/19 06:19"
+          "t": "Wall Street rises after Anthropic's IPO revives AI stocks, at least for now",
+          "src": "WRAL",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUdmV0tBYU1FbEtLTU5tU1VHOU5KQW9RNms1RXlSWlVlRVoxSDdjUzF0Q0FOZzY5WVFXb2x3NlFxRGtLNjNvTWVEcUd6R3BPXzZEb0ZQbXh5NzRGUHpTc205ajlpdXh4T01XMWdsRTNMcDQtVTNVcmUzQ05feGVzOHFBZnozYVdtYzFKRDNGQU1UYTdnbjRvZkJGR3g5YU5hMklSNFZGb1NySUF5QmM2a2FPalZtUQ?oc=5",
+          "time": "11/20 00:40"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "A fifth straight loss for the S&P 500 drags Wall Street to its longest losing streak since June",
-          "src": "hngnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWdnaTJCMzVGWWJIUDcwTjNOcFp1Vl9LeVlFMk14NkU5VmtBazIxOWJBSEhzTGhncVFYaTBjSFhfb2VER2UwV25pT0NvbFNwa05JcFg0Tm15RTNrcXRQNUJEOGtabGFlLVlPSzMwTE5RM0l3cTQ2UjEwaGJYSlQzM0ExQUh0YV91YzMzaXdWZGZNOVZtMUZLWnhfbXR2cHh1M0ZkaTFqRWhRZGtPckRTV2F6aEltZ3RUNGNPaUNfRlBzRGliX3VVcWQwdXFIZFEyMkFwMkhnOWs3bjY1cERuRl9zWGlQcFBHRm42M2pB?oc=5",
-          "time": "11/19 06:05"
+          "t": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Awaits Anthropic’s Listing— PANW",
+          "src": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMHl1UG5odS1iUllYWUlvM0NvMGM4c0dsZUhJdTNuN2dUdUE0Q01KLURSOE1Sd1N2akNuZ19VX3lqdWZvZjRsM183SW13aTBoYlhGZWZmV1RjcEhiQ09CdEhTS0EteVpLVThzVnlKRHVDSzM5Sl8tazl5Nmd6bHVqZkIzSjFBdFliMGFIY0pYS0ZVNlV6aDlqZVJqck5jRHJPZDk4Nm5xQXZnNTJOajJhaXhVcTdGdUdibk8tUEZCcWZZTnNXb2gzZF9yQWtJMVdWckhsa2poLWlydEFvV2V0WmFSLVNhRldqbzdOZHpIX1gwQ0tLTnc?oc=5",
+          "time": "11/19 22:42"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7323.63,
-          "pct": -0.23
+          "value": 7187.44,
+          "pct": -1.86
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 24429.88,
-          "pct": 0.42
+          "value": 23928.3,
+          "pct": -2.05
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 50198.17,
-          "pct": -1.11
+          "value": 49178.33,
+          "pct": -2.03
         }
       ]
     }
