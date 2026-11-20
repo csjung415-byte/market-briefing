@@ -1,8 +1,40 @@
 {
-  "updated": "2026-11-19T20:51:56Z",
+  "updated": "2026-11-20T02:52:23Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“증시 재평가, 1만피 돌파한다”…조마조마 코스피에 월가 전망 엇갈려",
+          "src": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aWlZLcnRfRzRfblR5UnFJRkE4bGxoOHZPTDgyd29PdWpXeGkzXzNGZFVFRXdWSXlSQXhSNXU1Mmx2SXFfZmJsY3JsT3VaakdyV1E?oc=5",
+          "time": "11/20 08:19"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외국인 두 달 연속 '팔자'…10월에만 국내주식 26조원 순매도",
+          "src": "비즈워치",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85TDRmTmltLWlELVQtNkw5VVlkSzVCVjBDRE5iOGNEUlJndjhSUWxzR0pTUlVWNjlDLXhNRU1RbGswYzBYS3RTbVF0dXI1Ui1aOU1DZkt0R01HQVpkOW4tNU51ZjdiTWtIblE?oc=5",
+          "time": "11/20 11:47"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외국인, 10월도 '셀코리아'…코스피·코스닥서 26조 순매도",
+          "src": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1lKdDFqUThxbU1VWDk3QjdGbjJXZnpUa0NlN1V5QVpVb29SWnJ4UGloalNkRVRqSEtYU3V6Q1lPUkJxM3pmVnZPMWdNMjRRbmcxUWV2QUZxck1OUEdkWTZUejg3c0w1NFZHUHQwbmY3LWFaWUJHakpWUVpkYkdnZjdSQ2RPRzFx?oc=5",
+          "time": "11/20 08:06"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피 5,000선 아래로 급락…삼성전자·SK하이닉스 동반 약세",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JcDRXUE9zVnVyMnI3SFF0d2R2WlJOTzVIeFR1dWxNM0ttdFFUeGR2cElhcnFaT1haV3puNWplQzJWZzhlSnNudXM4bnA0dHV4WXQzY2ZfejVmbjBZMk5tckFYUlZfb0JrMXZqcTByRHHSAXRBVV95cUxPOGwySDJ6WlBpX0ZWenEzcEpscEJwcW5MaWNyRktQM0JUOEVwSmdwYmdCcHRxczNvTmZHcnU1NW9pZDZDSElOeGY0Q1JoSjkyX0o1LXdqZmRhUGZVVGNGWVF2Z1EyUDZkLTNOOXVTN3N0TkI5bg?oc=5",
+          "time": "11/20 10:02"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -14,62 +46,30 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 5천 선 지지선이 될 것인가? 또 다른 저항이 될 것인가?",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10QmFJMmU4UDB0aWMzdG5fbVlDdzFwU2YzQjVvZDZVM3NGbUhUMEZaSFczeS1POXpGUjZFS084NmQ4NmFtcWNzSlVOYXRMejFYVE9wNmVNTER6MGh3U0Rmbw?oc=5",
-          "time": "11/20 03:12"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 5천선 회복에도 증시 자금 이탈…투자자예탁금 연중 최저",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KR3oweDBoeHFsSG54WUpFRUlrTVB0WGtUYW0tMHFUNk9GTnE1ZUpvSnNCel82cWtMZjZsSUpMQUY5SjBwaGVFN1F4R2FMOGZFdjBKbmszUm5SVUcxRDktTkRXd2Q4Yk42di00S0dJMlbSAXRBVV95cUxQTHBIUzlpLWlqcDVKWEVMaW14ZG5LU1luVlQ3NmMxX21fSHF3Y2lZSkIzVEl3bDZhUC1nX1RKU0NYM29MeHlETzNNeVo4SjduODd3Qmdabkl1SXBCbEpFSmNKLWZKRWJnWWRTNzAtbm9ON2xUMw?oc=5",
-          "time": "11/19 16:45"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[증시-마감] 앤트로픽 IPO 흥행 기대에 코스피 5,100선 탈환",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oU3hhWXIybTNSV3pXZFNacHlPN2g5NWlTMnZoSzVIMWZMUGllbWxuOGtKd0UzRXBFTE0yMlFsX2pGc2RWMkd6YVQtWFBMMndmekZQa2w1MUp0Rm1lOFQtTWxaRTRYLW5Sa3gtdFhLbEg?oc=5",
-          "time": "11/19 16:56"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "수능일, 주식시장 1시간 늦은 오전 10시 개장",
-          "src": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40YUd6Y19IcWtpbUc3eHhpM1d6N29yN3FQWG80UzV2Wld1M2FQWmtKOVltSzVncTJ5bVg1T2JQZ2VSVVFaUDNqSV9hRm1wcHpybTVFYkx3T3lDUdIBX0FVX3lxTE5oVDFPUV9qak9EbWtWQWRLdlZDbi1nLURoejJtYy1IdTVHd1Q3by1SSks2VURQZXE5d1hRNUJ1ZnhJdTNfSlAxZDFvSnRqVWxodXRvM3FDSkxkd3Z3bHhj?oc=5",
-          "time": "11/19 07:37"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 앤트로픽 상장 앞두고 1.4% 상승 마감…5100선 회복",
-          "src": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vQmJ1aFNXYVZ4YW0xUjBBMUludHU4T3NNT29taUFrVVVfNjFNVm54MTVMa0U2b1IwWDZFTXR2Q2xXcUZuVGtkSGExdDdqZm5DOEE?oc=5",
-          "time": "11/19 16:56"
+          "t": "삼전닉스 4~5%대 급락…코스피 5000선 깨진 채 출발[이런국장 저런주식]",
+          "src": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jMXZkc0ZjcDRNNEdvVVk5ZnM2ZUNSdHAyeE1ITzE4UUNWSjVwV1J0QVBsekd2UU4tWE5GRmVWMWR4T3l5b2Y5SHlJTmw1ZjBWbVHSAVNBVV95cUxPM3lfcEdYX0RKZVc1UkJ4bFZDeTdoOEtMV1hVNTNiNVRXb2JPSGFNRkVveEZyVXhobVNtRXhEZ3ZZMzRkdjlrNUVHVkFOZ0tVemhFdw?oc=5",
+          "time": "11/20 09:19"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5067.44,
-          "pct": 1.99
+          "value": 4903.88,
+          "pct": -4.55
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 662.81,
-          "pct": 1.96
+          "value": 655.84,
+          "pct": -1.05
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1332.74,
-          "pct": -0.02
+          "value": 1338.66,
+          "pct": 0.62
         }
       ]
     },
@@ -78,18 +78,34 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall St slides as Anthropic's debut fails to revive AI trade optimism",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-          "time": "11/20 04:31"
+          "t": "A fifth straight drop for the S&P 500 drags Wall Street to its longest losing streak since June",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFNcnM4SHZMUHBoaEMwczJGRDNJZHRMTUwwYkNvamlyczc2OHJqSXNOZWE2dU1xLUkybDBMUURBQ0RNTFQyOWpJRWpmZTRmT210WldpWFl5NkhsZnN0VUkwRUpBRzZiVk9xQ01MZU1vM3ctQTVBVXF0MVBnVjUtVWJOeDgxUnhzWnRPSE8zaGY5clVSYzhURllKWExFOTA4RC1pdXpR?oc=5",
+          "time": "11/20 04:54"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Dow Leads Stocks Lower After Anthropic Starts Trading",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdFNYN21fTE9wTk80YmxDNU96RlIzdnluRmtKMklDMVAxX1dEa1hGQzBNd1g2QUpBVUdLYVFLeVltUHR2b0MzSzJNMS1LX1VCU29NWm10TWQ0cTVncXdPbU5HLTZrVk9fODh0WDZkanl0UllHRW4zaFhsYU13bGl6WklFYTRjSEVTVjJsVnItTHZQWU5ST3AxVjItR3pTZG8tUW5WTjJLOEMtRXVkZDRRRWFDT0F6X0k?oc=5",
-          "time": "11/20 03:01"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stocks plunge as investors take cover amid growing uncertainty",
+          "src": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZjFqa0hNX2pnT1d4RGRQWEhNTDl6djZzd2sxOFZhOWE3UnUyZFpxWk1NVzJrNnpGbS02bDctT2FLMUNNdzV2ZW9lMjVrM01ZRHpBNmpycjBJSVRVaWVPdGlyazkxQWJLal9BSHo1Zw?oc=5",
+          "time": "11/20 06:25"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+          "time": "11/19 18:03"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVh4Wm5XZk1VNWd4YmtfRFp3cW1iR0M2ZURsVWdjc3N5VzQwSlljV3dYdHRxYWFMVmRqay1JV0g0VEZtMElCeU5qdnA1YlVBMFNEMlJ2NTYxYWhJSmlXTUpUbTkyQlFvQzhSNkV1VXhQMV85Sk5NeDVQcks0ZnYxejhQdmhfREEwcVhBYkt1WTlnYzRW?oc=5",
+          "time": "11/20 07:10"
         },
         {
           "cat": "macro",
@@ -97,51 +113,35 @@
           "t": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
           "src": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EVDhiOXJnS0M5OG5QUG9nS3BYUTlJQ0hMdlRLSGpzNWsyTUtKZ29kaWEzNWlXZmtjV1ZMQzV4dWxVMEc3bHd0VG12N2pENHdDU0RQdkhqQXRHUFh3Z0dSNUdzb19qTDZVbDRuaGRhRjVSZkRHclNSZGhXMA?oc=5",
-          "time": "11/20 03:03"
+          "time": "11/20 07:45"
         },
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "An early rally for Wall Street evaporates as the market waits for Anthropic’s stock to begin trading",
-          "src": "WTOP News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEUxVHM0SkFXazdYZGpfcjhIZVVQX1dvX1BnMTY2Q1BBRkJpbXAxeU9Qc3lvYldVYmNoYlZmdUtMVmhQdDdKSkdSeC1nVHlvdjYteHk1R0RCa2l2U0NlaWdMNm5oOGdHRGNoN2RmRHBBanhoc0lwaUtxcUZoMFVRaGctSlVxejZqbkpfcXRxdlRBS3ducmVmTHVlR0pIalAteHBJSTdjWDJRTjFQWFNMNA?oc=5",
-          "time": "11/20 01:04"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street rises after Anthropic's IPO revives AI stocks, at least for now",
-          "src": "WRAL",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUdmV0tBYU1FbEtLTU5tU1VHOU5KQW9RNms1RXlSWlVlRVoxSDdjUzF0Q0FOZzY5WVFXb2x3NlFxRGtLNjNvTWVEcUd6R3BPXzZEb0ZQbXh5NzRGUHpTc205ajlpdXh4T01XMWdsRTNMcDQtVTNVcmUzQ05feGVzOHFBZnozYVdtYzFKRDNGQU1UYTdnbjRvZkJGR3g5YU5hMklSNFZGb1NySUF5QmM2a2FPalZtUQ?oc=5",
-          "time": "11/20 00:40"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Awaits Anthropic’s Listing— PANW",
-          "src": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMHl1UG5odS1iUllYWUlvM0NvMGM4c0dsZUhJdTNuN2dUdUE0Q01KLURSOE1Sd1N2akNuZ19VX3lqdWZvZjRsM183SW13aTBoYlhGZWZmV1RjcEhiQ09CdEhTS0EteVpLVThzVnlKRHVDSzM5Sl8tazl5Nmd6bHVqZkIzSjFBdFliMGFIY0pYS0ZVNlV6aDlqZVJqck5jRHJPZDk4Nm5xQXZnNTJOajJhaXhVcTdGdUdibk8tUEZCcWZZTnNXb2gzZF9yQWtJMVdWckhsa2poLWlydEFvV2V0WmFSLVNhRldqbzdOZHpIX1gwQ0tLTnc?oc=5",
-          "time": "11/19 22:42"
+          "catn": "시황",
+          "t": "The New York Times. . Anthropic began trading on Nasdaq on Thursday, becoming one of the world’s most valuable public companies. Its stock market debut comes amid concerns over economic disruption and the safety risks of A.I. Follow live updates. https:/",
+          "src": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjljRXg2R3NWR3VIYUJmekxHSWd2Um41Q1M2bFR1UmNqWHU1RGpsNDNnc1N5X1I1SjFOaklqNmJFdlR0eG1NYUg4UHF0Q3lMdjV5N2FRU2ZQcmxuVHJWQVdGUkxFMzZXamdYSkR1TG1BWFBTLW9Ca01sLUFrOG1Fd1JweVFlQ3N1emk5bGxkaDFER2hFNVNKRWt3Y01mc2RjOFRyeG9lNENzRWNqQUE?oc=5",
+          "time": "11/20 07:25"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7187.44,
-          "pct": -1.86
+          "value": 7175.83,
+          "pct": -2.02
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 23928.3,
-          "pct": -2.05
+          "value": 23879.2,
+          "pct": -2.25
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 49178.33,
-          "pct": -2.03
+          "value": 49097.06,
+          "pct": -2.19
         }
       ]
     }
