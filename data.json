@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-20T20:36:20Z",
+  "updated": "2026-11-21T02:59:51Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "42% 올랐던 증시, 결국 수익률 '마이너스'…코스피200 동일가중 음전",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2bDJaTk1uLThESnZPUy1UWHRtLVlxb1N5aVl3MWRrRVJZYUZzTGpLdXBoM3Qzd1hJMkN2NHZPSjB5TlZDN3huclpCeW9oaWlYRzdnRTdoZk9wblA4WkxHYkd1Rk80X2hsbmZjNS1pR00?oc=5",
+          "time": "11/21 08:05"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HNlhFb3F2Q3NFc2J4dlZlVkVLc1UxYzdGVDJSX2hOQVFhd3BVUnpIMmlKaUNETjNPTXZRcHhNYV8yMG1oVlVmRThZRXRtc3lCSGc?oc=5",
+          "time": "11/21 06:09"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -22,54 +38,38 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"주식 계좌 열기 겁난다\" 韓증시 4% 와르르...개미 '눈물의 물타기' - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44VGt4eTkwVEhHVzVmcnlKWTEwLUUyYnVpbDduWjB6TFpTel9wMFRNdG85NElKWVd2aXd5MVVyQmVUbndmMjBzOVpnZXE5QzVzVXN1MHN2NTdPazl5WDRLT2UtTkxwUEJx0gFuQVVfeXFMTmhkaGtCUTlJMHIyQ09XWjRqNnE0WVlQMjNqWmh0bmhLcTY0UVVKa1Rick9BaUxNaE9zZWNaZlJUMkF3czJKRzdRN19xV0JnNElxSldEd3VQaDhGV1lIdlRxY0FjdzhkMFZWS3NJeWc?oc=5",
-          "time": "11/20 13:39"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
           "t": "10개월 전으로 돌아간 코스피",
           "src": "조선일보",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1VHTEVvRzcwV2VnSzZreXNqeUFtVVFwTFpCYXdRaUtoRk10UVFQenFBczZCR0d5bzdTdHc3bWpXRTFYWjEzNnRIUTVHRHJ3elpHdVgxMERqTmttU2ppeHlISUMzS0szXzRBdmFfeVc3MGJ5N3BVa0R6U3ktZldxZ0J0OXA4VzhWcE0wYzdn?oc=5",
           "time": "11/21 00:56"
         },
         {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "[증시 프리즘] 외국인·기관 2조원 투매에 코스피 5% 폭락…아시아 증시 'AI 쇼크'",
-          "src": "https://www.moneystorm.kr/",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CQkNnd29VUHc3VnJrTHl1dVJZZEEwNjh4Uy0tUjZxNVlPNW5HMmF5c1pGQk51TV94RV8xbUMyS19KdUFPV3Y5NVVHcy1HNzdCTEVDQ0IyZmlqMnZ4ZDZlQ0pMbTZWVTJCNmc?oc=5",
-          "time": "11/20 16:43"
-        },
-        {
           "cat": "macro",
-          "catn": "시황",
-          "t": "삼전닉스 '와르르'…코스피·코스닥 5%대 급락에 개미들 '비명'",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rQk4wT0NTZGJ4Q2hXYkFRTFFvMlFzTnZMUWxQUzVKQk9mbExiQlBsbjhrZHFIWkF3Sm1nc05sb1V4RWp5THRhWUduT3dMUFlseGdsWnE1aHlfQQ?oc=5",
-          "time": "11/20 15:46"
+          "catn": "금리",
+          "t": "삼전닉스 무너지자 오천피 붕괴… ‘금리 변수’까지 만난 국장 반등할까 [주간 증시해설서]",
+          "src": "더스쿠프",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pc2tYWjdoTFBYQUpGc0xkd3J3dG5Ka0l2cl9NU3dxRHU4dVRDdDg4RTB6NVM4STRnNjJORmpXR2dVQWtzUUlkUFE0LXljVUpLaDZRQV9LRnc2TXFab3FOcW91MVZsU2JBaERUQXFR?oc=5",
+          "time": "11/21 10:03"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5137.89,
-          "pct": 1.39
+          "value": 4869.96,
+          "pct": -5.21
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 684.81,
-          "pct": 3.32
+          "value": 645.68,
+          "pct": -5.71
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1346.85,
-          "pct": 1.24
+          "value": 1334.79,
+          "pct": 0.33
         }
       ]
     },
@@ -78,18 +78,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
-          "time": "11/21 00:59"
+          "t": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+          "src": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGo2a2JDeFFQWXZZSUFuc1hYVkctMXBGZzVJWjhCSU4tV21qenB4bVNuLUJFTG1hakVYdGNlQ2tuRXFnOXlnSzFJVjZHWVg3V09EWVVhb1o5NVY3YWJpcHZ4MGFyYm9faWdPOGVsRERlakFST214NC1RZDA4UTBjdUZmYmZtOUdUOWZNNFE1M3dVdGVneWtKeWl4Sll0aFZFcW1qUUtFM2RfVUhkTGNJ0gG0AUFVX3lxTFBlZXlISGdZNkJyblRJX1V4NW9OQTFrYkNHWFZoazJzTDZZUHI4US1sT01jSkhtWVFxeUVqYkdJdzIwYmxjWFFsRTNMYWhUdk9wVWl3aVpUTmhvZi1IQ1ZJcFdKODc1TDdJb2tLZzZ0RzB6d3o4WERicXJ5OGNvcFZpTTl5RmhQRTRkWERGeUFPTmVUeU56dl9ObDNPcTgxeDU2bHlCaDFiSVdQaXlQMlozdzZ1Tw?oc=5",
+          "time": "11/21 10:28"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall St slides on mounting AI selloff, S&P 500, Dow set to confirm corrections",
+          "t": "Wall St Week Ahead 'Black Friday' brings consumer spending into focus for AI-rocked market",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-          "time": "11/21 04:28"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTIxbElDQVJDWHlhZ1FpYkZUYnVoNGxvNGZFU3BKTXpoR1Bfck1icUV2OHdGVW5aSEp6ak15Um5GSGgzbFF3ZEdZS2JudHJsZVZ5VnJMSDVnMVdBOTZKRUtJX1ZXQmotWjhqeHFuSV83U01LLUtWcHB5dEZHSEFza0tlSVc2ZlBKclJyWV9NS1pSaWJoRHN0c19SWlBpV2F0aFA5YVZRQ1oxeGxkTDNJZG5UeThHRTR1WUl5U2djSQ?oc=5",
+          "time": "11/21 06:33"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3dOZlc3N2c4UXkySVk4bUFjN3RFdy1ldjRKcXdJSlJYelZmU1RRN0NsNWVlQ0thZmxQOWhnMEg4c2RUcFJKTGYtU0JsMlRYN0k4QWRqakVPazBPSkJDWmxLNjIxSlJmSWdOMXhmUnhhZlpFQkNJendNb0VkRjJlTE5JRi1NSDZQV3FaRENSTXhkNXJqNWJRMkFJUQ?oc=5",
+          "time": "11/21 06:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
+          "time": "11/21 09:12"
         },
         {
           "cat": "macro",
@@ -100,48 +116,32 @@
           "time": "11/21 04:43"
         },
         {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
-          "time": "11/21 03:53"
-        },
-        {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "US stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnZzQ25ucktqYTRpZVBGZmxRYzV5NkVOdlBvcno0RV9hVW5aRk0xSmQzWWRXV2tjWjN2YUFoWldXTVcydjN4Q0d5UURuQUxhZGhzVVNiWUtKbzJrbWR1TG9tZGsxWUVwRkF3a2pTMVNhenNrRm9kazdWMjNDNlFDWW9tcTN1R1d4b284OGxJLXUxX0ppOVHSAZsBQVVfeXFMTnBNdmtqamoxYWgyVjdrUGVTRTF4bFRnRXE0TU9rNFJLbUt0M05VS0hmQ3NBODVuSEl4NEdaeFc0UW9jbS1xa0t0MXhlWHVnZGgxelZDN2hkcEhpVVdqamU0Uk8yYkZzSEVoQUlUaklydmZKcTh2UjFBSlVILU1EaEtJbnZyNy1aNk44VFRrZTd4eXp0bUpLZUMyNFk?oc=5",
-          "time": "11/21 04:18"
-        },
-        {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "AI stocks are selling off after Anthropic’s record IPO, and Wall Street is split on whether this is the top",
-          "src": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXYtcjN1bXdZQmdkQVUwLTZ3WThBSUVCV1BOR0R4RV9PTlNCeEQzWDRGZ01qbWVGZU5sb011NUc3cWs0dkZnQU9ZZ1BabkktY05zdnhhZHBCaEVldk5qX1V6SFh3SEJnZGRLMVpxYzBBWkZNUm9DY2FQZjRLS1A3bjBTVEEzRU96THZqVnZlcnJzQXFJRUdV?oc=5",
-          "time": "11/21 00:19"
+          "t": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+          "src": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY09GMmxTYlpRMnQ3YVJ4Q3BUdmg3NEFJWG5lVlh4TC0zZGxxZVcydTkwSkpiZUZfS3BXdlRab05HSW5TS0h5TDY5NFRKajBDSWdFbUdhNFIxMzUxc3pLRnEtMXVNblBwZmgteFlUWVhuS0lRU3diRGpWQnkyeWtDMGJiS3hzd2xCdUtDVHIxc0hOWGkwTHdPZ1FfenUwQQ?oc=5",
+          "time": "11/21 08:29"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 6914.72,
-          "pct": -3.64
+          "value": 6910.39,
+          "pct": -3.7
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 22616.87,
-          "pct": -5.29
+          "value": 22617.73,
+          "pct": -5.28
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 48173.53,
-          "pct": -1.88
+          "value": 48147.33,
+          "pct": -1.93
         }
       ]
     }
