@@ -1,55 +1,55 @@
 {
-  "updated": "2026-11-22T01:56:38Z",
+  "updated": "2026-11-22T19:53:25Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "AI 투자 불안에 글로벌 증시 급락…코스피 이번 주도 약세 전망",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QSHhIbVg3bmRfMGE0R19qN3gtU0xGSGVtakpCaWlTWXh6UU5RckZxVWxEaUd1MVg0T3FsNXVzNl9iZjRKVnR2dlpuZlVma2kxWkphU1I3YkladXJGa09GVWFVNk9PcFc1TW1Oa05ldHLSAXRBVV95cUxPVWV6UHNLdElPTWVEc0dwZmFFWVlBYU5xUV80MnhEX21FMWU0ei1TY2o1VGg5dlhWaDBrVFpITERQZDE0X2xxM01fZ1ZITnBpYjFZT1J4TW5LSmFubTVibFFqTGNuOWF1TjR3c0Rhc3JidjNCSQ?oc=5",
-          "time": "11/22 10:04"
+          "t": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비",
+          "src": "주간조선",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04UmNoVkMxUEc1cjIxbHJHRlNaM3F6U2c1VEtsSUFrU2VEUVc3Vm40Sm9OV1ROeUJrNWlJemVtTUlrd2ZrVmpEMG83ZkgtNGpPbzd5Y0N3eDRpcEhULVRwcjFqSllJRk9IdnfSAW5BVV95cUxNM0xZNGpzWE9Ra05rYkh3U09LTTM2NGtIRTA2NWZkWXh3Uk05NU1hLWJlRmxUQWFzUEd3M1dvM0NIZkhCbzk4Y2xaQzgxeWVkb0FGQzNSMmR3S0dLTks1VDFnUmRUSElXZ2pjQnNyQQ?oc=5",
+          "time": "11/23 00:55"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "내일 증시 ‘블랙먼데이’ 오나…삼성·하이닉스 해외 추정가 급락, 코스피 4500선 위협",
+          "src": "주간경향",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RT3V4NzVsRVo5QWNXMXd0UWpqeWpkZ2J3OUVGQUdCVEdTRnlGQ0dLb1dEZXJHWG13S0FvWTB5Yi10UlFVS1RvTnBBc19EZnRPT3VpRWRaaTZ0MXV5NEE?oc=5",
+          "time": "11/22 19:22"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[기획] 대형 IPO 뒤 코스피 8번 중 6번 상승…이번에도 반등할까",
-          "src": "매일일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iVldGejhibzFoSHlvaTJpZXlFMGU2SVNMelZsc3ZRQnBXczVuaTFiYmlzM3Bra1BfU1ZiX0VqV1BnWTk1QlpxanhibUo4SEp3Z0NjTlZtVG44WFRWVGdBQmZCLVo?oc=5",
-          "time": "11/22 10:00"
+          "t": "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비",
+          "src": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DRkNyQmdrYUtGWWtrbEQtLW1qMk5vTXF0MFNQQVpRSzN1b00wcm1aZDVmbzdtNDdpRTBneWRqTzdnZnJyRzBRZldkNWZDSDZva0t2MFluRHljb19OcTZSNUJSckR5U1JDUFg3eGlCenI3TDUyTnFHQtIBeEFVX3lxTE1qS0NmaGMzOUFrTXM4Wk4tdWxzdXVQTDJNTzlPMHlwWlVYd19DbTlWQlVrWm5RVVhZelk2bHE2NEtXUmxUbjNOd3EtQng4OS1UZFZJWmlGdlNWRGNSS0tHTVhaSkplRXJJVGgxa2JlNTdBRmh6cmwydQ?oc=5",
+          "time": "11/22 20:04"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSVlQR3NzWjNIdEpnZF9KVVNnOEFYVnM0cVppaXZfSjZXSHl6UlNYRnB1UUFtYU5PV0xUQmtDSWgtMjRvdmdWUzA2dzl5eFk1M3JxUS1kWHJsblnSAWBBVV95cUxNV1puVTNuemZya3lBTnF3ci1jZ1pxSW0yVXp6NTBGQlRXZmtjZGxFczgta21UV2hpVWVSVGV6Mzd5cTdoVk56VEZ5RmNPblM1eTV2OGJ1X3NQREZDUU5LTWg?oc=5",
-          "time": "11/22 06:00"
+          "t": "국힘 “내일 ‘블랙먼데이’ 우려…증시 급락 긴급 대책 준비해야”",
+          "src": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6VWxZc3RGSi0xUHBRQzU4Qk5TVTJYWGluWFlON1VjOGo5OVdjcXBHUnpGQXVIOVJwR3gyMGp1WUFxUnU3dGI2NHBUNm5fbnVHT1hGNXV0dHVlczMwd1ZXaGplUlB6TVUya2c?oc=5",
+          "time": "11/22 14:52"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 4800선 복귀에도 '1조클럽' 11% 감소…종목 78% 하락",
-          "src": "진일보 | 전남일보",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00cF9kdS1yclJaNU5QN0VoNzU2ck9COWNBTVlJMm1jcEdHWE0xSEZlRF9YM2ctOXBLU0o2LVp1NWRRTVp5Xzd0NUtOOHZGV0tsV3RtRktZRUNIbmVESnFtUXBoNmNrajZZSWdjaHF4dw?oc=5",
-          "time": "11/22 09:05"
+          "t": "\"주식 폭락했다고 다 팔지 마라\"…투자 전문가가 경고한 행동",
+          "src": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtWlVIVzl5VlpIcERtaVFCeUpvMkppdG0tQ2NYOWZKV2swMWRjU1dCYUtuSFVBdkFaMVY0N1JnWmdVdDZDWUxFalFZTTloTXZCZDEyVk5OMjlyUQ?oc=5",
+          "time": "11/23 04:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "골드만 '패닉지수' 10점 만점에 9점…'팔자' 경고등 켜졌다",
-          "src": "마켓인",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EQ2RJc3dJSHNhV2l4c3VHWGNsbFB4OTl6QzFvT3ZXeWx5QjhFeEZCb0dNYXVzY05qUjl6OVhUVGxFVjNnUHFGX3Z6VHh1dW1ZZG94YVlxMnpXZ3VqN05qbVRvcjVHQUVHR1J6QlNFUGRNazg?oc=5",
-          "time": "11/22 08:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "외인매도에 5,000선도 깨진 코스피…호재에도 '받아줄 돈이 없다'",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZDh0elpqUkM4eDZESjljQWZ4RnluVHVVY2xIN1pnVjhrOTh4YWctcndoNTBUSEppNy1UMFhwY3ZCNU5mTHNoa2VpeFNHRUlxZ1Y0T05zY2EyTVIzZjZFUWxiVmN0TUFVWFdoYnNMNVQ?oc=5",
-          "time": "11/22 08:15"
+          "t": "'증안펀드' 가동 준비만 해도 코스피 반등?…과거 사례 보니",
+          "src": "비즈워치",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYkpKeUUxNU9UUXVYRUVqVS1mRXJWOXlVREdaSFRoaFBLRGtqZUJ2NkNiNExNcWlvVW90SDF0Zm94cm1IVkM2aFktWFNBS3l0V0pYT0NRSHZRVUczWEd3NXN4TGhNcFBTX2c?oc=5",
+          "time": "11/22 20:47"
         }
       ],
       "indices": [
@@ -68,13 +68,37 @@
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1334.79,
-          "pct": 0.33
+          "value": 1346.04,
+          "pct": 0.84
         }
       ]
     },
     "us": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street Strategists See Silver Lining for Stock Market",
+          "src": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGVBc1ZvVkN3NHA2dnQzbEFQeEtsanRGYWluMXRLamVkZHNRYlZyWnZXMnRHQzk2SWhuSjh6Xy1ySGE5blRiZXA1ck1RM3pyMEZiX1RickFIVzBxa3NGejJNN1RGcFQ3cURNd05pVGNFZjFHM3dHV2RxTVZhWWU3eUhKb1JqM3RUcEQtc3ItN1lHVUh1Smc1dmNvZjJ4QQ?oc=5",
+          "time": "11/23 04:46"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5",
+          "time": "11/22 21:22"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw?oc=5",
+          "time": "11/22 20:24"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -86,42 +110,18 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Worried About Black Monday? What Wall Street Says Could Happen.",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTVJTGZmWm5BMG1wTFRwSlNabEtmYVYtaTdMZGE2YmJvQTBaYkpudUFvMl9oeG84WW9iVFVRd1ZkR1NVQUkwSHpseGMtSzJzVEh3Wk90VVVaajJCZ2RXREpzSFpUYkt4bWhoajcxbnY3ZFJkdHFlaU8xUjFveDhRMEdOc2xZTExpdjNRMzN3?oc=5",
-          "time": "11/22 06:22"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "We May Be Witnessing Wall Street's Biggest Bubble Burst in Real Time (and I'm Not Talking About Artificial Intelligence)",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcjJWdXRwbEtCeEM0WTdLYVVfaTBTSnM0Q0N6Z3Yzd1RPRVE5STNTcEp5STJ0bGFuRThnbm1ydnVyUTV6ZWZLRWxpY2k1OThuOFNlVnphM196YjIycEZ0cVdVQUs5YWtocWxDY1ZCMldYa0tEbXNpQjFsNTBOQ3BKN29tR3lLRDhyT3I5NldmX0o2c1psQ04ta1Q4NG1NbjZfbE53ZG5qSTBHTUFLMTJzTE9LVnZmNkp2RjVfQW9OV3g3SWNHSUlfVGF0TGFjcmZZX01z?oc=5",
-          "time": "11/21 23:06"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026",
+          "t": "A battered stock market looks for the bottom: What to watch this week",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2NoR0NPVmlhT0tLTnRIRHc2RTJsME1lYXF2WnJDeS1aeXFpU18waThxQ0ZBNlR0Z0ozRWtJSTcxWlJ4RFdNZXVGQTNEb3BLWm9fM0tvLUdvYUpwaVpOX2NoSlFHd3NBRGZjYW5yTG1NMmt5NUg5VkVyY2Q4R3JjT3VoMmlwX1EyN3AtTFFFZw?oc=5",
-          "time": "11/22 05:42"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcU03UEttMkt2VHk0czNiZGxHNnB0MTR6Z2lvN01WUEF4VXZaejRWdV9IZ1d1b2YxUTc5bG9NUXVscVV4RjZ1TmdEdGtzWDdlb0JsQzhIWUozSHhGVFNSYW55aWpaalN4V1NlU21GWUpjYURFVU9YajkwZ3ltNXhvM2kwRW51T2RtYzVtajM4M3RvRmYwLUNQU1RHN0hjYmlsR3JGdTQ2WVNoMThMNTNwZmI0VlB5NXhaYzZoLWxralZSSGM?oc=5",
+          "time": "11/22 19:00"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "The AI boom had a really bad week — and it's raising loud alarms",
-          "src": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRxSU1kdTl4dm94SzFXeVY5ZnhrNGpBZEI3OHZzZHhvQzBVRUpzakQxWEgyYmJSMVJMcDZKTk5va1pzRm1OQXlLTzU3NWNEcklOcHZXOW1Gc25iUVVrVHhmRDdlTzVmMEQ0R3FWOXQ5VXU5YWdETEJvRHo1N3NGaWMyejY?oc=5",
-          "time": "11/21 19:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stock Market Week Ahead: A Matter Of Pressure And Time",
-          "src": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVpncTBvZElZeTVubmZVWkxyd3h1bGE3UUlkd3JfWjRyQmlncVkwaURuTDgxRW1CZTd4Z3h1Tmk5dERqRUI5Q0EwZXVsVG5XRkxiSWoxZDFYNTBsTzE3TDVVajVCc1d2YXpWVTBFYzBRZS14RlFBbENpeDJabmZNbjloaUNiSVUxS0xxaVNtNDEyTEVqaVV2M2pLWDNfdXotWnN3YlJENUxwakt2TmxfMQ?oc=5",
-          "time": "11/21 23:34"
+          "t": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+          "src": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThLY0szV3pPS2IxUHRPYm5NSDNZU25MRWJYZkplcU43YjhEb2JSRm5kdmR2ZWYyN2pDMzhOb2RjUUdiMjFBbFZRMDlDNTZVZDRjYWluVmQ3WElhaFVMNkwzZUxGQ2dBSEI2MU4yTlZ2NDFacEdtUUF2aUYyZm9RZl9JSnBvd2Y2UFhpSmdsNDBSRFUtVDJ5ejJSSXZ3cTAwbEtfYzJFR1ZmWGFYQTBrZTNnUQ?oc=5",
+          "time": "11/23 00:18"
         }
       ],
       "indices": [
