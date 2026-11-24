@@ -1,8 +1,48 @@
 {
-  "updated": "2026-11-24T05:45:44Z",
+  "updated": "2026-11-24T22:39:21Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"주식앱 지웠다\" 손 놓은 개미, 손 쓰는 정부…10조 증안펀드 통할까 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fZVdvRHotdUh6OW5aM1pOR1p5cGY3MG9ybmRpZ2hRalV3RFhueG9US3NSSXNzYW10U283UDVPb0xaUEVGTjhqbktaRkM1RkJjYUNacVhpbGl4WmtSbFBVQ1ZlMHZSUUd10gFuQVVfeXFMUFpCSWlqRW5kd0p1WHhVZDQtcERkX2pJLWh6cnZKTjdCZ1M2TTdRSC03TVpDZVgxSVdIUUNfZlRTRGdWLUVTSzdkZ2FHZ3oyMThyY1ZWSDhldkJIVDJYWTMyVzdHRHRhYU0yd2ZKb2c?oc=5",
+          "time": "11/25 02:02"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 5천 회복에도 10.7조 증안펀드 준비 계속…투입 여부 F4가 결정",
+          "src": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSX21jUVR3MzNPNXdzWjYzWHh5Zl9OTzBhYThIMHUtTG54SWNXYWpmUFJTOU5OMDhiM1NTZktaT1lUQmczSHF3ZU5jcXVNX05xUHV2Tw?oc=5",
+          "time": "11/25 05:50"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "5,000선 되찾은 코스피, 6% 넘게 급등한 이유는?",
+          "src": "네이버페이 머니스토리",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52b1ZQajJrdE01ZXUtbk1HTGh2ZlVNUFVqRnkxcDdyUjlIUW5qSmJNcHRCWnVSR2VNUzB6cEtPeG90bDg0bTJtN212aTkwYnJZc1dKV1pCMWo?oc=5",
+          "time": "11/24 17:42"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[수요 아침 주식 투자 동향] 코스피 5000 탈환했지만 뉴욕발 AI 급제동…오늘 증시 향방 가를 세 가지 변수",
+          "src": "유스연합",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMUGhpYmVwM2ZZTWdFelI2c2dWTlFnTEFxNnNLMzV5OXIydlF2MGlBNTBtRmhQWTgtZlZlMnFhQmNjWUotTi1KM1ZGMElhY3NscVlB?oc=5",
+          "time": "11/25 07:24"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "젠슨 황 복귀에 코스피 급등…5천선 회복",
+          "src": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rTTlUWXByRUhyOG0wWW1YMHZTd2VRdGw1XzhfM0g4R1RQTmV5M3k2WTItU09fWVJyUjVRdUFaQ3EyZEJBWmp6RFBHVEpOSWxuNUt3V3ZXeEZFSHRibnIzb3h3TThHQQ?oc=5",
+          "time": "11/24 21:03"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -10,138 +50,98 @@
           "src": "오피니언뉴스",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yNFJNUEY0ekNiRHFzYjZGQ1BudnM5WTRUYUlYd3lDZl9Zd3JWQzJIbEVQQ3JMdURtbGw1NWs1am1WQXRtR0JCOENFREc0WDBrVVVTcFZ2bGlIT29xS24tRXhvOFlQN2lvbHZIZTdrdzU?oc=5",
           "time": "11/24 13:57"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"주식앱 지웠다\" 손 놓은 개미, 손 쓰는 정부…10조 증안펀드 통할까 - 머니투데이",
-          "src": "머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fZVdvRHotdUh6OW5aM1pOR1p5cGY3MG9ybmRpZ2hRalV3RFhueG9US3NSSXNzYW10U283UDVPb0xaUEVGTjhqbktaRkM1RkJjYUNacVhpbGl4WmtSbFBVQ1ZlMHZSUUd10gFuQVVfeXFMUFpCSWlqRW5kd0p1WHhVZDQtcERkX2pJLWh6cnZKTjdCZ1M2TTdRSC03TVpDZVgxSVdIUUNfZlRTRGdWLUVTSzdkZ2FHZ3oyMThyY1ZWSDhldkJIVDJYWTMyVzdHRHRhYU0yd2ZKb2c?oc=5",
-          "time": "11/24 05:00"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[AI 카드뉴스] 2026 증시, 가장 뜨겁고 가장 아팠다",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DS0s1N2thMDE4Mzh2Qy1pUFJfdDNzMnh0dlFyWmZ1MUQyRGxjOXZLNkpRXzFscVItOGdUNXN3cXZaYkt3VUdLejVtc012NXJ4SHJXeTcyb01DS3pL?oc=5",
-          "time": "11/24 14:21"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "젠슨황 복귀에 변동성 더 커진 코스피…금통위 앞둔 채권시장, 증시만 본다",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZVk9ZZmhJTmU3bm9ZY3BmODgxVlFvVmtMY0VPMFJyRGM3R0RQQXotTlp2ZThLRlNwcXJuSGFJOEtCWEFsSGJoeVdHSFd3Z2JLNlA5MVVOV3VaOF9aNDhtcHZHLWlxTFdPQjJvM05EWWQ?oc=5",
-          "time": "11/24 10:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "“두번째 기회 줘서 감사하다”…젠슨황 복귀에 코스피 반등",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FeVY5dmpOYi1uMVVnNGpoUWREU011ZVFOTWdTUGptbkplLWo1cXNqTXFUbkRudS1zNVpjNU1rTG5kaF82NXlUUUwtcVFON25G?oc=5",
-          "time": "11/24 12:04"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 6%대 급등에 5천피 탈환…외국인 8거래일 만에 순매수",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91SGYxN1g4TFlYVDE2NWRtNmN5S29OelZUY1Q2THBxX2doUm85dkFzYlphZWMtT1p3cGNPODk4dVZDVzlyejM5SkM3c0VWdjVIeF9XcWowSW45eS1scW5PWjRKOVZxZHZwZldscDUtZ0PSAXRBVV95cUxOQnVlbjF3NUx6WjV2VGRYb25Gd1JNLUxFa2E2MG5IOUtJd000S29CX0tEczF6LWpsdV9ES0E4OVBocVlGZHdidEZoSEtvVVVZVjRvMkRZWlFrZUppaHBXMjZsUnJzSHduZWpIOGJOTDJlNVBsNQ?oc=5",
-          "time": "11/24 11:18"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 5032.57,
-          "pct": 6.88
+          "value": 4708.54,
+          "pct": -3.31
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 667.93,
-          "pct": 5.11
+          "value": 635.45,
+          "pct": -1.58
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1342.46,
-          "pct": -0.14
+          "value": 1341.09,
+          "pct": -0.24
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUV8xQS1Xa09sWUwzZlR6YzZyQTBlRk1jRWJNNWFROHY1ZDdicFNhLXkwRWIyV3YtM2NJSXRJY05mTHhyU3JHTFRndEdmQlZEYXJlMVJzMmhmTGdXOFAzZERRdmduRjZXSmpBLWVWQjBxUWNIVDdHZ0M0VXdja3EyZ2xzWGhSVXc0d0VIczl5Y2UyMDlzTzdBbw?oc=5",
-          "time": "11/24 07:25"
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
+          "time": "11/25 07:01"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVBVLTBQYkhINGhEXzM0b3k1ZjV2b25YWmVNMzFuVl9EbkhNWlV1OUtGVVk4YTRLV01lMFZXRGpDLURZVkVJZy15MkZQNUZxYnRhQV9pLXFRQl9EaHlzemVJTmFUQ1VhTUxNUXd0bGxwZm4yLUJMVXdPeHJ2OWdDSkFOTml2a3NRM3VWcThHWGpJVDNi?oc=5",
-          "time": "11/24 13:52"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-          "src": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
-          "time": "11/24 06:23"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nasdaq jumps 7% as Nvidia shares soar",
-          "src": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXhpd01xVDBQSlFMWUJzZktLSGh3WXZ0b3JfRTdwSEV4Rll0bjlIc3FfM3MwemllQlRidmpiOEpUbHJBQzZ4YU1ZOFNhMmVpMjBWc3RULWppdmxLZVdERHFTLXJHSjU3aTFWcmFrakkzS3VpTDFkSE45Vk1TbmszWUhzcVM?oc=5",
-          "time": "11/24 07:01"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "A Stock Market Crash Could Be Life-Changing for Investors Who Own These 3 Artificial Intelligence (AI) Stocks",
+          "t": "Stock Market Today, Nov. 24: Nvidia Gives Back $240 Billion in Market Value Despite Wall Street Upgrade Signaling 29% Upside",
           "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSGVfd2lURXdFZXQ4MzRhdGxPd015MGpFX3ZWY3RxNmdQOGlQNHg2V09pWVNuOUlRRW1WSEs4WnNhODRZQldia3pmWUt4NWVnTnZOcXFfRGxxZ0YyUHoybTNxS0p1cjlqOWVmVHJPUnZQcVVaVFQ1bHljM2ZQWjQ2N09Qc2NvRUlnZlRlU1JyanBISUpBRWI2aHMxaFM3R3N5dTY5NTFDRmE2UDA4d2MtWEFpM203NHdwS1dpNjR6ajRlWUcxdldsTllodmt5STByaWx1ZllVVHVxMkNqamFyTmFvVlk?oc=5",
-          "time": "11/24 13:15"
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVmJ6VldBYkdvRnZJeDl5aTNJdWJQdkhwai1CcWtVWDVROE1PMFdYRmFSdXBmYVRwSGcyVkdueVNwOE9jMUgxQk9TaVJselV5bHB5bUpJekF4d2FicDVBWUU5Z3hURTlSYnZLVFFRNGsxcFVlTFQ1RkVGclR6WjZfUF80NUUyTHBaWjFsS3A0dzNEamtBb1hLbnk4UXJtT19yZWszRFo3dm5NekRTemRCTG1rZUVNaEdxd0xuUjZlcFlOR01mOGwyNTNfdUM0dnNlNTV2UDlKeDRRb01QU3k4ZnNNeURhSzIzZ2JTel8xV1U4ak4wQTFrMmYwSTVnYVdNRjBMekY4MkV5RlhPd3ZiUQ?oc=5",
+          "time": "11/25 06:29"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Stocks surge in best day since 2025, adding trillions in value after Jensen Huang returns to Nvidia",
-          "src": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTWR5WHAwZmExU2UyZkd2d0w4UWxCcXh0X1hJajU4alplUUVUdGM5bk52dDRoazNfamJfbWdQRGhEVExVeFAtZldhcmxYOTlaMmJKTkNQN2Yza1dNS0dfZkhQZTRTTGZudGI1d0JNbWR3SWJzN1hRYWxxWktYS2hNaFR3ajgzQ3FRUlJLVjE5d0cwVnc?oc=5",
-          "time": "11/24 07:29"
+          "t": "Opinion | Nvidia proves nobody knows anything about the stock market",
+          "src": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi03OVRQelFBa2FKOS1ray10bDRKZUtnekpoQl9qdjBXOUNrR2FVMFZ1OElzaE4xRlp4RDBBTGdhTmt3TVVYY3ZkdmtOTDM4cnJhdk9vUDlqM1haSGxLV29ySHFzLVk5OHBMY2wzRHZNaFpoUzdEQURVTWMtWXE5WmR3MFl3NVVOZHBmOGxwdnN1cjFRNkVYVnJ6TG02STNzWFJQMW1SRTdOZw?oc=5",
+          "time": "11/25 04:45"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3RjcmgzaktFaFBfbzRReFRUOUlzUEVrYlhnb04yVUx4bFBHRjZiRUhnbV9JeWxHdlYydkdRUEZCRlRhVHRTbDV6UHBNdDFuUTFaZ2FUMEREZXZqekY0Q0pVLWltdm5WekNULWxpeThjSWxBd1V2WkRpLVdBT2NrSTI3cS1aU0tGa0x6aVdXMUtQUzhI?oc=5",
+          "time": "11/25 07:20"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "These Technical Measures Warned of Stock Market Whiplash",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnM2YjNnajctZnkydzdDaGZtUkpDVXBpdkZDYkhnMkpkNnpsR09jU2xiaUhNTDhRSWx3cnZXYWE5V0tGUldYMkZQUjYtUElJSnJpbWN2dGtzR016TTA3cjJqLWdUV1kxUGRuQWVGMHpqdW1HVFpfdzBQZ2FtTllBUDIxRDRxTTdYa0JKb1FFaDFqb2R4V19KSHJtTHlpMEYza3c?oc=5",
+          "time": "11/24 20:11"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stock Market Midday, Nov. 24: Nvidia Drops 9% as Wall Street's Historic AI Rally Loses Momentum",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVZqbFp0S2VwUjFCTVJFWkJZS2NSbnNNVl9yVkRDQ0U4bElGTU56bF85Qi1JbVZfam85b1E4eFZyRl9wbElvQVRtZU1UcDk1eWVMcXplN2JwM1BGQmRraktoQ0hoQWstUlNBQjJGOHJaa3ZjRzhxV3NYOTM5aWgzTnV5c2MzUFh1aEhFYVpHV0pwbHFKc2c?oc=5",
+          "time": "11/25 02:45"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7237.17,
-          "pct": 4.73
+          "value": 7201.09,
+          "pct": -0.5
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 24089.56,
-          "pct": 6.51
+          "value": 23733.54,
+          "pct": -1.48
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 49595.31,
-          "pct": 3.01
+          "value": 50018.7,
+          "pct": 0.85
         }
       ]
     }
