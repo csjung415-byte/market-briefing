@@ -1,147 +1,147 @@
 {
-  "updated": "2026-11-23T02:21:08Z",
+  "updated": "2026-11-24T00:09:03Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "증안펀드 나오면 바닥?",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFB5aWFFYm1udW9mRjB6dEdOOHVHeXhndjZVZW1JVmNoVUFLRlR4dDlnOU02cV9JY29ZdTVfQ0xvdFZ1WldTaDN2ekY3SThkTlhzT2RYWFpyX1JKcTFqOGRUSVFJWE1GeTFucUhrWHNOQkdRY0lCLUpPX0VfZ25IUURwRGstb3VGemc0?oc=5",
-          "time": "11/23 07:56"
+          "t": "\"주식앱 지웠다\" 손 놓은 개미, 손 쓰는 정부…10조 증안펀드 통할까 - 머니투데이",
+          "src": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBldXFLckpGM1NxNnFhMUJxemsxNW4wRUxhUGVFbExTQl8yWW5lR2R5NDB5WkRIdXJEMXltVUhUSTFxYTFEMXAyellYanZWLW1wRENtbjhzYWw4SC1rR1VlYXB6TEhWZldFUlF2czM2dmpJYmtmTlHSAXtBVV95cUxQREY0Nko5cFlDQ2Z6VmFObi1pUnloQjhkUGc2dW1ibS1reGNBdXNUYVdMZUhtRmI5Y0I3RXNlbExUNkdpRmdNbmFtS0hwbV9nVjc4alo5b2JPdVRLOTNyS3VuaVpVdU5kQjdJSTA5YzNqZkVpTUc4a1JHVXM?oc=5",
+          "time": "11/24 05:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[증시 AI충격파] \"코스피, 이미 IT버블 붕괴 수준…급락주 반등 가능성\"",
-          "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LVVJRZXl0b01sMmE0Y0JwdEQzelYwclh1WWVtTm5xajlmT3pFY1JnOFZrMjRaTXdEdGxqcUVVbTUtVjZucjNpNDBHcjBVY2dWdFg2NTd0RFlpRURCUHQ0S2tJZTlNQXkydjlJSlBuYmQ?oc=5",
-          "time": "11/23 08:24"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "개미도 외국인도 지쳤다…코스피, 주식을 받아줄 사람이 없다",
-          "src": "파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00YTJpUzNqLTF1T3F0a19saWppc3RXU0hkbjE2cVE4NzRfWTR2Z0wteFZDNTk2OWJKRDNJT3BHa3c5Y0V3bUNnUkpQeTF4UE55RFUwMHRpbE1lUQ?oc=5",
-          "time": "11/23 09:04"
+          "t": "[사설] 정부 믿고 주식 샀는데… AI 거품론에 속 타는 개미들",
+          "src": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KWk9tSGROQXVUaWVGZHAzWEhMRWczaUVXM284b3kxcExKTVVYVTRUY19UZVVRcGJJWXlTVkxQdHh3VmZjOWJYTFhGY0IwWnNMUGd2VGRoM3V2ZUdSQWV4UksteDBWLVZwS040endGbFVQQ3NLQkdEQjgybw?oc=5",
+          "time": "11/24 05:10"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“코스피 46% 추락했지만 지금은 팔 때 아니다”…한국투자증권, 증안펀드 효과 주목",
-          "src": "디지털데일리",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aa3NsX2FuYnBmeTdzU2Noc2VURGk2dDJEZkpKeGNuRTc3dWtIOTBKbjczSDhFZ0Zid2E2dHBEbE04bzNQM0FiODVOMnYwMmN2Q1pWVVdZUWhsbV83eW9zNVBrMEw?oc=5",
-          "time": "11/23 09:06"
+          "t": "코스피 덮친 '검은 월요일'…野, 李정부 증시 부양책 직격",
+          "src": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xeXJjcnhXNGRyTjFIckNkMVdSOWZJLV9jQ1R6UFFPdVNrWllZblE5VXo0ZkxncTJoaFlVVVpZQ0NxZ1daVlp0Y3N1VWtiZw?oc=5",
+          "time": "11/23 14:04"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "“최악 경우 코스피 3000선 후반까지 밀릴 수도” NH증권의 경고",
-          "src": "문화일보",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjME1qaGN1Mk9pdlMyQ09sNnh5eWtTZ2VhcjV3MUR4ckZsQkVIWEM3MUFGaXBlNkc1c2ktaW9JTmc0a2tWRFQ2Y0s3WnJ4bHZk?oc=5",
-          "time": "11/23 08:56"
+          "t": "\"이 정도면 거의 전세사기\"…밤잠 못 이루는 개미들 '곡소리' [분석+]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92cVBlWTJnT0FoS3EzWTlOTVFBTXI4TXYwdWdXMlV0ZXN3TU52bTZFZGxZMEtZZkR4cHdYdnVvSW0xZW52RlJwODRGOFRZY21OSkYtZjlILWdQdw?oc=5",
+          "time": "11/24 06:30"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[모닝 리포트] \"코스피 바닥 어디쯤?…4200선 가능성 낮아\"",
-          "src": "뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sUjF2NnV4VGVEZTFCdk45TjNNRDY2cHk4QzAyeHdFcVdTV1hJNTA2NjFrYkpSMklKd0ViaVEzd1JIVk00dFhpVmFoeVo4cHVoRmNrYXhhSGdlcDl2?oc=5",
-          "time": "11/23 08:45"
+          "t": "증시 급락에 또 꺼낸 '자사주 무제한 주문'…삼전·닉스 움직일까",
+          "src": "비즈워치",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSFA4YUNpNnMzTzd4SGF6aUhWNkZxQTNhcDI3dTZ4bXNOTVA5ODJ2YThteTNDWXM5VWVsUjNyNWN2bnZOQWxMS0JRcjFVdGI5RmRrUFhZM0RfbFZ0SEhRdTZkbGtjdTZyNWc?oc=5",
+          "time": "11/24 06:50"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[마켓뷰] '젠슨황 복귀'에 美증시 급등…코스피도 반등하나",
+          "src": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nay1VQ0NxM05wd1pocTBiaWhZd21Qd2lnMkRwRE9YUlNTRFVjTjhQZUIwdWFsRUxaM2Q5Vmg4QTRIamFpc0U0UEo5UEd3dUNmNEE?oc=5",
+          "time": "11/24 08:09"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 4702.66,
-          "pct": -3.44
+          "value": 4869.96,
+          "pct": -5.21
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 631.72,
-          "pct": -2.16
+          "value": 645.68,
+          "pct": -5.71
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1346.68,
-          "pct": 0.89
+          "value": 1339.38,
+          "pct": -0.37
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "연준",
-          "t": "Wall Street Strategists See Silver Lining for Stock Market",
-          "src": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGVBc1ZvVkN3NHA2dnQzbEFQeEtsanRGYWluMXRLamVkZHNRYlZyWnZXMnRHQzk2SWhuSjh6Xy1ySGE5blRiZXA1ck1RM3pyMEZiX1RickFIVzBxa3NGejJNN1RGcFQ3cURNd05pVGNFZjFHM3dHV2RxTVZhWWU3eUhKb1JqM3RUcEQtc3ItN1lHVUh1Smc1dmNvZjJ4QQ?oc=5",
-          "time": "11/23 04:46"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Stock market today: Dow futures jump 700 points and Nasdaq soars 3% after entering correction",
-          "src": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHVtODRCNHpEWlpxVUloeXluS04zZTB3WUFMazNTamtVckExbW9qbWFDaGJObUtCNHZUZkVoRWpYMlk4OXVOYzF4dUhERk4wOXpNWHhZWEZGamR2cGpxdC1mRVpDTVpsLVhDbS1RQmJlYXpRblh4cC0wOUJtalI4WHAzLWVFcHhXYzd2dTNidS0yM0hEX0tXX3pB?oc=5",
-          "time": "11/23 09:13"
+          "cat": "fx",
+          "catn": "환율",
+          "t": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUV8xQS1Xa09sWUwzZlR6YzZyQTBlRk1jRWJNNWFROHY1ZDdicFNhLXkwRWIyV3YtM2NJSXRJY05mTHhyU3JHTFRndEdmQlZEYXJlMVJzMmhmTGdXOFAzZERRdmduRjZXSmpBLWVWQjBxUWNIVDdHZ0M0VXdja3EyZ2xzWGhSVXc0d0VIczl5Y2UyMDlzTzdBbw?oc=5",
+          "time": "11/24 07:25"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap",
+          "t": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+          "src": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
+          "time": "11/24 06:23"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stocks Soar as Huang’s Nvidia Return Fuels AI Bets: Markets Wrap",
           "src": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
-          "time": "11/23 10:04"
+          "time": "11/24 06:11"
         },
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Correction or deeper reckoning? Investors seek signs US stock selling will abate",
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street just put a $1 trillion price on Jensen Huang as Nvidia stock soars 31% after his return as CEO",
+          "src": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTF9hZHJLYXVSQWY0Q0tMUmo3WWQ2T0JSQlFCd1VRcXBfYWQySDE2MEotMEFTR3owSlZNdUEyYUg4WTJMVzRsUlZYazlHQVNkMUZRNFFSYUYtcUVpM0xKcEp5akZkRDhla0ZMeEtuQmNiM2xHbXhETTJiYlhaOWNkZl9PRHpaX2d6Z290OU1JV3NkeE1fTnc?oc=5",
+          "time": "11/24 04:54"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Stocks surge in best day since 2025, adding trillions in value after Jensen Huang returns to Nvidia",
+          "src": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTWR5WHAwZmExU2UyZkd2d0w4UWxCcXh0X1hJajU4alplUUVUdGM5bk52dDRoazNfamJfbWdQRGhEVExVeFAtZldhcmxYOTlaMmJKTkNQN2Yza1dNS0dfZkhQZTRTTGZudGI1d0JNbWR3SWJzN1hRYWxxWktYS2hNaFR3ajgzQ3FRUlJLVjE5d0cwVnc?oc=5",
+          "time": "11/24 07:29"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5",
-          "time": "11/22 21:22"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street futures jump after major indexes enter correction territory",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSm42cjYzNEJGOTZTa0E1YU5tZTZUckVxWXl4YU1aeDc5QjRMMk9jMUl2Xzh2dVl6Nm5tamxVS1FWNE1XdkxNaFQzeXctNUEyRlBUS3czWDlQaG5LN2pvYVVCWlpFTW9pM0ZJXzBsajVTcG1lUU1OeXhtRWhDNDZ3d3l3NWE5RmxVLW9JbUVpbnh1a2h3ZHhMWkRFVFY1UmFYbnRUeFhOZmI5b3BkOTRkY0h6Y241NHc5Tk1sUlhwaFc5dHdTVTZN?oc=5",
-          "time": "11/23 10:33"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Stays on Sidelines as All Three Major US Indexes Enter Correction Territory: 'No Catalysts'",
-          "src": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rUHZYc3RtYUFYdFhxaU9ydjB6MXlDYXVHRHFMb1UzT25qeDQ1WnhRZWFjSzdhb0VuNE05bFd0b2NoVVFsRTA3dHlKUWVySWNlVlhqQTB4MTlLVHgzaHppZ096SE9TbmFlekd4T25SVjZES1BSRlE?oc=5",
-          "time": "11/23 09:35"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNEVIVnBMbFk4UVlXOGlieWlkeWhldU5HWnFSdWNVU3BIU2YycVJnV3NWZGxGNXFMTjlKU3VuUTBnWGxZUjBtV3JCVlZjNU11MXZOT0s4V3QyRTNPNDlBRzAzX095cHphSWNSYnBTZmprLTVmdUVKd0RHc1FCbHdITU9Mb3BZMWlZM3pLQkF5MElMakFJME1WVWZOY0xJVWJnbTQ4dnpsQlNEZw?oc=5",
+          "time": "11/23 16:55"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 6910.39,
-          "pct": -3.7
+          "value": 7237.17,
+          "pct": 4.73
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 22617.73,
-          "pct": -5.28
+          "value": 24089.56,
+          "pct": 6.51
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 48147.33,
-          "pct": -1.93
+          "value": 49595.31,
+          "pct": 3.01
         }
       ]
     }
