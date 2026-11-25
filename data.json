@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T04:48:06Z",
+  "updated": "2026-11-25T21:52:20Z",
   "markets": {
     "kr": {
       "news": [
@@ -9,67 +9,67 @@
           "t": "\"주식앱 지웠다\" 손 놓은 개미, 손 쓰는 정부…10조 증안펀드 통할까 - 머니투데이",
           "src": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fZVdvRHotdUh6OW5aM1pOR1p5cGY3MG9ybmRpZ2hRalV3RFhueG9US3NSSXNzYW10U283UDVPb0xaUEVGTjhqbktaRkM1RkJjYUNacVhpbGl4WmtSbFBVQ1ZlMHZSUUd10gFuQVVfeXFMUFpCSWlqRW5kd0p1WHhVZDQtcERkX2pJLWh6cnZKTjdCZ1M2TTdRSC03TVpDZVgxSVdIUUNfZlRTRGdWLUVTSzdkZ2FHZ3oyMThyY1ZWSDhldkJIVDJYWTMyVzdHRHRhYU0yd2ZKb2c?oc=5",
-          "time": "11/25 13:31"
+          "time": "11/25 22:39"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"겁먹고 주식 팔았는데 어쩌나\"…코스피 '바닥 신호' 나왔다 [한경우의 돈 되는 데이터]",
+          "t": "코스피 5개월 만에 반토막…‘주식 사라’ 정부 책임론 확산",
+          "src": "대구일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tSG1hU0ZCUkJiSUczVlZYNHlhTUMyQ0tUVWNFWmo0RUN4UDJISWVoYUVrS3JnTzROOEQzZHYxUkJVMkk3Z2NoVVVJUUpMeGpCYVAtMnA4RGs1Ym92MUtOV3N6NUhMWUs3?oc=5",
+          "time": "11/25 17:53"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 4700선도 깨졌다... 삼전 9.9% 닉스 11% 폭락",
+          "src": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmQ4dWEyZ1AzOV9kY2lMLVQ4aWZ6TC1qNFhuQjEyZWRpdkE4MkVLelhCY2JYd3F0ZGJrQUFuclJkdndrT0RYYThmLWotbi1XcTRyWXRQdEt3OVh5TjROUU44bTdOMGZ2QXJjbFU2Q1F5cWYxQjBlTWcwbkR2aHlmbg?oc=5",
+          "time": "11/25 15:37"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀",
+          "src": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5",
+          "time": "11/25 22:45"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "[단독] 코스피 6% 급락한 날…정부, 증안펀드 확대 추진",
           "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xTE1mYUdjOXU4bi14c3dmNmlUMk5LNW1XRHBjWTJJYU8xY2ZWTUVsejB1eHJBQ19HX1dxQmp3Mi1CalB5dkNHNFdiZmhCSUd6ZklpREJoSEU2UQ?oc=5",
-          "time": "11/25 13:30"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zZW9JZXdkaG1NN3Zib3h2Mi1MbGxOWjlaQUFsLVZhZW93dm5BaVoxZWZmbXB2MjZYeHpLZmpCcGw3Zi1OdXg0dE1VcTRDRU9SdnB6eWY2ZG40QQ?oc=5",
+          "time": "11/25 14:43"
         },
         {
           "cat": "fx",
           "catn": "환율",
-          "t": "코스피 오를수록 外人은 주식 팔았다…\"주가·환율 같은 방향으로\"",
+          "t": "[외환-마감] 外人 주식 투매에도 '방탄' 네고로 보합",
           "src": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dFl6bDJqRXJKMVpZd1ZMQmJzSDdELXlGQTJzZmQzTXkwT20wZTBYT1ljU2x3VWpYOEpzSWlvUkoxSjZ5OE93SXdPOS1Jd21nVHF6d3FYRzQ5XzhpbmZqMlhXSWpiaTFwb0JKN3FaQ1A?oc=5",
-          "time": "11/25 10:32"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피, 급반등 하루 만에 4%대 급락…외국인 매도에 4700선 후퇴",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TdkdyOGtwTC1ad1plQzFGRFF4SXoyZ1BGRmJjZFd2T2p3V1ltbGxXbGpRRGRtaEMtMkdUNkYtN2tCZDNmTTNjakFaM05NaWkteHZham9BMzBwZEVYUGtmcWppMk9vbmZiWUNpUzFiQ07SAXRBVV95cUxQOWFJYklmSUtOWW1fY3BQX3VTMFpHWlJ0UzJfR3lZNXVMN2Y3VmROckhnNlVCZzdVVjhEcEJEaFpCTVE3aGtEQS1pblJBWlVkZVNqTzhMR3hqcFpnVkx2b3htUW9xWGxwNFJ0WVl4YkFNZTZvVg?oc=5",
-          "time": "11/25 09:42"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "VIX 하락이 매수 신호?…“과거 13번 중 12번 코스피 올랐다”",
-          "src": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVcyWHlWVV9WNWNpWmhRUVFUQlotd2ZGVjdLTXpYd3Jhb2Z0XzgwY3E2ZkNtWGp5T1ZrUlNwc3poeFl3Zm1lQTE4Z3lHS0pXTVBkMFA1THFXMGI3eTgzaXZRRk81dnhPdVozVnJCRjFBZmRicGVKczFBNGhRbFJQYS1SeWdPOFdQ0gGcAUFVX3lxTFB5a3FvYThFSTVUaGVocFJHelQ0SE5la3k3WDEtM3NPVjR3emh6eFR1eTVJS2xsd3RPNUtLbGQtdDBlckUxS3FndUE1RV9lUklSM2lHZkZoVFBjc3IyTzdSLXNXRzFXaEFnLTdiSHNmMjhMV2dVeDdSS1NHbjdaVC1CSjM2dTFuSXdJN2ZVUTNrNnN5czZieVJWdlhJRw?oc=5",
-          "time": "11/25 07:38"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 5.93% 급락하며 하루 만에 5,000선 반납…매도 사이드카 발동",
-          "src": "프리진경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96LUZPQ2xnV0dxREJDMTd1bDJWOS03Ull6STlNS3Rad0tid0laX281Sk1oSmpaSzdPSkp5c1VHLXZZczYxaGNkOG1LTC1sM2xjRy1XLUpTRy1DVngyOTMxckNXMG9hSjlZYUJDZw?oc=5",
-          "time": "11/25 12:21"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MT3FjNml5Z2RVdjZLaDdLX05QQmM3WTZjUmNzUURvWlJFZFFYMUFyUE8xQ0xYS1kySmpFS3Q2OXhLaEtxaFVrQWd2N2VJLVdMMGZ4MzVGMmhCTHI3RWlFck1ibWVQYU94VTEyem9aZ0d6LW410gF0QVVfeXFMT0xPcWM2aXlnZFV2NktoN0tfTlBCYzdZNmNSY3NRRG9aUkVkUVgxQXJQTzFDTFhLWTJKakVLdDY5eEtoS3FoVWtBZ3Y3ZUktV0wwZngzNUYyaEJMcjdFaUVyTWJtZVBhT3hVMTJ6b1pnR3otbjU?oc=5",
+          "time": "11/25 18:43"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 4731.52,
-          "pct": -5.48
+          "value": 5006.03,
+          "pct": 6.32
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 654.46,
-          "pct": -1.72
+          "value": 665.88,
+          "pct": 4.79
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1342.98,
-          "pct": 0.15
+          "value": 1344.1,
+          "pct": 0.23
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Stock Market Today, Nov. 24: Nvidia Gives Back $240 Billion in Market Value Despite Wall Street Upgrade Signaling 29% Upside",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVmJ6VldBYkdvRnZJeDl5aTNJdWJQdkhwai1CcWtVWDVROE1PMFdYRmFSdXBmYVRwSGcyVkdueVNwOE9jMUgxQk9TaVJselV5bHB5bUpJekF4d2FicDVBWUU5Z3hURTlSYnZLVFFRNGsxcFVlTFQ1RkVGclR6WjZfUF80NUUyTHBaWjFsS3A0dzNEamtBb1hLbnk4UXJtT19yZWszRFo3dm5NekRTemRCTG1rZUVNaEdxd0xuUjZlcFlOR01mOGwyNTNfdUM0dnNlNTV2UDlKeDRRb01QU3k4ZnNNeURhSzIzZ2JTel8xV1U4ak4wQTFrMmYwSTVnYVdNRjBMekY4MkV5RlhPd3ZiUQ?oc=5",
-          "time": "11/25 06:29"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally",
+          "t": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains",
           "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
-          "time": "11/24 19:52"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+          "time": "11/26 05:04"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Asia’s stock markets dive as doubts to swirl over AI boom",
-          "src": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTBONWVtRGk1YWduRmRYM3RaZ0ZIVFNqTWRQRG5fTGZ2SWF4elVlSFJkdWpoUHNUcFdjQ2o3ZDFLeUFPVkJYaVRjWnRDWDdfLWdackM4LU1WM1M3Yy05X3pvMVR0dnU0UzJ0R296YWNWaVdJUU5KZ21DU2pOeUpUTVhGOUNadjVPbTZCS1lpaUNjWTJvZklNY2U1dnRWb0HSAaQBQVVfeXFMTlJpRmJuUU82c0pTdnFPOENwTF9GZ1g1d3hDaExGTUhDbWJMT1VvNmp3ZEtGVmlxbTl4T2d3SFI1VnFndlZVYnVzYXRnMUdRSUxTemo4NERuNVo5OUpqVWhyOEMwQXlMM0NOSjBZTEFQX0x0bFZ6RDl0czhqbWMyMjg2ZmtHMHZWY0h3NW1BeHlpTHRFNHNScklvYms5OXVJcWU3dnc?oc=5",
-          "time": "11/25 12:33"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street slides as Nvidia and AI stocks fall back",
-          "src": "CommBank",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXpVRUlzNDZwZFpLUlMzd3pkS0t5em5scWVmenlGby1aM2wxVmFJNU5XazBNQng3Q3FBWVJ2Si1xYmRKdl9wTkxXTUtnVzFpdGV6M0F0bDRFOTBkZFpKZW1YV1Bxd2t4Y3JVLU4zeEptLVJNLUVMaTh0SzktSkhoMFh2YlNWZEpHSTNocVVoV1drTmdGZ3Rwa0VxSHl4TS1HY3VKLXFvUG4wZUNmNWdXbA?oc=5",
-          "time": "11/25 07:02"
+          "t": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6% - ABC News",
+          "src": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNvSWRJR0pwZklwRnJkWkV5Zm02Ni1jck83YWhlUzFFZjBPX2RSeElWSjlUczNNRnJoZHVSZDhlbDlmRGNXY1lwc2VoUkJUejM2RXBvMS1vMTVoSnZHQTQ3YWhOUDlWOVZEbkZndHRiQzZOWFl2b0E5N3VUc2thcE96OXlvTTRyc3N6RWU5cnY2eVN2QXN3UDcyMzTSAaIBQVVfeXFMUE4xVGszYjZpVlhOUzU0V2F5N2NOUVUxMEY1aVlEMTlzMVlQOU10UmtBeVNfQm5xMmJ6LWx4dDRXaUtYR2ppV3R5a2NrTVVQV0JsTG9DQ2VJd0wxNS1NbUNfUVN2MW9iZE1jU2p4ekxWZUFjM2hCdVBkWU5jWm12V1VpeXJubFlJTkRnX09WWV9nWXJ3Qml2bV9kb3VFM3NfMWt3?oc=5",
+          "time": "11/26 04:10"
         },
         {
           "cat": "macro",
           "catn": "연준",
-          "t": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5",
-          "time": "11/25 10:42"
+          "t": "Wall Street tempers early slide as pullback in AI stocks eases despite hotter inflation, new tariffs",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jZmpKSkpNODRXeG5QaU4wa2lsMHA4V18zYkkzUzJod29GRE9lektEX2xUc3A3cU1QOV9jeGh2YWR2SHRjcmJESm11SHVNM3VOOUo2OGRwQUdiOUhkejBVb1h4Z3pwUlFzRU9TSWNnYw?oc=5",
+          "time": "11/26 06:07"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Stock Market Midday, Nov. 24: Nvidia Drops 9% as Wall Street's Historic AI Rally Loses Momentum",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLUszRXAxeFpLeklpdHl5NHFQX2o1MEV1anZVOElzZ3JxMFlOTnVWNzlLZ2JBR1RrQlVmWkl4S21tSTBHVTFPUlFwTTVzMFgtV2hFWmhPeU9va3FzMTlxazg3RVExMWYtcEhxWnV1VmF2LXNSWDJOaThuaUVaaWh5d2oyaHpRSWFMLUI2amhVVEdfdVpzb0JYN25DTGVUUzd0d3dNaFZBWHl0d1A4OVpwYTI0SDlJbXh2SVJMN0ZuMmNuT0czUm1USnR2TGtCRnZ1NTBWazFOdG5mNFZDaDFjcXc1U0U1UFk?oc=5",
-          "time": "11/25 02:25"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
+          "src": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02aG9MTzVQV1FPaHZkWUlkbUctTTNOWWxwTHplcDc2akxGWU4xRy1MQndiMUxhU0tEN2Y5WkdRTlIxRU80aUxmbGNJOWVVdE12VjZ1YnM2NU8xN0VoX0ZmNVNrbDlGOEdLV0kzV19fcEJrNDVjUk1KZnhVMA?oc=5",
+          "time": "11/26 06:32"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm",
+          "src": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlM1cEVZV2FiQzNweFlINDdoTDVGaDFnOS02eWpIV3BDUks0Q2FNc2dUWUkxOHl4LThWVXJCeXFRMHFETVpORjR2Y0lKSkh5YVN0Y2dUR0pTb1dmWUJoQmtCWTdETmpwYWtDZ1otOTlHb2lpdWNpSG5Kc3Z2QW94VjlWX1doeEJOLW01NU04aDBBYmxFY3RnLU1Vek9jdmEtVE9TTmFJZ1pWd0xLUXpnUnZjOEx3UQ?oc=5",
+          "time": "11/26 06:35"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall Street tempers its slide as pullback in AI stocks eases despite hotter inflation, new tariffs",
+          "src": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWDJHcDdRNnVDbzc3bVRDU0dGbHFiYmY2dXhnMTZkXzhtOEdLOTdkdDhvWDd3OVRBa3VwUVhaU2IwWXpkS1VTS2RPbjZPcEJFa3hiZ05ucDRjMFRXZ1RNS3ZMSkhjVjVhcW5nNklvUQ?oc=5",
+          "time": "11/26 04:54"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7201.09,
-          "pct": -0.5
+          "value": 7182.78,
+          "pct": -0.25
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 23733.54,
-          "pct": -1.48
+          "value": 23585.8,
+          "pct": -0.62
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 50018.7,
-          "pct": 0.85
+          "value": 50182.95,
+          "pct": 0.33
         }
       ]
     }
