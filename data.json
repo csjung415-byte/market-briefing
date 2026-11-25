@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:39:21Z",
+  "updated": "2026-11-25T04:48:06Z",
   "markets": {
     "kr": {
       "news": [
@@ -9,80 +9,72 @@
           "t": "\"주식앱 지웠다\" 손 놓은 개미, 손 쓰는 정부…10조 증안펀드 통할까 - 머니투데이",
           "src": "머니투데이",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fZVdvRHotdUh6OW5aM1pOR1p5cGY3MG9ybmRpZ2hRalV3RFhueG9US3NSSXNzYW10U283UDVPb0xaUEVGTjhqbktaRkM1RkJjYUNacVhpbGl4WmtSbFBVQ1ZlMHZSUUd10gFuQVVfeXFMUFpCSWlqRW5kd0p1WHhVZDQtcERkX2pJLWh6cnZKTjdCZ1M2TTdRSC03TVpDZVgxSVdIUUNfZlRTRGdWLUVTSzdkZ2FHZ3oyMThyY1ZWSDhldkJIVDJYWTMyVzdHRHRhYU0yd2ZKb2c?oc=5",
-          "time": "11/25 02:02"
+          "time": "11/25 13:31"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피 5천 회복에도 10.7조 증안펀드 준비 계속…투입 여부 F4가 결정",
-          "src": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSX21jUVR3MzNPNXdzWjYzWHh5Zl9OTzBhYThIMHUtTG54SWNXYWpmUFJTOU5OMDhiM1NTZktaT1lUQmczSHF3ZU5jcXVNX05xUHV2Tw?oc=5",
-          "time": "11/25 05:50"
+          "t": "\"겁먹고 주식 팔았는데 어쩌나\"…코스피 '바닥 신호' 나왔다 [한경우의 돈 되는 데이터]",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xTE1mYUdjOXU4bi14c3dmNmlUMk5LNW1XRHBjWTJJYU8xY2ZWTUVsejB1eHJBQ19HX1dxQmp3Mi1CalB5dkNHNFdiZmhCSUd6ZklpREJoSEU2UQ?oc=5",
+          "time": "11/25 13:30"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "코스피 오를수록 外人은 주식 팔았다…\"주가·환율 같은 방향으로\"",
+          "src": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05dFl6bDJqRXJKMVpZd1ZMQmJzSDdELXlGQTJzZmQzTXkwT20wZTBYT1ljU2x3VWpYOEpzSWlvUkoxSjZ5OE93SXdPOS1Jd21nVHF6d3FYRzQ5XzhpbmZqMlhXSWpiaTFwb0JKN3FaQ1A?oc=5",
+          "time": "11/25 10:32"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피, 급반등 하루 만에 4%대 급락…외국인 매도에 4700선 후퇴",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TdkdyOGtwTC1ad1plQzFGRFF4SXoyZ1BGRmJjZFd2T2p3V1ltbGxXbGpRRGRtaEMtMkdUNkYtN2tCZDNmTTNjakFaM05NaWkteHZham9BMzBwZEVYUGtmcWppMk9vbmZiWUNpUzFiQ07SAXRBVV95cUxQOWFJYklmSUtOWW1fY3BQX3VTMFpHWlJ0UzJfR3lZNXVMN2Y3VmROckhnNlVCZzdVVjhEcEJEaFpCTVE3aGtEQS1pblJBWlVkZVNqTzhMR3hqcFpnVkx2b3htUW9xWGxwNFJ0WVl4YkFNZTZvVg?oc=5",
+          "time": "11/25 09:42"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "5,000선 되찾은 코스피, 6% 넘게 급등한 이유는?",
-          "src": "네이버페이 머니스토리",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52b1ZQajJrdE01ZXUtbk1HTGh2ZlVNUFVqRnkxcDdyUjlIUW5qSmJNcHRCWnVSR2VNUzB6cEtPeG90bDg0bTJtN212aTkwYnJZc1dKV1pCMWo?oc=5",
-          "time": "11/24 17:42"
+          "t": "VIX 하락이 매수 신호?…“과거 13번 중 12번 코스피 올랐다”",
+          "src": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVcyWHlWVV9WNWNpWmhRUVFUQlotd2ZGVjdLTXpYd3Jhb2Z0XzgwY3E2ZkNtWGp5T1ZrUlNwc3poeFl3Zm1lQTE4Z3lHS0pXTVBkMFA1THFXMGI3eTgzaXZRRk81dnhPdVozVnJCRjFBZmRicGVKczFBNGhRbFJQYS1SeWdPOFdQ0gGcAUFVX3lxTFB5a3FvYThFSTVUaGVocFJHelQ0SE5la3k3WDEtM3NPVjR3emh6eFR1eTVJS2xsd3RPNUtLbGQtdDBlckUxS3FndUE1RV9lUklSM2lHZkZoVFBjc3IyTzdSLXNXRzFXaEFnLTdiSHNmMjhMV2dVeDdSS1NHbjdaVC1CSjM2dTFuSXdJN2ZVUTNrNnN5czZieVJWdlhJRw?oc=5",
+          "time": "11/25 07:38"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "[수요 아침 주식 투자 동향] 코스피 5000 탈환했지만 뉴욕발 AI 급제동…오늘 증시 향방 가를 세 가지 변수",
-          "src": "유스연합",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMUGhpYmVwM2ZZTWdFelI2c2dWTlFnTEFxNnNLMzV5OXIydlF2MGlBNTBtRmhQWTgtZlZlMnFhQmNjWUotTi1KM1ZGMElhY3NscVlB?oc=5",
-          "time": "11/25 07:24"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "젠슨 황 복귀에 코스피 급등…5천선 회복",
-          "src": "KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rTTlUWXByRUhyOG0wWW1YMHZTd2VRdGw1XzhfM0g4R1RQTmV5M3k2WTItU09fWVJyUjVRdUFaQ3EyZEJBWmp6RFBHVEpOSWxuNUt3V3ZXeEZFSHRibnIzb3h3TThHQQ?oc=5",
-          "time": "11/24 21:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "과격해진 글로벌 증시...변동성 왜 갈수록 커지나",
-          "src": "오피니언뉴스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yNFJNUEY0ekNiRHFzYjZGQ1BudnM5WTRUYUlYd3lDZl9Zd3JWQzJIbEVQQ3JMdURtbGw1NWs1am1WQXRtR0JCOENFREc0WDBrVVVTcFZ2bGlIT29xS24tRXhvOFlQN2lvbHZIZTdrdzU?oc=5",
-          "time": "11/24 13:57"
+          "t": "코스피, 5.93% 급락하며 하루 만에 5,000선 반납…매도 사이드카 발동",
+          "src": "프리진경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96LUZPQ2xnV0dxREJDMTd1bDJWOS03Ull6STlNS3Rad0tid0laX281Sk1oSmpaSzdPSkp5c1VHLXZZczYxaGNkOG1LTC1sM2xjRy1XLUpTRy1DVngyOTMxckNXMG9hSjlZYUJDZw?oc=5",
+          "time": "11/25 12:21"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 4708.54,
-          "pct": -3.31
+          "value": 4731.52,
+          "pct": -5.48
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 635.45,
-          "pct": -1.58
+          "value": 654.46,
+          "pct": -1.72
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1341.09,
-          "pct": -0.24
+          "value": 1342.98,
+          "pct": 0.15
         }
       ]
     },
     "us": {
       "news": [
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
-          "time": "11/25 07:01"
-        },
         {
           "cat": "earn",
           "catn": "빅테크",
@@ -94,34 +86,42 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Opinion | Nvidia proves nobody knows anything about the stock market",
-          "src": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi03OVRQelFBa2FKOS1ray10bDRKZUtnekpoQl9qdjBXOUNrR2FVMFZ1OElzaE4xRlp4RDBBTGdhTmt3TVVYY3ZkdmtOTDM4cnJhdk9vUDlqM1haSGxLV29ySHFzLVk5OHBMY2wzRHZNaFpoUzdEQURVTWMtWXE5WmR3MFl3NVVOZHBmOGxwdnN1cjFRNkVYVnJ6TG02STNzWFJQMW1SRTdOZw?oc=5",
-          "time": "11/25 04:45"
+          "t": "Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
+          "time": "11/24 19:52"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
+          "t": "Asia’s stock markets dive as doubts to swirl over AI boom",
+          "src": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTBONWVtRGk1YWduRmRYM3RaZ0ZIVFNqTWRQRG5fTGZ2SWF4elVlSFJkdWpoUHNUcFdjQ2o3ZDFLeUFPVkJYaVRjWnRDWDdfLWdackM4LU1WM1M3Yy05X3pvMVR0dnU0UzJ0R296YWNWaVdJUU5KZ21DU2pOeUpUTVhGOUNadjVPbTZCS1lpaUNjWTJvZklNY2U1dnRWb0HSAaQBQVVfeXFMTlJpRmJuUU82c0pTdnFPOENwTF9GZ1g1d3hDaExGTUhDbWJMT1VvNmp3ZEtGVmlxbTl4T2d3SFI1VnFndlZVYnVzYXRnMUdRSUxTemo4NERuNVo5OUpqVWhyOEMwQXlMM0NOSjBZTEFQX0x0bFZ6RDl0czhqbWMyMjg2ZmtHMHZWY0h3NW1BeHlpTHRFNHNScklvYms5OXVJcWU3dnc?oc=5",
+          "time": "11/25 12:33"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Wall Street slides as Nvidia and AI stocks fall back",
+          "src": "CommBank",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXpVRUlzNDZwZFpLUlMzd3pkS0t5em5scWVmenlGby1aM2wxVmFJNU5XazBNQng3Q3FBWVJ2Si1xYmRKdl9wTkxXTUtnVzFpdGV6M0F0bDRFOTBkZFpKZW1YV1Bxd2t4Y3JVLU4zeEptLVJNLUVMaTh0SzktSkhoMFh2YlNWZEpHSTNocVVoV1drTmdGZ3Rwa0VxSHl4TS1HY3VKLXFvUG4wZUNmNWdXbA?oc=5",
+          "time": "11/25 07:02"
+        },
+        {
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3RjcmgzaktFaFBfbzRReFRUOUlzUEVrYlhnb04yVUx4bFBHRjZiRUhnbV9JeWxHdlYydkdRUEZCRlRhVHRTbDV6UHBNdDFuUTFaZ2FUMEREZXZqekY0Q0pVLWltdm5WekNULWxpeThjSWxBd1V2WkRpLVdBT2NrSTI3cS1aU0tGa0x6aVdXMUtQUzhI?oc=5",
-          "time": "11/25 07:20"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "These Technical Measures Warned of Stock Market Whiplash",
-          "src": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnM2YjNnajctZnkydzdDaGZtUkpDVXBpdkZDYkhnMkpkNnpsR09jU2xiaUhNTDhRSWx3cnZXYWE5V0tGUldYMkZQUjYtUElJSnJpbWN2dGtzR016TTA3cjJqLWdUV1kxUGRuQWVGMHpqdW1HVFpfdzBQZ2FtTllBUDIxRDRxTTdYa0JKb1FFaDFqb2R4V19KSHJtTHlpMEYza3c?oc=5",
-          "time": "11/24 20:11"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDZ0bDdjN0JUTWU4T0c1eU5YZGdUckxKMTh3ZHVnd2VkVjQwTWRHWGcxMFA1cTlwMlJrYW9rNXhjV2NheHVzeXZrdHl6alZaNk5ZNzZUdTFNZXNUaXFYQzRWVk02dmtMdVFWTU9ZclBwc1ZOOHhiTmZ4Ym0xRHBmZzU3bFJDdEg0R3BITXkyOXQ?oc=5",
+          "time": "11/25 10:42"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
           "t": "Stock Market Midday, Nov. 24: Nvidia Drops 9% as Wall Street's Historic AI Rally Loses Momentum",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVZqbFp0S2VwUjFCTVJFWkJZS2NSbnNNVl9yVkRDQ0U4bElGTU56bF85Qi1JbVZfam85b1E4eFZyRl9wbElvQVRtZU1UcDk1eWVMcXplN2JwM1BGQmRraktoQ0hoQWstUlNBQjJGOHJaa3ZjRzhxV3NYOTM5aWgzTnV5c2MzUFh1aEhFYVpHV0pwbHFKc2c?oc=5",
-          "time": "11/25 02:45"
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLUszRXAxeFpLeklpdHl5NHFQX2o1MEV1anZVOElzZ3JxMFlOTnVWNzlLZ2JBR1RrQlVmWkl4S21tSTBHVTFPUlFwTTVzMFgtV2hFWmhPeU9va3FzMTlxazg3RVExMWYtcEhxWnV1VmF2LXNSWDJOaThuaUVaaWh5d2oyaHpRSWFMLUI2amhVVEdfdVpzb0JYN25DTGVUUzd0d3dNaFZBWHl0d1A4OVpwYTI0SDlJbXh2SVJMN0ZuMmNuT0czUm1USnR2TGtCRnZ1NTBWazFOdG5mNFZDaDFjcXc1U0U1UFk?oc=5",
+          "time": "11/25 02:25"
         }
       ],
       "indices": [
