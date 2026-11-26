@@ -1,8 +1,24 @@
 {
-  "updated": "2026-11-26T03:59:00Z",
+  "updated": "2026-11-26T21:47:00Z",
   "markets": {
     "kr": {
       "news": [
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "\"도박판인지 주식시장인지\"...급등락 거듭하는 코스피, 무슨 일? [이슈톺]",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94X09mZDJzWll1bTU1YlpjVGZna01PX2Vmc3pvenR0ZjZsNzlWVVFCeDNvYXFFVGtfOXptUjIzMnVOUG9ZRU9OcWNDMEo2RVAwRzF4cHc3NGhKSmRQMXc?oc=5",
+          "time": "11/26 14:10"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "AI 거품론 뚫고…\"내년에 코스피 ○○○○까지 간다\" 전망",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zd0wtTWxiTURaWk1FNTNoa1JCWGVDS0czUEIzNmpyNWl1SG54TE54NFFyWk5NWXRJSjJyMFNwUVZ1STdxanJhZU4xUGY4UG1qdENZT1ctemMxUQ?oc=5",
+          "time": "11/26 13:55"
+        },
         {
           "cat": "macro",
           "catn": "시황",
@@ -21,55 +37,39 @@
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "[마켓뷰] 추가 변동성? 반등 시도? 코스피 향배 주목",
-          "src": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42UE5NZGhuT096bUJVWXo5a2FsRVdTbEx4cWF6RTJKQTFvQmNlZVgzck15YVc2eFdmRFdhLXlXUGJhT0p1cGhvZ1hGOS1RcjdXVmoxcE54ejFDSlNKeVRTZtIBYEFVX3lxTE42UE5NZGhuT096bUJVWXo5a2FsRVdTbEx4cWF6RTJKQTFvQmNlZVgzck15YVc2eFdmRFdhLXlXUGJhT0p1cGhvZ1hGOS1RcjdXVmoxcE54ejFDSlNKeVRTZg?oc=5",
-          "time": "11/26 07:58"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "서울 아파트 다 사고도 남을 돈이 증시에서 사라졌다? 따져보니",
-          "src": "주간경향",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84YmE3MWdLZWQ3NV9naFBXVU55SFI4Z2xsQUFQMDFtd0ZaUDNJd0xRQ20tYnJUaFJxWWRkSTU4ZGxOTk05b2VTMS0tb1gtUHdJUjJkd3EwWlBWVHZ4aUE?oc=5",
-          "time": "11/26 10:45"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 1.01% 오른 4745.1 출발...코스닥도 1%대 상승",
-          "src": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUTdPb3JUQWhIbEMyZXBEMXNzQVZyU2FGSGJ6R3MxVXpQRzN0YXpSUlBCb3ZZMnFIa3Qxdmlmb3lpOUViQ3l5WU9UVDNJbFVVTFl5MVB4aVhUWnFaMVlxOEVZVXZNMkZVZ0F5NlplbzloWmdyVkE4R3RCS25iMWJmcA?oc=5",
-          "time": "11/26 09:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 6%대 폭락 하루 만에 반등…장 초반 4,800선 회복 시도",
+          "catn": "금리",
+          "t": "코스피, 6%대 급락 후 0.29% 반등…금리 인상에 상승폭 축소",
           "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RWUZjdDI2VXdyV05ZVGZQR3RnN1kzSTNFNl9tTG96NDRVbDdSQXpMUnViUWxmN2pnNXFzY0h0ZWlCbmYydmhQQ0lQWkFsQjJvWnRLZ2RpMzlBR2RkYmNLaGNmV21EODlCR3ZERzJOaDbSAXRBVV95cUxObm5YSEFMekl3WmIyVm9tLTJPbFVPOWEzSlhNMXdPUExCdVRkZUsxRUFpdW5ZZ3A3ZTN1N1VSTndQdlNuN2ZRQXZkckx1Q1IycUxkTllNc0hLd202bHBKTGVWbzRENndZZjhjSFRmcmoxTU01WQ?oc=5",
-          "time": "11/26 09:42"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PcXBOX1pvQkRGZVpha2RMcHBrdVl3TGdEWkR4Z1A5RkxJVkN1cE9ZdzYxdjZEM3A5OF85SVlaMHN6M2YxUll0QnhNT2p0UWZ1T0JobjQ4SnFaVGM1ZnRndFZaelNNOTZOYUcwdEs2S1PSAXRBVV95cUxNVllWU3BrWi1IeHNQcTk2NU1ZQURkR1BqRWpKbnRrRnBCOThQbDJXQmJjMFhCWFNXMGZBSmJweHVlTXkxQkotemxSRDVEUVFaZ3RybTV0LXR1N1dXM3Z3dk9GMUJkXzR2dkVsTGlpRlhaQVNEMw?oc=5",
+          "time": "11/26 17:03"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피 4000선도 깨질까…AI 버블 붕괴 우려에 커지는 증시 불안 By 인포스탁데일리",
+          "src": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96TmVDUjhaTl83SWhfTWN4MmRaVkFHdjcwLWkyQWh3Rk1obnRzeTJfbXVha1RmMi13NzdHS2paUXZjTEtQUEFtVHFlY0V3Z050NGF1Mzl6QWlSRmo1VkN3Zy1HSFY2MDJ5TDJtUDhtTEg?oc=5",
+          "time": "11/26 18:41"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 4753.63,
-          "pct": 1.19
+          "value": 4697.51,
+          "pct": -6.16
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 663.64,
-          "pct": 2.0
+          "value": 650.64,
+          "pct": -2.29
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1343.2,
-          "pct": 0.04
+          "value": 1343.04,
+          "pct": 0.03
         }
       ]
     },
@@ -78,18 +78,34 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Stock Market Today, Nov. 25: Dow Erases 1,100-Point Loss as Wall Street Stages Dramatic Late-Day Comeback",
-          "src": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX3U5elBCUUtscUYwVDlXbW80SzZEazlQOFJDU2p3eV9zNDZqbVFFN3haaHYwMW9pZ2htNUFrS3llbEdLRDNHaExwSFRraVNBRTBtelhKb0NXeDlxbl9VRkQ5cjk2RF9JbXkwYzlYaWhKTjlHMlhCX0R5QzFGN2xnYThpQ29xNm91RTM5WngybjFBVEpSLU1kUUZCVzVtU3FTS0xRVFl0bVhKTFl0ZW5lUXA4WjEydjVlcF82dTdXZUdGbW5lU1lTVnMzOWNkNU1vQlVfTDFDckh6bHotWmtBb1F1N21ja1dDUGNiWW0tdzRLMFd6ekE?oc=5",
-          "time": "11/26 06:57"
+          "t": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
+          "time": "11/26 20:57"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Stocks close mixed after Wall Street erases sharp decline: Nvidia drops 4% - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNvSWRJR0pwZklwRnJkWkV5Zm02Ni1jck83YWhlUzFFZjBPX2RSeElWSjlUczNNRnJoZHVSZDhlbDlmRGNXY1lwc2VoUkJUejM2RXBvMS1vMTVoSnZHQTQ3YWhOUDlWOVZEbkZndHRiQzZOWFl2b0E5N3VUc2thcE96OXlvTTRyc3N6RWU5cnY2eVN2QXN3UDcyMzTSAaIBQVVfeXFMUE4xVGszYjZpVlhOUzU0V2F5N2NOUVUxMEY1aVlEMTlzMVlQOU10UmtBeVNfQm5xMmJ6LWx4dDRXaUtYR2ppV3R5a2NrTVVQV0JsTG9DQ2VJd0wxNS1NbUNfUVN2MW9iZE1jU2p4ekxWZUFjM2hCdVBkWU5jWm12V1VpeXJubFlJTkRnX09WWV9nWXJ3Qml2bV9kb3VFM3NfMWt3?oc=5",
-          "time": "11/26 04:54"
+          "t": "Wall Street Flips From AI Euphoria to Gloom",
+          "src": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5",
+          "time": "11/27 06:28"
+        },
+        {
+          "cat": "earn",
+          "catn": "실적",
+          "t": "Wall Street’s earnings mood is starting to improve. Is the stock market finding a bottom?",
+          "src": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmF1ZTZ6QkNuNnd4Mmp0bXh4YUxXamRGWE95MGg2cjFhUUZ6T1JvbkFldWs4ZFQwdXVPMmtRaE1wVTRDWDZqQmpRSElnSElMeDJXRGdxNXZiRzBMOVQzNUNkRjBEU0xFY2M5V2JwTjNjbFFnU09XX0RqXzVnOWVqSndhOGJBQzhKVVZnVkRwOTdyZFJEUHJXTnFQa2ZhQnRzQm1WTU53QmxrVDlVTDNEcTNwT1Rib2ppQVgtMWZn?oc=5",
+          "time": "11/26 21:47"
+        },
+        {
+          "cat": "earn",
+          "catn": "빅테크",
+          "t": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+          "src": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
+          "time": "11/26 22:41"
         },
         {
           "cat": "earn",
@@ -100,28 +116,12 @@
           "time": "11/26 08:05"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-          "time": "11/25 19:08"
-        },
-        {
           "cat": "macro",
           "catn": "시황",
-          "t": "Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm",
-          "src": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlM1cEVZV2FiQzNweFlINDdoTDVGaDFnOS02eWpIV3BDUks0Q2FNc2dUWUkxOHl4LThWVXJCeXFRMHFETVpORjR2Y0lKSkh5YVN0Y2dUR0pTb1dmWUJoQmtCWTdETmpwYWtDZ1otOTlHb2lpdWNpSG5Kc3Z2QW94VjlWX1doeEJOLW01NU04aDBBYmxFY3RnLU1Vek9jdmEtVE9TTmFJZ1pWd0xLUXpnUnZjOEx3UQ?oc=5",
-          "time": "11/26 06:35"
-        },
-        {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "U.S. stock futures turn higher as tech rebound holds after wild swings on Wall St",
-          "src": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc09naTRBTHppblJfSEM4Y3UyYkZid0dzbkNJdVBkWnV5SGNMd2NvX1BuczV5a242ZEl6ZlRkX1FxOU1jVWtwZVEzQWcwWlJsZXZtVG5vbk9hVjlFUFdwcV9lTGZ1cy16ODhkQUF6MWhWMHhVZXo4eTBYRV9sMWN2a1NaV2hpQ1hHTWdqcjJJNU4wR2N1SG5zUW4zNVprRGhNVVVXVXYxV1BzeENfdDhBTm01VQ?oc=5",
-          "time": "11/26 12:42"
+          "t": "The Stock Market Is Still on Track for Its Best Thanksgiving Week Since 2008",
+          "src": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHJ6N2NBdi02cGhvbXQ5bUVWMElNNE81ek5jT3Jmdk5QX2l1d283UUdJZFpnTHZQVnZfMlBTZ1dVeXRMc2VTMHRidEphdzF1UHFJVzdyM3BlXzRteGNwY3dNZkpwVzlzMmdqQWc1ZDNBVjdFZThxNVFtVEQydU93VzBIYWptMlJseGduR3d6ZklFU1J1bVhENUl1YkF6ZG01Q280bDBWNjFubWYtRjB0ZmZsb1JvU005d0FfRQ?oc=5",
+          "time": "11/26 21:02"
         }
       ],
       "indices": [
