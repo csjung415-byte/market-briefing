@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-27T03:57:48Z",
+  "updated": "2026-11-27T21:29:57Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "코스피, 소폭 상승 출발‥코스닥 장 초반 2%대 오름세",
-          "src": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OSTZKazVKZzI5X3Fob1pMbTRFTUJiUFdNdXNPZVVjQzY2UHREd096Vk1VY043OHVBdDdkejJZMlZ1Zk00dm84eUJNU2V0WUhzazF3LWp2MWg1RVh6eGdPNXk2eU4zUHNTQm5HZWx3TDhTanA40gF0QVVfeXFMT01DQjh4aUEyVFRLeXAzRlh1TnhVSnp5QWZtTEZITXZsblVmOUpOQ2NyNGJCS0RFTXJKQldkdDh0Q3RXOFc0UzNWbEhjY19mTkZrSjFCczhNSHg5T1B4UEZkOTN1RlRzRTFoWm5vZWJOTkZFYWw?oc=5",
-          "time": "11/27 09:16"
+          "t": "\"눈물 쏟고 고개 숙이고\"…코스피 반토막에 전문가들도 '충격'",
+          "src": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rVFBzQ2NXOWRKdEM0Z281Rm9PQk5mRVN4dmZMN1dVemFUbFpQaWI1OUpYYnI4ZTZNeFZpckxBdzFicFRhdWhaQV9FTEl2bjZKMGVlbk5COThldw?oc=5",
+          "time": "11/27 18:17"
         },
         {
           "cat": "sector",
           "catn": "업종",
-          "t": "코스피, 반도체주 약세에 4,710선 등락…코스닥 3%대 급등",
+          "t": "내 계좌엔 얼마 들어올까? 역대급 배당금 쏘는 삼성전자",
+          "src": "네이버페이 머니스토리",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXRlBHOHpxOTVUYk5waVAxTkNRTHQ0UmxQVlJybXdnUU5HU0tQVWo5QWFTd0Nna3V1QUR2SnJRV2tHVUFkSlA4aS1taWRqVG0wdEE?oc=5",
+          "time": "11/28 03:55"
+        },
+        {
+          "cat": "flow",
+          "catn": "수급",
+          "t": "코스피 4.34%·코스닥 8.13% 급등…외국인·기관 매수세 폭발",
           "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WLUo0WkxEdk91bmhKQ29odkZEZzM3bDA0VVM1TWZYSFZOZGhMQ3pmYTlCQzZLMERNbEctdUlxaUd0Z1VoRnpuQ0FzSGdjazQyamUwa3ZRd0c4cWNpS0NtVWk1MG51bDB3QUZYeU5mVWnSAXRBVV95cUxPUkFzVnNHVGtMR3c2WjVwcnJwVGYtNWtkVVM4bUFQQlo1MG9DaVhqdXlCS0hRcTV5RjVHUlViZ3dLWU1uQWM2UDV1YS1RcjFHTmJtZ2VTLWJ5RC1EeGdzLWc2TjlNb0R3WWZqQ3pXVFFjc2NsZQ?oc=5",
-          "time": "11/27 09:55"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lVGd3NUF4RTNWcHptRm5aVkUyWnExRDAyaFlRQWk1SDQyNzMzNWZLTGNzaWhQT3g5RVRjSlFibG04aHJkclJma3pORkJncURmaXNoaU9qWm1ldngtb3NmaS1oLWNhVk1Kd1VkcnFzR3XSAXRBVV95cUxQdEdFeHRhVm13cTJfZ1V4VmtYQlBzbGU3blp3MGxxYUhNaGtUdTVGb1I5eGFxSGVySXprczZMY0UzeVItellhTUxRWEhiRnR2SUcwSDZwRUxybVRveE9nOHRaYTNsQlV5S1ZaQXcyN1BjRDVCRQ?oc=5",
+          "time": "11/27 16:54"
         },
         {
-          "cat": "fx",
-          "catn": "환율",
-          "t": "[오늘 증시 전망] 코스피 4,700선 회복했지만 상승폭 축소…27일 외국인 수급·환율이 관건",
-          "src": "업코리아",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CMkFEdXBqQ3dRX0x4c3Y4M00tU1Z3LWxqcjJEWkFIbTNOR2JNUDNXZFllMExnYkdxVUFDNmQybTJSM2VhQWl4MS1WTDdmYmVDMGMzMUZPWC1WN0pYRmdPWFZCWXVxR0M4a1YwSW93?oc=5",
-          "time": "11/27 07:25"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피, 장 초반 4800선 회복…코스닥 4%대 강세",
-          "src": "블루밍비트",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rM1RBWno0N0IwWFZpWE5VdkdLVWJTeW9Ibm55b1BWRVppai1TVG85aG9qYTVuOVp5MV9XWkpGN2tzNGkzOUFkQ0lBZGt3cG1B?oc=5",
-          "time": "11/27 10:34"
+          "cat": "flow",
+          "catn": "수급",
+          "t": "외국인 '사자'에 코스피·코스닥 일제히 급등‥증시 안정 대책 기대감 등 영향",
+          "src": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUVGFsb0w0c1NoVkRMY2RmMGc1S1pYRF81alZvLW5teW1UU2wzb0hEVHcyYkRfVGNKSzZtQVZCVGwwUXFhUl9sUXlldndOaTZidGFuUXFkT19fNVIxSEtnR1JaVEI0cEpENFlMNE9mbGwySjF10gF0QVVfeXFMUEhxa3k5b1dhejMyVFoyaWJCRmczMkt3czE1UDRlMW1Oc1d3eTdsLXdYalZ2bXRZOGM0bDRqa1RqQzdjX2tHSGs0Y1ZXZHFEVU5hSXh0em1KN0R6dnlnQnBpTnZCZjZ6UTFrVTZkZ0FhYWtuMjI?oc=5",
+          "time": "11/27 13:46"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "AI 거품론 뚫고…\"내년에 코스피 ○○○○까지 간다\" 전망",
-          "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zd0wtTWxiTURaWk1FNTNoa1JCWGVDS0czUEIzNmpyNWl1SG54TE54NFFyWk5NWXRJSjJyMFNwUVZ1STdxanJhZU4xUGY4UG1qdENZT1ctemMxUQ?oc=5",
-          "time": "11/26 13:55"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "\"도박판인지 주식시장인지\"...급등락 거듭하는 코스피, 무슨 일? [이슈톺]",
+          "t": "주식 전문가 방송에서 눈물...오늘은 깜짝 반등 [앵커리포트]",
           "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94X09mZDJzWll1bTU1YlpjVGZna01PX2Vmc3pvenR0ZjZsNzlWVVFCeDNvYXFFVGtfOXptUjIzMnVOUG9ZRU9OcWNDMEo2RVAwRzF4cHc3NGhKSmRQMXc?oc=5",
-          "time": "11/26 14:10"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4Sm0yRFJRaXVzX0cyTURfbWhUdjBHd2w1TC1EbmpKaVh0WVJ5RVdwUWJWdFpxOEVhT3BlWmlKa3kyQ1k2OEJSaGstVG0tTXZpaEtVbEtsY0phUDFRYUFpOUQxMm1MOWdaZXZqUno4aE1yY0pPWXc?oc=5",
+          "time": "11/27 20:45"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "돈 번 개미는 10명 중 2명뿐…그래도 코스피 상승에 기대",
+          "src": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd013N0hTMlFsaWZFUTFabEk1ZnFiQ01aMzk3WHJLUzBGNHRnRll2S3Q4cHFDNk5RMWk3TFJMelNQRThTN21OTkVpaVpocS14V1M0V0poNE5sQQ?oc=5",
+          "time": "11/28 06:20"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 4865.37,
-          "pct": 3.27
+          "value": 4711.21,
+          "pct": 0.29
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 695.4,
-          "pct": 6.05
+          "value": 655.71,
+          "pct": 0.78
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1341.23,
-          "pct": -0.13
+          "value": 1333.6,
+          "pct": -0.7
         }
       ]
     },
@@ -78,70 +78,70 @@
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Wall Street Flips From AI Euphoria to Gloom",
-          "src": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5",
-          "time": "11/27 12:28"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street is in chaos. Don't let it ruin your Thanksgiving.",
+          "t": "Wall Street ends higher as battered AI stocks gain in volatile week",
           "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHNtN0FMdy1Benl2VHVMLU4xUFpORWs1ZDBieVZUYjZDTlVNbFI3TUF2RzVOYmV1SGd1UGE5anYtQXR5Wk5aUHVWeGx1M3Q5Y3ltVEgzbG16SVdCTGRSekFLaGVXUnF5Tmtta195bmxIeGxnbVprT0Roc0M1X2pkazRLa1BsT1VzUlZrcjBsVVZIRWwwS0Uzc2R5b1hOcjZxdC1PZ2ZoWE43TjZLcDhfUVZpbkpBQQ?oc=5",
-          "time": "11/26 22:00"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
+          "time": "11/28 03:02"
         },
         {
           "cat": "macro",
-          "catn": "시황",
-          "t": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday - ABC News",
-          "src": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjNUclZ5dldLaDNQamhLRjFxWmV6S202aDREaDQ2ang5S3VseVhuQzN3ek9Kb2RWbE92aWx6Q3IzeTRhaEZ2MjUxOW5uRTFOc0NxQTN5NVlKWUlkYW1PeWs2V0RqU3R2dEdMeUhjMldMRHB1ZGNxSHJtOWtGSGtwYjBMYVJOdHpiMVJPanRnbXNZU1VMWjdUM1hSTdIBoAFBVV95cUxOWmgxTlA4QkY4SmhvcC0zY01MZE1sektXbXkxM2VwR3JyYUZJSU5COEp5TVpSeVZodVdpSHNWYmVmQzZ6dk43NHo1QVZoR2g2ZnltWWliOG5LSG9jSkRBdlBVNGNva1hfcDNrOEt1dTViS0JrSVM4TUMxWUlOWUFNWWRUTjVOZFBySF9SZVA1bFFPSEpZczc0WG5ZNERWb1Bm?oc=5",
-          "time": "11/27 11:57"
+          "catn": "연준",
+          "t": "Wall St Week Ahead Sliding stock market confronts jobs data, rate view as next tests",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5",
+          "time": "11/27 22:59"
         },
         {
           "cat": "earn",
           "catn": "빅테크",
-          "t": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
-          "src": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUlfM2QzdlpScVhIWThObnc4d2FnV3hsR0ZCWURLcHNWOHdVX2RKZVc4NURnY1RUV2lBazNqM2YxTkwyMndXSnUyUlVxM3hCSFZVa0t6VUZITklXRnZTRFN0bFlfU1VPNmRyZFdnX1NKRzcxbzlzSHZTdEhMRkNOX0g3dDVTdjZQemREajhYemotZTNpaVNrdHF3ajZqZFZIMm5PMGpkZDVVTmw4ejdJSjU3bzNWenUzZ3pIS2x5U2FBa3NmTzVQQlhsYVJGRjZE?oc=5",
-          "time": "11/26 22:41"
+          "t": "Stocks Rise and Keep Wall Street on Track to Close Out an Erratic Week With Big Gains",
+          "src": "The Well News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0xqbkFrQkJpQWloNjlDckRURlh1S0pIMkREUXdiRkRpam5wdERiOTZfM00yaEw3eFRHTkpaYW8xZWtiMUxNY1BCM2ZvaGZYSTBHVU9EUFhXMWxXUTYwemstNGI2VnN4bFhPRndqc2RDbUJCcm1JSjV6SVU5emllYWVPUVpiZWQxT1RhWUtXYVdYa0tkQTE3Q0NQOXo3eVRWNUdwbjM3S283ZEJHakVMMlkxWjZCQ0EtTzF4T2VBYXp2XzlY?oc=5",
+          "time": "11/28 01:08"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday",
-          "src": "Ottumwa Courier",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNa0JESXplT1ZzZEFlSjRfZEtVb1plYUFmbEJkVVdCQ045eUQ4TXI3VTJYZHg1bnlHX0RUVTRNbnNwSVhGd2RaN0VubWhhSFdDRlQyekJmSHpQbC1VSHo1ajNBTnRtajloRHpibUJVVkYxVTdzd2lZNV91VTVVbExUUVA5cU1aVjFRdTlOQzNFRzlmSXFhVnc4WmZHMHBCVmxqT090VHFBODNLMUZUbmRSV0xKUVlZSTU4dmxva3BhU1RhSkNGS21vRjhxLXFBVGxacFdDZ0ZnNTVQS0lsUmNuVHFSVnc3c3JtWDJGQVRBQmhyNGIzU1drTkFwMVBwNXNRdlRTanlWWFMtQWdkU0ZDWWtqM3BYZw?oc=5",
-          "time": "11/27 11:18"
+          "t": "Stocks jump to end an erratic week that was Wall Street's best in over a year",
+          "src": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3E4aUlpQUpxRndOLVBSZlJZZWdtdENuYjVEQkdOWjV2dEdmeUs2TmptUk94ZG4tcmQ0TnhZQS1pOFhJUHVsLWlDcnExLW9rRGZFSHc1YkV4Rml5UWZjTFRRakhGbkM1UEtVTlVCbXJGZGtmX0IydGh4UlJvUzdnTUNLQlVYZlJMRnk0Z1EzcGlPR3ZTcTZlQ0tIRnN1MHl0WVllOXd0T08wNTA4MkdpNzhoSQ?oc=5",
+          "time": "11/28 03:59"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "European stock market open: Stocks surge after stunning Wall Street turnaround",
-          "src": "investingLive",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFR4bjJLczRydHVCVUpyZUh0VzNnSzBHbW5VWkRIS0wxMTU0NU82d2I4RGdoaDd6UTA5bWQ2UGxLaWU0cXJQZGRhcnR1akdUTnIyREZhbWZUSFh6Y0hsdWhuMzg4UExEdTM3YUhUd2xKLTVIT3lKazRFRWdhajAxWm1kYVBfQllPNVd3bTVlR0g0M1lHT25NZXFVZkFWS2N2OHAtWFFzRkgxMkFNT3lLXw?oc=5",
-          "time": "11/26 17:30"
+          "t": "Wall Street Just Had Its Best Week in Over a Year",
+          "src": "Newser",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFFRelFheHQ4SFZXT21HY2hxU3RrMy1Zdm9FYm5vRk9uSUw3dUp6cXB2SE1UUEUtT0JZNGJIbnhVQ0YwMUNHYm9QT21lYmlaTXlGUktsTWFsaFNEUDRRNmk1LWdTWmM4SE14RnRmemI3YzVPVEVKeTZxcm4zWmV2VXdCN0xJQVJaUWRMc2NVNU1Jc0g3?oc=5",
+          "time": "11/28 04:30"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
+          "src": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUkpRejhPeEh2RnhWZndBWFpzM0pBNVBpaVVpOVBMaGVPSW9oVlgzU3hNVVBqTnZWejQ3QlpYX3BheFh2M3RwanhvdmZESll0UDI4eHRYUEJIUUtYSDB3ZmxNdDNQSVJsZWgybW1VT0RSSWpUb1drY2ozY2E5VDh0OUxxME5oenctV0lpWE1xYk9kY21Zal9jVA?oc=5",
+          "time": "11/27 19:30"
         }
       ],
       "indices": [
         {
           "name": "S&P 500",
           "code": "US500",
-          "value": 7182.78,
-          "pct": -0.25
+          "value": 7297.49,
+          "pct": 1.6
         },
         {
           "name": "나스닥",
           "code": "NASDAQ",
-          "value": 23585.8,
-          "pct": -0.62
+          "value": 24129.5,
+          "pct": 2.31
         },
         {
           "name": "다우",
           "code": "DOW",
-          "value": 50182.95,
-          "pct": 0.33
+          "value": 50774.94,
+          "pct": 1.18
         }
       ]
     }
