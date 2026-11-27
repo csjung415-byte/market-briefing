@@ -1,15 +1,39 @@
 {
-  "updated": "2026-11-26T21:47:00Z",
+  "updated": "2026-11-27T03:57:48Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"도박판인지 주식시장인지\"...급등락 거듭하는 코스피, 무슨 일? [이슈톺]",
-          "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94X09mZDJzWll1bTU1YlpjVGZna01PX2Vmc3pvenR0ZjZsNzlWVVFCeDNvYXFFVGtfOXptUjIzMnVOUG9ZRU9OcWNDMEo2RVAwRzF4cHc3NGhKSmRQMXc?oc=5",
-          "time": "11/26 14:10"
+          "t": "코스피, 소폭 상승 출발‥코스닥 장 초반 2%대 오름세",
+          "src": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OSTZKazVKZzI5X3Fob1pMbTRFTUJiUFdNdXNPZVVjQzY2UHREd096Vk1VY043OHVBdDdkejJZMlZ1Zk00dm84eUJNU2V0WUhzazF3LWp2MWg1RVh6eGdPNXk2eU4zUHNTQm5HZWx3TDhTanA40gF0QVVfeXFMT01DQjh4aUEyVFRLeXAzRlh1TnhVSnp5QWZtTEZITXZsblVmOUpOQ2NyNGJCS0RFTXJKQldkdDh0Q3RXOFc0UzNWbEhjY19mTkZrSjFCczhNSHg5T1B4UEZkOTN1RlRzRTFoWm5vZWJOTkZFYWw?oc=5",
+          "time": "11/27 09:16"
+        },
+        {
+          "cat": "sector",
+          "catn": "업종",
+          "t": "코스피, 반도체주 약세에 4,710선 등락…코스닥 3%대 급등",
+          "src": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WLUo0WkxEdk91bmhKQ29odkZEZzM3bDA0VVM1TWZYSFZOZGhMQ3pmYTlCQzZLMERNbEctdUlxaUd0Z1VoRnpuQ0FzSGdjazQyamUwa3ZRd0c4cWNpS0NtVWk1MG51bDB3QUZYeU5mVWnSAXRBVV95cUxPUkFzVnNHVGtMR3c2WjVwcnJwVGYtNWtkVVM4bUFQQlo1MG9DaVhqdXlCS0hRcTV5RjVHUlViZ3dLWU1uQWM2UDV1YS1RcjFHTmJtZ2VTLWJ5RC1EeGdzLWc2TjlNb0R3WWZqQ3pXVFFjc2NsZQ?oc=5",
+          "time": "11/27 09:55"
+        },
+        {
+          "cat": "fx",
+          "catn": "환율",
+          "t": "[오늘 증시 전망] 코스피 4,700선 회복했지만 상승폭 축소…27일 외국인 수급·환율이 관건",
+          "src": "업코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CMkFEdXBqQ3dRX0x4c3Y4M00tU1Z3LWxqcjJEWkFIbTNOR2JNUDNXZFllMExnYkdxVUFDNmQybTJSM2VhQWl4MS1WTDdmYmVDMGMzMUZPWC1WN0pYRmdPWFZCWXVxR0M4a1YwSW93?oc=5",
+          "time": "11/27 07:25"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "코스피, 장 초반 4800선 회복…코스닥 4%대 강세",
+          "src": "블루밍비트",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rM1RBWno0N0IwWFZpWE5VdkdLVWJTeW9Ibm55b1BWRVppai1TVG85aG9qYTVuOVp5MV9XWkpGN2tzNGkzOUFkQ0lBZGt3cG1B?oc=5",
+          "time": "11/27 10:34"
         },
         {
           "cat": "macro",
@@ -22,82 +46,58 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "곤두박질 코스피에 “현실감 없어요” 막막…개미 자금 80조 ‘매물벽’ 갇혀",
-          "src": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRFFpM0tuTDFlZ2FaREJjeEdYQlRLbkgzSHlodjQ5VU9RaFN3dGF2SEpZUDdJWmVuaGY5TjFNY0RUZEV5ZW40TnhLNUtmVnhrRVRxVUNIczJ0SWJ4UWp5bkJYWnZ4azQ?oc=5",
-          "time": "11/26 09:18"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "[e마켓오프닝] 6% 폭락 딛고 반등···코스피 1% 오른 4745 출발 |",
-          "src": "시사저널e",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iRVJmeTBRTmVoSkZ5VDJ2cEd6UHc0Z21PaEtmallRSzFROWFucy1ERGRpVXFycWpMVXNPeWpReVVlSi1Qbk1lZlJNWmpOSFFvb2ZXY2ZSNUgzVURIZzhEa1g4cWpQZDJlUmk2aEt1enltNG4tcEE?oc=5",
-          "time": "11/26 09:52"
-        },
-        {
-          "cat": "macro",
-          "catn": "금리",
-          "t": "코스피, 6%대 급락 후 0.29% 반등…금리 인상에 상승폭 축소",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PcXBOX1pvQkRGZVpha2RMcHBrdVl3TGdEWkR4Z1A5RkxJVkN1cE9ZdzYxdjZEM3A5OF85SVlaMHN6M2YxUll0QnhNT2p0UWZ1T0JobjQ4SnFaVGM1ZnRndFZaelNNOTZOYUcwdEs2S1PSAXRBVV95cUxNVllWU3BrWi1IeHNQcTk2NU1ZQURkR1BqRWpKbnRrRnBCOThQbDJXQmJjMFhCWFNXMGZBSmJweHVlTXkxQkotemxSRDVEUVFaZ3RybTV0LXR1N1dXM3Z3dk9GMUJkXzR2dkVsTGlpRlhaQVNEMw?oc=5",
-          "time": "11/26 17:03"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "코스피 4000선도 깨질까…AI 버블 붕괴 우려에 커지는 증시 불안 By 인포스탁데일리",
-          "src": "Investing.com 한국어",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96TmVDUjhaTl83SWhfTWN4MmRaVkFHdjcwLWkyQWh3Rk1obnRzeTJfbXVha1RmMi13NzdHS2paUXZjTEtQUEFtVHFlY0V3Z050NGF1Mzl6QWlSRmo1VkN3Zy1HSFY2MDJ5TDJtUDhtTEg?oc=5",
-          "time": "11/26 18:41"
+          "t": "\"도박판인지 주식시장인지\"...급등락 거듭하는 코스피, 무슨 일? [이슈톺]",
+          "src": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94X09mZDJzWll1bTU1YlpjVGZna01PX2Vmc3pvenR0ZjZsNzlWVVFCeDNvYXFFVGtfOXptUjIzMnVOUG9ZRU9OcWNDMEo2RVAwRzF4cHc3NGhKSmRQMXc?oc=5",
+          "time": "11/26 14:10"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 4697.51,
-          "pct": -6.16
+          "value": 4865.37,
+          "pct": 3.27
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 650.64,
-          "pct": -2.29
+          "value": 695.4,
+          "pct": 6.05
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1343.04,
-          "pct": 0.03
+          "value": 1341.23,
+          "pct": -0.13
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
-          "time": "11/26 20:57"
-        },
-        {
           "cat": "earn",
           "catn": "빅테크",
           "t": "Wall Street Flips From AI Euphoria to Gloom",
-          "src": "Bloomberg",
+          "src": "Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3dMUTlPVV9IdUJTQ0NWSjV2ZEZLbmNnWWtoMEpQT05KdzZSX0d5cjRtNzBCYTZMdzBVZmQ0QU14a3B3dnRncGxPMmMyR0I3djQycmp0VWtWV0NqY3NQdHdPQlhDZGZuX2MwSHFFRmI2N3NydV9Bb3BRR1ZzUUs5NWNucklfOEZVNzczamJQdEY1OHRzRGdNdGZjb2ZYdw?oc=5",
-          "time": "11/27 06:28"
+          "time": "11/27 12:28"
         },
         {
-          "cat": "earn",
-          "catn": "실적",
-          "t": "Wall Street’s earnings mood is starting to improve. Is the stock market finding a bottom?",
-          "src": "investingLive",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmF1ZTZ6QkNuNnd4Mmp0bXh4YUxXamRGWE95MGg2cjFhUUZ6T1JvbkFldWs4ZFQwdXVPMmtRaE1wVTRDWDZqQmpRSElnSElMeDJXRGdxNXZiRzBMOVQzNUNkRjBEU0xFY2M5V2JwTjNjbFFnU09XX0RqXzVnOWVqSndhOGJBQzhKVVZnVkRwOTdyZFJEUHJXTnFQa2ZhQnRzQm1WTU53QmxrVDlVTDNEcTNwT1Rib2ppQVgtMWZn?oc=5",
-          "time": "11/26 21:47"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Wall Street is in chaos. Don't let it ruin your Thanksgiving.",
+          "src": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHNtN0FMdy1Benl2VHVMLU4xUFpORWs1ZDBieVZUYjZDTlVNbFI3TUF2RzVOYmV1SGd1UGE5anYtQXR5Wk5aUHVWeGx1M3Q5Y3ltVEgzbG16SVdCTGRSekFLaGVXUnF5Tmtta195bmxIeGxnbVprT0Roc0M1X2pkazRLa1BsT1VzUlZrcjBsVVZIRWwwS0Uzc2R5b1hOcjZxdC1PZ2ZoWE43TjZLcDhfUVZpbkpBQQ?oc=5",
+          "time": "11/26 22:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday - ABC News",
+          "src": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjNUclZ5dldLaDNQamhLRjFxWmV6S202aDREaDQ2ang5S3VseVhuQzN3ek9Kb2RWbE92aWx6Q3IzeTRhaEZ2MjUxOW5uRTFOc0NxQTN5NVlKWUlkYW1PeWs2V0RqU3R2dEdMeUhjMldMRHB1ZGNxSHJtOWtGSGtwYjBMYVJOdHpiMVJPanRnbXNZU1VMWjdUM1hSTdIBoAFBVV95cUxOWmgxTlA4QkY4SmhvcC0zY01MZE1sektXbXkxM2VwR3JyYUZJSU5COEp5TVpSeVZodVdpSHNWYmVmQzZ6dk43NHo1QVZoR2g2ZnltWWliOG5LSG9jSkRBdlBVNGNva1hfcDNrOEt1dTViS0JrSVM4TUMxWUlOWUFNWWRUTjVOZFBySF9SZVA1bFFPSEpZczc0WG5ZNERWb1Bm?oc=5",
+          "time": "11/27 11:57"
         },
         {
           "cat": "earn",
@@ -108,20 +108,20 @@
           "time": "11/26 22:41"
         },
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street recovers most early losses as pullback in AI stocks eases",
-          "src": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5",
-          "time": "11/26 08:05"
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday",
+          "src": "Ottumwa Courier",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNa0JESXplT1ZzZEFlSjRfZEtVb1plYUFmbEJkVVdCQ045eUQ4TXI3VTJYZHg1bnlHX0RUVTRNbnNwSVhGd2RaN0VubWhhSFdDRlQyekJmSHpQbC1VSHo1ajNBTnRtajloRHpibUJVVkYxVTdzd2lZNV91VTVVbExUUVA5cU1aVjFRdTlOQzNFRzlmSXFhVnc4WmZHMHBCVmxqT090VHFBODNLMUZUbmRSV0xKUVlZSTU4dmxva3BhU1RhSkNGS21vRjhxLXFBVGxacFdDZ0ZnNTVQS0lsUmNuVHFSVnc3c3JtWDJGQVRBQmhyNGIzU1drTkFwMVBwNXNRdlRTanlWWFMtQWdkU0ZDWWtqM3BYZw?oc=5",
+          "time": "11/27 11:18"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "The Stock Market Is Still on Track for Its Best Thanksgiving Week Since 2008",
-          "src": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHJ6N2NBdi02cGhvbXQ5bUVWMElNNE81ek5jT3Jmdk5QX2l1d283UUdJZFpnTHZQVnZfMlBTZ1dVeXRMc2VTMHRidEphdzF1UHFJVzdyM3BlXzRteGNwY3dNZkpwVzlzMmdqQWc1ZDNBVjdFZThxNVFtVEQydU93VzBIYWptMlJseGduR3d6ZklFU1J1bVhENUl1YkF6ZG01Q280bDBWNjFubWYtRjB0ZmZsb1JvU005d0FfRQ?oc=5",
-          "time": "11/26 21:02"
+          "t": "European stock market open: Stocks surge after stunning Wall Street turnaround",
+          "src": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFR4bjJLczRydHVCVUpyZUh0VzNnSzBHbW5VWkRIS0wxMTU0NU82d2I4RGdoaDd6UTA5bWQ2UGxLaWU0cXJQZGRhcnR1akdUTnIyREZhbWZUSFh6Y0hsdWhuMzg4UExEdTM3YUhUd2xKLTVIT3lKazRFRWdhajAxWm1kYVBfQllPNVd3bTVlR0g0M1lHT25NZXFVZkFWS2N2OHAtWFFzRkgxMkFNT3lLXw?oc=5",
+          "time": "11/26 17:30"
         }
       ],
       "indices": [
