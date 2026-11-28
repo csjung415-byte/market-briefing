@@ -1,47 +1,39 @@
 {
-  "updated": "2026-11-27T21:29:57Z",
+  "updated": "2026-11-28T03:45:14Z",
   "markets": {
     "kr": {
       "news": [
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "\"눈물 쏟고 고개 숙이고\"…코스피 반토막에 전문가들도 '충격'",
+          "t": "코스피 5000선 뚫을까…증안펀드·젠슨 황에 쏠린 눈[다음주 주요변수 미리보기]",
           "src": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rVFBzQ2NXOWRKdEM0Z281Rm9PQk5mRVN4dmZMN1dVemFUbFpQaWI1OUpYYnI4ZTZNeFZpckxBdzFicFRhdWhaQV9FTEl2bjZKMGVlbk5COThldw?oc=5",
-          "time": "11/27 18:17"
-        },
-        {
-          "cat": "sector",
-          "catn": "업종",
-          "t": "내 계좌엔 얼마 들어올까? 역대급 배당금 쏘는 삼성전자",
-          "src": "네이버페이 머니스토리",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXRlBHOHpxOTVUYk5waVAxTkNRTHQ0UmxQVlJybXdnUU5HU0tQVWo5QWFTd0Nna3V1QUR2SnJRV2tHVUFkSlA4aS1taWRqVG0wdEE?oc=5",
-          "time": "11/28 03:55"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "코스피 4.34%·코스닥 8.13% 급등…외국인·기관 매수세 폭발",
-          "src": "산경투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lVGd3NUF4RTNWcHptRm5aVkUyWnExRDAyaFlRQWk1SDQyNzMzNWZLTGNzaWhQT3g5RVRjSlFibG04aHJkclJma3pORkJncURmaXNoaU9qWm1ldngtb3NmaS1oLWNhVk1Kd1VkcnFzR3XSAXRBVV95cUxQdEdFeHRhVm13cTJfZ1V4VmtYQlBzbGU3blp3MGxxYUhNaGtUdTVGb1I5eGFxSGVySXprczZMY0UzeVItellhTUxRWEhiRnR2SUcwSDZwRUxybVRveE9nOHRaYTNsQlV5S1ZaQXcyN1BjRDVCRQ?oc=5",
-          "time": "11/27 16:54"
-        },
-        {
-          "cat": "flow",
-          "catn": "수급",
-          "t": "외국인 '사자'에 코스피·코스닥 일제히 급등‥증시 안정 대책 기대감 등 영향",
-          "src": "MBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUVGFsb0w0c1NoVkRMY2RmMGc1S1pYRF81alZvLW5teW1UU2wzb0hEVHcyYkRfVGNKSzZtQVZCVGwwUXFhUl9sUXlldndOaTZidGFuUXFkT19fNVIxSEtnR1JaVEI0cEpENFlMNE9mbGwySjF10gF0QVVfeXFMUEhxa3k5b1dhejMyVFoyaWJCRmczMkt3czE1UDRlMW1Oc1d3eTdsLXdYalZ2bXRZOGM0bDRqa1RqQzdjX2tHSGs0Y1ZXZHFEVU5hSXh0em1KN0R6dnlnQnBpTnZCZjZ6UTFrVTZkZ0FhYWtuMjI?oc=5",
-          "time": "11/27 13:46"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82a0RFYUxkVWIzbThES1hQMm9VZS1MTDhYOTlmYmJqUi1SdVpqakNxYU9CWVJyQ21FYzRVRW5YN3p3OVhva1g1MTR6aGtJT2xZaXJvSEZzcS1wZw?oc=5",
+          "time": "11/28 12:00"
         },
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "주식 전문가 방송에서 눈물...오늘은 깜짝 반등 [앵커리포트]",
-          "src": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4Sm0yRFJRaXVzX0cyTURfbWhUdjBHd2w1TC1EbmpKaVh0WVJ5RVdwUWJWdFpxOEVhT3BlWmlKa3kyQ1k2OEJSaGstVG0tTXZpaEtVbEtsY0phUDFRYUFpOUQxMm1MOWdaZXZqUno4aE1yY0pPWXc?oc=5",
-          "time": "11/27 20:45"
+          "t": "4,900선 탈환 코스피, 오를 일만 남았다는데… 이유는?",
+          "src": "네이버페이 머니스토리",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vazQ4V2tCNTVZYUlESHk3UXVUOVo1Nmk4a1QxZ2liRU4tdVcxTEZNeDhPX19IX3R2T0tldUtPYTZtc25kcXRlRlBLYkIwR2tsbmQwVVIwU2k?oc=5",
+          "time": "11/28 10:13"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "하루 6%씩 출렁인 코스피, 한 주 성적은 0.94%",
+          "src": "ISSUE ON (이슈온)",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3bVFIdVl5a214N3JTYXh3ZkNLak1uMEpEcUJKS0owbUlvaHZwRGdsS0IxNHR6SFF5VWFRQVlmY0JUVENkT1ItNmRPanRnX2dNS0RMTXlTMFRDZUdTdTUxN3FlTTJQQzVUOC1v?oc=5",
+          "time": "11/28 11:36"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“나만 주식으로 돈 못 벌었나” 이런 사람 많은데…국내 투자자 69%가 손실권",
+          "src": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EaExYd3VCVy1Ka1Y3YUhfUDFOaUFnU1VhZmE5Rm1qQ2ppR29ZRFN3UjZ2VHFtSU9WaWVZTG8yckp6VGtsak5rZWt0QWJXRERUY2fSAVNBVV95cUxPVkRMLW93bmF5NHJZdFNtM2Y4QVV4NkhHWl9nSkJtWmdERDJQMHlBcnZGdk01dDlwMHppbWttWmtQWGwxWm9JT3pVVHBTdFpkVXFnOA?oc=5",
+          "time": "11/28 11:23"
         },
         {
           "cat": "macro",
@@ -50,46 +42,62 @@
           "src": "파이낸셜뉴스",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zd013N0hTMlFsaWZFUTFabEk1ZnFiQ01aMzk3WHJLUzBGNHRnRll2S3Q4cHFDNk5RMWk3TFJMelNQRThTN21OTkVpaVpocS14V1M0V0poNE5sQQ?oc=5",
           "time": "11/28 06:20"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "“주식으로 돈 벌 줄 알았는데”…투자자 10명 중 7명 손실, 부동산으로 눈 돌렸다",
+          "src": "데일리25",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NS0FJYVVNdXp4R2drLXQ5aTRySmhZeDRTZEVfS1EySlhPU3lBNGhnSFU4eGxpX1Aya3ZVOUVtQ3poelpycG1RMFBDU3l1dGJJX1ZoQmN5SU8tVTFXWnJzRGdNSWI3R3I0TW9PTg?oc=5",
+          "time": "11/28 12:21"
         }
       ],
       "indices": [
         {
           "name": "코스피",
           "code": "KOSPI",
-          "value": 4711.21,
-          "pct": 0.29
+          "value": 4915.68,
+          "pct": 4.34
         },
         {
           "name": "코스닥",
           "code": "KOSDAQ",
-          "value": 655.71,
-          "pct": 0.78
+          "value": 708.99,
+          "pct": 8.13
         },
         {
           "name": "원/달러",
           "code": "USD/KRW",
-          "value": 1333.6,
-          "pct": -0.7
+          "value": 1333.9,
+          "pct": -0.72
         }
       ]
     },
     "us": {
       "news": [
         {
-          "cat": "earn",
-          "catn": "빅테크",
-          "t": "Wall Street ends higher as battered AI stocks gain in volatile week",
-          "src": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-          "time": "11/28 03:02"
+          "cat": "macro",
+          "catn": "연준",
+          "t": "Wall St Week Ahead Volatile stock market confronts jobs data, rate view as next tests",
+          "src": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5",
+          "time": "11/27 20:02"
         },
         {
           "cat": "macro",
-          "catn": "연준",
-          "t": "Wall St Week Ahead Sliding stock market confronts jobs data, rate view as next tests",
-          "src": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5",
-          "time": "11/27 22:59"
+          "catn": "시황",
+          "t": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+          "src": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORklZSzRQTEViM1gtRnQ5TVNuOWgtMjJVY1A2elhaYzQyajZ4V3hWWWlXbHFvN1pnRmM3TXVYempobkdjcGJRQi1lb2FudDFfNEpvRDRXRnJQWkR2UGk1MFZrRFI2Qi13SE9ZWE9KNU82azFRLXFpS0hFOE1xX01FRzdKSDJCNV9RcHNuM2tWQk0wQU5LdU1jU280YU5RSXVPUUNPRDFqcU3SAa4BQVVfeXFMTi0tWjBERU54S2Z2RmQ0VmNzdFNfNzlfNWNKV200RkFFVnlOaHFLQ3JTU0NidnJIM2VoNTJXZHQzcW9udU1KdEhBRkpESnRhTmtfd3lScXg3V0tCLUpZTTdLQkdKdzJCTjN3U0RCZnNBSUhhQmtwTG9mNTBCaktqcmxFVmpFOExwNUllQlgyTVhiVDdOUXNfWTBSTDBWWFBkZ1VLM1pBdkNmcmkzanhR?oc=5",
+          "time": "11/28 11:00"
+        },
+        {
+          "cat": "macro",
+          "catn": "시황",
+          "t": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now",
+          "src": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzh5NUptNDliZ294VXBOai1hYjFialZTSEdkTnFfRjYwU0VaX1AzaUZ4b3UyWnhGRUd3c0RETFBncFF5UDhZWmZ5WVJadWRUaHJub2hQMklpOU5KY3VzUmJkUG9CZTlPXzhkdUZtS3pwR0RpUmJnUEJGNUlsSFd2NC1jcGJ1b0VlOWhZWUlyT2NzMFhsclhPVzB4SmFnc19CeDV1RGs4bkRyLW5kM2VBbTIzOVZjOXhacXIw?oc=5",
+          "time": "11/28 10:55"
         },
         {
           "cat": "earn",
@@ -102,18 +110,10 @@
         {
           "cat": "macro",
           "catn": "시황",
-          "t": "Stocks jump to end an erratic week that was Wall Street's best in over a year",
-          "src": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3E4aUlpQUpxRndOLVBSZlJZZWdtdENuYjVEQkdOWjV2dEdmeUs2TmptUk94ZG4tcmQ0TnhZQS1pOFhJUHVsLWlDcnExLW9rRGZFSHc1YkV4Rml5UWZjTFRRakhGbkM1UEtVTlVCbXJGZGtmX0IydGh4UlJvUzdnTUNLQlVYZlJMRnk0Z1EzcGlPR3ZTcTZlQ0tIRnN1MHl0WVllOXd0T08wNTA4MkdpNzhoSQ?oc=5",
-          "time": "11/28 03:59"
-        },
-        {
-          "cat": "macro",
-          "catn": "시황",
-          "t": "Wall Street Just Had Its Best Week in Over a Year",
-          "src": "Newser",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFFRelFheHQ4SFZXT21HY2hxU3RrMy1Zdm9FYm5vRk9uSUw3dUp6cXB2SE1UUEUtT0JZNGJIbnhVQ0YwMUNHYm9QT21lYmlaTXlGUktsTWFsaFNEUDRRNmk1LWdTWmM4SE14RnRmemI3YzVPVEVKeTZxcm4zWmV2VXdCN0xJQVJaUWRMc2NVNU1Jc0g3?oc=5",
-          "time": "11/28 04:30"
+          "t": "Stocks jump to close out an erratic week that was also Wall Street’s best in more than a year",
+          "src": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5md21JOTlHNDZ6WUFrajhjRjNycUlMVjc1QllwWG00SGw0NHlMUlVGbnRPSkRieEJBTDF5SkpmcFNVSV95aDBaY2ZQSmhjdGZZMG9odkRiY2dhaC1YbkJlTGNXaUhBTldpNGFUSF9EUlZJamxrVjBGY2pKMGQ?oc=5",
+          "time": "11/28 00:54"
         },
         {
           "cat": "macro",
